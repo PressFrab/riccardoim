@@ -49,27 +49,26 @@ Oppure mi trovi sui principali social network, ad eccezione di Facebook, e al nu
         </div>
         <div class="col-md-8 col-sm-10 no-padding">
 <form name="formcontatti" method="post" data-netlify="true" autocomplete="off" action="/conferma">
-  <p class="hidden">
+  <div class="hidden">
     <label>NON riempire questo spazio se SEI UMANO: <input name="bot-field" /></label>
-  </p>
+  </div>
 					<div>
 						<label for="name">Il tuo nome</label>
-						<input type="text" name="nome">
+						<input type="text" name="nome" id="name">
 					</div>
 					<div>
 						<label for="email">Il tuo indirizzo email</label>
-						<input type="email" name="email">
+						<input type="email" name="email" id="email">
 					</div>
 					<div>
 						<label for="message">Messaggio</label>
-						<textarea name="messaggio"></textarea>
+						<textarea name="messaggio" id="message"></textarea>
 					</div>
-					<div>
-						<button type="submit" style="width:100%">INVIA
-					</div>
+					<button type="submit" style="width:100%">INVIA</button>
 				</form>
         </div>
-    </div>
+        
+   </div>
 
 <!-- Fine Form Contatti-->
                     
