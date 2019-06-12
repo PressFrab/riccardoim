@@ -928,6 +928,7 @@
     <!-- main-scroll -->
 </main> <!-- main -->
 {{ partial "aside.html" . }}
+</div> <!-- atail -->
 
 <script src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
 <script src="{{.Site.BaseURL}}js/lazysizes.min.js" async=""></script>
@@ -941,13 +942,6 @@
         });
 </script>
 <script>
-var video_wrapper = $('.videoWrapper');
-if(video_wrapper.length){
-$('.play-youtube-video').on('click', function(){
-video_wrapper.html('<iframe allowfullscreen frameborder="0" class="embed-responsive-item" src="' + video_wrapper.data('yt-url') + '"></iframe>');
-});
-}
-
 const cl = cloudinary.Cloudinary.new({ cloud_name: 'riccardoim' })
 cl.responsive()
 </script>
@@ -955,3 +949,12 @@ cl.responsive()
 <script id="dsq-count-scr" src="//riccardo-im.disqus.com/count.js" async=""></script>
 <script async src="https://apis.google.com/js/platform.js"></script>
 {{ partial "footer.html" . }}
+
+<script>
+var video_wrapper = $('.videoWrapper');
+if(video_wrapper.length){
+$('.play-youtube-video').on('click', function(){
+video_wrapper.html('<iframe allowfullscreen frameborder="0" class="embed-responsive-item" src="' + video_wrapper.data('yt-url') + '"></iframe>');
+});
+}
+</script>
