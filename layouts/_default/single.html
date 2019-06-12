@@ -3,10 +3,7 @@
     {{ .Content }}
 </main> <!-- main -->
 {{ partial "aside.html" . }}
-{{ partial "footer.html" . }}
-<script type='text/javascript' src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
-
-
+<script src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
 <script>
 var video_wrapper = $('.videoWrapper');
 if(video_wrapper.length){
@@ -18,3 +15,4 @@ video_wrapper.html('<iframe allowfullscreen frameborder="0" class="embed-respons
 const cl = cloudinary.Cloudinary.new({ cloud_name: 'riccardoim' })
 cl.responsive()
 </script>
+{{ partial "footer.html" . }}
