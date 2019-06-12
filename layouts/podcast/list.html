@@ -78,8 +78,7 @@
     <!-- main-scroll -->
 </main> <!-- main -->
 {{ partial "aside.html" . }}
-{{ partial "footer.html" . }}
-<script type='text/javascript' src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
+<script src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
 <script src="{{.Site.BaseURL}}js/lazysizes.min.js" async=""></script>
 
 
@@ -87,3 +86,4 @@
 const cl = cloudinary.Cloudinary.new({ cloud_name: 'riccardoim' })
 cl.responsive()
 </script>
+{{ partial "footer.html" . }}
