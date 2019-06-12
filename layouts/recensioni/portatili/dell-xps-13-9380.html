@@ -948,13 +948,4 @@ cl.responsive()
 <script src='{{.Site.BaseURL}}js/lightbox.js' async=""></script>
 <script id="dsq-count-scr" src="//riccardo-im.disqus.com/count.js" async=""></script>
 <script async src="https://apis.google.com/js/platform.js"></script>
-{{ partial "footer.html" . }}
-
-<script>
-var video_wrapper = $('.videoWrapper');
-if(video_wrapper.length){
-$('.play-youtube-video').on('click', function(){
-video_wrapper.html('<iframe allowfullscreen frameborder="0" class="embed-responsive-item" src="' + video_wrapper.data('yt-url') + '"></iframe>');
-});
-}
-</script>
+{{ partial "footer-review.html" . }}
