@@ -58,9 +58,9 @@
                     <span class="atail-multitext-text">Online da<span>
                             {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
                         </span></span>
-                    <span class="atail-multitext-text">Discussione<span
-                            class="disqus-comment-count"
-                            data-disqus-url="{{.Permalink}}"></span></span>
+                    <span class="atail-multitext-text">Discussione
+                    <span><a href="#disqus_thread" title="Leggi i commenti"></a></span>
+                    </span>
                     <span class="atail-multitext-text">Tempo di lettura<span>Circa
                             19-26 minuti</span></span>
                 </div>
