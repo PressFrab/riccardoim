@@ -7,7 +7,7 @@
             <div class="col-md-1"></div>
             <div class="col-md-8 no-padding-left col-sm-8">
                 <div class="promo-box recensioni">
-                    <span class="small-title">
+                    <div class="small-title">
                         <!-- SHARE -->
                         <div class="jssocials-shares post-content-header">
                             <div class="jssocials-share">
@@ -45,7 +45,7 @@
                         </div>
                         <!-- FINE SHARE -->
 
-                    </span>
+                    </div>
                     <h1>{{.Title}}</h1>
                     <p>{{.Params.sommario}}
                         <span id="typed"></span>
@@ -61,7 +61,7 @@
                     <span class="atail-multitext-text">Discussione
                     <span><a href="#disqus_thread" title="Leggi i commenti"></a></span>
                     </span>
-                    <span class="atail-multitext-text">Tempo di lettura<span>Circa
+                    <span class="atail-multitext-text">Tempo di lettura <span>Circa
                             19-26 minuti</span></span>
                 </div>
             </div>
@@ -104,7 +104,7 @@
 
             <div class="col-md-4 col-md-push-2 no-padding-left">
                 <div class="atail-multitext">
-                    <span class="atail-multitext-title"><h3>SCHEDA TECNICA</h3></span>
+                    <h3 class="atail-multitext-title">SCHEDA TECNICA</h3>
                     <span class="atail-multitext-text">Schermo<span>13.3 pollici
                             1920 x 1080 px</span></span>
                     <span class="atail-multitext-text">Processore<span>Intel
@@ -413,7 +413,7 @@
         <div class="single-project row-col-12">
             <div class="col-md-3 col-md-push-2 no-padding-left">
                 <div class="atail-multitext benchmarks">
-                    <span class="atail-multitext-title"><h3>Benchmarks</h3></span>
+                    <h3 class="atail-multitext-title">Benchmarks</h3>
                     <span class="atail-multitext-text">3DMark Time Spy<span>487</span></span>
                     <span class="atail-multitext-text">PCMark 10 Extended<span>2997</span></span>
                     <span class="atail-multitext-text">Cinebench R15<span>OpenGL
@@ -763,7 +763,7 @@
             </div>
             <div class="col-md-3 col-md-push-2 no-padding-right">
                 <div class="atail-multitext autonomia">
-                    <span class="atail-multitext-title"><h3>ANALISI DISPLAY</h3></span>
+                    <h3 class="atail-multitext-title">ANALISI DISPLAY</h3>
                     <span class="atail-multitext-text">Pannello<span>AU
                             Optronics AUO5B2D</span></span>
                     <span class="atail-multitext-text">Luminosità massima<span>410
@@ -859,8 +859,7 @@
                     particolarità (quelle di cui ho discusso nella recensione più una: costa tanto: la versione
                     consigliata ha un listino di 1399 euro) ma è un portatile
                     maturo e riuscito.</p>
-                <p>
-                    <strong>Prezzi ufficiali a giugno 2019</strong>
+                <p><strong>Prezzi ufficiali a giugno 2019</strong></p>
                     <ul>
                         <li>
                             Full HD / Core i3 / 4 GB di RAM / 128 GB SSD a 1099
@@ -884,7 +883,7 @@
                         </li>
                     </ul>
 
-                </p>
+                
             </div>
 
             <div class="col-md-8 col-md-push-2 no-padding-left">
@@ -929,9 +928,8 @@
     <!-- main-scroll -->
 </main> <!-- main -->
 {{ partial "aside.html" . }}
-{{ partial "footer.html" . }}
-<script type='text/javascript'
-    src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
+
+<script src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
 <script src="{{.Site.BaseURL}}js/lazysizes.min.js" async=""></script>
 <script src="{{.Site.BaseURL}}js/typed.min.js"></script>
 <script>
@@ -953,7 +951,7 @@ video_wrapper.html('<iframe allowfullscreen frameborder="0" class="embed-respons
 const cl = cloudinary.Cloudinary.new({ cloud_name: 'riccardoim' })
 cl.responsive()
 </script>
-<script type='text/javascript' src='{{.Site.BaseURL}}js/lightbox.js' async=""></script>
+<script src='{{.Site.BaseURL}}js/lightbox.js' async=""></script>
 <script id="dsq-count-scr" src="//riccardo-im.disqus.com/count.js" async=""></script>
 <script async src="https://apis.google.com/js/platform.js"></script>
-
+{{ partial "footer.html" . }}
