@@ -1,5 +1,5 @@
 ---
-title: "Il nuovo sito è pronto: ecco quando sarà online."
+title: "Il nuovo sito è pronto: ecco quando sarà online"
 date: 2019-06-07T05:46:26+02:00
 numero: "30"
 slug: "il-mordente-30"

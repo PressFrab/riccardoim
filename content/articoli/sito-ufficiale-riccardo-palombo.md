@@ -10,7 +10,7 @@ categoria: "2"
 
 ---
 
-![alt text](../../img/articoli/riccardo-palombo-lancio-wide.png "Logo Title Text 1")
+![Riccardo Palombo Sito Ufficiale](../../img/articoli/riccardo-palombo-lancio-wide.png "Riccardo Palombo Sito Ufficiale")
 
 Non volevo aprire un nuovo sito ma sono stato un po' costretto e un po' trasportato. Costretto perché mi serviva un posto per pubblicare. Un posto mio, non di Zuckerberg né di altri (ho ragionato per giorni sull'idea di una newsletter, ma avrei perso il gusto della formattazione creativa). Trasportato perché lo stile delle tecnologie web di oggi, dal <abbr title="JavaScript, APIs, Markup">JAMstack</abbr> all'hosting su CDN, non si può proprio ignorare. O, almeno, io non riesco a lasciar perdere queste possibilità: gratuite, open-source, semplici, potenti, molto veloci. Chiunque al mio posto avrebbe fatto lo stesso.
 
