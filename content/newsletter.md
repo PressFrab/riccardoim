@@ -15,9 +15,9 @@ newsletter: current-menu-item
                     <span class="small-title">Niente spam, ci mancherebbe.</span>
                 </div>
             </div>
-            <div class="col-md-4 no-padding col-sm-6">
+            <div class="col-md-4 no-padding col-sm-6 newsletter">
             <img
-                    src="/img/recensioni/riccardo-im-logo.png" alt="Newsletter Riccardo Palombo" />
+                    src="/img/newsletter-riccardo-palombo.png" alt="Newsletter Riccardo Palombo" />
             </div>
 
 
@@ -35,10 +35,10 @@ newsletter: current-menu-item
         <div class="col-md-2 "></div>
 <div class="col-md-8 col-sm-10 no-padding">
 
- <form style="text-align:center" action="https://tinyletter.com/RiccardoIM" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/RiccardoP', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+ <form style="text-align:center" action="https://tinyletter.com/RiccardoIM" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/RiccardoIM', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
  
  <p><label for="tlemail">Inserisci il tuo indirizzo email</label></p>
- <div><input type="text" name="email" id="tlemail" /></div>
+ <div><input type="text" name="email" id="tlemail" placeholder="La tua email" /></div>
  
  <input type="hidden" value="1" name="embed"/>
  <input type="submit" style="width:100%" value="Iscriviti" />
