@@ -18,7 +18,7 @@
         {{ $ellipsed = true }}
     {{ end }}
     {{ if $showNumber }}
-    <span class="page-numbers{{ if eq . $pag }} current{{ end }}"><a class="page-numbers" href="{{ .URL }}">{{ .PageNumber }}</a></span>
+    <span class="page-numbers{{ if eq . $pag }} current{{ end }}"><a class="page-numbers" href="{{ .URL }}" title="Cambia pagina">{{ .PageNumber }}</a></span>
     {{ else if $shouldEllipse }}
     <span class="page-numbers"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></span>
     {{ end }}

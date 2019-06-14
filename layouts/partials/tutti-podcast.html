@@ -9,7 +9,9 @@
 
 <section class="simple-post">
 
-    {{ range .Pages }}
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "podcast") }}
+
+    {{ range $paginator.Pages }}
 
     <!-- Inizio Post -->
 
@@ -18,8 +20,7 @@
 
         <div class="col-md-2 col-md-push-2 no-padding blog-thumbnail col-sm-4">
             <a href="{{ .Permalink }}" title="Ascolta Il Mordente {{.Params.numero }}">
-                <img src="{{ .Site.BaseURL }}img/podcast/{{.Params.featured_image }}" alt="{{ .Title }}"
-                    class="lazyload" />
+                <img src="{{ .Site.BaseURL }}img/podcast/{{.Params.featured_image }}" alt="{{ .Title }}" />
             </a>
         </div>
 
@@ -39,6 +40,5 @@
 
     <!-- Fine Post -->
     {{ end }}
-
-
+    {{ partial "pagination.html" . }}
 </section>

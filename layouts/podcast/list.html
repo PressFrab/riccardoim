@@ -60,7 +60,6 @@
         </div>
         {{ partial "promo-recensioni.html" . }}
 
-
     </div> <!-- main-scroll -->
 
     <div class="grid-bg row">
@@ -75,8 +74,7 @@
 </main> <!-- main -->
 {{ partial "aside.html" . }}
 </div> <!-- atail -->
-<script src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
-<script src="{{.Site.BaseURL}}js/lazysizes.min.js" async=""></script>
+<script src="{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js"></script>
 <script>
 const cl = cloudinary.Cloudinary.new({ cloud_name: 'riccardoim' })
 cl.responsive()

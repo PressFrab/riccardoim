@@ -7,7 +7,7 @@ disqusShortname = "riccardo-im.disqus.com"
 enableRobotsTXT = true
 canonifyURLs = true
 disableAliases = true
-paginate = 99
+paginate = 8
 paginatePath = ""
 
 [params]
