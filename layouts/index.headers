@@ -11,6 +11,7 @@ Link: </fonts/hind-v9-latin-300.woff2>; rel="preload"; as="font";crossorigin
 Link: </fonts/hind-v9-latin-regular.woff2>; rel="preload"; as="font";crossorigin
 Link: </fonts/hind-v9-latin-regular.woff2>; rel="preload"; as="font";crossorigin
 Link: </js/main.min.js>; rel=preload; as=script
+Link: </js/quicklink.umd.js>; rel=preload; as=script
 Link: </css/main.css>; rel=preload; as=style
 Link: </css/setting.css>; rel=preload; as=style
 
@@ -33,6 +34,9 @@ Cache-Control: public, max-age=31556926, immutable
 Cache-Control: public, max-age=31556926, immutable
 
 /js/main.min.js
+Cache-Control: public, max-age=31556926
+
+/js/quicklink.umd.js
 Cache-Control: public, max-age=31556926
 
 /js/typed.min.js
