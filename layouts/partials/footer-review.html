@@ -10,6 +10,7 @@
 		
 		galite('create', 'UA-2482878-27', 'auto');
 		galite('send', 'pageview');
+		galite.anonymizeIp = true;
 </script>
 {{ if isset .Params "jquery" }}
 <script>
