@@ -20,7 +20,8 @@
 
         <div class="col-md-2 col-md-push-2 no-padding blog-thumbnail col-sm-4">
             <a href="{{ .Permalink }}" title="Ascolta Il Mordente {{.Params.numero }}">
-                <img src="{{ .Site.BaseURL }}img/podcast/{{.Params.featured_image }}" alt="{{ .Title }}" />
+                <img data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1560585790/podcast/il-mordente-{{.Params.numero }}.jpg" alt="{{ .Title }}" 
+                alt="{{ .Title }}" class="cld-responsive"/>
             </a>
         </div>
 

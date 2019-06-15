@@ -16,6 +16,9 @@
     <meta name="msapplication-TileColor" content="#565656">
     <meta name="theme-color" content="#ffffff">
     <link rel="dns-prefetch" href="https://res.cloudinary.com">
+    {{ if .IsHome }}
+    <link rel="prerender" href="{{.Site.BaseURL}}recensioni/dell-xps-13-9380/">
+    {{ end }}
 </head>
 
 <body>

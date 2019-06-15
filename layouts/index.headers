@@ -26,9 +26,6 @@ Cache-Control: public, max-age=31556926, immutable
 /fonts/hind-v9-latin-regular.woff2
 Cache-Control: public, max-age=31556926, immutable
 
-/js/jquery-slim.min.js
-Cache-Control: public, max-age=31556926, immutable
-
 /js/jquery.min.js
 Cache-Control: public, max-age=31556926, immutable
 
