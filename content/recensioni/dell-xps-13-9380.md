@@ -13,4 +13,5 @@ typed1: "^2000 risolve il problema webcam."
 typed2: "migliora le prestazioni."
 typed3: "continua a supportare Linux."
 typed4: "aumenta il prezzo di listino."
+jquery: "1"
 ---

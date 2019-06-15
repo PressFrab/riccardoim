@@ -3,6 +3,7 @@ title: "Contatti e informazioni su Riccardo Palombo"
 date: 2019-05-06T18:41:00+02:00
 description: "Contatti Riccardo Palombo. Informazioni di contatto per inviare email o messaggi a Riccardo Palombo."
 contatti: current-menu-item
+jquery: "1"
 ---
 
 <div class="main-scroll">
