@@ -56,3 +56,15 @@ Cache-Control: public, max-age=31556926
 
 /css/setting.css
 Cache-Control: public, max-age=31556926
+
+/css/lightbox.css
+Cache-Control: public, max-age=31556926, immutable
+
+/img/*.png
+Cache-Control: public, max-age=31556926, immutable
+
+/img/*.svg
+Cache-Control: public, max-age=31556926, immutable
+
+/img/*.gif
+Cache-Control: public, max-age=31556926, immutable

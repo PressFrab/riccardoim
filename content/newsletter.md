@@ -17,7 +17,7 @@ newsletter: current-menu-item
             </div>
             <div class="col-md-4 no-padding col-sm-6 newsletter">
             <img
-                    src="/img/newsletter-riccardo-palombo.png" alt="Newsletter Riccardo Palombo" />
+                    src="/img/newsletter-riccardo-palombo.png" height="200" width="200" alt="Newsletter Riccardo Palombo" />
             </div>
 
 
