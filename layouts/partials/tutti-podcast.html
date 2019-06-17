@@ -9,9 +9,8 @@
 
 <section class="simple-post">
 
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "podcast") }}
+    {{ range .Paginator.Pages }}
 
-    {{ range $paginator.Pages }}
 
     <!-- Inizio Post -->
 
@@ -41,5 +40,5 @@
 
     <!-- Fine Post -->
     {{ end }}
-    {{ partial "pagination.html" . }}
+{{ template "partials/pagination.html" . }}
 </section>
