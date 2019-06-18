@@ -8,30 +8,67 @@
                 <div class="col-md-10 col-xs-8 no-padding">
                     <div class="all-atail-projects row-col-10">
 
-                        {{ $pages := (where (where .Site.Pages "Type" "!=" "podcast") ".Params.categoria" "!=" nil) }}
-                        {{ range $pages }}
-
-                        <div class="row-col-10 all-atail-projects-single" data-categories="cat-{{ .Params.categoria }}">
+                       <div class="row-col-10 all-atail-projects-single" data-categories="cat-3">
                             <div class="col-md-4 col-md-push-2 no-padding all-atail-projects-article col-xs-10 col-sm-6">
                                 <article>
                                     <h1>
-                                        <a href="{{ .Permalink }}" title="Leggi {{ .Title }}">
-                                            {{ .Title }}
+                                        <a href="/podcast/il-mordente-31/" title="Ascolta Volontà, realtà, triple boot e blockchain">
+                                            EP31 - Il Mordente
                                         </a>
                                     </h1>
-                                    <a class="open-full-post" data-post="post-70"
-                                       href="{{ .Permalink }}" title="Leggi {{ .Title }}">
+                                    <a class="open-full-post" 
+                                       href="/podcast/il-mordente-31/" title="Ascolta Volontà, realtà, triple boot e blockchain">
                                         <span>Leggi tutto</span>
                                     </a>
                                 </article>
                             </div>
                             <div class="col-md-4 no-padding all-atail-projects-img col-xs-10 col-sm-4">
-                                <img width="500" height="350"
-                                     src="{{ .Site.BaseURL }}img/recensioni/{{ .Params.immagine_testa }}"
-                                     alt="{{ .Title }}"/>
+                                    <img 
+                                     data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_auto,f_auto/v1560848895/recensioni/podcast-il-mordente.png"
+                                     alt="Il Mordente Podcast 31" class="cld-responsive"/>
                             </div>
                         </div>
-    {{ end }}
+
+                        <div class="row-col-10 all-atail-projects-single" data-categories="cat-1">
+                            <div class="col-md-4 col-md-push-2 no-padding all-atail-projects-article col-xs-10 col-sm-6">
+                                <article>
+                                    <h1>
+                                        <a href="/recensioni/dell-xps-13-9380/" title="Leggi la recensione a Dell XPS 13 9380">
+                                            Dell XPS 13 9380
+                                        </a>
+                                    </h1>
+                                    <a class="open-full-post" 
+                                       href="/recensioni/dell-xps-13-9380/" title="Leggi la recensione a Dell XPS 13 9380">
+                                        <span>Leggi tutto</span>
+                                    </a>
+                                </article>
+                            </div>
+                            <div class="col-md-4 no-padding all-atail-projects-img col-xs-10 col-sm-4">
+                                <img data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_auto,f_auto/v1560848895/recensioni/dell-xps-13-9380.jpg"
+                                     alt="Dell XPS 13 9380" class="cld-responsive"/>
+                            </div>
+                        </div>
+    
+
+                        <div class="row-col-10 all-atail-projects-single" data-categories="cat-2">
+                            <div class="col-md-4 col-md-push-2 no-padding all-atail-projects-article col-xs-10 col-sm-6">
+                                <article>
+                                    <h1>
+                                        <a href="/articoli/nuovo-sito-riccardo-palombo/" title="Leggi l'articolo Riparto dal blog">
+                                            Riparto dal blog
+                                        </a>
+                                    </h1>
+                                    <a class="open-full-post" 
+                                       href="/articoli/nuovo-sito-riccardo-palombo/" title="Leggi l'articolo Riparto dal blog">
+                                        <span>Leggi tutto</span>
+                                    </a>
+                                </article>
+                            </div>
+                            <div class="col-md-4 no-padding all-atail-projects-img col-xs-10 col-sm-4">
+                                <img data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_auto,f_auto/v1560848895/recensioni/riccardo-im-logo.png"
+                                     alt="Riparto dal blog" class="cld-responsive"/>
+                            </div>
+                        </div>
 
                     </div>
                 </div>
@@ -46,12 +83,13 @@
                                 <li>
                                     <a href="#" data-action="show-category" data-category="cat-1">Recensioni</a>
                                 </li>
-                                <li>
-                                    <a href="#" data-action="show-category" data-category="cat-2">Articoli</a>
-                                </li>
                                  <li>
-                                    <a href="/podcast/" data-category="cat-2">Podcast</a>
+                                    <a href="#" data-action="show-category" data-category="cat-3">Podcast</a>
                                 </li>
+                                <li>
+                                    <a href="#" data-action="show-category" data-category="cat-2">Blog</a>
+                                </li>
+
 
                             </ul>
                         </div>
@@ -73,4 +111,9 @@
 </main> <!-- main -->
 {{ partial "aside.html" . }}
 </div> <!-- atail -->
+<script src="{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js"></script>
+<script>
+const cl = cloudinary.Cloudinary.new({ cloud_name: 'riccardoim' })
+cl.responsive()
+</script>
 {{ partial "footer.html" . }}
