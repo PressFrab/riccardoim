@@ -4,7 +4,7 @@ date: 2019-02-03T22:04:14+01:00
 slug: "il-mordente-10"
 numero: "10"
 description: "La decima puntata del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-10.jpg"
+featured_image: "v1560585790/podcast/il-mordente-10.jpg"
 caption: "Cheval de profil à gauche et deux femmes retenant un cheval, di Edgar Degas."
 scarica: "https://mcdn.podbean.com/mf/web/rcsz7u/il_mordente_10.mp3"
 podcast: current-menu-item

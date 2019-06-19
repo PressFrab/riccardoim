@@ -4,7 +4,7 @@ date: 2019-05-28T05:46:26+02:00
 numero: "29"
 slug: "il-mordente-29"
 description: "Puntata 29 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-29.jpg"
+featured_image: "v1560585790/podcast/il-mordente-29.jpg"
 caption: "La nuova tastiera di XPS 13 2-in-1 usa la tecnologia a levitazione magnetica MagLev di seconda generazione. La prima (generazione) non era un granché."
 scarica: "https://www.spreaker.com/user/10943503/il-mordente-29"
 podcast: current-menu-item

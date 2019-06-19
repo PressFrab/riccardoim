@@ -4,7 +4,7 @@ slug: "il-mordente-2"
 numero: "2"
 date: 2018-12-09T20:40:43+01:00
 description: "Seconda puntata del podcast Il Mordente. Ma quanti messaggi avete inviato?"
-featured_image: "il-mordente-2.jpg"
+featured_image: "v1560585790/podcast/il-mordente-2.jpg"
 scarica: "https://mcdn.podbean.com/mf/download/s2pc4j/il-mordente-2.mp3"
 caption: "Le avventure del barone di Munchhausen. Illustrazioni di Beppe Madaudo."
 podcast: current-menu-item

@@ -4,7 +4,7 @@ date: 2019-01-13T08:25:12+01:00
 slug: "il-mordente-7"
 numero: "7"
 description: "La settima puntata del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-7.jpg"
+featured_image: "v1560585790/podcast/il-mordente-7.jpg"
 caption: "Rdx sotto carico in proiezione laterale della mia caviglia sinistra. Tendinite fuck you!"
 scarica: "https://ilmordente.podbean.com/mf/play/bqgiju/il_mordente_07.mp3"
 podcast: current-menu-item

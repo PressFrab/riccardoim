@@ -4,7 +4,7 @@ date: 2019-06-07T05:46:26+02:00
 numero: "30"
 slug: "il-mordente-30"
 description: "Puntata 30 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-30.jpg"
+featured_image: "v1560585790/podcast/il-mordente-30.jpg"
 caption: "\"Tentare è il primo passo verso il fallimento\" - Homer Simpson. L'illustrazione è un omaggio di Felix Petruska."
 scarica: "https://api.spreaker.com/v2/episodes/18194555/download.mp3"
 podcast: current-menu-item

@@ -4,7 +4,7 @@ date: 2019-01-27T20:52:12+01:00
 slug: "il-mordente-9"
 numero: "9"
 description: "La nona puntata del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-9.jpg"
+featured_image: "v1560585790/podcast/il-mordente-9.jpg"
 caption: "Il passo di Dante con protagonista Minosse è un esempio di bello stile. Tutto merito di quella virgola."
 scarica: "https://ilmordente.podbean.com/mf/play/vsvf58/il_mordente_09.mp3"
 podcast: current-menu-item

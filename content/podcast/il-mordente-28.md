@@ -4,7 +4,7 @@ date: 2019-05-22T05:48:01+02:00
 numero: "28"
 slug: "il-mordente-28"
 description: "Puntata 28 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-28.jpg"
+featured_image: "v1560585790/podcast/il-mordente-28.jpg"
 caption: "Uno dei \"Libri illeggibili\" di Bruno Munari. Il libro come oggetto, indipendentemente dalle parole stampate, può comunicare qualcosa? Certo, ma diventa un'altra cosa - secondo me."
 scarica: "https://api.spreaker.com/v2/episodes/18035140/download.mp3"
 podcast: current-menu-item

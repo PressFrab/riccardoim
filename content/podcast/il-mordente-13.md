@@ -4,7 +4,7 @@ date: 2019-02-23T07:15:38+01:00
 slug: "il-mordente-13"
 numero: "13"
 description: "La tredicesima puntata del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-13.jpg"
+featured_image: "v1560585790/podcast/il-mordente-13.jpg"
 caption: "Johann Sebastian Bach, qui ritratto con occhiali a la Dylan di Blonde on Blonde."
 scarica: "https://ilmordente.podbean.com/mf/play/z3jc2p/il_mordente_13_01.mp3"
 podcast: current-menu-item

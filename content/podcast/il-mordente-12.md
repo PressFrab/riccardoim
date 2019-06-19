@@ -4,7 +4,7 @@ date: 2019-02-18T05:56:23+01:00
 slug: "il-mordente-12"
 numero: "12"
 description: "La dodicesima puntata del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-12.jpg"
+featured_image: "v1560585790/podcast/il-mordente-12.jpg"
 caption: "Illustrazione di Matt Chinworth per Breathe Magazine. @chinworthillustration.com"
 scarica: "https://ilmordente.podbean.com/mf/play/3y7bd7/ilmordente-12.mp3"
 podcast: current-menu-item

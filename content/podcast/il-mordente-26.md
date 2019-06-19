@@ -4,7 +4,7 @@ date: 2019-05-09T20:56:11+02:00
 numero: "26"
 slug: "il-mordente-26"
 description: "Puntata 26 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-26.jpg"
+featured_image: "v1560585790/podcast/il-mordente-26.jpg"
 caption: "Disegno del panottico, prototipo di carcere progettato nel 1791 da Jeremy Bentham. Un unico sorvegliante osserva (opticon) tutti (pan) senza far capire chi e quando. Collegamento banale per parlare di privacy."
 scarica: "https://api.spreaker.com/v2/episodes/17881691/download.mp3"
 podcast: current-menu-item

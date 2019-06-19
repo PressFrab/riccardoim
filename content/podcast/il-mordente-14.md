@@ -4,7 +4,7 @@ date: 2019-03-03T20:39:48+01:00
 numero: "14"
 slug: "il-mordente-14"
 description: "La quattordicesima puntata del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-14.jpg"
+featured_image: "v1560585790/podcast/il-mordente-14.jpg"
 caption: "Aldo Fabrizi in «Roma città aperta» di Roberto Rossellini, 1945. Immagine colorata con un filtro web."
 scarica: "https://ilmordente.podbean.com/mf/play/d8jgyh/il_mordente_14.mp3"
 podcast: current-menu-item

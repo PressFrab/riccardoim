@@ -4,7 +4,7 @@ date: 2019-03-28T05:38:33+01:00
 numero: "19"
 slug: "il-mordente-19"
 description: "Puntata 19 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-19.jpg"
+featured_image: "v1560585790/podcast/il-mordente-19.jpg"
 caption: "Paul Gauguin andò in Polinesia per cambiar vita, e finì col crearne diverse. La tela sopra (1897-98, da lei il titolo della puntata) è considerata il suo testamento artistico e spirituale."
 scarica: "https://api.spreaker.com/v2/episodes/17456144/download.mp3"
 podcast: current-menu-item

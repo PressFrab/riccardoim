@@ -4,7 +4,7 @@ date: 2019-05-16T03:56:11+02:00
 numero: "27"
 slug: "il-mordente-27"
 description: "Puntata 27 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-27.jpg"
+featured_image: "v1560585790/podcast/il-mordente-27.jpg"
 caption: "Un'immagine dall'edizione \"solare\" del sito Low-Tech Magazine. L'autore usa diverse tecniche per alleggerire il carico sul server e risparmiare, così, energia. Il dithering diventa un effetto creativo."
 scarica: "https://api.spreaker.com/v2/episodes/17937305/download.mp3"
 podcast: current-menu-item

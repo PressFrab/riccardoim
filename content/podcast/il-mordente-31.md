@@ -4,7 +4,7 @@ date: 2019-06-14T05:46:26+02:00
 numero: "31"
 slug: "il-mordente-31"
 description: "Puntata 31 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-31.jpg"
+featured_image: "v1560585790/podcast/il-mordente-31.jpg"
 podcast: current-menu-item
 ---
 
@@ -27,9 +27,9 @@ Io salto senza dubbio l'aperitivo ma accetto volentieri un caffè se mi incontra
 Ultima cosa, ditemi: volontà o rappresentazione? Apparenza o realtà? Cielo o terra? Bart o Lisa? Ecco i consigli di questa settimana (che sono i soliti della scorsa, ma se ascoltate l'audio capite il perché).
 
 <ul>
-<li><a class="text-info" href="https://amzn.to/2KvGqdX" target="_blank" rel="nofollow" title="Vedi il libro I Simpson e la filosofia">I Simpson e la filosofia</a> di Irwin, Conard e Skoble.</li>
-<li><a class="text-info" href="https://amzn.to/2JFUeSJ" target="_blank" rel="nofollow" title="Vedi il libro L'universo elegante">L'universo elegante</a> di Brian Greene.</li>
-<li><a class="text-info" href="https://amzn.to/2Vnbz56" target="_blank" rel="nofollow" title="Vedi il libro Mastering Bitcoin">Mastering Bitcoin</a> in italiano.</li>
-<li><a class="text-info" href="https://amzn.to/2TVaMbA" target="_blank" title="Amazon Audible">Audible gratis</a> per 30 giorni.</li>
-<li><a class="text-info" href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" title="Kindle Unlimited 30 giorni">Kindle Unlimited</a> gratis per 30 giorni.</li>
+<li><a href="https://amzn.to/2KvGqdX" target="_blank" rel="nofollow" title="Vedi il libro I Simpson e la filosofia">I Simpson e la filosofia</a> di Irwin, Conard e Skoble.</li>
+<li><a href="https://amzn.to/2JFUeSJ" target="_blank" rel="nofollow" title="Vedi il libro L'universo elegante">L'universo elegante</a> di Brian Greene.</li>
+<li><a href="https://amzn.to/2Vnbz56" target="_blank" rel="nofollow" title="Vedi il libro Mastering Bitcoin">Mastering Bitcoin</a> in italiano.</li>
+<li><a href="https://amzn.to/2TVaMbA" target="_blank" rel="nofollow" title="Amazon Audible">Audible gratis</a> per 30 giorni.</li>
+<li><a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" rel="nofollow" title="Kindle Unlimited 30 giorni">Kindle Unlimited</a> gratis per 30 giorni.</li>
 </ul>

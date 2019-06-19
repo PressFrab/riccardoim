@@ -3,7 +3,7 @@ title: "Scrivere è arricchire chi ti leggerà"
 date: 2019-04-30T05:53:22+02:00
 numero: 24
 description: "Puntata 24 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "il-mordente-24.jpg"
+featured_image: "v1560585790/podcast/il-mordente-24.jpg"
 caption: "La Lancia Stratos di Sergio Munari, ex pilota di rally. Non c'entra nulla con il Bruno di cui si parla in questa puntata ma è un esempio di associazione di idee; e poi mi ricorda le ore passate su Sega Rally. @Copyright Bernhard Egger"
 podcast: current-menu-item
 ---

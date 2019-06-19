@@ -4,7 +4,7 @@ slug: "il-mordente-4"
 description: "La quarta puntata del podcast Il Mordente, registrato e curato da Riccardo Palombo."
 date: 2018-12-23T10:40:04+01:00
 numero: "4"
-featured_image: "il-mordente-4.jpg"
+featured_image: "v1560585790/podcast/il-mordente-4.jpg"
 caption: "TEFF Lexycon, da 4,996 dollari, è uno dei font più costosi di sempre."
 scarica: "https://ilmordente.podbean.com/mf/play/gpz52h/il_mordente_04.mp3"
 podcast: current-menu-item
