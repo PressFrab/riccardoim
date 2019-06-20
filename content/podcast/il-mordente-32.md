@@ -2,14 +2,13 @@
 title: "Serenata per storno in Sol maggiore"
 date: 2019-06-19T05:46:26+02:00
 numero: "32"
-draft: true
 slug: "il-mordente-32"
 description: "Ne Il Mordente 32 rispondo a tre domande: come scegliere un computer portatile? Come iniziare a fare attività fisica quando non c'è motivazione? Quale corso di programmazione web?"
 featured_image: "v1560935431/podcast/il-mordente-32.jpg"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/18261556" data-resource="episode_id=18261556" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Apparenza, realtà, triple boot e blockchain." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/18315399" data-resource="episode_id=18315399" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Serenata per storno in Sol maggiore" su Spreaker.</a>
 
 Il Mordente 32 è un episodio che mette il punto, che chiude un cerchio. Ho approfittato dei messaggi inviati dai nuovi ascoltatori (quelli arrivati dopo il lancio del sito - e la sua distribuzione su <a title="Canale Youtube Riccardo Palombo" href="https://www.youtube.com/riccardopalombo" rel="nofollow" target="_blank">Youtube</a>) per rispondere a tre domande ricorrenti: dove trovo la motivazione per riprendere a correre? Quali sono i criteri per scegliere un computer portatile che non mi faccia pentire della spesa? Qual è un corso di programmazione serio, strutturato, che mi aiuti a mettere online un sito e che mi dia le basi per studiare altro?
 
@@ -25,8 +24,6 @@ Come al solito potete mandare un messaggio vocale (o di testo, se siete ~~timidi
 <li><a href="https://amzn.to/2XZ099B" target="_blank" rel="nofollow" title="Vedi il libro Lo storno di Mozart e altri animali famosi">Lo storno di Mozart e altri animali famosi</a> di Elena Passarello.</li>
 <li><a href="https://amzn.to/2XfvO9Z" target="_blank" rel="nofollow" title="Vedi il libro Il potere delle abitudini">Il potere delle abitudini</a> di Charles Duhigg.</li>
 <li><a href="https://internetingishard.com/" target="_blank" rel="nofollow" title="Interneting Is Hard">Interneting Is Hard</a>: friendly web development tutorials for complete beginners.</li>
-
-
 <li><a href="https://amzn.to/2TVaMbA" target="_blank" rel="nofollow" title="Amazon Audible">Audible gratis</a> per 30 giorni.</li>
 <li><a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" rel="nofollow" title="Kindle Unlimited 30 giorni">Kindle Unlimited</a> gratis per 30 giorni.</li>
 </ul>
