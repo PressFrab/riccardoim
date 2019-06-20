@@ -1,6 +1,6 @@
 ---
 title: "Serenata per storno in Sol maggiore"
-date: 2019-06-19T05:46:26+02:00
+date: 2019-06-20T05:46:26+02:00
 numero: "32"
 slug: "il-mordente-32"
 description: "Ne Il Mordente 32 rispondo a tre domande: come scegliere un computer portatile? Come iniziare a fare attività fisica quando non c'è motivazione? Quale corso di programmazione web?"
