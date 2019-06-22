@@ -6,19 +6,20 @@
             <div class="col-md-1"></div>
             <div class="col-md-10 no-padding-left col-sm-6">
                 <div class="promo-box-blog">
-                    
+                <article>
                     <span class="small-title">
                         {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
                     </span>
                     <h1>{{ .Title }}</h1>
                     <!-- SHARE -->
-                    <div class="jssocials-shares post-content-header">
+            <aside>
+                <div class="jssocials-shares post-content-header">
                         <div class="jssocials-share">
                             <a target="_blank"
                                 href="https://facebook.com/sharer/sharer.php?u={{.Permalink}}"
                                 rel="noopener" class="jssocials-share-link" title="Condividi su Facebook">
                                 <img src="https://res.cloudinary.com/riccardoim/image/upload/f_auto/v1560760258/social.png"
-                                    class="jssocials-share-facebook" width="13" height="80.59" async
+                                    class="jssocials-share-facebook" width="13" height="100%"
                                     alt="Condividi su Facebook">
                             </a>
                         </div>
@@ -27,7 +28,7 @@
                             <a target="_blank"
                                 href="https://twitter.com/share?url={{.Permalink}}&amp;text={{.Title}}%20di%20%40riccardopalombo" rel="noopener" class="jssocials-share-link" title="Condividi su Twitter">
                                 <img src="https://res.cloudinary.com/riccardoim/image/upload/f_auto/v1560760258/social.png"
-                                    class="jssocials-share-twitter" width="13" height="80.59" async
+                                    class="jssocials-share-twitter" width="13" height="100%" 
                                     alt="Condividi su Twitter">
                             </a>
                         </div>
@@ -37,13 +38,16 @@
                                 href="https://reddit.com/submit?url={{.Permalink}}&amp;title={{.Title}}"
                                 class="jssocials-share-link" title="Condividi su Reddit">
                                 <img src="https://res.cloudinary.com/riccardoim/image/upload/f_auto/v1560760258/social.png"
-                                    class="jssocials-share-reddit" width="13" height="80.59" async
+                                    class="jssocials-share-reddit" width="13" height="100%" 
                                     alt="Condividi su Reddit">
                             </a>
                         </div>
-                    </div>
+                </div> 
+
+            </aside>
                     <!-- FINE SHARE -->
                 </div>
+            
 
             </div>
             <div class="col-md-4 no-padding-left col-sm-6">
@@ -61,29 +65,32 @@
                 <div class="row-col-8">
     
                     <div class="atail-post-content col-md-6 col-md-push-1 no-padding">
-                        <div class="post-content-text">
+                        <section class="post-content-text">
                             {{ .Content }}
                             
-                        </div>
+                        </section>
     
-    {{ partial "disqus-comments-podcast.html" . }}                
+            <section>
+                {{ partial "disqus-comments-podcast.html" . }}
+            </section>                
 
                     </div>
                 </div>
             </div>
-    
-    <div class="col-md-3 post-sidebar">
+    </article>    
+    <aside class="col-md-3 post-sidebar">
     
 {{ partial "sidebar-iscriviti.html" . }}
-{{ partial "sidebar-promo.html" . }} 
+{{ partial "sidebar-promo.html" . }}
 {{ partial "sidebar-ultimi.html" . }}
 {{ partial "sidebar-newsletter.html" . }}
 
 
-    </div>
+    </aside>
     
     <div class="col-md-12 atail-post-navigation no-padding">
         <div class="row-col-12">
+          
             <div class="col-xs-4 no-padding">
             {{if .PrevInSection}}
 
@@ -122,13 +129,14 @@
                 </a>
             </div>
             {{end}}
+        
         </div>
     </div>
-    
-    </div>
+
+</div>
 
 {{ partial "promo-recensioni.html" . }}
-    
+
     </div>
     <!-- main-scroll -->
     
@@ -136,7 +144,6 @@
 {{ partial "aside.html" . }}
 </div> <!-- atail -->
 <script src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
-
 <script>
 const cl = cloudinary.Cloudinary.new({ cloud_name: 'riccardoim' })
 cl.responsive()
