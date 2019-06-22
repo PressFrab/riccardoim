@@ -6,13 +6,13 @@
             <div class="col-md-1"></div>
             <div class="col-md-10 no-padding-left col-sm-6">
                 <div class="promo-box-blog">
-                <article>
+                
                     <span class="small-title">
                         {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
                     </span>
                     <h1>{{ .Title }}</h1>
                     <!-- SHARE -->
-            <aside>
+            
                 <div class="jssocials-shares post-content-header">
                         <div class="jssocials-share">
                             <a target="_blank"
@@ -41,7 +41,7 @@
                         </div>
                 </div> 
 
-            </aside>
+            
                     <!-- FINE SHARE -->
                 </div>
             
@@ -74,7 +74,7 @@
                     </div>
                 </div>
             </div>
-    </article>    
+       
     <aside class="col-md-3 post-sidebar">
     
 {{ partial "sidebar-iscriviti.html" . }}
