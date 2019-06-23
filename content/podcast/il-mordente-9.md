@@ -18,6 +18,7 @@ Potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**,
 
 Ecco i consigli di questa puntata:
 
+## Link utili
 <ul>
 <li><a class="text-info" href="https://amzn.to/2UrGjlx" target="_blank" rel="nofollow" title="Vedi il libro Come non scrivere">Come non scrivere</a> di Claudio Giunta.</li>
 <li><a class="text-info" href="https://amzn.to/2DDk46m" target="_blank" rel="nofollow" title="Vedi il libro Imparare a scrivere con i grandi">Imparare a scrivere con i grandi</a> di Guido Conti.</li>

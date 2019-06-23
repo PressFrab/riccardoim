@@ -18,6 +18,7 @@ Al solito: potete inviare messaggi vocali su Telegram o Whatsapp al numero **351
 
 Ecco i consigli di questa settimana:
 
+## Link utili
 <ul>
 <li><a class="text-info" href="https://amzn.to/2KvGqdX" target="_blank" rel="nofollow" title="Vedi il libro I Simpson e la filosofia">I Simpson e la filosofia</a> di Irwin, Conard e Skoble.</li>
 <li><a class="text-info" href="https://amzn.to/2EwSub5" target="_blank" rel="nofollow" title="Vedi il libro Breve storia di un raggio di sole">Breve storia di un raggio di sole</a> di Gianumberto Accinelli.</li>

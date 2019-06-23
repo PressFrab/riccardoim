@@ -17,6 +17,7 @@ Il Mordente n°15 è stato registrato a Roma domenica 10 marzo alle 16.18. È il
 Buon ascolto! Potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**, oppure usare il modulo contatti in homepage per scrivere una e-mail. Le puntate de "Il Mordente" sono disponibili anche su <a class="text-info" title="Canale Youtube Riccardo Palombo" href="https://www.youtube.com/riccardopalombo">Youtube</a>.
 
 Ecco i consigli di questa settimana:
+## Link utili
 <ul>
 <li><a class="text-info" href="https://amzn.to/2EZLfJ9" target="_blank" rel="nofollow" title="Tutti i libri di Jack London">Tutti i libri di Jack London</a>.</li>
 <li><a class="text-info" href="https://amzn.to/2EMOD94" target="_blank" rel="nofollow" title="Tutti i libri di Carlo Rovelli">Tutti i libri di Carlo Rovelli</a>.</li>

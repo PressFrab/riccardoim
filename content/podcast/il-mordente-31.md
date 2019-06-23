@@ -26,6 +26,7 @@ Io salto senza dubbio l'aperitivo ma accetto volentieri un caffè se mi incontra
 
 Ultima cosa, ditemi: volontà o rappresentazione? Apparenza o realtà? Cielo o terra? Bart o Lisa? Ecco i consigli di questa settimana (che sono i soliti della scorsa, ma se ascoltate l'audio capite il perché).
 
+## Link utili
 <ul>
 <li><a href="https://amzn.to/2KvGqdX" target="_blank" rel="nofollow" title="Vedi il libro I Simpson e la filosofia">I Simpson e la filosofia</a> di Irwin, Conard e Skoble.</li>
 <li><a href="https://amzn.to/2JFUeSJ" target="_blank" rel="nofollow" title="Vedi il libro L'universo elegante">L'universo elegante</a> di Brian Greene.</li>

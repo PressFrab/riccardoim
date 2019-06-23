@@ -21,6 +21,7 @@ Buon ascolto! E, coraggio: inviatemi messaggi vocali su Telegram, Whatsapp o Sig
 
 Libri consigliati in questa puntata:
 
+## Link utili
 <ul>
 <li><a class="text-info" href="https://amzn.to/2Gm6zeJ" target="_blank" rel="nofollow" title="Vedi il libro Se tremi sull'orlo su Amazon">Se tremi sull'orlo. Lettere a un cercatore di sé</a> di Henry David Thoreau.</li>
 <li><a class="text-info" href="https://amzn.to/2Gtg0JA" target="_blank" rel="nofollow" title="Vedi il libro Walden su Amazon">Walden. Vita nel bosco</a> di Henry David Thoreau.</li>

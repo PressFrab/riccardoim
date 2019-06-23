@@ -17,6 +17,7 @@ Il Mordente #07 è una puntata pensata in un modo e discussa in un altro. Tutto 
 
 Buon ascolto! Questo è il podcast più lungo pubblicato finora. Spero sia il pretesto per inviarmi messaggi vocali su Telegram o Whatsapp al numero **351 8516089**, oppure per scrivermi una e-mail dal modulo contatti in homepage. Ecco i consigli di questa puntata:
 
+## Link utili
 <ul>
 <li><a class="text-info" href="https://twobithistory.org/2018/12/18/rss.html" target="_blank" title="Vedi The Rise and Demise of RSS">The Rise and Demise of RSS</a> su Two-Bit History.</li>
 <li><a class="text-info" href="https://twobithistory.org/2018/11/12/cat.html" target="_blank" title="Vedi The Source History of Cat">The Source History of Cat</a> su Two-Bit History.</li>

@@ -17,6 +17,7 @@ Non è tutto, ci sono altre novità! La prima: in questo episodio ho detto solo 
 
 Ecco i link di questa puntata.
 
+## Link utili
 <ul>
 <li>Il libro <a class="text-info" href="https://amzn.to/2C463Nb" target="_blank" rel="nofollow" title="Vedi il libro iWoz su Amazon">iWoz: Computer Geek to Cult Icon</a> di Steve Wozniak.</li>
 <li>L'articolo <a class="text-info" href="https://www.hdblog.it/2019/01/02/libri-senza-copyright-2019/" target="_blank" title="Vedi l'articolo su HDblog.it">I nuovi classici della letteratura senza copyright</a> su HDblog.</li>

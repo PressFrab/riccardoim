@@ -18,6 +18,7 @@ Come al solito, potete inviare messaggi vocali su Telegram o Whatsapp al numero 
 
 Ecco i contenuti consigliati questa settimana:
 
+## Link utili
 <ul>
 <li><a class="text-info" href="https://amzn.to/2D9tyFR" target="_blank" rel="nofollow" title="Vedi il libro Serving the servant. Ricordando Kurt Cobain">Serving the servant. Ricordando Kurt Cobain</a> di Danny Goldberg.</li>
 <li><a class="text-info" href="https://amzn.to/2UtsHtv" target="_blank" rel="nofollow" title="Vedi il libro Lo schermo empatico. Cinema e neuroscienze">Lo schermo empatico. Cinema e neuroscienze</a> di Vittorio Gallese e Michele Guerra.</li>

@@ -17,6 +17,7 @@ podcast: current-menu-item
 Come al solito, potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**, oppure usare il modulo contatti in homepage per scrivere una e-mail. Le puntate de "Il Mordente" sono disponibili anche su <a class="text-info" title="Canale Youtube Riccardo Palombo" href="https://www.youtube.com/riccardopalombo">youtube.com/riccardopalombo</a>.
 
 A seguire gli articoli consigliati in questa puntata:
+## Link utili
 <ul>
 <li><a class="text-info" href="https://www.saggiamente.com/2019/03/il-consumatore-apple-prima-coccolato-poi-studiato-oggi-spennato/" target="_blank" title="Leggi l'articolo Il consumatore Apple: prima coccolato, poi studiato, oggi spennato">Il consumatore Apple: prima coccolato, poi studiato, oggi spennato</a> di Maurizio Natali.</li>
 <li><a class="text-info" href="https://www.macitynet.it/nuovi-ipad-dove-finito-il-less-is-more/" target="_blank" title="Leggi l'articolo Nuovi iPad, dov’è finito il “Less is more”">Nuovi iPad, dov’è finito il “Less is more”?</a> di Antonio Dini.</li>

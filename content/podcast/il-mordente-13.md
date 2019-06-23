@@ -17,6 +17,7 @@ podcast: current-menu-item
 Potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**, oppure usare il modulo contatti in homepage per scrivere una e-mail. Le puntate de "Il Mordente" sono disponibili anche su <a class="text-info" title="Canale Youtube Riccardo Palombo" href="https://www.youtube.com/riccardopalombo">youtube.com/riccardopalombo</a>.
 
 Ecco i libri consigliati questa settimana:
+## Link utili
 <ul>
 <li><a class="text-info" href="https://amzn.to/2TVaMbA" target="_blank" title="Amazon Audible">Audible gratis per 90 giorni</a>.</li>
 <li><a class="text-info" href="https://amzn.to/2BP7vU9" target="_blank" rel="nofollow" title="Vedi il libro di Fulvio Massini">Andiamo a correre</a> di Fulvio Massini.</li>

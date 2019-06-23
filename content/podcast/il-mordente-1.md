@@ -16,6 +16,7 @@ podcast: current-menu-item
 
 Ecco i libri consigliati in questa puntata:
 
+## Link utili
 <ul>
 <li><a class="text-info" href="https://amzn.to/2L3TfKU" target="_blank" rel="nofollow" title="Vedi il libro Creative Selection su Amazon">Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs</a> di Ken Kocienda.</li>
 <li><a class="text-info" href="https://amzn.to/2PloJfL" target="_blank" rel="nofollow" title="Vedi il libro The One Device su Amazon">The One Device: The Secret History of the iPhone</a> di Brian Merchant.</li>

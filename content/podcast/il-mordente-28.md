@@ -21,6 +21,7 @@ Come al solito, potete inviare messaggi vocali su Telegram o Whatsapp al numero 
 
 Ecco i consigli di questa settimana:
 
+## Link utili
 <ul>
 <li><a class="text-info" href="https://amzn.to/2VQIap0" target="_blank" rel="nofollow" title="Vedi il libro Il cervello musicale">Il cervello musicale</a> di Daniele Schön.</li>
 <li><a class="text-info" href="https://amzn.to/2TVaMbA" target="_blank" title="Amazon Audible">Prova Audible gratis</a>  per 30 giorni.</li>

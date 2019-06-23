@@ -16,6 +16,7 @@ Nell'ottava puntata de "Il Mordente" vaneggio su una targa intitolata a mio nome
 
 Come al solito, potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**, oppure scrivermi una e-mail dal modulo contatti in homepage. Le puntate de "Il Mordente" sono disponibili anche sul mio canale Youtube. Ecco i link utili di questa puntata:
 
+## Link utili
 <ul>
 <li>Il corso di programmazione <a class="text-info" href="https://learnjavascript.online/" target="_blank" title="Vedi LearnJavascript.online">LearnJavascript.online</a>.</li>
 <li>Il podcast <a class="text-info" href="https://www.everythingisalive.com/" target="_blank" title="Vedi Everything Is Alive">Everything Is Alive</a>.</li>

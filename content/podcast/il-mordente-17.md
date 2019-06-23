@@ -17,6 +17,7 @@ Per interagire con me potete inviare messaggi vocali su Telegram o Whatsapp al n
 
 Ecco i libri discussi questa settimana:
 
+## Link utili
 <ul>
 <li><a class="text-info" href="https://amzn.to/2CkuHtP" target="_blank" rel="nofollow" title="Vedi il libro In un batter d'occhi">In un batter d'occhi. Una prospettiva sul montaggio cinematografico nell'era digitale</a> di Walter Murch.</li>
 <li><a class="text-info" href="https://amzn.to/2UIjsT8" target="_blank" rel="nofollow" title="Vedi il libro Running Anatomy">Running Anatomy</a> di Joe Puleo e Patrick Milroy.</li>

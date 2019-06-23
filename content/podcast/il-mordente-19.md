@@ -18,6 +18,7 @@ Buon ascolto! Potete inviare messaggi vocali su Telegram o Whatsapp al numero **
 
 Ecco i contenuti discussi questa settimana:
 
+## Link utili
 <ul>
 <li><a class="text-info" href="https://techcrunch.com/2019/03/24/where-did-social-media-go-wrong/" target="_blank" rel="nofollow" title="Vedi l'articolo Where did social media go wrong?">Where did social media go wrong?</a> di Jon Evans.</li>
 <li><a class="text-info" href="https://amzn.to/2HI0IjL" target="_blank" rel="nofollow" title="Vedi il libro Chiudete internet">Chiudete Internet</a> di Christian Rocca.</li>
