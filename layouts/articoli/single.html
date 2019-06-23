@@ -1,12 +1,11 @@
 {{ partial "header.html" . }}
 <main>
-    <div class="main-scroll">
-
+    
+    <article class="main-scroll">
         <div class="row">
             <div class="col-md-1"></div>
             <div class="col-md-10 no-padding-left col-sm-6">
                 <div class="promo-box-blog">
-
                     <span class="small-title">
                         {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
                     </span>
@@ -71,13 +70,15 @@
                 </div>
             </div>
 
-            <div class="col-md-3 post-sidebar">
-                {{ partial "sidebar-ultimi-libri.html" . }}
-                {{ partial "sidebar-promo.html" . }}
-                {{ partial "sidebar-ultimi-blog.html" . }}
-                {{ partial "sidebar-newsletter.html" . }}
-            </div>
+            <aside class="col-md-3 post-sidebar">
+                    {{ partial "sidebar-ultimi-libri.html" . }}
+                    {{ partial "sidebar-promo.html" . }}
+                    {{ partial "sidebar-ultimi-blog.html" . }}
+                    {{ partial "sidebar-newsletter.html" . }}
+            </aside>
 
+            
+           
             <div class="col-md-12 atail-post-navigation no-padding">
                 <div class="row-col-12">
                     <div class="col-xs-4 no-padding">
@@ -146,12 +147,12 @@
                             {{end}}
                         </div>
                     </div>
-
+                
                 </div>
-
+            
                 {{ partial "promo-recensioni.html" . }}
 
-            </div>
+            </article>
             <!-- main-scroll -->
 
         </main> <!-- main -->
