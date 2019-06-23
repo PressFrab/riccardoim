@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 <main>
-    <div class="main-scroll">
+    <article class="main-scroll">
     
            <div class="row">
             <div class="col-md-1"></div>
@@ -62,10 +62,9 @@
                 <div class="row-col-8">
     
                     <div class="atail-post-content col-md-6 col-md-push-1 no-padding">
-                        <section class="post-content-text">
+                        <div class="post-content-text">
                             {{ .Content }}
-                            
-                        </section>
+                        </div>
     
             <section>
                 {{ partial "disqus-comments-podcast.html" . }}
@@ -75,15 +74,12 @@
                 </div>
             </div>
        
-    <aside class="col-md-3 post-sidebar">
-    
-{{ partial "sidebar-iscriviti.html" . }}
-{{ partial "sidebar-promo.html" . }}
-{{ partial "sidebar-ultimi.html" . }}
-{{ partial "sidebar-newsletter.html" . }}
-
-
-    </aside>
+    <div class="col-md-3 post-sidebar">
+        {{ partial "sidebar-iscriviti.html" . }}
+        {{ partial "sidebar-promo.html" . }}
+        {{ partial "sidebar-ultimi.html" . }}
+        {{ partial "sidebar-newsletter.html" . }}
+    </div>
     
     <div class="col-md-12 atail-post-navigation no-padding">
         <div class="row-col-12">
@@ -134,7 +130,7 @@
 
 {{ partial "promo-recensioni.html" . }}
 
-    </div>
+    </article>>
     <!-- main-scroll -->
     
 </main> <!-- main -->
