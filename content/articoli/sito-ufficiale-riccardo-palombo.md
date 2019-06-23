@@ -18,9 +18,9 @@ Non volevo aprire un nuovo sito ma sono stato un po' costretto e un po' trasport
 
 Ad ogni modo un anno fa non avrei pensato di trovarmi in questa situazione. Vi ho [già parlato](https://riccardo.im/podcast/il-mordente-25/ "Perché ho lasciato il mio lavoro e per fare cosa") del perché ho lasciato un lavoro stabile per obbligarmi a sbattere la testa su una prospettiva da inventare. Non è stato difficile farlo e non mi pare sia difficile mantenere questo atteggiamento; il problema sarà fare in modo che non diventi la normalità perché allora avrei fatto bene a restare dov'ero. Anche per questo preciso che la [recensione al Dell XPS 13 9380](https://riccardo.im/recensioni/dell-xps-13-9380 "Vai alla recensione Dell XPS 13 9380") abbinata a questo lancio, sia la versione testuale sia la versione video, è un po' diversa da quel che vorrei fare. È una prova, un di tutto e di più, anche per crearmi il codice dei vari "blocchi" e poi vedere, di volta in volta, come usarli, come migliorarli.
 
-Ad esempio vorrei scrivere testi più essenziali, mettere foto più caratteristiche, rapportare dati con dati. Nei video, frammentare meno l'esperienza percepita. Ho tante idee, ci ragiono da un paio d'anni. Ma per il momento spero basti quel che c'è - anche perché credo che sia più vicino al tipo di contenuto che cercate voi lettori anziché a quello che vorrei produrre io non-lettore.
+Ad esempio vorrei scrivere testi più essenziali, mettere foto più caratteristiche, rapportare dati con dati. Nei video, frammentare meno l'esperienza percepita. Ho tante idee, ci ragiono da un paio d'anni. Ma per il momento spero basti quel che c'è - anche perché credo che sia più vicino al tipo di contenuto che cercate voi lettori anziché a quello che vorrei produrre io non-lettore. Detto questo, ecco cosa mi resta da fare su riccardo.im.
 
-Detto questo, ecco cosa mi resta da fare su riccardo.im:
+## To do list
 
  - **Inserire la ricerca**: non sarà un grande problema finché i contenuti
    saranno così pochi ma serve per le puntate del podcast. Con i siti
