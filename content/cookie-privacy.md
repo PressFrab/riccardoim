@@ -10,7 +10,7 @@ description: "Informativa Privacy estesa per riccardo.im"
            <div class="col-md-8 col-md-push-2 no-padding">
 <h1>Privacy and Cookie Policy</h1>
 
-<p><i>Informativa Privacy estesa per riccardo.im</i></p>
+<p><em>Informativa Privacy estesa per riccardo.im</em></p>
 
 <p><strong>Privacy policy</strong></p>
 
