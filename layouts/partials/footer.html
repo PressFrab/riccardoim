@@ -6,12 +6,15 @@
 
 <!-- Google Analytics -->
 <script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-2482878-27', 'auto');
-ga('send', 'pageview');
-ga('set', 'anonymizeIp', true);
+		(function(e,t,n,i,s,a,c){e[n]=e[n]||function(){(e[n].q=e[n].q||[]).push(arguments)}
+		;a=t.createElement(i);c=t.getElementsByTagName(i)[0];a.async=true;a.src=s
+		;c.parentNode.insertBefore(a,c)
+		})(window,document,"galite","script","{{.Site.BaseURL}}js/ga-lite.min.js");
+		
+		galite('create', 'UA-2482878-27', 'auto');
+		galite('send', 'pageview');
+		galite.anonymizeIp = true;
 </script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
 <!-- End Google Analytics -->
 
 <script>
