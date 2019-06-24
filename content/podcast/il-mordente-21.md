@@ -10,7 +10,7 @@ scarica: "https://api.spreaker.com/v2/episodes/17594550/download.mp3"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/17594550" data-resource="episode_id=17594550" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "#21 - Memoria, Edge, e Kurt Cobain." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/17594550" data-resource="episode_id=17594550" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "#21 - Memoria, Edge, e Kurt Cobain." su Spreaker.</a>
 
 La puntata 21 del podcast Il Mordente è stata registrata martedì 8 aprile. Vi parlo di un nuovo libro dedicato a Kurt Cobain, di come migliorare l'affidabilità dei cardiofrequenzimetri inseriti negli sportwatch moderni, delle tecniche di memoria che utilizzo e dell'evento informatico della settimana: la prima beta pubblica di Microsoft Edge basato su Google Chromium. E poi un po' di spazio per dei sinceri ringraziamenti, e per consigliarvi l'ascolto di un podcast dedicato alla distribuzione delle idee sviluppato sulle parole dei migliori Ted Talks recenti. 
 

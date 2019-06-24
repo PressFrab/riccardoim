@@ -10,7 +10,7 @@ caption: "Madonna della Melagrana, 1487 - Botticelli"
 podcast: current-menu-item
 
 ---
-<a class="spreaker-player" href="https://www.spreaker.com/show/il-mordente" data-resource="episode_id=16368928" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "Il Mordente" su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/show/il-mordente" data-resource="episode_id=16368928" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "Il Mordente" su Spreaker.</a>
 
 È la sera del 2 dicembre 2018 ed io ho chiuso una buona settimana. In questa prima puntata de "Il Mordente" vi parlo del mio viaggio a Firenze per la Maratona e per i quaderni di Leonardo da Vinci; vi svelo l'affare del ThinkPad X1 Carbon e quali libri Apple bisogna smettere di leggere. Dalle prossime, vorrei rispondere a domande e curiosità: mandate dei messaggi vocali al **351 8516089** usando Whatsapp o Telegram, oppure invate una e-mail con il modulo contatti in homepage.
 

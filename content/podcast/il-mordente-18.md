@@ -10,7 +10,7 @@ scarica: "https://api.spreaker.com/v2/episodes/17395002/download.mp3"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/17395002" data-resource="episode_id=17395002" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "#18 - Il mondo è una rete di baci, non di sassi." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/17395002" data-resource="episode_id=17395002" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "#18 - Il mondo è una rete di baci, non di sassi." su Spreaker.</a>
 
 È il pomeriggio di giovedì 21 marzo ed io inizio a registrare Il Mordente 18 con l'intenzione di argomentare la presentazione del progetto Google Stadia e di commentare i nuovi prodotti Apple, da iMac a iPad. Ma mi trovo a discorrere su una generazione tecnologica che sta disperdendo la nostra umanità e ad immaginare quale dispositivo ci permetterà di riscoprire il calore della vicinanza umana. Nell'attesa di capirlo, ecco i miei programmi per il week-end: venerdì sarò a Codemotion 2019; sabato, a MicroSalon 2019 per un corso su DaVinci Resolve.
 

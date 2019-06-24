@@ -9,7 +9,7 @@ scarica: "https://api.spreaker.com/v2/episodes/17675257/download.mp3"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/17675257" data-resource="episode_id=17675257" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Sulla voce, sul coraggio, sui film da aspettare." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/17675257" data-resource="episode_id=17675257" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Sulla voce, sul coraggio, sui film da aspettare." su Spreaker.</a>
 
 È il 18 aprile 2019. Ne Il Mordente n° 22 vi parlo di coraggio e di scelte, di come reinventarsi o dell'accettare quel che c'è, del mettersi seduti al bar ad osservare la vita o del comprare un nuovo sportwatch per correre finché ce n'è. In mezzo, spazio alla voce e alle sue frequenze più complesse (quelle che mi fanno piangere) con la mostra "Il corpo della voce" al Palazzo delle Esposizioni di Roma e il film di Amazing Grace di Aretha Franklin. Infine, la mia opinione sul docu-film "Il Museo Del Prado".
 

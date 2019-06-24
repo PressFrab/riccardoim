@@ -10,7 +10,7 @@ podcast: current-menu-item
 numero: "15"
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/17285696" data-resource="episode_id=17285696" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "#15 - Di mattina leggo o scrivo o fabbrico matite." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/17285696" data-resource="episode_id=17285696" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "#15 - Di mattina leggo o scrivo o fabbrico matite." su Spreaker.</a>
 
 Il Mordente n°15 è stato registrato a Roma domenica 10 marzo alle 16.18. È il giorno della RomaOstia 2019 e dell'incontro con i tautogrammi di Walter Lazzarin; è il giorno dei racconti cruenti di Jack London letti in metropolitana e degli audiolibri di Carlo Rovelli. Nei 25 minuti del podcast vi spiego meglio come funziona l'abbinata Hugo + Github Pages per mettere online dei siti statici senza pagare un hosting, e della beatitudine del "porre consigli e suggerire cambiamenti" senza offendere nessuno.
 

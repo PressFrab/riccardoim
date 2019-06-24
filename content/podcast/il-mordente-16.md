@@ -10,7 +10,7 @@ scarica: "https://api.spreaker.com/v2/episodes/17311684/download.mp3"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/17311684" data-resource="episode_id=17311684" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "#16 - Sul batter d&#39;occhi e su Greta Thunberg." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/17311684" data-resource="episode_id=17311684" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "#16 - Sul batter d&#39;occhi e su Greta Thunberg." su Spreaker.</a>
 
 Il Mordente 16 arriva a poche ore dal Fridays For Future di venerdì 15 marzo 2019. Ispirato da Greta Thunberg, lo sciopero delle scuole sarà proposto anche in Italia con più di 100 eventi organizzati. Nella seconda parte della puntata si parla di cinema e di videomaking, con i miei consigli sui libri dedicati al montaggio video, sul linguaggio visuale, sulle tecniche di ripresa e sul "batter d'occhi" tra uno stacco e l'altro. Questa è la prima puntata del podcast pubblicata a metà settimana.
 

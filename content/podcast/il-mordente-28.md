@@ -11,7 +11,7 @@ podcast: current-menu-item
 
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/18035140" data-resource="episode_id=18035140" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Perché vorrei lavorare per Huawei (e come ascoltare le newsletter)." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/18035140" data-resource="episode_id=18035140" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Perché vorrei lavorare per Huawei (e come ascoltare le newsletter)." su Spreaker.</a>
 
 Il Mordente 28 è stato registrato il 21 maggio 2019, poco prima delle tre del pomeriggio. È un episodio discorsivo e rilassato, nel quale non si parla né libri (è la prima volta!) né di corsa. Huawei vs. USA ha il ruolo centrale, ma senza discussioni sul cercarne una ragione. Tutto il contrario: vi spiego perché vorrei lavorare per "loro" proprio in questo momento, far parte del team di gestione della crisi. Sarebbe l'occasione unica di affrontare un'esperienza fuori dall'ordinario.
 

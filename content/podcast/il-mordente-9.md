@@ -10,7 +10,7 @@ scarica: "https://ilmordente.podbean.com/mf/play/vsvf58/il_mordente_09.mp3"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/16859827" data-resource="episode_id=16859827" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "#09 - Stavvi Minòs orribilmente, e ringhia." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/16859827" data-resource="episode_id=16859827" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "#09 - Stavvi Minòs orribilmente, e ringhia." su Spreaker.</a>
 
 È il 27 gennaio 2019, sono le 15:26. Registro la nona puntata de "Il Mordente" al termine di una settimana esaustiva: iniziata partecipando ad un workshop sulla visualizzazione dei dati e finita con una San Pietro illuminata a nuovo. Nel mezzo, un tentativo di tornare a correre andato male, un paio di video recensioni, tanti vostri messaggi. Io ne ho scelti due: cosa scegliere tra grafica e programmazione, e come migliorare una scrittura incerta. Ci ne sono diversi modi, ed io ho parecchi libri da consigliarvi. Non è tutto: che ne dite di uno smartphone in bianco e nero? Che ne dite di approfondire David Lynch?
 

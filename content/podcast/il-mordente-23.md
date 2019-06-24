@@ -8,7 +8,7 @@ caption: "Uprooted feeling (trad. sentimento sradicato) di Samantha Passaniti. C
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/17735441" data-resource="episode_id=17735441" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Leggete Tarkovskij, correte su strade nuove, aprite un podcast." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/17735441" data-resource="episode_id=17735441" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Leggete Tarkovskij, correte su strade nuove, aprite un podcast." su Spreaker.</a>
 
 È il 24 aprile 2019. Ne Il Mordente 23 vi parlo della poetica cinematografica di Andrej Tarkovskij e di un nuovo audiolibro sulla resilienza, di cosa mi è rimasto della musica e di come ritrovare entusiasmo correndo nuovi percorsi. E poi tanto spazio alle vostre domande: come ricevere supporto, anche economico, dalla propria community? Ho cercato di rispondere discutendo i formati più adatti alla pubblicazione di contenuti originali. Audio o video? Sito web o app? Ha ancora senso? Credo di no.
 

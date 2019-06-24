@@ -11,7 +11,7 @@ podcast: current-menu-item
 ---
 
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/16704641" data-resource="episode_id=16704641" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "#07 - Mirabilis Artifex." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/16704641" data-resource="episode_id=16704641" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "#07 - Mirabilis Artifex." su Spreaker.</a>
 
 Il Mordente #07 è una puntata pensata in un modo e discussa in un altro. Tutto gira sul tenere alte le proprie buone maniere: come comportarsi quando non c'è un tornaconto? Io lo so. Ascoltate cosa ho da dire sulla miglior distro Linux per iniziare e su come apparire sicuri quando si ha davanti una telecamera. Ancora, ecco due letture da una nuova fonte, e i nuovi modi per seguirmi online: ho aperto i canali Telegram e YouTube, e pubblicato una Skill Alexa. Infine: come liberarsi dagli smartphone seguendo l'esempio di Jake.
 

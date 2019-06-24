@@ -10,7 +10,7 @@ scarica: "https://ilmordente.podbean.com/mf/play/d8jgyh/il_mordente_14.mp3"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/17214944" data-resource="episode_id=17214944" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "#14 - Dieci ore di girato neorealista." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/17214944" data-resource="episode_id=17214944" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "#14 - Dieci ore di girato neorealista." su Spreaker.</a>
 
 Il Mordente quattordici è il ritorno da Barcellona; sono i km di progressivo corsi questi mattina; i consigli sull'alimentazione sportiva; e la cattedrale, e il bazaar. La puntata è stata registrata domenica 3 marzo 2019 alle 15:39 con attorno una tiepida domenica romana. Torno da Mobile World Congress con 200 GB di riprese Full HD e 4K ai colleghi della stampa digitale: interviste, scene rubate, ingrandimenti verticali con la fotocamera di un vecchio iPhone. Il risultante montaggio sarà online da un momento all'altro.
 

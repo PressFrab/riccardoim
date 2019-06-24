@@ -10,7 +10,7 @@ scarica: "https://api.spreaker.com/v2/episodes/18194555/download.mp3"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/18194555" data-resource="episode_id=18194555" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Il nuovo sito è pronto: ecco quando sarà online." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/18194555" data-resource="episode_id=18194555" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Il nuovo sito è pronto: ecco quando sarà online." su Spreaker.</a>
 
 Ne Il Mordente 30 vi parlo degli ultimi dettagli del mio nuovo sito, del perché sono in ritardo, e dei motivi che mi hanno convinto a non usare tech.is.it come nome definitivo. Il nuovo sito verrà pubblicato su riccardo.im, e prenderà il posto della versione attuale. Quando? Ascoltate la puntata per scoprirlo. E poi spazio a qualche consiglio di "lettura filosofica" e naturalista, così come la mia esperienza sull'acquisto di un microfono adatto ai podcast - con dritte su come ottimizzare l'audio dopo aver registrato.
 

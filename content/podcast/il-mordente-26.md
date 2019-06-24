@@ -9,7 +9,7 @@ caption: "Disegno del panottico, prototipo di carcere progettato nel 1791 da Jer
 scarica: "https://api.spreaker.com/v2/episodes/17881691/download.mp3"
 podcast: current-menu-item
 ---
-<a class="spreaker-player" href="https://www.spreaker.com/episode/17881691" data-resource="episode_id=17881691" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Privacy.  Lennon. Postura. Scrittore." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/17881691" data-resource="episode_id=17881691" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Privacy.  Lennon. Postura. Scrittore." su Spreaker.</a>
 
 Ne Il Mordente 26 si parla di Picasso e di John Lennon, di come riconoscere una crisi dello scrittore e di come migliorare la propria esposizione vocale: il tono, il ritmo, le giuste parole. Ma anche di privacy online e del perché è così importante non tollerare mancanze. Intanto, nel primo pomeriggio di giovedì 9 maggio, continuo a lavorare al nuovo sito e a fare fisioterapia. Sembra poco ma non chiedo altro.
 

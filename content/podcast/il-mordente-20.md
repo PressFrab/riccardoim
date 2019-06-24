@@ -10,7 +10,7 @@ scarica: "https://api.spreaker.com/v2/episodes/17531019/download.mp3"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/17531019" data-resource="episode_id=17531019" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "#20 - To Love Is To Return." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/17531019" data-resource="episode_id=17531019" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "#20 - To Love Is To Return." su Spreaker.</a>
 
 Il Mordente 20 è una puntata pubblicata a braccio. Senza una scaletta, gesticolando in piedi, mi trovo a registrare nel pomeriggio avanzato del 3 aprile 2019. È un discorso che riguarda la metamorfosi e quel che cambia con l'età adulta. Vi parlo di J.D. Salinger, di neuroscienze, del libro dei misteri e di cosa ho trovato per due lire al mercatino. In mezzo, spazio per due delle vostre domande con un unico, vero dubbio: ma i portatili sono degli oggetti? O per alcuni di noi sono strumenti espressivi?
 

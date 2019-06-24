@@ -10,7 +10,7 @@ scarica: "https://ilmordente.podbean.com/mf/play/6g9kj4/il_mordente_11_1.mp3"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/17007323" data-resource="episode_id=17007323" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "#11 - Discorso sull&#39;inquietudine" su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/17007323" data-resource="episode_id=17007323" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "#11 - Discorso sull&#39;inquietudine" su Spreaker.</a>
 
 La undicesima puntata de Il Mordente non è un nuovo inizio ma un'inizializzazione: avvia i procedimenti che mi permettono di funzionare, non solo ripartire. Vi parlo di quanto lo sport riesca a nascondere i problemi e le inquietudini, del percorso di studi che riprenderei, e della Blockchain in Italia. Nel mezzo, una nuova introspezione alla ricerca della mia verità. Puntata registrata domenica 10 febbraio alle 17 circa, mentre fuori una buona temperatura faceva da presagio alla primavera in arrivo. 
 

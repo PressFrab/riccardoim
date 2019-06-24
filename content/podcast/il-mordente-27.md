@@ -10,7 +10,7 @@ scarica: "https://api.spreaker.com/v2/episodes/17937305/download.mp3"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/17937305" data-resource="episode_id=17937305" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Corsi Blockchain. Siti ad energia solare. Le mie anche." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/17937305" data-resource="episode_id=17937305" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Corsi Blockchain. Siti ad energia solare. Le mie anche." su Spreaker.</a>
 
 Il Mordente 27 parla dell'evento Blockchain italiano più importante dell'anno (Blockchain Week Rome 2019), del modo più semplice per avviare un sito personale (Stackbit), e della bella idea di averne uno gestito da un server casalingo alimentato ad energia solare (Low-Tech Magazine). Nel mezzo, tutto il mio buonumore per i trattamenti dall'osteopata e tutta la voglia di tornare a correre, di faticare, di preparare una maratona il prima possibile. Infine, come procede lo sviluppo del nuovo sito? Ho qualcosa da dirvi.
 

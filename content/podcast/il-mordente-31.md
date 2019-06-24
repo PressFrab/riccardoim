@@ -8,7 +8,7 @@ featured_image: "v1560585790/podcast/il-mordente-31.jpg"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/18261556" data-resource="episode_id=18261556" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Apparenza, realtà, triple boot e blockchain." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/18261556" data-resource="episode_id=18261556" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Apparenza, realtà, triple boot e blockchain." su Spreaker.</a>
 
 Il Mordente 31 è il ritorno alle nostre cose. Il sito è online, il canale YouTube vive da sé, e le community dei vari social hanno iniziato a comportarsi come un blocco unico, ad essere meno sparpagliate, più bizzose. In altre parole: **siamo tornati vivi**. In quarantotto ore ho ricevuto così tanti riscontri da riuscire a correggere i problemi più importanti (o ad attivarmi per farlo). Ho stretto la mano ad una collaborazione. Ho ricevuto quattro richieste di prove prodotto. Ed ho registrato la puntata del podcast che raccoglie tutto questo. 
 

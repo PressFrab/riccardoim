@@ -10,7 +10,7 @@ scarica: "https://ilmordente.podbean.com/mf/play/gpz52h/il_mordente_04.mp3"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/16551850" data-resource="episode_id=16551850" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "#04 - Lily, Rosemary ed il Fante di cuori." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/16551850" data-resource="episode_id=16551850" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "#04 - Lily, Rosemary ed il Fante di cuori." su Spreaker.</a>
 
 È il 22 dicembre 2018 ed io mi trovo, a tre giorni dal Natale, a registrare la quarta puntata de "Il Mordente" con il microfono inserito in una tazza da tè. Dalla cameretta che mi ha ospitato per mezza adolescenza, vi parlo di studio e istruzione; da cinque consigli per migliorare la memoria (5 Leaning Patterns) alle lezioni universali di Luigi Gaudio. E, ancora, qualche idea per comprare indumenti tecnici di qualità per due lire, e minuti dedicati ai podcast suggeriti, a Bruce Springsteen, al nuovo display IPS del mio ThinkPad X1 Carbon.
 

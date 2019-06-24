@@ -10,7 +10,7 @@ caption: "Le avventure del barone di Munchhausen. Illustrazioni di Beppe Madaudo
 podcast: current-menu-item
 
 ---
-<a class="spreaker-player" href="https://www.spreaker.com/episode/16425668" data-resource="episode_id=16425668" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "#02 - Io sono quello che non ce la faccio." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/16425668" data-resource="episode_id=16425668" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "#02 - Io sono quello che non ce la faccio." su Spreaker.</a>
 
 È il pomeriggio del 9 dicembre 2018 ed io mi trovo, abbastanza intristito, a scrivere queste righe prima di mandare in onda la seconda puntata de "Il Mordente". Intristito perché il fisico non mi dà pace e perchè, senza la dovuta attività fisica, mi sento distruggere da dentro. Ma ho da essere felice del vostro riscontro per la prima puntata del podcast! La nuova inizia con dei sinceri ringraziamenti, per poi arrivare al _clou_ con una collezione di libri che dovete iniziare a cercare nei mercatini. Altri minuti sono dedicati all'uscita di Flutter 1.0, e alla migrazione verso Chromium del browser Microsoft: Edge.
 

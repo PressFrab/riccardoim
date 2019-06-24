@@ -8,7 +8,7 @@ caption: "La Lancia Stratos di Sergio Munari, ex pilota di rally. Non c'entra nu
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/17781268" data-resource="episode_id=17781268" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Scrivere è arricchire chi ti leggerà." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/17781268" data-resource="episode_id=17781268" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Scrivere è arricchire chi ti leggerà." su Spreaker.</a>
 
 Il Mordente 24 è un podcast registrato il 29 aprile 2019. Nel primo pomeriggio di lunedì, approfitto di una domanda sul mettere online la propria personalità per chiacchierare di scrittura, di motivazione e della necessità di dedicare anima e corpo alla ricerca di un'espressione onesta. On Writing di Stephen King mi fa da guida. In mezzo, la mia visita al Vintage Computer Festival Italia 2019 di Roma e gli ultimi acquisti al mercatino: Munari, Il Saggiatore, Ruba come un artista e Vevi. Infine: sabato 4 maggio sarò a TEDXRoma. Ci vediamo là?
 

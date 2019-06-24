@@ -10,7 +10,7 @@ scarica: "https://ilmordente.podbean.com/mf/play/s2cbyk/il_mordente_05.mp3"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/16592804" data-resource="episode_id=16592804" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "#05 - Routine, decibel e Arnold Schwarzenegger." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/16592804" data-resource="episode_id=16592804" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "#05 - Routine, decibel e Arnold Schwarzenegger." su Spreaker.</a>
 
 Anzitutto perdonate la voce nasale, ma è colpa del raffreddore. Nella quinta puntata de "Il Mordente" vi parlo di come gestire il tempo, per coltivare un'esistenza priva di perturbazioni sonore. È il 29 dicembre 2018 e mi trovo, lontano da Roma, a discorrere sul privilegio di svegliarsi all'alba e sulla chiusura dell'essere introversi. In mezzo, i miei nuovi lunghi giri in bici e la recensione allo Smash Bros. più bello di sempre. Non è tutto: date ascolto ad Arnold! Ecco il discorso motivazionale di un uomo che ha capito come farsi trovare pronto. 
 
