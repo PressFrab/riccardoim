@@ -1,0 +1,862 @@
+{{ partial "header.html" . }}
+<link rel='stylesheet' href='{{.Site.BaseURL}}css/lightbox.css' type='text/css' media='all'/>
+<main>
+    <article class="main-scroll">
+        <div class="row" style="margin-bottom: 0">
+            <div class="col-md-1"></div>
+            <div class="col-md-8 no-padding-left col-sm-8">
+                <div class="promo-box recensioni">
+                    <div class="small-title">
+                        <!-- SHARE -->
+                        <div class="jssocials-shares post-content-header">
+                            <div class="jssocials-share">
+                                <a target="_blank"
+                                    href="https://facebook.com/sharer/sharer.php?u={{.Permalink}}"
+                                    rel="noopener" class="jssocials-share-link"
+                                    title="Condividi su Facebook">
+                                    <img src="https://res.cloudinary.com/riccardoim/image/upload/f_auto/v1560760258/social.png"
+                                        class="jssocials-share-facebook" width="13" height="81"
+                                        alt="Condividi su Facebook">
+                                </a>
+                            </div>
+
+                            <div class="jssocials-share">
+                                <a target="_blank"
+                                    href="https://twitter.com/share?url={{.Permalink}}&amp;text=Recensione%20{{.Title}}%20di%20%40riccardopalombo"
+                                    rel="noopener" class="jssocials-share-link"
+                                    title="Condividi su Twitter">
+                                    <img src="https://res.cloudinary.com/riccardoim/image/upload/f_auto/v1560760258/social.png"
+                                        class="jssocials-share-twitter" width="13" height="81"
+                                        alt="Condividi su Twitter">
+                                </a>
+                            </div>
+
+                            <div class="jssocials-share">
+                                <a target="_blank"
+                                    href="https://reddit.com/submit?url={{.Permalink}}&amp;title=Recensione%20{{.Title}}"
+                                    rel="noopener" class="jssocials-share-link"
+                                    title="Condividi su Reddit">
+                                    <img src="https://res.cloudinary.com/riccardoim/image/upload/f_auto/v1560760258/social.png"
+                                        class="jssocials-share-reddit" width="13" height="81"
+                                        alt="Condividi su Reddit">
+                                </a>
+                            </div>
+                        </div>
+                        <!-- FINE SHARE -->
+
+                    </div>
+                    <h1>{{.Title}}</h1>
+                    <p>{{.Params.sommario}}
+                        <span id="typed"></span>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-2 no-padding-right col-sm-4">
+                <div class="atail-multitext inizio">
+                    <span class="atail-multitext-title">RECENSIONE</span>
+                    <span class="atail-multitext-text">Online da<span>
+                            {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                        </span></span>
+                    <span class="atail-multitext-text">Discussione
+                    <span><a href="#disqus_thread" title="Leggi i commenti"></a></span>
+                    </span>
+                    <span class="atail-multitext-text">Tempo di lettura <span>Circa
+                            12 minuti</span></span>
+                </div>
+            </div>
+
+            <div class="col-md-2"></div>
+        </div>
+
+        <!-- VIDEO FULL -->
+
+        <div class="videoWrapper embed-responsive embed-responsive-4by3"
+            data-yt-url="{{.Params.video}}">
+
+        <img data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1560417069/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-video-recensione.jpg"
+                            alt="Video Recensione {{ .Title }}" class="cld-responsive lazyload play-youtube-video">
+        </div>
+
+        <!-- FINE VIDEO -->
+
+        <!-- SCHEDA TECNICA -->
+<div class="single-project row-col-12">
+            <div class="col-md-2"></div>
+
+<div class="col-md-8 no-padding-left" style="margin-bottom:80px">
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Forerunner 245 prende un po' da Forerunner 645 e un po' da Fenix 5. Nasce come sportwatch per sportivi impegnati  e per questo ha tutte le capacità per supoortare nei mesi e negli anni chi è agli inizi e intende migliorare. Rispetto al vecchio 235, ha una componentistica più raffinata: pulsossimetro, cardio Elevate v3, schermo da 240 px, memoria per salvare 500 canzoni o podcast; così come ha un redesign sufficiente a farne un orologio per la vita di tutti i giorni, notifiche e statistiche sul sonno comprese.</p>
+            </div>
+
+ <section class="col-md-4 col-md-push-2 no-padding-left">
+                <div class="atail-multitext">
+                    <h2 class="atail-multitext-title">SCHEDA TECNICA</h2>
+                    <span class="atail-multitext-text">Display<span>1.2 pollici / 240 x 240 px / 64 colori / Gorilla Glass 3</span></span>
+                    <span class="atail-multitext-text">Telaio<span>42.3 x 42.3 x 12.2 mm / 38.5 grammi</span></span>
+                    <span class="atail-multitext-text">Materiali<span>Ghiera in polimero e fibra / Cinturino in silicone</span></span>
+                    <span class="atail-multitext-text">Sensori<span>Elevante v3 / Pulsossimetro / Accelerometro / Bussola</span></span>
+                    <span class="atail-multitext-text">Localizzazione<span>GPS / GLONASS / GALILEO</span></span>
+                    <span class="atail-multitext-text">Connettività<span>Wi-Fi (solo Music) / Bluetooth Smart / ANT+</span></span>
+                    <span class="atail-multitext-text">Autonomia<span>Smart: 7 giorni / GPS: 24 ore / GPS + Musica: 6 ore</span></span>
+                    <span class="atail-multitext-text">Musica<span>~3.5 GB di archiviazione audio / Spotify / Deezer</span></span>
+                    <span class="atail-multitext-text">Altro<span>Resistente 5 ATM / Memoria 200 ore dati sulle attività</span></span>
+                </div>
+ </section>
+
+<!-- FINE SCHEDA TECNICA -->
+
+<!-- SCHEDA IMG -->
+
+<div class="col-md-4 col-md-push-2 no-padding-right">
+                <figure class="no-margin">
+                    <a
+                        href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1559919653/recensioni/Dell-XPS-13-9380/dell-xps-13-9380.jpg"
+                        data-lightbox="scheda"
+                        data-alt="{{ .Title }}" data-title="Garmin Forerunner 245 Music:
+                        vista frontale." title="Scheda tecnica Garmin Forerunner 245 Music
+                        9380">
+                        <img
+                            data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1559919653/recensioni/Dell-XPS-13-9380/dell-xps-13-9380.jpg"
+                            alt="Scheda tecnica {{ .Title }}"
+                            class="cld-responsive lazyload">
+                    </a>
+                    <figcaption>
+                        <span class="description-title" style="padding-left:0">
+                            <span>FIG. 1.</span> Clicca per ingrandire.
+                        </span>
+                        <p>
+                            Forerunner 245 Music è disponibile in più colorazioni. La cassa e gli accenti delle finiture cambiano in base alla tonalità scelta.
+                        </p>
+                    </figcaption>
+                </figure>
+
+                <!-- FINE SCHEDA IMG -->
+</div>
+</div>
+
+<section class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <h2>Costruzione</h2>
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> La nuova estetica lo fa più orologio e meno cronometro sportivo. Assomiglia al 645 con l'eccezione della corona in plastica anziché in metallo. Il suo schermo ha lo stesso numero di colori e la stessa risoluzione del 935; per questo supporta il <strong>layout con 4 campi dati</strong> e tutti i quadranti predisposti su Connect IQ. Anche la posizione dei cinque tasti fisici riprende i modelli più costosi, per quanto il loro feedback non sia solido quanto un 935 o un Fenix. E che dire del cinturino QuickFit da 20 mm e del connettore di ricarica? I soliti discorsi: sono allineati agli ultimi sportwatch Garmin.</p>
+
+                <p>
+                    L'ultimo LED del sensore cardio Elevate v3 (diventa rosso anziché verde, lo stesso del 945 e della serie MARQ) installato su Forerunner 245, è il <strong>pulsossimetro</strong>. Fornisce una stima della saturazione di ossigeno nel sangue, indicata come saturazione di ossigeno periferica, o SpO<sub>2</sub>, utile a valutare il modo in cui il corpo assorbe l'ossigeno. Chi si allena soprattutto a livello del mare più quasi ignorarla, anche se potrebbe mettere in risalto problemi come l'apnea (OSAS) o altri disturbi notturni - ma bisogna abituarsi a dormire con l'orologio al polso e a me, per dire, fa sempre fatica. Più avanti c'è la schermata di Garmin Connect con altre informazioni sul "Pulse Ox".
+                </p>
+            </div>
+</section>
+
+<!-- GALLERIA TRIS -->
+
+<div class="row tris">
+
+<div class="col-md-4 col-sm-6">
+                <div>
+                    <figure>
+                        <a
+                            href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1559919658/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-fibra.jpg"
+                            data-lightbox="scheda"
+                            data-alt="{{ .Title }}" data-title="{{ .Title }}">
+                            <img
+                                data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1559919658/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-fibra.jpg"
+                                alt="{{ .Title }}"
+                                class="lazyload cld-responsive">
+                        </a>
+                        <figcaption>
+                            <span class="description-title"
+                                style="padding-left:0">
+                                <span>FIG. 2.</span> Pulsanti lato sinistro.
+                            </span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+
+<div class="col-md-4 col-sm-6">
+                <div>
+                    <figure>
+                        <a
+                            href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1559920109/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-webcam.jpg"
+                            data-lightbox="scheda"
+                            data-alt="{{ .Title }}" data-title="{{ .Title }}">
+                            <img
+                                data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1559920109/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-webcam.jpg"
+                                alt="{{ .Title }}" class="lazyload cld-responsive">
+                        </a>
+                        <figcaption>
+                            <span class="description-title"
+                                style="padding-left:0">
+                                <span>FIG. 3.</span> Elevate v3 e connettore di ricarica.
+                            </span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+
+<div class="col-md-4 col-sm-6">
+                <div>
+                    <figure>
+                        <a
+                            href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1559920293/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-porte-sinistro.jpg"
+                            data-lightbox="scheda"
+                            data-alt="{{ .Title }}" data-title="{{ .Title }}">
+                            <img
+                                data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1559920293/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-porte-sinistro.jpg"
+                                alt="{{ .Title }}"
+                                class="lazyload cld-responsive">
+                        </a>
+                        <figcaption>
+                            <span class="description-title"
+                                style="padding-left:0">
+                                <span>FIG. 4.</span> Cinturino Quickfit in silicone.
+                            </span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+
+</div>
+
+<!-- FINE TRIS -->
+
+<div class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <p>
+                    Ci sono altre novità tra i sensori: il <strong>Bluetooth Smart</strong>, per comunicare con accessori e con smartphone Android/iOS, e il <strong>Wi-Fi</strong> (solo nel modello Music), per scaricare la musica e sincronizzare le attività senza passare dall'app Connect. In aggiunta alla connessione ANT+, Forerunner 245 è così pronto a collegarsi con footpod, fasce cardio, sensori di cadenza e di potenza, schermi esterni, accessori Varia, cuffie, auricolari e via dicendo. Anche il cardiofrequenzimetro può inviare la sua lettura al polso ad un dispositivo esterno. Manca l'altimetro barometrico, e con lui tutte le metriche da trekking, il calcolo della potenza, il conteggio delle scale.
+                </p>
+            </div>
+        </div>
+
+<section class="single-project row-col-12">
+<div class="col-md-8 col-md-push-2 no-padding-left">
+                <h2>Funzioni sportive</h2>
+                    <p>
+                        <s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Forerunner 245 supporta queste modalità sportive: Corsa, Corsa (indoor), Tapis Roulant, Pista (indoor), Bici, Bici (indoor), Piscina, Camminata, Pesi, Vogatore, Camminata (indoor), Cardio, Yoga, Ellittica, Step e Altro. Ogni attività è personalizzabile nel layout e nei campi dati mostrati; quelle dove c'è possibilità di fare delle ripetizioni (ad esempio: pesi) possono conteggiare in automatico; altre, come lo Yoga, si concentrano su battito e tempo trascorso.
+                    </p>
+                    <p>
+                        Negli anni Garmin ha reso questi Forerunner anche degli orologi da tutti i giorni. Il 245 controlla i passi e i minuti di attività, stima le calorie attive e a riposo, genera delle statistiche sulla salute come l'indice di Stress e il Body Battery; la maggior parte usa i nostri parametri fisiologici e lo storico degli sport fatti (da Garmin Connect) per calcolare dati come il Vo2 Max (massimo volume di ossigeno consumato per minuto) e da lì tutto il resto. C'è tutto quel che si chiede ad un dispositivo moderno, con l'eccezione del conteggio delle scale per via dell'altimetro barometrico discusso poco fa. In realtà l'orologio usa la temperatura ambientale e l'altitudine per la stima del VO2Max, ma prende questi dati dalla rete, quindi dopo la sincronizzazione con lo smartphone.
+                    </p>
+
+<!-- TABELLA -->
+ <div class="row-col-6">
+                    <div class="col-md-6" style="margin-top: 60px">
+
+<table>
+                            <thead>
+                                <tr>
+                                    <th>CONTESTO</th>
+                                    <th>SOFTWARE</th>
+                                    <th>DURATA</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Lavoro online</td>
+                                    <td>Firefox 10 schede, Unigram, VSCode,
+                                        GitHub Desktop.</td>
+                                    <td>-4.5 W = 9.3 ore</td>
+                                </tr>
+                                <tr>
+                                    <td>Lavoro offline</td>
+                                    <td>LibreOffice Calc e Writer, Photoshop CC,
+                                        Gestore file, VirtualBox.</td>
+                                    <td>-4.1 Wh = 12.7 ore</td>
+                                </tr>
+                                <tr>
+                                    <td>Produzione multimediale</td>
+                                    <td>Montaggio video Adobe Premiere Pro,
+                                        Photoshop CC, Audacity.</td>
+                                    <td>-3. Wh = 10 ore</td>
+                                </tr>
+                                <tr>
+                                    <td>Riproduzione streaming</td>
+                                    <td>Netflix app in Full HD</td>
+                                    <td>-3.4 W = 10.9 ore</td>
+                                </tr>
+                                <tr>
+                                    <td>Carico massimo</td>
+                                    <td>Conversione video con Handbrake</td>
+                                    <td>-40.7 Wh = 1.3 ore</td>
+                                </tr>
+                                <tr>
+                                    <td>Standby</td>
+                                    <td>Connected Standby attivo</td>
+                                    <td>-0.46% l'ora = 9.1 giorni</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="description-table">
+                            <span class="description-title">
+                                <span>TAB. 1.</span>
+                                Durata della batteria.
+                            </span>
+                            <p>
+                                Test eseguiti con Dell Power Manager in modalità
+                                "Ottimizzata". Luminosità e volume al 50%.
+                                Illuminazione tastiera disattivata.
+                            </p>
+                        </div>
+
+</div>
+                </div>
+                <!-- FINE TABELLA -->
+            </div>
+
+
+<div class="col-md-8 col-md-push-2 no-padding-left">
+                    <p>
+                        Il telaio di Forerunner 245 è impermeabile fino a 5 ATM, proprio come il vecchio modello. La novità è nel supporto all'attività di <strong>nuoto in piscina</strong>: si può selezionare la lunghezza della vasca e attivare il riconoscimento della bracciata, oppure programmare un allenamento complesso preparato e inviato da Garmin Connect. Manca l'attività nuoto in acque libere, esclusiva dei modelli da triatlon come il 935/945/735XT; senza di questa, l'orologio non attiva il GPS mentre si nuota. Peccato, perché dà l'idea di essere una scelta commerciale, un modo per non sovrapporre due categorie di prodotto.
+                    </p>
+                <p>
+                    PL1 è il limite massimo, da regolare come TDP, che può
+                    gestire l'impianto di smaltimento e di ventilazione. PL1 è
+                    <em>long-term state</em> quindi non può attivare la frequenza
+                    Turbo della CPU. PL2 è il limite superato il quale si ha la
+                    riduzione e si cerca di tornare indietro. PL2 è <em>short-term</em>
+                    e può usare il Turbo. Infine, Tau (Turbo Time Parameter) è
+                    la variabile che indica quanto la CPU può stare su PL2 prima
+                    di scalare su PL1. Tau è indipendente da temperature e
+                    consumi.
+                    <br><br></p>
+</div>
+            <!-- TEARDOWN -->
+            <figure>
+                <a
+                    href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1559919645/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-interni.jpg"
+                    data-lightbox="scheda" data-alt="Teardown {{ .Title }}"
+                    data-title="Gli interni di Dell XPS 13. Solo la SSD si può
+                    sostituire.">
+                    <img
+                        data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1559919645/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-interni.jpg"
+                        alt="Teardown {{.Title }}" class="lazyload"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 2.</span> Gli interni di Dell XPS 13 9380.
+                        RAM e scheda wireless sono saldati. La SSD NVMe M.2 si
+                        può sostituire.</span>
+                </figcaption>
+            </figure>
+</section>
+        <!-- FINE TEARDONW -->
+
+ <section class="single-project row-col-12">
+            <div class="col-md-3 col-md-push-2 no-padding-left">
+                <div class="atail-multitext benchmarks">
+                    <h2 class="atail-multitext-title">Benchmarks</h2>
+                    <span class="atail-multitext-text">3DMark Time Spy<span>487</span></span>
+                    <span class="atail-multitext-text">PCMark 10 Extended<span>2997</span></span>
+                    <span class="atail-multitext-text">Cinebench R15<span>OpenGL
+                            57.38 fps / CPU 694 cb</span></span>
+                    <span class="atail-multitext-text">CrystalDisk Mark<span>Seq
+                            2311 / 370 MB/s<br>4K 40 / 121 MB/s </span></span>
+                </div>
+            </div>
+            <div class="col-md-5 col-md-push-2 no-padding-right">
+                <span class="small-title">DELL POWER MANAGER</span>
+                <p>
+                    In modalità Prestazioni, Dell XPS 13 9380 porta il <strong>PL1
+                        a 51 watt</strong> fissi, lo stesso valore di PL2. In
+                    modalità Ottimizzata, PL1 parte da 23 watt e sale fino a 35
+                    watt. Sono valori sorprendenti per una CPU Quad Core a basso
+                    voltaggio consigliata su impianti da 15 watt. La maggior
+                    parte della concorrenza la installa seguendo i riferimenti
+                    standard di Intel.
+                </p>
+            </div>
+</section>
+
+ <section class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <h2>Prestazioni</h2>
+
+                <p>
+                    <s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Questa duplice
+                    capacità di richiedere potenza aumenta la tolleranza e dà
+                    risultati più consistenti durante i lavori lunghi: rendering
+                    video, conversioni, giochi. Nei grafici ho evidenziato (in
+                    sequenza): il guadagno effettivo nel punteggio durante lo
+                    stress test di Cinebench R15; la <strong>frequenza CPU
+                        sostenuta per più tempo</strong> dalla modalità
+                    Prestazioni; la differenza in watt del PL1 e il suo
+                    prolungarsi.
+                </p>
+                <p>
+                    Il penultimo grafico conferma quanto scritto prima
+                    sull'alimentatore da 45 watt. È al limite, ma riesce a
+                    fornire l'energia richiesta e a caricare la batteria allo
+                    stesso tempo. Sembra scontato, ma mi sono capitati portatili
+                    con alimentatori appena inferiori al consumo massimo con il
+                    risultato di prodotti che non si riuscivano a caricare
+                    durante un lavoro importante; restavano accesi, ma non
+                    riempivano la batteria. Un nome a caso: MacBook Pro 15 di
+                    fine 2017.
+                </p>
+            </div>
+        </section>
+<!-- GRAFICI -->
+    <div class="single-project row-col-12" style="background-color:
+            #f9f9f9;">
+            <figure>
+                <a
+                    href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1559032321/recensioni/Dell-XPS-13-9380/dell-xps-13-cinebench-loop.png"
+                    data-lightbox="grafico" data-alt="Dell XPS 13 9380 Cinebench
+                    Loop" data-title="Il punteggio di Cinebench R15 CPU Multi
+                    riprodotto 30 volte.">
+                    <img
+                        data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1559032321/recensioni/Dell-XPS-13-9380/dell-xps-13-cinebench-loop.png"
+                        alt="Dell XPS 13 9380 Cinebench Loop" class="lazyload"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 3.</span> Il punteggio di Cinebench R15 CPU
+                        Multi riprodotto 30 volte.</span>
+                </figcaption>
+            </figure>
+
+ <figure>
+                <a
+                    href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1559495636/recensioni/Dell-XPS-13-9380/dell-xps-13-cpu-freq.png"
+                    data-lightbox="grafico" data-alt="Dell XPS 13 9380
+                    Variazione della frequenza CPU"
+                    data-title="La variazione della frequenza CPU nelle due
+                    modalità durante il loop di Cinebench R15 CPU Multi.">
+                    <img
+                        data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1559495636/recensioni/Dell-XPS-13-9380/dell-xps-13-cpu-freq.png"
+                        alt="Dell XPS 13 9380 Variazione della frequenza CPU"
+                        class="cld-responsive lazyload"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 4.</span> La variazione della frequenza CPU
+                        nelle due modalità durante il loop di Cinebench R15 CPU
+                        Multi.</span>
+                </figcaption>
+            </figure>
+
+<figure>
+                <a
+                    href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1559051536/recensioni/Dell-XPS-13-9380/dell-xps-13-PL1.png"
+                    data-lightbox="grafico" data-alt="Dell XPS 13 9380
+                    Variazione della frequenza CPU"
+                    data-title="La variazione della frequenza CPU nelle due
+                    modalità durante il loop di Cinebench R15 CPU Multi.">
+                    <img
+                        data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1559051536/recensioni/Dell-XPS-13-9380/dell-xps-13-PL1.png"
+                        alt="Dell XPS 13 9380 Variazione di PL1"
+                        class="cld-responsive lazyload"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 5.</span> La variazione PL1 nelle due
+                        modalità durante il loop di Cinebench R15 CPU Multi.</span>
+                </figcaption>
+            </figure>
+
+<figure>
+                <a
+                    href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1559032321/recensioni/Dell-XPS-13-9380/dell-xps-13-consumo-su-presa.png"
+                    data-lightbox="grafico" data-alt="Consumo su presa di Dell
+                    XPS 13 9380"
+                    data-title="Consumo su presa di Dell XPS 13 9380.">
+                    <img
+                        data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1559032321/recensioni/Dell-XPS-13-9380/dell-xps-13-consumo-su-presa.png"
+                        alt="Consumo su presa di Dell XPS 13 9380"
+                        class="cld-responsive lazyload"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 6.</span> Consumo su presa di Dell XPS 13
+                        9380.</span>
+                </figcaption>
+            </figure>
+
+<figure>
+                <a
+                    href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1560154107/recensioni/Dell-XPS-13-9380/dell-xps-13-audio-db.png"
+                    data-lightbox="grafico" data-alt="Analisi audio con volume
+                    al massimo di Dell XPS 13 9380"
+                    data-title="Analisi audio con volume al massimo di Dell XPS
+                    13 9380.">
+                    <img
+                        data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1560154107/recensioni/Dell-XPS-13-9380/dell-xps-13-audio-db.png"
+                        alt="Analisi audio con volume al massimo di Dell XPS 13
+                        9380" class="cld-responsive lazyload"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 7.</span> Analisi audio con volume al
+                        massimo.</span>
+                </figcaption>
+            </figure>
+        </div>
+        <!-- FINE GRAFICI -->
+<!-- ANALISI DISPLAY -->
+
+<section class="single-project row-col-12">
+
+<div class="col-md-8 col-md-push-2 no-padding-left">
+                <h2>Appunti</h2>
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Al solito, Dell
+                    installa un BIOS flessibile e accessibile. Fa disabilitare
+                    il Dynamic Backlight Control (una richiesta della comunita)
+                    e fa regolare tutte le impostazioni relative al tipo di
+                    avvio, alla sicurezza aziendale, alla rotazione delle
+                    ventole e all'intensità dell'illuminazione della tastiera.
+                    Un esempio della cura di questo BIOS è la voce che stacca il
+                    Secure Boot, abilita l'avvio Legacy e mette le porte USB al
+                    primo posto della sequenza di avvio - tutto in un colpo
+                    solo, inserita nel Boot Menù. Non è esclusiva di XPS 13, ma
+                    è una comodità salva tempo.</p>
+                <p>
+                    Posso fare considerazioni simili per le applicazioni Dell
+                    pre-installate in Windows. Dell Power Manager, Dell Cinema
+                    Color e Dell System Update sono indispensabili, così come
+                    Dell Mobile Connect si merita qualche giorno di prova.
+                    L'impianto audio conta sui due piccoli altoparlanti
+                    installati ai lati del telaio e <strong>quattro microfoni</strong>
+                    inseriti sul bordo frontale in corrispondenza del touchpad;
+                    è tutto come le edizioni precedenti. Per volume, corpo e
+                    capacità di catturare la voce escludendo il rumore
+                    ambientale, è una componentistica riuscita. Ho inserito il
+                    grafico qualche paragrafo fa (l'ultimo della serie, quello viola)
+                    per completezza, ma <s>mi</s> ci servirà per confrontare la
+                    resa di altri portatili.
+                </p>
+            </div>
+</section>
+
+<!-- GALLERIA CINQUE -->
+
+<div class="row tris">
+            <figure>
+                <a
+                    href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1559919654/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-linux.jpg"
+                    data-lightbox="scheda" data-alt="Multi-tasking: Clear Linux
+                    virtualizzato in finestra"
+                    data-title="Multi-tasking: Clear Linux virtualizzato in
+                    finestra.">
+                    <img
+                        data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1559919654/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-linux.jpg"
+                        alt="Multi-tasking: Clear Linux virtualizzato in
+                        finestra" class="lazyload cld-responsive"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 9.</span> Multi-tasking: Clear Linux
+                        virtualizzato in finestra.</span>
+                </figcaption>
+            </figure>
+            <div class="col-md-2 col-sm-6">
+                <div>
+                    <figure>
+                        <a
+                            href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1560155093/recensioni/Dell-XPS-13-9380/dell-xps-13-temperature.jpg"
+                            data-lightbox="grafico" data-alt="Temperature
+                            massime sulla tastiera di Dell XPS 13 9380"
+                            data-title="Temperature massime sulla tastiera di
+                            Dell XPS 13 9380.">
+                            <img
+                                data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1560155093/recensioni/Dell-XPS-13-9380/dell-xps-13-temperature.jpg"
+                                alt="Temperature massime sulla tastiera di Dell
+                                XPS 13 9380" class="cld-responsive lazyload"></a>
+                        <figcaption>
+                            <span class="description-title">
+                                <span>FIG. 10.</span> Temperature a regime zona
+                                tastiera.</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-6">
+                <div>
+                    <figure>
+                        <a
+                            href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1560156136/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-alimentatore.jpg"
+                            data-lightbox="grafico" data-alt="Alimentatore
+                            compatto da 45 watt di Dell XPS 13 9380"
+                            data-title="Alimentatore compatto da 45 watt di Dell
+                            XPS 13 9380.">
+                            <img
+                                data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1560156136/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-alimentatore.jpg"
+                                alt="Alimentatore compatto da 45 watt di Dell
+                                XPS 13 9380" class="cld-responsive lazyload"></a>
+                        <figcaption>
+                            <span class="description-title">
+                                <span>FIG. 11.</span> Alimentatore compatto da
+                                45 watt.</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+
+<div class="col-md-2 col-sm-6">
+                <div>
+                    <figure>
+                        <a
+                            href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1560155772/recensioni/Dell-XPS-13-9380/dell-power-manager.png"
+                            data-lightbox="grafico" data-alt="Dell Power
+                            Manager"
+                            data-title="Dell Power Manager">
+                            <img
+                                data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1560155772/recensioni/Dell-XPS-13-9380/dell-power-manager.png"
+                                alt="Dell Power Manager" class="cld-responsive
+                                lazyload"></a>
+                        <figcaption>
+                            <span class="description-title">
+                                <span>FIG. 12.</span> Dell Power Manager.</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+
+<div class="col-md-2 col-sm-6">
+                <div>
+                    <figure>
+                        <a
+                            href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1560156310/recensioni/Dell-XPS-13-9380/AdobeRGB_Dell_XPS_13.jpg"
+                            data-lightbox="grafico" data-alt="Copertura AdobeRGB
+                            di fabbrica di Dell XPS 13 9380"
+                            data-title="Copertura AdobeRGB di fabbrica di Dell
+                            XPS 13 9380.">
+                            <img
+                                data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1560156310/recensioni/Dell-XPS-13-9380/AdobeRGB_Dell_XPS_13.jpg"
+                                alt="Copertura AdobeRGB di fabbrica di Dell XPS
+                                13 9380" class="cld-responsive lazyload"></a>
+                        <figcaption>
+                            <span class="description-title">
+                                <span>FIG. 13.</span> Copertura AdobeRGB di
+                                fabbrica.</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+
+<div class="col-md-2 col-sm-6">
+                <div>
+                    <figure>
+                        <a
+                            href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1560157045/recensioni/Dell-XPS-13-9380/Dell_XPS_13_9380_deltaE_colori.jpg"
+                            data-lightbox="grafico" data-alt="DeltaE colori di
+                            fabbrica di Dell XPS 13 9380"
+                            data-title="DeltaE colori di fabbrica di Dell XPS 13
+                            9380.">
+                            <img
+                                data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1560157045/recensioni/Dell-XPS-13-9380/Dell_XPS_13_9380_deltaE_colori.jpg"
+                                alt="DeltaE colori di fabbrica di Dell XPS 13
+                                9380" class="cld-responsive lazyload"></a>
+                        <figcaption>
+                            <span class="description-title">
+                                <span>FIG. 14.</span> DeltaE colori di fabbrica.</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+
+<div class="col-md-2 col-sm-6">
+                <div>
+                    <figure>
+                        <a
+                            href="https://res.cloudinary.com/riccardoim/image/upload/q_75,w_1000/v1559919631/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-logo.jpg"
+                            data-lightbox="grafico" data-alt="Coperchio in
+                            alluminio di Dell XPS 13 9380"
+                            data-title="Coperchio in alluminio di Dell XPS 13
+                            9380.">
+                            <img
+                                data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1559919631/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-logo.jpg"
+                                alt="Coperchio in alluminio di Dell XPS 13 9380"
+                                class="cld-responsive lazyload"></a>
+                        <figcaption>
+                            <span class="description-title">
+                                <span>FIG. 15.</span> Coperchio in alluminio.</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        </div>
+
+<!-- FINE GALLERIA CINQUE -->
+
+
+<section class="single-project row-col-12">
+            <div class="col-md-5 col-md-push-2 no-padding-left">
+                <span class="small-title">FULL HD VS. 4K</span>
+                <p>La versione Full HD 2019 è opaca e non ha un vetro Gorilla
+                    Glass come lo scorso anno; questo riduce i riflessi e
+                    <strong>migliora la visibilità in esterna</strong>.
+                    Visibilità superiore a molti prodotti rivali perché
+                    l'uniformità dell'illuminazione ha una variazione massima di
+                    appena il 4%. La calibratura di fabbrica è adatta al lavoro
+                    grafico professionale. L'edizione 4K monta pannelli Sharp ed
+                    è touchscreen; ha una profilazione meno accurata e meno
+                    capacità di assorbire i riflessi per colpa del vetro di
+                    protezione. Io preferisco la Full HD anche perché consuma
+                    meno.</p>
+            </div>
+            <div class="col-md-3 col-md-push-2 no-padding-right">
+                <div class="atail-multitext autonomia">
+                    <h2 class="atail-multitext-title">ANALISI DISPLAY</h2>
+                    <span class="atail-multitext-text">Pannello<span>AU
+                            Optronics AUO5B2D</span></span>
+                    <span class="atail-multitext-text">Luminosità massima<span>410
+                            nits</span></span>
+                    <span class="atail-multitext-text">Uniformità<span>Variazione
+                            massima del 4%</span></span>
+                    <span class="atail-multitext-text">sRGB<span>99%</span></span>
+                    <span class="atail-multitext-text">AdobeRGB<span>75%</span></span>
+                    <span class="atail-multitext-text">DeltaE Medio<span>Grigi:
+                            1.2 / Colore: 2.3</span></span>
+                </div>
+            </div>
+
+ </section>
+
+<!-- FINE ANALISI DISPLAY -->
+
+
+ <div class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <p>Dell XPS 13 9380 è uno dei migliori portatili per chi vuole
+                    usare Linux. Una Ubuntu 19.04 riconosce tutto sin dal primo
+                    avvio, e lo stesso vale per distribuzioni settoriali come <a
+                        href="https://clearlinux.org/" title="Clear Linux
+                        Project" target="_blank">Clear Linux</a> di Intel.
+                    Inoltre il modulo SSD dell'edizione Windows non è
+                    spezzettato in più partizioni, quindi si può ridimensionare
+                    per facilitare il Dual Boot senza pensieri. Dell vende XPS
+                    13 9380 anche con Ubuntu Linux pre-installata nell'edizione
+                    chiamata Developer Edition; a giugno 2019, la variante più
+                    economica costa 1.429 euro con schermo Full HD, processore
+                    Core i7, 8 GB di RAM e 256 GB di spazio SSD.
+                </p>
+            </div>
+</div>
+
+<!-- SPLIT -->
+
+<section class="row">
+
+    <div class="col-md-6 no-padding-left col-sm-6 split2">
+                <div>
+                        <h3 class="small-title">COME MIGLIORARLO</h3>
+                        <p>
+                            Vorrei l'opzione per un pannello OLED o l'installazione
+                            di uno schermo a 120 o 144 Hz. Con queste modifiche
+                            avrebbe senso usare una scheda grafica dedicata a basso
+                            consumo, magari approfittando della stessa messa a punto
+                            estrema vista qui. Farebbe comodo un lettore SD anziché
+                            microSD, e magari si potrebbe liberare lo spazio
+                            necessario spostando gli altoparlanti sotto la tastiera
+                            (come si faceva nel vecchio MacBook Air, oppure in certi
+                            Chromebook).
+                        </p>
+                </div>
+    </div>
+
+    <div class="col-md-6 no-padding-right col-sm-6 split">
+                <div>
+                        <h3 class="small-title">COMPROMESSI ATTUALI</h3>
+                        <p>
+                            Manca un sensore di luminosità per lo schermo, e manca
+                            una suite di regolazione avanzata sullo stile di Dell
+                            Premiere Color (installato su XPS 15). La scheda
+                            wireless Killer 1435 è ancora sufficiente ma resta
+                            inferiore alle ultime disponibili (come la Killer
+                            AX1650) ed ha Bluetooth 4.2; stona su un top di gamma
+                            così. Stesso discorso per la scelta di inserire moduli
+                            SSD Samsung solo nei tagli da almeno 512 GB. Gli SK
+                            Hynix sono meno veloci.
+                        </p>
+                </div>
+    </div>
+</section>
+
+<!-- FINE SPLIT-->
+
+<section class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <h2>Conclusioni</h2>
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Dell XPS 13 9380 è
+                    conforme alle dichiarazioni d'uso. Fa quello che promette e
+                    raggiunge le migliori prestazioni possibili con l'hardware a
+                    disposizione. È in vantaggio sulla concorrenza perché resta
+                    flessibile: si può regolare per farlo andare ai massimi giri
+                    o si può regolare per restare sempre freddo e silenzioso.
+                    Questo si aggiunge alla portabilità di un telaio che non ha
+                    bisogno di attenzioni eccessive (ancora tra i più compatti
+                    della categoria), al supporto Linux, ai programmi di
+                    gestione e integrazione con lo smartphone, ad uno
+                    schermo calibrato in fabbrica, ad un'autonomia media che
+                    copre bene la giornata. Non è per tutti perché ha le sue
+                    particolarità (quelle di cui ho discusso nella recensione più una: costa tanto: la versione
+                    consigliata ha un listino di 1399 euro) ma è un portatile
+                    maturo e riuscito.</p>
+                <p><strong>Prezzi ufficiali a giugno 2019</strong></p>
+                    <ul>
+                        <li>
+                            Full HD / Core i3 / 4 GB di RAM / 128 GB SSD a 1099
+                            euro
+                        </li>
+                        <li>
+                            Full HD / Core i5 / 8 GB RAM / 256 GB SSD a 1399
+                            euro
+                        </li>
+                        <li>
+                            Full HD / Core i7 / 8 GB RAM / 256 GB SSD a 1499
+                            euro
+                        </li>
+                        <li>
+                            4K Touch / Core i5 / 8 GB RAM / 256 GB SSD a 1599
+                            euro
+                        </li>
+                        <li>
+                            Full HD / Core i7 / 8 GB RAM / 256 GB SSD / Ubuntu
+                            Linux 18.04 a 1449 euro
+                        </li>
+                    </ul>  
+            </div>
+
+            <div class="col-md-8 col-md-push-2 no-padding-left"> 
+                    <aside class="yt-iscriviti">
+                                        <span class="atail-multitext-text">ACQUISTA SU AMAZON E SUPPORTAMI</span>
+                                        <a href="https://amzn.to/2Vo4lm3" rel="nofollow" target="_blank" title="Aiutami a migliorare il podcast e il sito">
+                                            <img data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1558428828/amazon.png" alt="Supporta Riccardo.im" class="cld-responsive lazyload" />
+                                        </a>
+                    </aside>
+                    <!-- VIDEO FULL -->
+                        <div class="videoWrapper embed-responsive embed-responsive-4by3" data-yt-url="{{.Params.video}}">
+                            <img data-src="https://res.cloudinary.com/riccardoim/image/upload/w_auto,c_scale,q_75,f_auto/v1560417069/recensioni/Dell-XPS-13-9380/dell-xps-13-9380-video-recensione.jpg" alt="Video Recensione {{ .Title }}" class="cld-responsive lazyload play-youtube-video">
+                        </div>
+                    <!-- FINE VIDEO -->
+            </div>
+</section>
+
+
+        <!-- DISQUS -->
+
+        <div class="single-project row-col-12 atail-post-comments-wrapper"
+            style="margin-bottom: 0; border-right:0">
+            <div class="col-md-2"></div>
+            <aside class="col-md-8 no-padding-left">
+                {{ partial "disqus-comments.html" . }}
+            </aside>
+        </div>
+
+        <!-- FINE DISQUS -->
+        <!-- FINE PAGINA -->
+</article>
+        <!-- main-scroll -->
+</main> <!-- main -->
+{{ partial "aside.html" . }}
+</div> <!-- atail -->
+
+<script src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
+<script src="{{.Site.BaseURL}}js/lazysizes.min.js" async ></script>
+<script src="{{.Site.BaseURL}}js/typed.min.js"></script>
+<script>
+    var typed = new Typed('#typed',{
+         strings:["{{.Params.typed1}}", "{{.Params.typed2}}", "{{.Params.typed3}}", "{{.Params.typed4}}"],
+         backSpeed: 40,
+        typeSpeed: 60,
+         loop: false
+        });
+</script>
+<script>
+const cl = cloudinary.Cloudinary.new({ cloud_name: 'riccardoim' })
+cl.responsive()
+</script>
+<script src='{{.Site.BaseURL}}js/lightbox.js' async ></script>
+<script id="dsq-count-scr" src="//riccardo-im.disqus.com/count.js" async ></script>
+<script async src="https://apis.google.com/js/platform.js"></script>
+{{ partial "footer-review.html" . }}
