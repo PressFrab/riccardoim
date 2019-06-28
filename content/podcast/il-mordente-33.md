@@ -1,6 +1,6 @@
 ---
 title: "Tutta questa impresa, poi il sabato all'iper a far la spesa"
-date: 2019-06-28T010:20:26+02:00
+date: 2019-06-28T10:46:26+02:00
 numero: "33"
 slug: "il-mordente-33"
 description: "Ne Il Mordente 33 vi parlo di illusione e di prospettive sbagliate, del mio intervento al Festival del Podcast 2019, di cosa ho imparato alla Blockchain Week Rome 2019."
@@ -27,4 +27,4 @@ C'è dell'altro: il 12 ottobre 2019 parteciperò al <mark>Festival del Podcastin
 <li><a href="https://amzn.to/2TVaMbA" target="_blank" rel="nofollow" title="Amazon Audible">Audible gratis</a> per 30 giorni.</li>
 <li><a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" rel="nofollow" title="Kindle Unlimited 30 giorni">Kindle Unlimited</a> gratis per 30 giorni.</li>
 <li><a href="https://festivaldelpodcasting.eventbrite.co.uk?discount=FRIEND-FREE" title="Festival del Podcasting 2019" target="_blank" rel="nofollow">Festival del Podcasting 2019</a>, con il codice FRIEND-FREE.</li>
-</ul> 
+</ul>
