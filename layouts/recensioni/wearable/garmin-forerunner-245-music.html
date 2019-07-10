@@ -47,7 +47,7 @@
                             {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
                         </span></span>
                     <span class="atail-multitext-text">Discussione
-                    <span><a href="#disqus_thread" title="Leggi i commenti"></a></span>
+                    <span><a href="#disqus_thread" title="Leggi i commenti">Leggi i commenti</a></span>
                     </span>
                     <span class="atail-multitext-text">Tempo di lettura <span>20-27 minuti</span></span>
                 </div>
@@ -589,12 +589,11 @@
 <!-- atail -->
 
 <script src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
-<script src="{{.Site.BaseURL}}js/lazysizes.min.js" async></script>
+<script async src="{{.Site.BaseURL}}js/lazysizes.min.js"></script>
 <script>
     const cl = cloudinary.Cloudinary.new({ cloud_name: 'riccardoim' })
     cl.responsive()
 </script>
-<script src='{{.Site.BaseURL}}js/lightbox.js' async></script>
-<script id="dsq-count-scr" src="//riccardo-im.disqus.com/count.js" async></script>
+<script async src='{{.Site.BaseURL}}js/lightbox.js'></script>
 <script async src="https://apis.google.com/js/platform.js"></script>
 {{ partial "footer-review.html" . }}
