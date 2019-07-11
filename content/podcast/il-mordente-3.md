@@ -4,7 +4,7 @@ slug: "il-mordente-3"
 date: 2018-12-17T11:30:00+01:00
 numero: "3"
 description: "La terza puntata del podcast Il Mordente, un'idea di Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-3.jpg"
+featured_image: "v1562766603/Podcast/podcast_il-mordente-3.jpg"
 scarica: "https://ilmordente.podbean.com/mf/play/42qfua/il-mordente-podcast-3.mp3"
 caption: "Festina lente, tartaruga con la vela."
 podcast: current-menu-item

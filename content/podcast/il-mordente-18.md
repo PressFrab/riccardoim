@@ -4,7 +4,7 @@ date: 2019-03-21T17:50:21+01:00
 numero: "18"
 slug: "il-mordente-18"
 description: "Puntata 18 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-18.jpg"
+featured_image: "v1562766604/Podcast/podcast_il-mordente-18.jpg"
 caption: "Il titolo è una citazione da “L'ordine del tempo“ di Carlo Rovelli. È al termine di un discorso sugli eventi (baci) e sulle cose (sassi). Sopra, il Sistema Internazionale delle unità di misura (SI)."
 scarica: "https://api.spreaker.com/v2/episodes/17395002/download.mp3"
 podcast: current-menu-item

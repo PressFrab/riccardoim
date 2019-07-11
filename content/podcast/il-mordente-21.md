@@ -4,7 +4,7 @@ date: 2019-04-11T05:37:27+02:00
 numero: "21"
 slug: "il-mordente-21"
 description: "Puntata 21 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-21.jpg"
+featured_image: "v1562766603/Podcast/podcast_il-mordente-21.jpg"
 caption: "Una giovanissima Kim Gordon. La bassista dei Sonic Youth, assieme al marito Thurston Moore, fu da mentore per Kurt Cobain durante tutta la sua carriera. È ancora un'artista produttiva."
 scarica: "https://api.spreaker.com/v2/episodes/17594550/download.mp3"
 podcast: current-menu-item

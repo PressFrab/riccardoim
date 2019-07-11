@@ -3,7 +3,7 @@ title: "Non diventate gente che aspetta il venerdì"
 date: 2019-05-04T05:42:07+02:00
 numero: 25
 description: "Puntata 25 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-25.jpg"
+featured_image: "v1562766604/Podcast/podcast_il-mordente-25.jpg"
 numerodata: "Puntata 25 del 04 maggio 2019"
 caption: "Probabilmente avrò bisogno di una nuova videocamera. Magari la Tamvision armeggiata in questa foto dall'operatore Tuomo Kurikka nel 1965 (non sto inventando, è tutto documentato su Flickr."
 podcast: current-menu-item

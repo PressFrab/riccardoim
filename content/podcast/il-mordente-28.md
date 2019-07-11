@@ -4,11 +4,10 @@ date: 2019-05-22T05:48:01+02:00
 numero: "28"
 slug: "il-mordente-28"
 description: "Puntata 28 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-28.jpg"
+featured_image: "v1562766602/Podcast/podcast_il-mordente-28.jpg"
 caption: "Uno dei \"Libri illeggibili\" di Bruno Munari. Il libro come oggetto, indipendentemente dalle parole stampate, può comunicare qualcosa? Certo, ma diventa un'altra cosa - secondo me."
 scarica: "https://api.spreaker.com/v2/episodes/18035140/download.mp3"
 podcast: current-menu-item
-
 ---
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/18035140" data-resource="episode_id=18035140" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Ascolta "Perché vorrei lavorare per Huawei (e come ascoltare le newsletter)." su Spreaker.</a>

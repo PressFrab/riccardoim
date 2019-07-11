@@ -4,7 +4,7 @@ date: 2019-06-14T05:46:26+02:00
 numero: "31"
 slug: "il-mordente-31"
 description: "Puntata 31 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-31.jpg"
+featured_image: "v1562766604/Podcast/podcast_il-mordente-31.jpg"
 podcast: current-menu-item
 ---
 

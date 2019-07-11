@@ -4,7 +4,7 @@ slug: "il-mordente-1"
 numero: "1"
 date: 2018-12-01T10:01:26+01:00
 description: "Prima puntata con la presentazione del Podcast e il mio recente viaggio a Firenze."
-featured_image: "v1560585790/podcast/il-mordente-1.jpg"
+featured_image: "v1562766603/Podcast/podcast_il-mordente-1.jpg"
 scarica: "https://ilmordente.podbean.com/mf/play/pv83we/il_mordente_01.mp3"
 caption: "Madonna della Melagrana, 1487 - Botticelli"
 podcast: current-menu-item

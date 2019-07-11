@@ -4,7 +4,7 @@ numero: "16"
 date: 2019-03-13T21:03:33+01:00
 slug: "il-mordente-16"
 description: "Puntata 16 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-16.jpg"
+featured_image: "v1562766603/Podcast/podcast_il-mordente-16.jpg"
 caption: "La mappa italiana degli eventi Fridays For Future di venerdì 15 marzo. Sono previsti più di 100 scioperi organizzati."
 scarica: "https://api.spreaker.com/v2/episodes/17311684/download.mp3"
 podcast: current-menu-item

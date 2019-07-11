@@ -4,10 +4,9 @@ date: 2019-06-28T10:46:26+02:00
 numero: "33"
 slug: "il-mordente-33"
 description: "Ne Il Mordente 33 vi parlo di illusione e di prospettive sbagliate, del mio intervento al Festival del Podcast 2019, di cosa ho imparato alla Blockchain Week Rome 2019."
-featured_image: "v1561705801/podcast/il-mordente-33.jpg"
+featured_image: "v1562766606/Podcast/podcast_il-mordente-33.jpg"
 podcast: current-menu-item
 ---
-
 <a class="spreaker-player" href="https://www.spreaker.com/episode/18402991" data-resource="episode_id=18402991" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" >Listen to "Tutta questa impresa, poi il sabato all&#39;iper a far la spesa." on Spreaker.</a>
 
 La mia settimana ha girato attorno alla <strong>Blockchain Week Rome 2019</strong>. Ho partecipato ai primi due giorni di corso, ho comprato un wallet hardware; ho pensato che c'è spazio, nel settore, per una divulgazione migliore. La puntata 33 del podcast Il Mordente si apre e si chiude proprio su queste impressioni.

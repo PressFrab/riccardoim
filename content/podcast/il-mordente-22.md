@@ -3,7 +3,7 @@ title: "Seduto al bar ad osservare la vita"
 date: 2019-04-18T09:50:48+02:00
 numero: "22"
 description: "Puntata 22 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-22.jpg"
+featured_image: "v1562766604/Podcast/podcast_il-mordente-22.jpg"
 caption: "Il mio interruttore per piangere. Notate lo strano attacco di quel microfono: dov'è collegato il cavo?"
 scarica: "https://api.spreaker.com/v2/episodes/17675257/download.mp3"
 podcast: current-menu-item

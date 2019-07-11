@@ -4,7 +4,7 @@ date: 2019-02-11T06:14:54+01:00
 slug: "il-mordente-11"
 numero: "11"
 description: "La undicesima puntata del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-11.jpg"
+featured_image: "v1562766603/Podcast/podcast_il-mordente-11.jpg"
 caption: "La pagina man del comando shutdown su una Ubuntu Linux 18.10."
 scarica: "https://ilmordente.podbean.com/mf/play/6g9kj4/il_mordente_11_1.mp3"
 podcast: current-menu-item

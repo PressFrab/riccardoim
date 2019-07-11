@@ -4,13 +4,11 @@ date: 2019-01-13T08:25:12+01:00
 slug: "il-mordente-7"
 numero: "7"
 description: "La settima puntata del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-7.jpg"
+featured_image: "v1562766604/Podcast/podcast_il-mordente-7.jpg"
 caption: "Rdx sotto carico in proiezione laterale della mia caviglia sinistra. Tendinite fuck you!"
 scarica: "https://ilmordente.podbean.com/mf/play/bqgiju/il_mordente_07.mp3"
 podcast: current-menu-item
 ---
-
-
 <a class="spreaker-player" href="https://www.spreaker.com/episode/16704641" data-resource="episode_id=16704641" data-width="100%" data-height="200" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" >Ascolta "#07 - Mirabilis Artifex." su Spreaker.</a>
 
 Il Mordente #07 è una puntata pensata in un modo e discussa in un altro. Tutto gira sul tenere alte le proprie buone maniere: come comportarsi quando non c'è un tornaconto? Io lo so. Ascoltate cosa ho da dire sulla miglior distro Linux per iniziare e su come apparire sicuri quando si ha davanti una telecamera. Ancora, ecco due letture da una nuova fonte, e i nuovi modi per seguirmi online: ho aperto i canali Telegram e YouTube, e pubblicato una Skill Alexa. Infine: come liberarsi dagli smartphone seguendo l'esempio di Jake.

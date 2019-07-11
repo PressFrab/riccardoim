@@ -4,7 +4,7 @@ date: 2019-06-20T05:46:26+02:00
 numero: "32"
 slug: "il-mordente-32"
 description: "Ne Il Mordente 32 rispondo a tre domande: come scegliere un computer portatile? Come iniziare a fare attività fisica quando non c'è motivazione? Quale corso di programmazione web?"
-featured_image: "v1560935431/podcast/il-mordente-32.jpg"
+featured_image: "v1562766607/Podcast/podcast_il-mordente-32.png"
 podcast: current-menu-item
 ---
 

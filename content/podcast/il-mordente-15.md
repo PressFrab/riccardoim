@@ -3,7 +3,7 @@ title: "Di mattina leggo o scrivo o fabbrico matite"
 date: 2019-03-10T20:40:13+01:00
 slug: "il-mordente-15"
 description: "La quindicesima puntata del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-15.jpg"
+featured_image: "v1562766602/Podcast/podcast_il-mordente-15.jpg"
 caption: "La statua dedicata a Henry David Thoreau davanti alla riproduzione della capanna che costruì vicino al lago Walden. Tu si, Henry, hai una statua tutta tua (e chissà quante vie)."
 scarica: "https://ilmordente.podbean.com/mf/play/6k4cmh/il_mordente_15.mp3"
 podcast: current-menu-item

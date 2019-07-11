@@ -4,7 +4,7 @@ date: 2019-03-18T18:13:46+01:00
 numero: "17"
 slug: "il-mordente-17"
 description: "Puntata 17 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-17.jpg"
+featured_image: "v1562766604/Podcast/podcast_il-mordente-17.jpg"
 caption: "Sbobiniamo con Walter Murch. Di recente ho visto un banco del genere in vendita al mercatino."
 scarica: "https://api.spreaker.com/v2/episodes/17360874/download.mp3"
 podcast: current-menu-item

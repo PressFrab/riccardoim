@@ -3,7 +3,7 @@ title: "Vale forse la pena affaticarsi per udire la propria eco?"
 date: 2019-04-25T05:45:10+02:00
 numero: 23
 description: "Puntata 23 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-23.jpg"
+featured_image: "v1562766605/Podcast/podcast_il-mordente-23.jpg"
 caption: "Uprooted feeling (trad. sentimento sradicato) di Samantha Passaniti. Copyright @samanthapassaniti.com"
 podcast: current-menu-item
 ---

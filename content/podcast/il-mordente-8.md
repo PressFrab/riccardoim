@@ -4,7 +4,7 @@ date: 2019-01-21T06:04:00+01:00
 slug: "il-mordente-8"
 numero: "8"
 description: "L'ottava puntata del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-8.jpg"
+featured_image: "v1562766604/Podcast/podcast_il-mordente-8.jpg"
 caption: "La targa dedicata a Giuseppe Baffigi, poeta e musicista, a Giglio Castello, Toscana."
 scarica: "https://ilmordente.podbean.com/mf/play/raep8h/podcast_il_mordente_08.mp3"
 podcast: current-menu-item

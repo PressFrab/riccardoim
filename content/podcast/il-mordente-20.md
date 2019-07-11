@@ -4,7 +4,7 @@ date: 2019-04-04T17:16:23+02:00
 numero: "20"
 slug: "il-mordente-20"
 description: "Puntata 20 del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-20.jpg"
+featured_image: "v1562766603/Podcast/podcast_il-mordente-20.jpg"
 caption: "Una scena del film 'Barnabo delle montagne' di Mario Brenta. La pellicola è stata premiata al Trento Film Festival 1995. Non lo ho ancora visto, ma rimedierò."
 scarica: "https://api.spreaker.com/v2/episodes/17531019/download.mp3"
 podcast: current-menu-item

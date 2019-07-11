@@ -3,7 +3,7 @@
     <ul>
          {{ range first 4 (where (where .Site.Pages "Section" "podcast") ".Title" "!=" "Podcast" )}}
         <li>
-                <img data-src="https://res.cloudinary.com/riccardoim/image/upload/w_50,c_scale,q_75,f_auto/v1560585790/podcast/il-mordente-{{.Params.numero}}.jpg" alt="{{ .Title }}" class="cld-responsive"/>
+                <img data-src="https://res.cloudinary.com/rim/image/upload/w_50,c_scale,q_75,f_auto/{{.Params.featured_image }}" alt="{{ .Title }}" class="cld-responsive"/>
             <div>
                 <a href="{{ .Permalink }}" title="Ascolta Il Mordente {{ .Params.numero }}">{{ .Title }}</a>
                 <div class="recent-post-info">

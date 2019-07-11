@@ -4,7 +4,7 @@ date: 2019-01-06T09:55:49+01:00
 slug: "il-mordente-6"
 numero: "6"
 description: "La sesta puntata del podcast Il Mordente, registrato e curato da Riccardo Palombo."
-featured_image: "v1560585790/podcast/il-mordente-6.jpg"
+featured_image: "v1562766605/Podcast/podcast_il-mordente-6.jpg"
 caption: "La mia ruota sgonfia, bucata il 31 dicembre 2018 a 20 km da casa."
 scarica: "https://ilmordente.podbean.com/mf/play/3ju3u2/il_mordente_06.mp3"
 podcast: current-menu-item

@@ -4,7 +4,7 @@ slug: "il-mordente-5"
 numero: "5"
 description: "La quinta puntata del podcast Il Mordente, registrato e curato da Riccardo Palombo."
 date: 2018-12-30T09:12:50+01:00
-featured_image: "v1560585790/podcast/il-mordente-5.jpg"
+featured_image: "v1562766604/Podcast/podcast_il-mordente-5.jpg"
 caption: "L'abbazia di Fossanova, comune di Priverno. Io non sono un credente, ma certi luoghi..."
 scarica: "https://ilmordente.podbean.com/mf/play/s2cbyk/il_mordente_05.mp3"
 podcast: current-menu-item
