@@ -23,6 +23,5 @@ Ecco i consigli di questa settimana:
 ## Link utili
 <ul>
 <li><a class="text-info" href="https://amzn.to/2VQIap0" target="_blank" rel="nofollow" title="Vedi il libro Il cervello musicale">Il cervello musicale</a> di Daniele Schön.</li>
-<li><a class="text-info" href="https://amzn.to/2TVaMbA" target="_blank" title="Amazon Audible">Prova Audible gratis</a>  per 30 giorni.</li>
 <li><a class="text-info" href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" title="Kindle Unlimited 30 giorni">Prova Kindle Unlimited</a>  gratis per 30 giorni.</li>
 </ul>

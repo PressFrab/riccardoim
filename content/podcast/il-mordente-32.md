@@ -25,6 +25,5 @@ Come al solito potete mandare un messaggio vocale (o di testo, se siete ~~timidi
 <li><a href="https://amzn.to/2XZ099B" target="_blank" rel="nofollow" title="Vedi il libro Lo storno di Mozart e altri animali famosi">Lo storno di Mozart e altri animali famosi</a> di Elena Passarello.</li>
 <li><a href="https://amzn.to/2XfvO9Z" target="_blank" rel="nofollow" title="Vedi il libro Il potere delle abitudini">Il potere delle abitudini</a> di Charles Duhigg.</li>
 <li><a href="https://internetingishard.com/" target="_blank" rel="nofollow" title="Interneting Is Hard">Interneting Is Hard</a>: friendly web development tutorials for complete beginners.</li>
-<li><a href="https://amzn.to/2TVaMbA" target="_blank" rel="nofollow" title="Amazon Audible">Audible gratis</a> per 30 giorni.</li>
 <li><a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" rel="nofollow" title="Kindle Unlimited 30 giorni">Kindle Unlimited</a> gratis per 30 giorni.</li>
 </ul>

@@ -19,7 +19,6 @@ Potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**,
 Ecco i libri consigliati questa settimana:
 ## Link utili
 <ul>
-<li><a class="text-info" href="https://amzn.to/2TVaMbA" target="_blank" title="Amazon Audible">Audible gratis per 90 giorni</a>.</li>
 <li><a class="text-info" href="https://amzn.to/2BP7vU9" target="_blank" rel="nofollow" title="Vedi il libro di Fulvio Massini">Andiamo a correre</a> di Fulvio Massini.</li>
 <li><a class="text-info" href="https://amzn.to/2GELdZr" target="_blank" rel="nofollow" title="Vedi il libro di Orlando Pizzolato">Correre secondo Orlando Pizzolato</a> di Orlando Pizzolato.</li>
 <li><a class="text-info" href="https://amzn.to/2GHRUKl" target="_blank" rel="nofollow" title="Vedi il libro 80/20 Running">80 / 20 Running</a> di Matt Fitzgerald.</li>
