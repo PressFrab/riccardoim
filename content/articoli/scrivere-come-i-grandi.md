@@ -1,23 +1,22 @@
 ---
 title_interno: "Appunti di scrittura creativa"
-title: "Scrivere come i grandi"
-date: 2019-07-20T03:54:49+02:00
+title: "Appunti di scrittura creativa #1"
+date: 2019-07-22T10:14:49+02:00
 articoli: current-menu-item
-draft: 1
-slug: "appunti-scrittura-creativa"
-immagine_testa: riccardo-im-logo.png
-description: "Online il nuovo sito di Riccardo Palombo. Recensioni, articoli e le puntate del podcast Il Mordente."
+slug: "scrivere-come-i-grandi"
+immagine_testa: appunti-riccardo-palombo.png
+description: "Appunti della lezione di scrittura creativa intitolata Scrivere come i grandi: imparare i segreti di scrittura dai maestri."
 categoria: "2"
 
 ---
 
-![Riccardo Palombo Sito Ufficiale](../../img/articoli/riccardo-palombo-lancio-wide.png "Riccardo Palombo Sito Ufficiale")
+![Appunti di scrittura creativa](../../img/articoli/appunti-scrittura-creativa.png "Appunti di scrittura creativa: scrivere come i grandi")
 
-Seguono gli appunti di scrittura creativa della lezione di sabato 20 luglio 2019 a Roma (titolo: "Scrivere come i grandi: come imparare i segreti di scrittura dai maestri"; docente: Francesco Izzo). Sono righe sparse ed estrapolate quindi utili solo a me. È stata una lezione piacevole perché è sempre bello sentire una persona colta parlare di letteratura, del leggere e dello scrivere, ma avrei preferito un'analisi sulle tecniche degli autori. Calvino e Murakami, per dire, sono stati appena citati nonostante fossero nel sommario promozionale. Altre considerazioni nelle note a fine articolo.
+Seguono gli appunti della lezione di sabato 20 luglio 2019 a Roma (titolo: "Scrivere come i grandi: come imparare i segreti di scrittura dai maestri"; docente: Francesco Izzo). Sono righe sparse ed estrapolate quindi utili solo a me. È stata una lezione piacevole che ho voluto seguire per arricchire le "Lezioni di letteratura" di Nabokov. Inoltre è sempre bello sentire una persona colta parlare del leggere e dello scrivere, anche se avrei preferito un'analisi delle tecniche degli autori; Calvino e Murakami, per dire, sono stati appena citati nonostante fossero nel sommario promozionale. Altre considerazioni nelle note a fine pagina.
 
 ### Scrivere come i grandi
 
-Alla base di tutto, ci sono due metodi:
+Ci sono due metodi alla base di tutto:
 
 1.  Trovare la propria voce.
 2.  Imparare copiando (quindi leggere con metodo, leggere da scrittori).
@@ -43,31 +42,28 @@ L’idea si manifesta in tre modi (si può partire da):
 -   Leggere Dostoevskij serve a capire la tragicità dei personaggi: polarizzazione estrema di ogni personaggio. Cerca di capire la filosofia dei suoi personaggi (Roth è un erede di questa filosofia).
 -   Leggere Kafka per il suo linguaggio chiaro, pulito, onirico.
 -   Fonti: personaggi, corrispondenze, cose di un tempo passato rielaborate dal nostro punto di vista.
--   Modus operandi (il sistema usato) ma nessuno ti garantisce che hai scelto la strada giusta.
--   David Foster Wallace: “letteratura è spiegare cosa vuole dire essere un ca**o di essere umano”.
+-   Modus operandi (il sistema usato): nessuno ti garantisce che hai scelto la strada giusta.
+-   David Foster Wallace: “Letteratura è spiegare cosa vuole dire essere un ca**o di essere umano”.
 -   <u>Uno scrittore vive delle proprie ca**ate</u>. Non bisogna mai risparmiarsi davanti alle nostre storie.
 -   Lo scrittore non è un tuttologo. Ogni scrittore ha il suo piccolo ambiente e spazio emblematico nel quale si muove. È importante per lui. La forza delle sue storie è questa specificità, l’essere diverse e tematiche.
+- Delitto e castigo: ci arriva dopo aver vissuto internamente la faccenda (il patibolo). Usa tutti i sensi. I personaggi hanno un peso teatrale.
+- I fratelli Karamazov: nasce da un fatto vero (accuse di razzismo all'amico in università).
+- Il giovane Holden: impoverire il proprio linguaggio ("impoverire" nel senso buono). Cercare la verità in una sola voce.
 
 ### Da cercare
 
--   Recuperare libro “Scrivere come i grandi” di William Cane. https://amzn.to/32J49Ow
--   Recuperare libro di Edoardo Albinati: “Oro colato”. https://amzn.to/30Ontb4
--   Recuperare “Esercizi di stile” di Quenau (lo ho già in Toscana?). https://amzn.to/2K7qehl
--   Recuperare “La macchia umana” di Roth (c'è anche l'audilibro). https://amzn.to/2K08fZQ
--   Recuperare “Quel pasticciaccio brutto de via Merulana” di Gadda (c'è audiolibro). https://amzn.to/2Goxcx4
--   Recuperare “Dostoevskij mio marito”. https://amzn.to/2SrNslM
+-   Recuperare "<a href="https://amzn.to/32J49Ow" title="Scrivere con i grandi" target="_blank" rel="nofollow">Scrivere come i grandi</a>" di William Cane.
+-   Recuperare il libro di Edoardo Albinati: "<a href="https://amzn.to/30Ontb4" title="Oro colato" target="_blank" rel="nofollow">Oro colato</a>".
+-   Recuperare "<a href="https://amzn.to/2K7qehl" title="Esercizi di stile" target="_blank" rel="nofollow">Esercizi di stile”</a>" di Quenau (lo ho già in Toscana?). 
+-   Recuperare "<a href="https://amzn.to/2K08fZQ" title="La macchina umana" target="_blank" rel="nofollow">La macchia umana</a>" di Roth (c'è anche l'audilibro).
+-   Recuperare "<a href="https://amzn.to/2Goxcx4" title="Quel pasticciaccio butto de via Merulana" target="_blank" rel="nofollow">Quel pasticciaccio brutto de via Merulana</a>"” di Gadda (c'è audiolibro).
+-   Recuperare "<a href="https://amzn.to/2SrNslM" title="Dostoevskij mio marito" target="_blank" rel="nofollow">Dostoevskij mio marito</a>". 
 -   Controllare il capitolo finale di "Delitto e castigo".
--   Guardare il monologo di Popolizio su "Delitto e Castigo" su YouTube.
--   Cercare “Mia madre, la mia bambina”. https://amzn.to/2XVuMRl
-
-**Delitto e castigo**: ci arriva dopo aver vissuto internamente la faccenda (il patibolo). Usa tutti i sensi. I personaggi hanno un peso teatrale.
-
-**I fratelli Karamazon**: nasce da un fatto vero (all’amico, in università: accuse di razzismo).
-
-**Il giovane Holden**: impoverire il suo linguaggio. Cercare la verità in una voce.
+-   Guardare il monologo di Popolizio per "Delitto e Castigo" su YouTube.
+-   Controllare "<a href="https://amzn.to/2XVuMRl" title="Mia madre, la mia bambina" target="_blank" rel="nofollow">Mia madre, la mia bambina</a>". 
 
 ### Note
 
-Avrei voluto i dettagli sullo stile della loro prosa, sugli intrecci delle loro trame e sul perché di certe scelte narrative. Questo lavoro è stato fatto per Dostoevskij, Salinger e, un poco, anche su Roth. Da approfondire i consigli di lettura e il suggerimento di riscrivere le parti e le pagine che più mi hanno colpito su un documento a parte (quindi non farlo con l'input vocale ma con la tastiera). A chi si interessa a questi argomenti consiglio anche il libro di Guido Conti "Imparare a scrivere con i grandi" di cui ho parlato nella [nona puntata del podcast](https://riccardo.im/podcast/il-mordente-9/ "Il Mordente 9").
+Come scritto in apertura, avrei voluto i dettagli sullo stile della prosa di certi autori, sugli intrecci delle loro trame e sul perché di certe scelte narrative. Questo lavoro è stato fatto su Dostoevskij, Salinger e, un poco, anche su Roth, ma non sugli altri - anche se il docente ha promesso di inviare delle slide complementari via email. Da approfondire i consigli di lettura e il suggerimento di riscrivere le parti e le pagine che più mi hanno colpito su un documento a parte (quindi non farlo con l'input vocale ma con una tastiera vera e propria). A chi si interessa di questi argomenti consiglio anche il libro di Guido Conti "Imparare a scrivere con i grandi" di cui ho parlato nella [nona puntata del podcast](https://riccardo.im/podcast/il-mordente-9/ "Ascolta Il Mordente #9").
 
 <sub>P.S. 23 persone in partenza, 16 persone dopo la pausa pranzo: 7 persone sono sparite?</sub> 
