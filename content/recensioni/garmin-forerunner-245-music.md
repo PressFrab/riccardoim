@@ -3,7 +3,7 @@ title: "Garmin Forerunner 245 Music"
 date: 2019-07-10T02:21:35+02:00
 articoli: current-menu-item
 slug: "garmin-forerunner-245-music"
-immagine_testa: garmin-forerunner-245-music.jpg
+immagine_testa: https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1562767820/recensioni/garmin-forerunner-245-music.jpg
 description: "La video recensione a Garmin Forerunner 245 Music di Riccardo Palombo. Test GPS, cardiofrequenzimetro, musica e confronto con altri sportwatch e smartwatch."
 categoria: "1"
 layout: wearable/garmin-forerunner-245-music
