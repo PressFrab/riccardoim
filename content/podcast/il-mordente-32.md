@@ -18,7 +18,7 @@ Il resto è un discorso a braccio sul mio giro in libreria e sul perché, deluso
 
 Come al solito potete mandare un messaggio vocale (o di testo, se siete ~~timidi~~ introversi) al <mark>3518516089</mark> su Whatsapp o Telegram. I messaggi servono per chiedere spiegazioni, proporre argomenti, restare in contatto. Se volete, possiamo restare in contatto. Seguono i consigli di questa settimana.
 
-## Link utili
+### Consigli
 <ul>
 <li><a href="https://amzn.to/2WSxTnQ" target="_blank" rel="nofollow" title="Vedi il libro Lezioni di letteratura">Lezioni di letteratura</a> di Vladimir Nabokov.</li>
 <li><a href="https://amzn.to/2Kpfzkr" target="_blank" rel="nofollow" title="Vedi il libro Del profumo dei croissants caldi e delle sue conseguenze sulla bontà umana">Del profumo dei croissants caldi e delle sue conseguenze sulla bontà umana.</a> di Ruwen Ogien.</li>

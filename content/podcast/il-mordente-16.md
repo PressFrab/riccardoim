@@ -18,7 +18,7 @@ Potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**,
 
 Ecco i consigli di questa settimana:
 
-## Link utili
+### Consigli
 <ul>
 <li><a class="text-info" href="https://amzn.to/2T49rhh" target="_blank" rel="nofollow" title="Vedi il libro Manuale del montaggio">Manuale del montaggio</a> di Diego Cassani.</li>
 <li><a class="text-info" href="https://amzn.to/2CkuHtP" target="_blank" rel="nofollow" title="Vedi il libro In un batter d'occhi">In un batter d'occhi. Una prospettiva sul montaggio cinematografico nell'era digitale</a> di Walter Murch.</li>

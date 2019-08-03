@@ -17,7 +17,7 @@ Il Mordente quattordici è il ritorno da Barcellona; sono i km di progressivo co
 Come al solito, potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**, oppure usare il modulo contatti in homepage per scrivere una e-mail. Le puntate de "Il Mordente" sono disponibili anche su <a class="text-info" title="Canale Youtube Riccardo Palombo" href="https://www.youtube.com/riccardopalombo">Youtube</a>. Ci vediamo domenica prossima alla RomaOstia 2019?
 
 Ecco i consigli di questa settimana:
-## Link utili
+### Consigli
 <ul>
 <li><a class="text-info" href="https://buffer.com/resources/vertical-video" target="_blank" title="Does Vertical Video Make a Difference?">Does Vertical Video Make a Difference?</a> su buffer.com</li>
 <li><a class="text-info" href="https://amzn.to/2Tb2srO" target="_blank" rel="nofollow" title="Vedi il libro Allenati ad essere felice">Allenati ad essere felice</a> di Fagnani e Ottavi.</li>

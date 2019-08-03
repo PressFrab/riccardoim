@@ -16,7 +16,7 @@ Anzitutto perdonate la voce nasale, ma è colpa del raffreddore. Nella quinta pu
 
 Comunque sia: buon capodanno 2019! E, coraggio, guardate il TED Talk di Susan Cain e prendete appunti. Poi potete inviare un messaggio vocale su Telegram o Whatsapp al numero **351 8516089**, oppure una e-mail dal modulo contatti in homepage. A seguire i dettagli sui consigli di questa puntata.
 
-## Link utili
+### Consigli
 <ul>
 <li>Il libro <a class="text-info" href="https://amzn.to/2RozP91" target="_blank" rel="nofollow" title="Vedi il libro Quiet su Amazon">Quiet. Il potere degli introversi in un mondo che non sa smettere di parlare</a> di Susan Cain.</li>
 <li>Il video YouTube: <a class="text-info" href="https://youtu.be/eWJVvNptHZ4"  rel="nofollow" target="_blank" title="Vai al video Youtube di Arnold">Arnold Schwarzenegger 2018 - The speech that broke the internet</a>.</li>

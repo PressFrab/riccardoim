@@ -16,7 +16,7 @@ Potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**,
 
 Ecco i contenuti consigliati in questo podcast:
 
-## Link utili
+### Consigli
 <ul>
 <li><a class="text-info" href="https://amzn.to/2Vgwmvh" target="_blank" rel="nofollow" title="Vedi il libro Scolpire il tempo">Scolpire il tempo</a> di Andrej Tarkovskij.</li>
 <li><a class="text-info" href="https://amzn.to/2vm32Vs" target="_blank" rel="nofollow" title="Vedi il libro Resisto dunque sono">Resisto dunque sono</a> di Pietro Trabucchi.</li>

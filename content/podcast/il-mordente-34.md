@@ -18,7 +18,7 @@ La seconda: è disponibile la Action per Google Assistant. La scaricate da <a hr
 
 Potete mandare un messaggio vocale (o di testo, se siete ~~timidi~~ introversi) al <mark>3518516089</mark> su Whatsapp o Telegram. I messaggi servono per chiedere spiegazioni, proporre argomenti, restare in contatto. Ecco, se volete, possiamo restare in contatto.
 
-## Link utili
+### Consigli
 <ul>
 <li><a href="https://amzn.to/2WSxTnQ" target="_blank" rel="nofollow" title="Vedi il libro Lezioni di letteratura">Lezioni di letteratura</a> di Vladimir Nabokov.</li>
 <li><a href="https://amzn.to/2NOp4Ms" target="_blank" rel="nofollow" title="Vedi il libro Come cambiare la tua mente">Come cambiare la tua mente</a> di Micheal Pollan.</li>

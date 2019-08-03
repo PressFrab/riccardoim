@@ -16,7 +16,7 @@ podcast: current-menu-item
 
 Comunque sia: buon Natale! E, coraggio: inviatemi messaggi vocali su Telegram, Whatsapp o Signal al numero **351 8516089**, oppure una e-mail dal modulo contatti in homepage. A seguire i consigli di questa puntata.
 
-## Link utili
+### Consigli
 <ul>
 <li><a class="text-info" href="https://amzn.to/2Rja7T8" target="_blank" rel="nofollow" title="Vedi il libro Art of Atari su Amazon">The Art of Atari</a> di Tim Lapetino.</li>
 <li><a class="text-info" href="https://amzn.to/2QOI7HQ" target="_blank" rel="nofollow" title="Vedi il libro Scrittura dal futuro su Amazon">Freeman's. Scrittori dal futuro</a> di J. Freeman.</li>

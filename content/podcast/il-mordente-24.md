@@ -16,7 +16,7 @@ Potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**,
 
 Ecco i libri consigliati in questo podcast:
 
-## Link utili
+### Consigli
 <ul>
 <li><a class="text-info" href="https://amzn.to/2UlXnJs" target="_blank" rel="nofollow" title="Vedi il libro On writing">On writing</a> di Stephen King.</li>
 <li><a class="text-info" href="https://amzn.to/2ZChdn8" target="_blank" rel="nofollow" title="Vedi il libro Da cosa nasce cosa">Da cosa nasce cosa</a> di Bruno Munari.</li>

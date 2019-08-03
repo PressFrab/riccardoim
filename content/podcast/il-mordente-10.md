@@ -17,7 +17,7 @@ Potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**,
 
 Ecco i consigli di questa puntata:
 
-## Link utili
+### Consigli
 <ul>
 <li><a class="text-info" href="https://amzn.to/2GbdaHS" target="_blank" rel="nofollow" title="Vedi il libro Storia dell'arte">La storia dell'arte</a> di Ernst H. Gombrich.</li>
 <li><a class="text-info" href="https://amzn.to/2SaDskb" target="_blank" rel="nofollow" title="Vedi il libro Tecnologie Radicali">Tecnologie radicali. Il progetto della vita quotidiana </a> di Adam Greenfield.</li>

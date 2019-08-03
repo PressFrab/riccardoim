@@ -18,7 +18,7 @@ Come al solito, potete inviare messaggi vocali su Telegram o Whatsapp al numero 
 
 Ecco i consigli di questa settimana:
 
-## Link utili
+### Consigli
 <ul>
 <li><a class="text-info" href="https://www.blockchainweekrome.com/" target="_blank" title="Vedi il sito Blockchain Week Rome 2019">Blockchain Week Rome 2019</a>, coupon sconto 10%: RICCARDOPALOMBO.</li>
 <li><a class="text-info" href="https://solar.lowtechmagazine.com/" target="_blank" title="Vedi il sito Low-Tech Magazine">Low-Tech Magazine Solar Edition</a>.</li>

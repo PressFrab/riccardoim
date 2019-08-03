@@ -18,7 +18,7 @@ Buon ascolto! E, coraggio: inviatemi messaggi vocali su Telegram o Whatsapp al n
 
 Libri consigliati in questa puntata:
 
-## Link utili
+### Consigli
 <ul>
 <li><a class="text-info" href="https://amzn.to/2Usbs8Z" target="_blank" rel="nofollow" title="Vedi il libro Bassotuba non c'è su Amazon">Bassotuba non c'è</a> di Paolo Nori.</li>
 <li><a class="text-info" href="http://www.storiaolivetti.it/upload/Iniziative%20culturali_Libri%20strenna_Elenco%20libri_6502.pdf" target="_blank" title="Vedi l'elenco dei libri Strenna Olivetti">Elenco libri Strenna & Olivetti</a> in PDF.</li>

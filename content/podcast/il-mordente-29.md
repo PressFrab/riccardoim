@@ -19,7 +19,7 @@ Come al solito, potete inviare messaggi vocali su Telegram o Whatsapp al numero 
 
 Ecco i consigli di questa settimana:
 
-## Link utili
+### Consigli
 <ul>
 <li><a class="text-info" href="https://amzn.to/2JHgaxC" target="_blank" rel="nofollow" title="Vedi il libro La vista da qui">La vista da qui</a> di Massimo Mantellini.</li>
 <li><a class="text-info" href="https://amzn.to/2EDn8zp" target="_blank" rel="nofollow" title="Vedi il libro Bassa risoluzione">Bassa risoluzione</a> di Massimo Mantellini.</li>

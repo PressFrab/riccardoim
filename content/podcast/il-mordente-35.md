@@ -18,7 +18,7 @@ Infine: corsa, con la lode all'osteopata che mi ha rimesso in piedi (Massimilian
 
 Potete mandare un messaggio vocale (o di testo, se siete ~~timidi~~ introversi) al <mark>3518516089</mark> su Whatsapp o Telegram. I messaggi servono per chiedere spiegazioni, proporre argomenti, restare in contatto. Se volete, possiamo restare in contatto.
 
-## Link utili
+### Consigli
 <ul>
 <li><a href="https://amzn.to/2WSxTnQ" target="_blank" rel="nofollow" title="Vedi il libro Lezioni di letteratura">Lezioni di letteratura</a> di Vladimir Nabokov.</li>
 <li><a href="https://italia.campus-party.org/cpit3-community-partner/" target="_blank" rel="nofollow" title="Registrati al Campus Party 2019">Campus Party Italia 2019</a> - ultimi biglietti gratuiti.</li>
