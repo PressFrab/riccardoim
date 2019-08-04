@@ -8,6 +8,7 @@
     <meta name="twitter:title" content="{{ .Title }}{{ if .IsHome }}{{ .Site.Title }}{{ else }} - Riccardo.im{{ end }}" />
     <meta name="twitter:site" content="{{ .Site.Params.twitter }}" />
     <meta name="twitter:creator" content="{{ .Site.Params.twitter }}" />
+    <meta property="twitter:image" content="https://riccardo.im/img/android-chrome-512x512.png">
 
     <!-- OG data -->
     <meta property="og:locale" content="it_IT" />
@@ -20,7 +21,8 @@
     {{ if isset .Params "date" }}<meta property="article:published_time" content="{{ time .Date }}" />{{ end }}
     <!-- Open Graph - Article -->
     <meta name="article:author" content="{{ .Site.Params.author }}">
-	<meta name="author" content="{{ .Site.Params.author }}">
+  <meta name="author" content="{{ .Site.Params.author }}">
+  <meta property="og:image" content="https://riccardo.im/img/android-chrome-512x512.png">
     <!-- JSON-LD -->
     {{ if .IsHome }}
     <script type="application/ld+json">

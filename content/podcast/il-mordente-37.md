@@ -1,6 +1,6 @@
 ---
 title: "Sinestesia"
-date: 2019-08-05T09:10:20+02:00
+date: 2019-08-04T09:10:20+02:00
 draft: true
 numero: "37"
 slug: "il-mordente-37"
