@@ -72,14 +72,14 @@
                 "name": "{{ .Site.Params.author }}"
             }
             "itemReviewed": {
-              "@type": "{{ .Params.tipologia }}",
+              "@type": "Thing",
               "image": "{{ .Params.immagine_testa }}",
               "name": "{{ .Title }}"
               },
               "reviewRating": {
               "@type": "Rating",
               "ratingValue": "{{ .Params.rating }}",
-              "bestRating": "5"
+              "bestRating": "5",
               },
               "name": "{{ .Title }}",
               "author": {
