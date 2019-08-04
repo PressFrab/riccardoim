@@ -48,10 +48,13 @@
             "datePublished": "{{ time .Date }}",
             "description": "{{ .Description }}",
             "image": "https://riccardo.im/img/android-chrome-512x512.png",
-            "publisher": "{{ .Site.Params.author }}",
+            "publisher":  {
+              "@type": "Person",
+              "name": "{{ .Site.Params.author }}",
+          }
             "author": {
                 "@type": "Person",
-                "name": "{{ .Site.Params.author }}"
+                "name": "{{ .Site.Params.author }}",
             }
          }
 
@@ -68,6 +71,22 @@
                 "@type": "Person",
                 "name": "{{ .Site.Params.author }}"
             }
+            "itemReviewed": {
+              "@type": "{{ .Params.tipologia }}",
+              "image": "{{ .Params.immagine_testa }}",
+              "name": "{{ .Title }}"
+              },
+              "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "{{ .Params.rating }}",
+              "bestRating": "5"
+              },
+              "name": "{{ .Title }}",
+              "author": {
+                "@type": "Person",
+                "name": "{{ .Site.Params.author }}",
+              },
+              "reviewBody": "{{ .Description }}",
          }
 
         {{ else }}
