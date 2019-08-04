@@ -6,6 +6,7 @@ slug: "dell-xps-13-9380"
 immagine_testa: https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1562767820/recensioni/dell-xps-13-9380.jpg
 description: "La video recensione a Dell XPS 13 9380 (Edizione 2019) di Riccardo Palombo. Benchmark, analisi hardware, autonomia e confronto con i migliori portatili."
 categoria: "1"
+rating: "4.5"
 layout: portatili/dell-xps-13-9380
 video: https://www.youtube.com/embed/88qzXgmdlOI
 sommario: "L'edizione 2019 "

@@ -6,6 +6,7 @@ slug: "garmin-forerunner-245-music"
 immagine_testa: https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1562767820/recensioni/garmin-forerunner-245-music.jpg
 description: "La video recensione a Garmin Forerunner 245 Music di Riccardo Palombo. Test GPS, cardiofrequenzimetro, musica e confronto con altri sportwatch e smartwatch."
 categoria: "1"
+rating: "4.5"
 layout: wearable/garmin-forerunner-245-music
 video: https://www.youtube.com/embed/uoVqFv8n6oE
 sommario: "Il Forerunner più flessibile abbraccia il doping sonoro."
