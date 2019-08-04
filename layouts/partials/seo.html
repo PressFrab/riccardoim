@@ -33,6 +33,7 @@
           "name": "{{ .Site.Params.author }}"
         },
       "description": "{{ .Site.Params.description }}",
+      "image": "https://riccardo.im/img/android-chrome-512x512.png"
     }
     </script>
     {{ end }}
@@ -46,6 +47,8 @@
             "url": "{{ .Permalink }}",
             "datePublished": "{{ time .Date }}",
             "description": "{{ .Description }}",
+            "image": "https://riccardo.im/img/android-chrome-512x512.png",
+            "publisher": "{{ .Site.Params.author }}",
             "author": {
                 "@type": "Person",
                 "name": "{{ .Site.Params.author }}"
@@ -60,6 +63,7 @@
             "url": "{{ .Permalink }}",
             "datePublished": "{{ time .Date }}",
             "description": "{{ .Description }}",
+            "image": "https://riccardo.im/img/android-chrome-512x512.png",
             "author": {
                 "@type": "Person",
                 "name": "{{ .Site.Params.author }}"
@@ -72,11 +76,12 @@
           "@type": "WebSite", 
           "url": "{{ .Permalink }}", 
           "name": "{{ .Title }}",
+          "image": "https://riccardo.im/img/android-chrome-512x512.png",
            "author": {
               "@type": "Person",
               "name": "{{ .Site.Params.author }}"
             },
-          "description": "{{ .Site.Params.description }}",
+          "description": "{{ .Description }}"
         }
         {{ end }}
         </script>
