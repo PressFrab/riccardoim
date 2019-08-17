@@ -1,6 +1,6 @@
 ---
 title_interno: "Rivoltellate al senso comune"
-title: "Appunti di Nabokov"
+title: "Rivoltellate al senso comune"
 date: 2019-08-17T11:38:40+02:00
 articoli: current-menu-item
 slug: "lezioni-di-letteratura-nabokov"
