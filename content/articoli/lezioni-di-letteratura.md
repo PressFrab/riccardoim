@@ -7,7 +7,6 @@ slug: "lezioni-di-letteratura-nabokov"
 immagine_testa: appunti-riccardo-palombo.png
 description: "L'ultimo capitolo di Lezioni di Letteratura di Nabokov è dedicato all'arte della letteratura e al senso comune."
 categoria: "2"
-
 ---
 
 ![Lezioni di letteratura di Nabokov](../../img/articoli/appunti-di-letteratura-nabokov.gif "Lezioni di letteratura di V. Nabokov")
@@ -25,7 +24,7 @@ Lezioni di letteratura è un librone. Io ho saltato i paragrafi più descrittivi
 <figure>
                 <a href="https://gofile.io/?c=BukEeG" target="_blank" rel="noopener" title="Leggi il PDF di L'arte della letteratura e il senso comune.">
                     <img
-                        data-src="https://res.cloudinary.com/rim2/image/upload/w_auto,c_scale,q_75,f_auto/v1566034511/lezioni-letteratura-senso-comune.png"
+                        data-src="https://res.cloudinary.com/rim2/image/upload/w_auto,c_scale,q_75,f_auto/v1566037615/lezioni-di-letteratura-nabokov.png"
                         alt="Lezioni di letteratura di Nabokov. Senso comune." class="cld-responsive lazyload">
                 </a>
 </figure>
