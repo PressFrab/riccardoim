@@ -17,18 +17,3 @@ typed2: ""
 typed3: ""
 typed4: ""
 ---
-
-Features
-Built-in 120GB SSD [NEO S1] or 240GB SSD [NEO S2] 
-HDMI output (4K @ 30Hz)
-USB 3.0 port x 2
-USB-C (for Power Delivery)
-Compatibility
-Apple MacBook Air 13" (2018)
-Apple MacBook Pro 13" (2016, 2017, 2018)
-Apple MacBook Pro 15" (2016, 2017, 2018)
-Size
-115.0mm x 43.5mm x 11.00mm
-Available Colours
-Silver
-Space Gray
