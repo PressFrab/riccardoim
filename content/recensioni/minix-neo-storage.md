@@ -1,6 +1,6 @@
 ---
 title: "Minix Neo Storage"
-date: "2019-08-20T12:45:18+02:00"
+date: "2019-08-20T12:50:18+02:00"
 recensioni: current-menu-item
 slug: "minix-neo-storage"
 immagine_testa: "https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1566297372/recensioni/minix-neo-storage.jpg"
