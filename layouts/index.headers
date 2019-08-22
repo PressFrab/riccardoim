@@ -10,7 +10,7 @@ Link: </fonts/montserrat-v13-latin-700.woff2>; rel=preload; as=font; crossorigin
 Link: </fonts/hind-v9-latin-300.woff2>; rel=preload; as=font; crossorigin
 Link: </fonts/hind-v9-latin-regular.woff2>; rel=preload; as=font; crossorigin
 Link: </fonts/hind-v9-latin-regular.woff2>; rel=preload; as=font; crossorigin
-Link: </css/main-combo.css>; rel=preload; as=style; nopush
+Link: </css/main-unito.css>; rel=preload; as=style; nopush
 Link: </js/main_noflash.js>; rel=preload; as=script; nopush
 Link: </js/quicklink.umd.js>; rel=preload; as=script; nopush
 
@@ -50,7 +50,7 @@ Cache-Control: public, max-age=31556926, immutable
 /js/lazysizes.min.js
 Cache-Control: public, max-age=31556926, immutable
 
-/css/main-combo.css
+/css/main-unito.css
 Cache-Control: public, max-age=31556926
 
 /css/lightbox.css
