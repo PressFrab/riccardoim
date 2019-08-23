@@ -892,7 +892,89 @@
                     <!-- FINE VIDEO -->
             </div>
 </section>
+<!-- PREV-NEXT -->
+<div class="row-col-12">
 
+    <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
+        <div class="single-project-prev atail-project-nav">
+            {{if .PrevInSection}}
+            <a href="{{.PrevInSection.Permalink}}"
+                class="single-project-link-arrow" title="Recensione precedente">
+                <span class="single-project-arrow">
+                    <svg version="1.1"
+                        xmlns="http://www.w3.org/2000/svg" x="0px"
+                        y="0px" width="57.143px"
+                        height="34.454px" viewBox="0 0 57.143 34.454"
+                        enable-background="new 0 0 57.143 34.454"
+                        xml:space="preserve">
+                        <g>
+                            <g>
+                                <polygon fill=""
+                                    points="51.908,17.599 46.891,13.1
+                                    46.891,17.094 6.904,17.094
+                                    6.904,18.094 46.891,18.094
+                                    46.891,22.099">
+                                </polygon>
+                            </g>
+                        </g>
+                    </svg>
+                </span>
+                <span>Precedente</span>
+            </a>
+
+            <a href="{{.PrevInSection.Permalink}}"
+                class="single-project-info" title="Recensione {{.PrevInSection.Title}}">
+                <div class="atail-project-image">
+                    <img data-src="{{.PrevInSection.Params.immagine_testa}}"
+                        alt="Recensione {{.PrevInSection.Title}}" class="cld-responsive lazyload" />
+                </div>
+                <h4>{{.PrevInSection.Title}}</h4>
+            </a>
+            {{end}}
+        </div>
+    </div>
+
+    <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
+        <div class="single-project-next atail-project-nav">
+            {{if .NextInSection}}
+            <a href="{{.NextInSection.Permalink}}"
+                class="single-project-link-arrow" title="Prossima recensione">
+                <span>Prossima</span>
+                <span class="single-project-arrow">
+                    <svg version="1.1"
+                        xmlns="http://www.w3.org/2000/svg" x="0px"
+                        y="0px" width="57.143px"
+                        height="34.454px" viewBox="0 0 57.143 34.454"
+                        enable-background="new 0 0 57.143 34.454"
+                        xml:space="preserve">
+                        <g>
+                            <g>
+                                <polygon fill=""
+                                    points="51.908,17.599 46.891,13.1
+                                    46.891,17.094 6.904,17.094
+                                    6.904,18.094 46.891,18.094
+                                    46.891,22.099">
+                                </polygon>
+                            </g>
+                        </g>
+                    </svg>
+                </span>
+            </a>
+
+            <a href="{{.NextInSection.Permalink}}"
+                class="single-project-info" title="Recensione {{.NextInSection.Title}}">
+                <div class="atail-project-image">
+                    <img data-src="{{.NextInSection.Params.immagine_testa}}"
+                        alt="Recensione {{.NextInSection.Title}}" class="cld-responsive lazyload" />
+                </div>
+                <h4>{{.NextInSection.Title}}</h4>
+            </a>
+            {{end}}
+        </div>
+    </div>
+
+</div>
+<!-- FINE PREV-NEXT -->
 
         <!-- DISQUS -->
 
