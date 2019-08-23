@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: riccardo.im
+Token: 59e63909256b5d81ef06c545e64355e52ad8347d0ba6c34beb7b7aafcbe91769
