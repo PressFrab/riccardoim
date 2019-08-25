@@ -5,6 +5,14 @@
             margin-bottom: 60px;
         }
     }
+@media (min-width:991px) {
+        .small li{
+            font-size: 1rem;
+        }
+    }
+.pari {
+    background-color: #f9f9f9; padding-top: 46px;margin-bottom: 60px !important;
+}
 </style>
 <main>
     <article class="main-scroll">
@@ -13,7 +21,7 @@
             <div class="col-md-4 no-padding-left col-sm-6">
                 <div class="promo-box ">
                     <h1>Tutti i libri consigliati</h1>
-                    <span class="small-title">Un elenco mai definitivo di tutti i libri discussi.</span>
+                    <span class="small-title">Un elenco <mark>mai definitivo</mark> di tutti i libri discussi.</span>
                 </div>
             </div>
             <div class="col-md-4 no-padding col-sm-6 newsletter">
@@ -23,17 +31,17 @@
         </div>
         <div class="row-col-12">
             <div class="col-md-8 col-md-push-2 no-padding-left">
-                <p>Vorrei curare una nuova newsletter per segnalare la pubblicazione di una video recensione o l'arrivo di un evento speciale. Le recensioni non saranno frequenti quindi non sarà un continuo di e-mail. Se pensi che ti sia utile, e se ti va, iscriviti utilizzando il modulo sotto. Se non funziona, usa <a href="https://tinyletter.com/RiccardoIM" rel="nofollow" title="Iscriviti alla newsletter" target="_blank">questo link</a>.</p>
+                <p>E allora ecco i libri di cui abbiamo parlato nelle puntate del podcast, più qualche extra. Ho lasciato fuori certe banalità (vi devo ricordare di leggere, per dire, Moby Dick?) e i titoli che a distanza di tempo ricordo con meno interesse. I link portano all'affiliazione di Amazon Italia perché mi aiutano a campare.</p>
             </div>
         </div>
 
         <!-- COLONNE -->
 
-        <section class="row-col-12">
-            <div class="col-md-8 col-md-push-2 no-padding-left col-sm-6 colonna">
+        <section class="row-col-12 pari">
+            <div class="col-md-8 col-md-push-2 no-padding-left col-sm-6">
                 <div>
                     <h3 class="small-title">
-                        <mark>STO LEGGENDO</mark>
+                        STO LEGGENDO
                     </h3>
                     <ul>
                         {{ range .Site.Data.libri.consigliati }}
@@ -44,8 +52,8 @@
             </div>
         </section>
 
-        <section class="row-col-12">
-            <div class="col-md-8 col-md-push-2 no-padding-left col-sm-6 colonna">
+        <section class="row-col-12 small">
+            <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6 colonna">
                 <div>
                     <h3 class="small-title">
                         TECNOLOGIA
@@ -57,10 +65,51 @@
                     </ul>
                 </div>
             </div>
+
+            <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6">
+                <div>
+                    <h3 class="small-title">
+                        INFORMATICA
+                    </h3>
+                    <ul>
+                        {{ range .Site.Data.libri.informatica }}
+                        <li><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo }}</a> di {{ .autore }}</li>
+                        {{end}}
+                    </ul>
+                </div>
+            </div>
         </section>
 
-        <section class="row-col-12">
-            <div class="col-md-8 col-md-push-2 no-padding-left col-sm-6 colonna">
+        <section class="row-col-12 small">
+            <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6 colonna">
+                <div>
+                    <h3 class="small-title">
+                        FORMAZIONE
+                    </h3>
+                    <ul>
+                        {{ range .Site.Data.libri.formazione }}
+                        <li><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo }}</a> di {{ .autore }}</li>
+                        {{end}}
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6">
+                <div>
+                    <h3 class="small-title">
+                        ALTRO
+                    </h3>
+                    <ul>
+                        {{ range .Site.Data.libri.altro }}
+                        <li><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo }}</a> di {{ .autore }}</li>
+                        {{end}}
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+
+        <section class="row-col-12 small">
+            <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6 colonna">
                 <div>
                     <h3 class="small-title">
                         SCIENZE UMANE
@@ -72,16 +121,69 @@
                     </ul>
                 </div>
             </div>
-        </section>
-
-        <section class="row-col-12">
-            <div class="col-md-8 col-md-push-2 no-padding-left col-sm-6 colonna">
+            <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6">
                 <div>
                     <h3 class="small-title">
-                        FORMAZIONE
+                        SCIENZE
                     </h3>
                     <ul>
-                        {{ range .Site.Data.libri.formazione }}
+                        {{ range .Site.Data.libri.scienze }}
+                        <li><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo }}</a> di {{ .autore }}</li>
+                        {{end}}
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="row-col-12 small">
+            <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6 colonna">
+                <div>
+                    <h3 class="small-title">
+                        NARRATIVA
+                    </h3>
+                    <ul>
+                        {{ range .Site.Data.libri.narrativa }}
+                        <li><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo }}</a> di {{ .autore }}</li>
+                        {{end}}
+                    </ul>
+                </div>
+            </div>
+
+           <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6">
+                <div>
+                    <h3 class="small-title">
+                        SCRITTURA
+                    </h3>
+                    <ul>
+                        {{ range .Site.Data.libri.scrittura }}
+                        <li><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo }}</a> di {{ .autore }}</li>
+                        {{end}}
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="row-col-12 small">
+            <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6 colonna">
+                <div>
+                    <h3 class="small-title">
+                        SPORT
+                    </h3>
+                    <ul>
+                        {{ range .Site.Data.libri.sport }}
+                        <li><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo }}</a> di {{ .autore }}</li>
+                        {{end}}
+                    </ul>
+                </div>
+            </div>
+
+           <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6">
+                <div>
+                    <h3 class="small-title">
+                        ALIMENTAZIONE
+                    </h3>
+                    <ul>
+                        {{ range .Site.Data.libri.alimentazione }}
                         <li><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo }}</a> di {{ .autore }}</li>
                         {{end}}
                     </ul>
