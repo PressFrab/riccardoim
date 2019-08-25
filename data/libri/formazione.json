@@ -1,0 +1,24 @@
+{
+ "1": {
+   "titolo": "Titolo 1",
+   "autore": "Montgomery",
+   "link": "#"
+ },
+ "2": {
+   "titolo": "Titolo 2",
+   "autore": "Murakami",
+   "link": "#"
+ },
+ "3": {
+   "titolo": "Titolo 3",
+   "autore": "Montgomery e Io",
+   "link": "#"
+ },
+ "4": {
+   "titolo": "Titolo 4",
+   "autore": "Murakami e Nietzhe",
+   "link": "#"
+ }
+
+}
+

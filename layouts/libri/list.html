@@ -1,0 +1,111 @@
+{{ partial "header.html" . }}
+<style>
+    @media (max-width:991px) {
+        .colonna {
+            margin-bottom: 60px;
+        }
+    }
+</style>
+<main>
+    <article class="main-scroll">
+        <div class="row ">
+            <div class="col-md-2"></div>
+            <div class="col-md-4 no-padding-left col-sm-6">
+                <div class="promo-box ">
+                    <h1>Tutti i libri consigliati</h1>
+                    <span class="small-title">Un elenco mai definitivo di tutti i libri discussi.</span>
+                </div>
+            </div>
+            <div class="col-md-4 no-padding col-sm-6 newsletter">
+                <img src="/img/libri-consigliati-riccardo-palombo.png" height="200" width="200" alt="Newsletter Riccardo Palombo" />
+            </div>
+            <div class="col-md-2 "></div>
+        </div>
+        <div class="row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <p>Vorrei curare una nuova newsletter per segnalare la pubblicazione di una video recensione o l'arrivo di un evento speciale. Le recensioni non saranno frequenti quindi non sarà un continuo di e-mail. Se pensi che ti sia utile, e se ti va, iscriviti utilizzando il modulo sotto. Se non funziona, usa <a href="https://tinyletter.com/RiccardoIM" rel="nofollow" title="Iscriviti alla newsletter" target="_blank">questo link</a>.</p>
+            </div>
+        </div>
+
+        <!-- COLONNE -->
+
+        <section class="row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left col-sm-6 colonna">
+                <div>
+                    <h3 class="small-title">
+                        <mark>STO LEGGENDO</mark>
+                    </h3>
+                    <ul>
+                        {{ range .Site.Data.libri.consigliati }}
+                        <li><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo }}</a> di {{ .autore }}</li>
+                        {{end}}
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left col-sm-6 colonna">
+                <div>
+                    <h3 class="small-title">
+                        TECNOLOGIA
+                    </h3>
+                    <ul>
+                        {{ range .Site.Data.libri.tecnologia }}
+                        <li><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo }}</a> di {{ .autore }}</li>
+                        {{end}}
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left col-sm-6 colonna">
+                <div>
+                    <h3 class="small-title">
+                        SCIENZE UMANE
+                    </h3>
+                    <ul>
+                        {{ range .Site.Data.libri.scienzeumane }}
+                        <li><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo }}</a> di {{ .autore }}</li>
+                        {{end}}
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left col-sm-6 colonna">
+                <div>
+                    <h3 class="small-title">
+                        FORMAZIONE
+                    </h3>
+                    <ul>
+                        {{ range .Site.Data.libri.scienzeumane }}
+                        <li><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo }}</a> di {{ .autore }}</li>
+                        {{end}}
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- FINE COLONNE-->
+
+    </article>
+    <!-- main-scroll -->
+
+    <div class="grid-bg row">
+        <div class="col-md-2"></div>
+        <div class="col-md-2"></div>
+        <div class="col-md-2"></div>
+        <div class="col-md-2"></div>
+        <div class="col-md-2"></div>
+        <div class="col-md-2"></div>
+    </div>
+    <!-- main-scroll -->
+</main>
+<!-- main -->
+{{ partial "aside.html" . }}
+</div>
+<!-- atail -->
+{{ partial "footer.html" . }}
