@@ -81,7 +81,7 @@
                         FORMAZIONE
                     </h3>
                     <ul>
-                        {{ range .Site.Data.libri.scienzeumane }}
+                        {{ range .Site.Data.libri.formazione }}
                         <li><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo }}</a> di {{ .autore }}</li>
                         {{end}}
                     </ul>
