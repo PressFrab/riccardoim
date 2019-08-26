@@ -1,6 +1,6 @@
 {
  "1": {
-   "titolo": "La lingua geniale",
+   "titolo": "La lingua geniale: 9 ragioni per amare il greco",
    "autore": "A. Marcolongo",
    "link": "https://amzn.to/2MlpOYa"
  },
@@ -12,7 +12,19 @@
  "3": {
    "titolo": "La storia dell'arte",
    "autore": "Ernst H. Gombrich",
-   "link": "https://amzn.to/2GbdaHS"
+   "link": "https://amzn.to/2GbdaHS",
+    "must": "1"
+ },
+ "4": {
+   "titolo": "Da cosa nasce cosa",
+   "autore": "Bruno Munari",
+   "link": "https://amzn.to/2ZChdn8",
+    "must": "1"
+ },
+ "5": {
+   "titolo": "Il potere delle abitudini",
+   "autore": "Charles Duhigg",
+   "link": "https://amzn.to/2XfvO9Z"
  }
 }
 

@@ -1,13 +1,14 @@
 {
  "1": {
-   "titolo": "Questione di virgole",
+   "titolo": "Questione di virgole: punteggiare rapido e accorto",
    "autore": "Leonardo Luccone",
    "link": "https://amzn.to/2Bmar9Y"
  },
  "2": {
    "titolo": "Come non scrivere",
    "autore": "Carlo Giunta",
-   "link": "https://amzn.to/2UrGjlx"
+   "link": "https://amzn.to/2UrGjlx",
+    "must": "1"
  },
  "3": {
    "titolo": "On Writing",
@@ -15,7 +16,7 @@
    "link": "https://amzn.to/2UlXnJs"
  },
  "4": {
-   "titolo": "Elementi di stile",
+   "titolo": "Elementi di stile nella scrittura",
    "autore": "W. Strunk",
    "link": "https://amzn.to/2RThSQP"
  },
@@ -27,7 +28,8 @@
  "6": {
    "titolo": "Lezioni di letteratura",
    "autore": "V. Nabokov",
-   "link": "#"
+   "link": "https://amzn.to/2ZsKNyf",
+    "must": "1"
  },
  "7": {
    "titolo": "Il mestiere dello scrittore",

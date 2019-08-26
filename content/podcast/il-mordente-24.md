@@ -22,7 +22,7 @@ Ecco i libri consigliati in questo podcast:
 <li><a class="text-info" href="https://amzn.to/2ZChdn8" target="_blank" rel="nofollow" title="Vedi il libro Da cosa nasce cosa">Da cosa nasce cosa</a> di Bruno Munari.</li>
 <li><a class="text-info" href="https://amzn.to/2ZGAoMR" target="_blank" rel="nofollow" title="Vedi il libro La Cultura. Numero 1000">La Cultura. Numero 1000</a> edizioni Il Saggiatore.</li>
 <li><a class="text-info" href="https://amzn.to/2XXgCem" target="_blank" rel="nofollow" title="Vedi il libro Ruba come un artista">Ruba come un artista</a> di Austin Kleon.</li>
-<li><a class="text-info" href="https://www.minimumfax.com/shop/product/i-maestri-della-luce-2163" target="_blank" title="Vedi il libro I Maestri della luce">I maestri della luce</a> di 
+<li><a class="text-info" href="https://amzn.to/33VK3Rz" target="_blank" title="Vedi il libro I Maestri della luce">I maestri della luce</a> di 
 Dennis Schaefer e Larry Salvato.</li>
 <li><a class="text-info" href="https://amzn.to/2XSTVrr" target="_blank" rel="nofollow" title="Vedi il libro Vevi">Vevi</a> di Erica Lillegg.</li>
 <li><a class="text-info" href="https://amzn.to/2Vgwmvh" target="_blank" rel="nofollow" title="Vedi il libro Scolpire il tempo">Scolpire il tempo</a> di Andrej Tarkovskij.</li>

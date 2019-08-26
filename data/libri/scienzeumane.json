@@ -5,24 +5,47 @@
    "link": "https://amzn.to/2KYz0Oq"
  },
  "2": {
-   "titolo": "Se tremi sull'orlo",
+   "titolo": "Se tremi sull'orlo: lettere a un cercatore di se",
    "autore": "H. D. Thoreau",
    "link": "https://amzn.to/2Gm6zeJ"
  },
  "3": {
    "titolo": "Walden. Vita nel bosco",
    "autore": "H. D. Thoreau",
-   "link": "https://amzn.to/2Gtg0JA"
+   "link": "https://amzn.to/2Gtg0JA",
+    "must": "1"
  },
  "4": {
-   "titolo": "Quiet",
+   "titolo": "Quiet: il potere degli introversi in un mondo che non sa smettere di parlare",
    "autore": "Susan Cain",
-   "link": "https://amzn.to/2RozP91"
+   "link": "https://amzn.to/2RozP91",
+    "must": "1"
  },
  "5": {
    "titolo": "Come diventare vivi",
    "autore": "G. Montesano",
    "link": "https://amzn.to/2SGoQt8"
+ },
+ "6": {
+   "titolo": "Filosofia della percezione",
+   "autore": "C. Calabi",
+   "link": "https://amzn.to/2HGfnek"
+ },
+ "7": {
+   "titolo": "I Simpson e la filosofia",
+   "autore": "Irwin, Conard e Skoble",
+   "link": "https://amzn.to/2KvGqdX"
+ },
+ "8": {
+   "titolo": "Del profumo dei croissants caldi e delle consequenze sulla bontà umana",
+   "autore": "Ruwen Ogien",
+   "link": "https://amzn.to/2Kpfzkr"
+ },
+ "9": {
+   "titolo": "Come cambiare la tua mente",
+   "autore": "Micheal Pollan",
+   "link": "https://amzn.to/2NOp4Ms",
+    "must": "1"
  }
 }
 
