@@ -1,23 +1,6 @@
 {{ partial "header.html" . }}
 <style>
-    @media (max-width:991px) {
-        .colonna {
-            margin-bottom: 60px;
-        }
-    }
-@media (min-width:991px) {
-        .small li{
-            font-size: 1rem;
-        }
-    }
-.pari {
-    background-color: #f9f9f9; padding: 60px 0 30px 0;margin-bottom: 60px !important;
-}
-
-ul > li.must::before {
-    background-color: red;
-
-}
+@media (max-width:991px){.colonna{margin-bottom:60px}}@media (min-width:991px){.small li{font-size:1rem}}.pari{background-color:#f9f9f9;padding:60px 0 30px 0;margin-bottom:60px!important}ul>li.must::before{background-color:red}
 </style>
 <main>
     <article class="main-scroll">
@@ -30,13 +13,16 @@ ul > li.must::before {
                 </div>
             </div>
             <div class="col-md-4 no-padding col-sm-6 newsletter">
-                <img src="/img/libri-consigliati-riccardo-palombo.png" height="200" width="200" alt="Newsletter Riccardo Palombo" />
+                <img src="/img/libri-consigliati-riccardo-palombo.png" height="200" width="200"
+                    alt="Libri consigliati da Riccardo Palombo" />
             </div>
             <div class="col-md-2 "></div>
         </div>
         <div class="row-col-12">
             <div class="col-md-8 col-md-push-2 no-padding-left">
-                <p>E allora ecco i libri di cui ho parlato nelle puntate del podcast, più qualche extra. Ho lasciato fuori certe banalità e ho tolto i titoli che a distanza di tempo ricordo con meno entusiasmo; quelli col puntino rosso, invece, sono i miei preferiti. I link portano all'affiliazione di Amazon Italia perché questo mi aiuta a campare.</p>
+                <p>E allora ecco i libri di cui ho parlato nelle puntate del podcast, più qualche extra. Ho lasciato
+                    fuori certe ovvietà e ho tolto i titoli che a distanza di tempo ricordo con meno entusiasmo; quelli
+                    con la stanghetta rossa, invece, mi sono piaciuti di più. I link portano all'affiliazione di Amazon perché questo mi aiuta a campare.</p>
             </div>
         </div>
 
@@ -50,8 +36,10 @@ ul > li.must::before {
                     </h3>
                     <ul>
                         {{ range .Site.Data.libri.consigliati }}
-                        <li{{ if .must }} class="must"{{ end }}><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo | truncate 40 "..."}}</a> di {{ .autore }}</li>
-                        {{end}}
+                        <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
+                                title="Vedi il libro {{ .titolo }}" target="_blank"
+                                rel="nofollow">{{ .titolo | truncate 35 "..."}}</a> di {{ .autore }}</li>
+                            {{end}}
                     </ul>
                 </div>
             </div>
@@ -65,8 +53,10 @@ ul > li.must::before {
                     </h3>
                     <ul>
                         {{ range .Site.Data.libri.tecnologia }}
-                        <li{{ if .must }} class="must"{{ end }}><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
-                        {{end}}
+                        <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
+                                title="Vedi il libro {{ .titolo }}" target="_blank"
+                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                            {{end}}
                     </ul>
                 </div>
             </div>
@@ -78,8 +68,10 @@ ul > li.must::before {
                     </h3>
                     <ul>
                         {{ range .Site.Data.libri.informatica }}
-                        <li{{ if .must }} class="must"{{ end }}><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
-                        {{end}}
+                        <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
+                                title="Vedi il libro {{ .titolo }}" target="_blank"
+                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                            {{end}}
                     </ul>
                 </div>
             </div>
@@ -93,8 +85,10 @@ ul > li.must::before {
                     </h3>
                     <ul>
                         {{ range .Site.Data.libri.scienzeumane }}
-                        <li{{ if .must }} class="must"{{ end }}><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
-                        {{end}}
+                        <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
+                                title="Vedi il libro {{ .titolo }}" target="_blank"
+                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                            {{end}}
                     </ul>
                 </div>
             </div>
@@ -105,8 +99,10 @@ ul > li.must::before {
                     </h3>
                     <ul>
                         {{ range .Site.Data.libri.scienze }}
-                        <li{{ if .must }} class="must"{{ end }}><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
-                        {{end}}
+                        <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
+                                title="Vedi il libro {{ .titolo }}" target="_blank"
+                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                            {{end}}
                     </ul>
                 </div>
             </div>
@@ -120,25 +116,60 @@ ul > li.must::before {
                     </h3>
                     <ul>
                         {{ range .Site.Data.libri.narrativa }}
-                        <li{{ if .must }} class="must"{{ end }}><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
-                        {{end}}
+                        <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
+                                title="Vedi il libro {{ .titolo }}" target="_blank"
+                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                            {{end}}
                     </ul>
                 </div>
             </div>
 
-           <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6">
+            <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6">
                 <div>
                     <h3 class="small-title">
                         SCRITTURA
                     </h3>
                     <ul>
                         {{ range .Site.Data.libri.scrittura }}
-                        <li{{ if .must }} class="must"{{ end }}><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
-                        {{end}}
+                        <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
+                                title="Vedi il libro {{ .titolo }}" target="_blank"
+                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                            {{end}}
                     </ul>
                 </div>
             </div>
         </section>
+
+        <section class="row-col-12 small">
+                <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6 colonna">
+                    <div>
+                        <h3 class="small-title">
+                            CULTURA
+                        </h3>
+                        <ul>
+                            {{ range .Site.Data.libri.formazione }}
+                            <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
+                                    title="Vedi il libro {{ .titolo }}" target="_blank"
+                                    rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                                {{end}}
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6">
+                    <div>
+                        <h3 class="small-title">
+                            CINEMA E ARTI
+                        </h3>
+                        <ul>
+                            {{ range .Site.Data.libri.video }}
+                            <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
+                                    title="Vedi il libro {{ .titolo }}" target="_blank"
+                                    rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                                {{end}}
+                        </ul>
+                    </div>
+                </div>
+            </section>
 
         <section class="row-col-12 small">
             <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6 colonna">
@@ -148,36 +179,10 @@ ul > li.must::before {
                     </h3>
                     <ul>
                         {{ range .Site.Data.libri.sport }}
-                        <li{{ if .must }} class="must"{{ end }}><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
-                        {{end}}
-                    </ul>
-                </div>
-            </div>
-
-           <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6">
-                <div>
-                    <h3 class="small-title">
-                        ARTI VISIVE
-                    </h3>
-                    <ul>
-                        {{ range .Site.Data.libri.video }}
-                        <li{{ if .must }} class="must"{{ end }}><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
-                        {{end}}
-                    </ul>
-                </div>
-            </div>
-        </section>
-
-        <section class="row-col-12 small">
-            <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6 colonna">
-                <div>
-                    <h3 class="small-title">
-                        FORMAZIONE
-                    </h3>
-                    <ul>
-                        {{ range .Site.Data.libri.formazione }}
-                        <li{{ if .must }} class="must"{{ end }}><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
-                        {{end}}
+                        <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
+                                title="Vedi il libro {{ .titolo }}" target="_blank"
+                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                            {{end}}
                     </ul>
                 </div>
             </div>
@@ -188,8 +193,10 @@ ul > li.must::before {
                     </h3>
                     <ul>
                         {{ range .Site.Data.libri.altro }}
-                        <li{{ if .must }} class="must"{{ end }}><a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
-                        {{end}}
+                        <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
+                                title="Vedi il libro {{ .titolo }}" target="_blank"
+                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                            {{end}}
                     </ul>
                 </div>
             </div>

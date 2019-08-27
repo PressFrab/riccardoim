@@ -1,36 +1,50 @@
 {
- "1": {
-   "titolo": "Manuale del montaggio",
-   "autore": "Diego Cassani",
-   "link": "https://amzn.to/2T49rhh",
+  "1": {
+    "titolo": "Manuale del montaggio",
+    "autore": "Diego Cassani",
+    "link": "https://amzn.to/2T49rhh",
     "must": "1"
- },
- "2": {
-   "titolo": "In un batter d'occhi: una prospettiva sul montaggio cinematografico nell'era digitale",
-   "autore": "Walter Murch",
-   "link": "https://amzn.to/2CkuHtP"
- },
- "3": {
-   "titolo": "La fotografia nel film: volume 1",
-   "autore": "Blain Brown",
-   "link": "https://amzn.to/2EYygWX"
- },
- "4": {
-   "titolo": "Scolpire il tempo",
-   "autore": "Andrej Tarkovskij",
-   "link": "https://amzn.to/2U3Orte",
+  },
+  "2": {
+    "titolo": "In un batter d'occhi: una prospettiva sul montaggio cinematografico nell'era digitale",
+    "autore": "Walter Murch",
+    "link": "https://amzn.to/2CkuHtP"
+  },
+  "3": {
+    "titolo": "La fotografia nel film: volume 1",
+    "autore": "Blain Brown",
+    "link": "https://amzn.to/2EYygWX"
+  },
+  "4": {
+    "titolo": "Scolpire il tempo",
+    "autore": "Andrej Tarkovskij",
+    "link": "https://amzn.to/2U3Orte",
     "must": "1"
- },
- "5": {
-   "titolo": "Ruba come un artista",
-   "autore": "Austin Kleon",
-   "link": "https://amzn.to/2XXgCem"
- },
- "6": {
-   "titolo": "I maestri della luce",
-   "autore": "D. Schaefer e L. Salvato",
-   "link": "https://amzn.to/33VK3Rz"
- }
+  },
+  "5": {
+    "titolo": "Ruba come un artista",
+    "autore": "Austin Kleon",
+    "link": "https://amzn.to/2XXgCem"
+  },
+  "6": {
+    "titolo": "I maestri della luce",
+    "autore": "D. Schaefer e L. Salvato",
+    "link": "https://amzn.to/33VK3Rz"
+  },
+  "7": {
+    "titolo": "La storia dell'arte",
+    "autore": "Ernst H. Gombrich",
+    "link": "https://amzn.to/2GbdaHS",
+    "must": "1"
+  },
+  "8": {
+    "titolo": "Da cosa nasce cosa",
+    "autore": "Bruno Munari",
+    "link": "https://amzn.to/2ZChdn8"
+  },
+  "9": {
+    "titolo": "L'occhio del fotografo",
+    "autore": "Micheal Freeman",
+    "link": "https://amzn.to/2KZXE2V"
+  }
 }
-
-

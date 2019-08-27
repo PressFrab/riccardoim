@@ -1,41 +1,62 @@
 {
- "1": {
-   "titolo": "Bassotuba non c'è",
-   "autore": "Paolo Nori",
-   "link": "https://amzn.to/2Usbs8Z"
- },
- "2": {
-   "titolo": "Il maestro e Margherita",
-   "autore": "M. Bulgakov",
-   "link": "https://amzn.to/2QSt0fG"
- },
- "4": {
-   "titolo": "Gli amori difficili",
-   "autore": "Italo Calvino",
-   "link": "https://amzn.to/2R1RT4k",
+  "1": {
+    "titolo": "Bassotuba non c'è",
+    "autore": "Paolo Nori",
+    "link": "https://amzn.to/2Usbs8Z"
+  },
+  "2": {
+    "titolo": "Il maestro e Margherita",
+    "autore": "M. Bulgakov",
+    "link": "https://amzn.to/2QSt0fG"
+  },
+  "4": {
+    "titolo": "Gli amori difficili",
+    "autore": "Italo Calvino",
+    "link": "https://amzn.to/2R1RT4k",
     "must": "1"
- },
- "5": {
-   "titolo": "Il giovane Holden",
-   "autore": "J. D. Salinger",
-   "link": "https://amzn.to/2EgfnzF",
+  },
+  "5": {
+    "titolo": "Il giovane Holden",
+    "autore": "J. D. Salinger",
+    "link": "https://amzn.to/2EgfnzF",
     "must": "1"
- },
- "6": {
-   "titolo": "Barnabò delle montagne",
-   "autore": "Dino Buzzati",
-   "link": "https://amzn.to/2OOWI1q"
- },
- "7": {
-   "titolo": "Lektro",
-   "autore": "Reiner Zimnik",
-   "link": "https://amzn.to/2U8Haaa"
- },
- "8": {
-   "titolo": "Storia di una balena bianca raccontata da lei stessa",
-   "autore": "Luis Sepulveda",
-   "link": "https://amzn.to/2WsdE4g"
- }
-
+  },
+  "6": {
+    "titolo": "Barnabò delle montagne",
+    "autore": "Dino Buzzati",
+    "link": "https://amzn.to/2OOWI1q"
+  },
+  "7": {
+    "titolo": "Lektro",
+    "autore": "Reiner Zimnik",
+    "link": "https://amzn.to/2U8Haaa"
+  },
+  "8": {
+    "titolo": "Storia di una balena bianca raccontata da lei stessa",
+    "autore": "Luis Sepulveda",
+    "link": "https://amzn.to/2WsdE4g"
+  },
+  "9": {
+    "titolo": "Cattedrale",
+    "autore": "Raymond Carver",
+    "link": "https://amzn.to/2MEvJaM",
+    "must": "1"
+  },
+  "10": {
+    "titolo": "Flatlandia. Racconto fantastico a più dimensioni",
+    "autore": "Edwin Abbott",
+    "link": "https://amzn.to/2MDGom8",
+    "must": "1"
+  },
+ "11": {
+    "titolo": "Sillabari",
+    "autore": "Goffredo Parise",
+    "link": "https://amzn.to/2KYDFBF",
+    "must": "1"
+  },
+  "12": {
+     "titolo": "L'uovo alla kok",
+     "autore": "Aldo Buzzi",
+     "link": "https://amzn.to/2KW1UR0"
+   }
 }
-

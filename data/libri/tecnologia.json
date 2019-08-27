@@ -1,24 +1,28 @@
 {
- "1": {
-   "titolo": "Humanless: l'algoritmo egoista",
-   "autore": "Massimo Chiriatti",
-   "link": "https://amzn.to/2ZqVr5u"
- },
- "2": {
-   "titolo": "Tecnologie radicali",
-   "autore": "Adam Greenfield",
-   "link": "https://amzn.to/2SaDskb",
+  "1": {
+    "titolo": "Humanless: l'algoritmo egoista",
+    "autore": "Massimo Chiriatti",
+    "link": "https://amzn.to/2ZqVr5u"
+  },
+  "2": {
+    "titolo": "Tecnologie radicali",
+    "autore": "Adam Greenfield",
+    "link": "https://amzn.to/2SaDskb",
     "must": "1"
- },
- "3": {
-   "titolo": "L'uomo artigiano",
-   "autore": "Richard Sennett",
-   "link": "https://amzn.to/2UkyKwP"
- },
- "4": {
-   "titolo": "Bassa risoluzione",
-   "autore": "M. Mantellini",
-   "link": "https://amzn.to/2KXFhvv"
- }
+  },
+  "3": {
+    "titolo": "L'uomo artigiano",
+    "autore": "Richard Sennett",
+    "link": "https://amzn.to/2UkyKwP"
+  },
+  "4": {
+    "titolo": "Bassa risoluzione",
+    "autore": "M. Mantellini",
+    "link": "https://amzn.to/2KXFhvv"
+  },
+  "5": {
+    "titolo": "Homo Deus. Breve storia del futuro",
+    "autore": "Yuval N. Harari",
+    "link": "https://amzn.to/324bF5l"
+  }
 }
-

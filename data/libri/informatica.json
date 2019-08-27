@@ -1,31 +1,33 @@
 {
- "1": {
-   "titolo": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
-   "autore": "Ken Kocienda",
-   "link": "https://amzn.to/2L3TfKU",
-   "must": "1"
- },
- "2": {
-   "titolo": "The One Device",
-   "autore": "Brian Merchant",
-   "link": "https://amzn.to/2PloJfL"
- },
- "3": {
-   "titolo": "Insanely Great: The Life And Times of Macintosh, the Computer That Changed Everything",
-   "autore": "Steven Levy",
-   "link": "https://amzn.to/2AVbP2T"
- },
- "4": {
-   "titolo": "Hit Refresh",
-   "autore": "Satia Nadella",
-   "link": "https://amzn.to/2th8k3G"
- },
- "5": {
-   "titolo": "Mastering Bitcoin",
-   "autore": "Andreas Antonopoulos",
-   "link": "https://amzn.to/2Y6gjyD"
- }
-
-
+  "1": {
+    "titolo": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
+    "autore": "Ken Kocienda",
+    "link": "https://amzn.to/2L3TfKU",
+    "must": "1"
+  },
+  "2": {
+    "titolo": "The One Device: The Secret History of the iPhone",
+    "autore": "Brian Merchant",
+    "link": "https://amzn.to/2PloJfL"
+  },
+  "3": {
+    "titolo": "Insanely Great: The Life And Times of Macintosh, the Computer That Changed Everything",
+    "autore": "Steven Levy",
+    "link": "https://amzn.to/2AVbP2T"
+  },
+  "4": {
+    "titolo": "Hit Refresh, una pagina nuova",
+    "autore": "Satia Nadella",
+    "link": "https://amzn.to/2th8k3G"
+  },
+  "5": {
+    "titolo": "Mastering Bitcoin. Programming the Open Blockchain",
+    "autore": "Andreas Antonopoulos",
+    "link": "https://amzn.to/2Y6gjyD"
+  },
+  "6": {
+    "titolo": "The Design of the Unix Operating System",
+    "autore": "Maurice Bach",
+    "link": "https://amzn.to/2L8CONL"
+  }
 }
-

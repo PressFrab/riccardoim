@@ -1,0 +1,28 @@
+{
+  "1": {
+    "titolo": "La guerra delle Black Hills",
+    "autore": "Magico Vento",
+    "link": "https://amzn.to/33YJhmX"
+  },
+  "2": {
+    "titolo": "La valle del terrore",
+    "autore": "Tex Willer",
+    "link": "https://amzn.to/328m9AP"
+  },
+  "3": {
+    "titolo": "L'eternauta",
+    "autore": "H. Oesterheld e F. López ",
+    "link": "https://amzn.to/2Zphqst",
+    "must": "1"
+  },
+  "4": {
+    "titolo": "V per vendetta",
+    "autore": "Alan Moore",
+    "link": "https://amzn.to/2NA2lSz"
+  },
+  "5": {
+    "titolo": "Una ballata nel mare salato",
+    "autore": "Corto Maltese",
+    "link": "https://amzn.to/2MDHmia"
+  }
+}

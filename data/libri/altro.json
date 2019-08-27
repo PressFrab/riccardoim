@@ -1,40 +1,60 @@
 {
- "1": {
-   "titolo": "Salinger, la vera storia di un genio",
-   "autore": "K. Slawenski",
-   "link": "https://amzn.to/2IkwpAU"
- },
- "2": {
-   "titolo": "Discorso dell'ombra e dello stemma",
-   "autore": "G. Manganelli",
-   "link": "https://amzn.to/2Saxfj8"
- },
- "3": {
-   "titolo": "Le più belle pagine",
-   "autore": "T. Landolfi",
-   "link": "https://amzn.to/2EfXIYM"
- },
- "4": {
-   "titolo": "L'arte di correre",
-   "autore": "H. Murakami",
-   "link": "https://amzn.to/2Vdcwx3"
- },
- "5": {
-   "titolo": "Serving the servant: ricordando Kurt Cobain",
-   "autore": "Danny Goldberg",
-   "link": "https://amzn.to/2D9tyFR"
- },
- "6": {
-   "titolo": "La cultura: n°1000",
-   "autore": "autori vari",
-   "link": "https://amzn.to/2ZGAoMR"
- },
- "7": {
-   "titolo": "UFO e altri oggetti non identificati",
-   "autore": "G. Manganelli",
-   "link": "https://amzn.to/2WKVVC5"
- }
-
+  "1": {
+    "titolo": "Salinger, la vera storia di un genio",
+    "autore": "K. Slawenski",
+    "link": "https://amzn.to/2IkwpAU"
+  },
+  "2": {
+    "titolo": "Discorso dell'ombra e dello stemma",
+    "autore": "G. Manganelli",
+    "link": "https://amzn.to/2Saxfj8"
+  },
+  "3": {
+    "titolo": "Le più belle pagine",
+    "autore": "T. Landolfi",
+    "link": "https://amzn.to/2EfXIYM"
+  },
+  "4": {
+    "titolo": "L'arte di correre",
+    "autore": "H. Murakami",
+    "link": "https://amzn.to/2Vdcwx3",
+    "must": "1"
+  },
+  "5": {
+    "titolo": "Serving the servant: ricordando Kurt Cobain",
+    "autore": "Danny Goldberg",
+    "link": "https://amzn.to/2D9tyFR"
+  },
+  "6": {
+    "titolo": "UFO e altri oggetti non identificati",
+    "autore": "G. Manganelli",
+    "link": "https://amzn.to/2WKVVC5"
+  },
+  "7": {
+    "titolo": "L'eternauta",
+    "autore": "H. Oesterheld e F. López ",
+    "link": "https://amzn.to/2Zphqst",
+    "must": "1"
+  },
+  "8": {
+    "titolo": "La guerra delle Black Hills",
+    "autore": "Magico Vento",
+    "link": "https://amzn.to/33YJhmX"
+  },
+  "9": {
+    "titolo": "Una ballata nel mare salato",
+    "autore": "Corto Maltese",
+    "link": "https://amzn.to/2MDHmia"
+  },
+  "10": {
+    "titolo": "Leonardo da Vinci",
+    "autore": "Walter Isaacson",
+    "link": "https://amzn.to/2L43nDu",
+    "must": "1"
+  },
+  "11": {
+    "titolo": "Lo storno di Mozart e altri animali famosi",
+    "autore": "Elena Passarello",
+    "link": "https://amzn.to/2MDE8ew"
+  }
 }
-
-

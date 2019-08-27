@@ -1,30 +1,38 @@
 {
- "1": {
-   "titolo": "La lingua geniale: 9 ragioni per amare il greco",
-   "autore": "A. Marcolongo",
-   "link": "https://amzn.to/2MlpOYa"
- },
- "2": {
-   "titolo": "Sei proprio il mio Typo",
-   "autore": "Simon Garfield",
-   "link": "https://amzn.to/2Ul8t1u"
- },
- "3": {
-   "titolo": "La storia dell'arte",
-   "autore": "Ernst H. Gombrich",
-   "link": "https://amzn.to/2GbdaHS",
+  "1": {
+    "titolo": "La lingua geniale: 9 ragioni per amare il greco",
+    "autore": "A. Marcolongo",
+    "link": "https://amzn.to/2MlpOYa",
     "must": "1"
- },
- "4": {
-   "titolo": "Da cosa nasce cosa",
-   "autore": "Bruno Munari",
-   "link": "https://amzn.to/2ZChdn8",
-    "must": "1"
- },
- "5": {
-   "titolo": "Il potere delle abitudini",
-   "autore": "Charles Duhigg",
-   "link": "https://amzn.to/2XfvO9Z"
- }
+  },
+  "2": {
+    "titolo": "Sei proprio il mio Typo",
+    "autore": "Simon Garfield",
+    "link": "https://amzn.to/2Ul8t1u"
+  },
+  "3": {
+    "titolo": "Il potere delle abitudini",
+    "autore": "Charles Duhigg",
+    "link": "https://amzn.to/2XfvO9Z"
+  },
+  "4": {
+    "titolo": "La cultura: n°1000",
+    "autore": "autori vari",
+    "link": "https://amzn.to/2ZGAoMR"
+  },
+  "5": {
+    "titolo": "La caffettiera del masochista",
+    "autore": "Donald Norman",
+    "link": "https://amzn.to/343mE0w"
+  },
+  "6": {
+    "titolo": "Tutti sognano di poter volare",
+    "autore": "Mark Vanhoenacker",
+    "link": "https://amzn.to/2ZpKKPP"
+  },
+  "7": {
+    "titolo": "Le 48 leggi del potere",
+    "autore": "Robert Greene",
+    "link": "https://amzn.to/2Zot7zO"
+  }
 }
-

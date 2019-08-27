@@ -1,36 +1,56 @@
 {
- "1": {
-   "titolo": "L'ordine del tempo",
-   "autore": "Carlo Rovelli",
-   "link": "https://amzn.to/325dW0e",
+  "1": {
+    "titolo": "L'ordine del tempo",
+    "autore": "Carlo Rovelli",
+    "link": "https://amzn.to/325dW0e",
     "must": "1"
- },
- "2": {
-   "titolo": "Arte e cervello",
-   "autore": "Maffei e Fiorentini",
-   "link": "https://amzn.to/2QPdy4O"
- },
- "3": {
-   "titolo": "Lo schermo empatico",
-   "autore": "V. Gallese e M. Guerra",
-   "link": "https://amzn.to/2UtsHtv",
+  },
+  "2": {
+    "titolo": "Arte e cervello",
+    "autore": "Maffei e Fiorentini",
+    "link": "https://amzn.to/2QPdy4O"
+  },
+  "3": {
+    "titolo": "Lo schermo empatico. Cinema e neuroscienze",
+    "autore": "V. Gallese e M. Guerra",
+    "link": "https://amzn.to/2UtsHtv",
     "must": "1"
- },
- "4": {
-   "titolo": "L'universo elegante",
-   "autore": "Brian Greene",
-   "link": "https://amzn.to/2JFUeSJ",
+  },
+  "4": {
+    "titolo": "L'universo elegante",
+    "autore": "Brian Greene",
+    "link": "https://amzn.to/2JFUeSJ",
     "must": "1"
- },
- "5": {
-   "titolo": "Il cervello musicale",
-   "autore": "Daniele Schön",
-   "link": "https://amzn.to/2VQIap0"
- },
- "6": {
-   "titolo": "Breve storia di un raggio di sole",
-   "autore": "G. Accinelli",
-   "link": "https://amzn.to/2EwSub5"
- }
-}
+  },
+  "5": {
+    "titolo": "Il cervello musicale",
+    "autore": "Daniele Schön",
+    "link": "https://amzn.to/2VQIap0"
+  },
+  "6": {
+    "titolo": "Breve storia di un raggio di sole",
+    "autore": "G. Accinelli",
+    "link": "https://amzn.to/2EwSub5"
+  },
+  "7": {
+    "titolo": "Gödel, Escher, Bach. Un'eterna ghirlanda brillante",
+    "autore": "D. R. Hofstadter",
+    "link": "https://amzn.to/2NyKADj"
+  },
+  "8": {
+    "titolo": "Il senso delle cose",
+    "autore": "Richard Feynman",
+    "link": "https://amzn.to/32adM7R"
+  },
+  "9": {
+    "titolo": "La sezione aurea. Storia di un numero e di un mistero che dura da tremila anni",
+    "autore": "Mario Livio",
+    "link": "https://amzn.to/2Zqy0II"
+  },
+  "10": {
+    "titolo": "L'enigma dei numeri primi. L'ipotesi di Riemann, il più grande mistero della matematica",
+    "autore": "Marcus Du Sautoy",
+    "link": "https://amzn.to/2NAYHba"
+  }
 
+}

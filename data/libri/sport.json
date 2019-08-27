@@ -1,64 +1,66 @@
 {
- "1": {
-   "titolo": "80/20 Running",
-   "autore": "Matt Fitzgerald",
-   "link": "https://amzn.to/2GHRUKl"
- },
- "2": {
-   "titolo": "La fatica più bella",
-   "autore": "Gastone Breccia",
-   "link": "https://amzn.to/2SjHSQJ",
+  "1": {
+    "titolo": "80/20 Running. Run Stronger and Race Faster by Training Slower",
+    "autore": "Matt Fitzgerald",
+    "link": "https://amzn.to/2GHRUKl"
+  },
+  "2": {
+    "titolo": "La fatica più bella. Perché correre cambia la vita",
+    "autore": "Gastone Breccia",
+    "link": "https://amzn.to/2SjHSQJ",
     "must": "1"
- },
- "3": {
-   "titolo": "Mente e maratona",
-   "autore": "Trabucchi e Speciani",
-   "link": "https://amzn.to/2MJGZD1"
- },
- "4": {
-   "titolo": "10-21-42 km: preparare le gare su strada",
-   "autore": "De Luca e Pappa",
-   "link": "https://amzn.to/2T04zP9",
+  },
+  "3": {
+    "titolo": "Mente e maratona",
+    "autore": "Trabucchi e Speciani",
+    "link": "https://amzn.to/2MJGZD1"
+  },
+  "4": {
+    "titolo": "10-21-42 km: preparare le gare su strada",
+    "autore": "De Luca e Pappa",
+    "link": "https://amzn.to/2T04zP9",
     "must": "1"
- },
- "5": {
-   "titolo": "Correre",
-   "autore": "Orlando Pizzolato",
-   "link": "https://amzn.to/2GELdZr"
- },
- "6": {
-   "titolo": "Running Anatomy",
-   "autore": "J. Puleo e P. Milroy",
-   "link": "https://amzn.to/2UIjsT8"
- },
- "7": {
-   "titolo": "Resisto dunque sono",
-   "autore": "Pietro Trabucchi",
-   "link": "https://amzn.to/2NwqN7u"
- },
- "8": {
-   "titolo": "L'intestino felice",
-   "autore": "Julia Enders",
-   "link": "https://amzn.to/2LaT0xO"
- },
- "9": {
-   "titolo": "Il punto vincente",
-   "autore": "N. Djokovic",
-   "link": "https://amzn.to/2LaR0pz",
+  },
+  "5": {
+    "titolo": "Correre",
+    "autore": "Orlando Pizzolato",
+    "link": "https://amzn.to/2GELdZr"
+  },
+  "6": {
+    "titolo": "Running Anatomy",
+    "autore": "J. Puleo e P. Milroy",
+    "link": "https://amzn.to/2UIjsT8"
+  },
+  "7": {
+    "titolo": "Resisto dunque sono",
+    "autore": "Pietro Trabucchi",
+    "link": "https://amzn.to/2NwqN7u"
+  },
+  "8": {
+    "titolo": "L'intestino felice",
+    "autore": "Julia Enders",
+    "link": "https://amzn.to/2LaT0xO"
+  },
+  "9": {
+    "titolo": "Il punto vincente",
+    "autore": "N. Djokovic",
+    "link": "https://amzn.to/2LaR0pz",
     "must": "1"
- },
- "10": {
-   "titolo": "Allenati ad essere felice",
-   "autore": "F. Fagnani",
-   "link": "https://amzn.to/2Nx88bQ"
- },
- "11": {
-   "titolo": "Open: la mia storia",
-   "autore": "Andre Agassi",
-   "link": "https://amzn.to/2MG0jRd"
- }
+  },
+  "10": {
+    "titolo": "Allenati ad essere felice",
+    "autore": "F. Fagnani",
+    "link": "https://amzn.to/2Nx88bQ"
+  },
+  "11": {
+    "titolo": "Open: la mia storia",
+    "autore": "Andre Agassi",
+    "link": "https://amzn.to/2MG0jRd"
+  },
+  "12": {
+    "titolo": "Daniels' Running Formula",
+    "autore": "Jack Daniels",
+    "link": "https://amzn.to/2MF1RuP",
+    "must": "1"
+  }
 }
-
-
-
-
