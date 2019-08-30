@@ -39,8 +39,7 @@
   "9": {
     "titolo": "Cattedrale",
     "autore": "Raymond Carver",
-    "link": "https://amzn.to/2MEvJaM",
-    "must": "1"
+    "link": "https://amzn.to/2MEvJaM"
   },
   "10": {
     "titolo": "Flatlandia. Racconto fantastico a più dimensioni",
@@ -58,5 +57,17 @@
      "titolo": "L'uovo alla kok",
      "autore": "Aldo Buzzi",
      "link": "https://amzn.to/2KW1UR0"
-   }
+   },
+   "13": {
+      "titolo": "American dust",
+      "autore": "Richard Brautigan",
+      "link": "https://amzn.to/2L6yO1s",
+      "must": "1"
+    },
+   "14": {
+      "titolo": "Martin Eden",
+      "autore": "Jack London",
+      "link": "https://amzn.to/2HyjmsM",
+      "must": "1"
+    }
 }
