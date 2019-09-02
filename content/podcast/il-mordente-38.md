@@ -1,8 +1,7 @@
 ---
-title: "Incoscienti per natura quattro volte al secondo"
-date: 2019-09-01T08:10:20+02:00
+title: "Incoscienti per natura quattro volte ogni secondo"
+date: 2019-09-02T07:50:20+02:00
 numero: "38"
-draft: true
 slug: "il-mordente-38"
 description: "Ne Il Mordente 38 vi parlo di: IFA 2019, macOS Catalina, la lingua greca, Humanless, il Signore degli Anelli. E ancora: corsa, libri, Linux e neuroscienze. Registrato da Riccardo Palombo."
 featured_image: "v1567244790/Podcast/il-mordente-38.jpg"
