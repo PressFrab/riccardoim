@@ -16,7 +16,7 @@ Buon ascolto! Dopo gli impegni di settembre vi darò i dettagli sui cambiamenti 
 
 ### Consigli
 <ul>
-<li><a href="https://tiny.cc/storytelriccardoim" target="_blank" rel="nofollow" title="Prova Storytel per 30 giorni con Riccardo.im">Prova Storytel</a> per 30 giorni anziché 14.</li>
+<li><a href="http://tiny.cc/storytelITriccardoim" target="_blank" rel="nofollow" title="Prova Storytel per 30 giorni con Riccardo.im">Prova Storytel</a> per 30 giorni anziché 14.</li>
 <li><a href="https://amzn.to/2MlpOYa" target="_blank" rel="nofollow" title="Vedi il libro La lingua geniale">La lingua geniale: 9 ragioni per amare il greco</a> di Andrea Marcolongo.</li>
 <li><a href="https://amzn.to/2ZqVr5u" target="_blank" rel="nofollow" title="Vedi il libro Humanless">#Humanless. L'algoritmo egoista</a> di Massimo Chiriatti.</li>
 <li><a href="https://amzn.to/2ZnxJWV" target="_blank" rel="nofollow" title="Vedi il libro Il Signore degli Anelli">Il Signore degli Anelli</a> di R. R. Tolkien.</li>
