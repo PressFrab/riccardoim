@@ -46,5 +46,11 @@
     "titolo": "L'occhio del fotografo",
     "autore": "Micheal Freeman",
     "link": "https://amzn.to/2KZXE2V"
+  },
+  "10": {
+    "titolo": "Norme per la redazione di un testo radiofonico",
+    "autore": "Carlo E. Gadda",
+    "link": "https://amzn.to/2ZQtMik",
+    "must": "1"
   }
 }
