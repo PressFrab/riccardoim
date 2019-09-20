@@ -1,5 +1,5 @@
 ---
-title: "Del lavoro e d'altri viz"
+title: "Del lavoro e d'altri vizi"
 date: 2019-09-20T05:50:20+02:00
 numero: "40"
 slug: "il-mordente-40"
@@ -12,7 +12,7 @@ podcast: current-menu-item
 
 E così siamo arrivati al <abbr title="Ma ho ancora 39 anni, e lo ripeterò.">quarantesimo podcast della mia vita</abbr>; è ancora tutto molto divertente e c'è ancora quella sensazione di "perché lo sto facendo?" che cerca di farmi cambiare idea quando provo a registrare un episodio migliore del precedente. Di solito, alla fine di tutti i discorsi, non sono soddisfatto; ma ho sempre l'editing dalla mia parte e non esiste una parte noiosa che non si possa far sparire e poi negare. È quando riascolto il prodotto finale, meglio se mentre scendo a buttare la spazzatura (perché sì, a Roma non c'è ancora la differenziata porta a porta - o, almeno, non ovunque) che trovo la decisione finale. Se ha ritmo, va bene. Se ha anche senso e valore, meglio. Se non sono convinto ma la ritengo migliore di quel che c'è online, mi racconto una storiella sulla pignoleria e me la faccio andar bene. Mi è capitato di buttare tutto. Mi è capitato di pubblicare puntate grossolane. Il più delle volte considero le vecchie cose (e qui parlo di tutto) peggiori delle nuove.
 
-Oggi sono convinto degli argomenti che ho trattato. Ne Il Mordente 40 vi parlo di lavoro: il <mark>corso per sviluppatori web di Boolean</mark>; il libro di Nir Eyal per riconoscere la distrazione, abbracciarla e domarla; il codice sconto per venirmi a vedere al Festival del Podcasting 2019; un Hackintosh economico. E poi un grosso grazie per tutto l'apprezzamento alla <a href="/podcast/il-mordente-39/" target="_blank" title="Una fiera divertente che non farò mai più.">puntata 39</a>; non capita spesso che qualcosa piaccia a me a voi.
+Oggi sono convinto degli argomenti che ho trattato. Ne Il Mordente 40 vi parlo di lavoro: il <mark>corso per sviluppatori web di Boolean</mark>; il libro di Nir Eyal per riconoscere la distrazione, abbracciarla e domarla; il codice sconto per venirmi a vedere al Festival del Podcasting 2019; un Hackintosh economico. E poi un grosso grazie per tutto l'apprezzamento alla <a href="/podcast/il-mordente-39/" target="_blank" title="Una fiera divertente che non farò mai più.">puntata 39</a>; non capita spesso che qualcosa piaccia a me quanto a voi.
 
 È tutto. Scrivo queste righe a poche ore da un viaggio stampa a Matera; sarà breve ma non vedo l'ora. Buon ascolto! Potete inviare messaggi vocali su Telegram o Whatsapp al numero <strong>351 8516089</strong>, oppure a scrivermi una e-mail dal modulo contatti di questo sito.
 
