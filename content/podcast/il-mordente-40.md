@@ -1,15 +1,14 @@
 ---
-title: "Del lavoro e d'altri vizi"
-date: 2019-09-19T06:50:20+02:00
+title: "Del lavoro e d'altri viz"
+date: 2019-09-20T05:50:20+02:00
 numero: "40"
 slug: "il-mordente-40"
-draft: true
 description: "Ne Il Mordente 40 si parla del corso per programmatori di Boolean, del libro Indistractable, di un Hackintosh economico e del Festival del Podcasting 2019. Registrato da Riccardo Palombo."
 featured_image: "v1568898388/Podcast/il-mordente-40.jpg"
 podcast: current-menu-item
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/19066264" data-resource="episode_id=19066264" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Una fiera divertente che non farò mai più." su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/19151494" data-resource="episode_id=19151494" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Del lavoro e d&#39;altri vizi." su Spreaker.</a>
 
 E così siamo arrivati al <abbr title="Ma ho ancora 39 anni, e lo ripeterò.">quarantesimo podcast della mia vita</abbr>; è ancora tutto molto divertente e c'è ancora quella sensazione di "perché lo sto facendo?" che cerca di farmi cambiare idea quando provo a registrare un episodio migliore del precedente. Di solito, alla fine di tutti i discorsi, non sono soddisfatto; ma ho sempre l'editing dalla mia parte e non esiste una parte noiosa che non si possa far sparire e poi negare. È quando riascolto il prodotto finale, meglio se mentre scendo a buttare la spazzatura (perché sì, a Roma non c'è ancora la differenziata porta a porta - o, almeno, non ovunque) che trovo la decisione finale. Se ha ritmo, va bene. Se ha anche senso e valore, meglio. Se non sono convinto ma la ritengo migliore di quel che c'è online, mi racconto una storiella sulla pignoleria e me la faccio andar bene. Mi è capitato di buttare tutto. Mi è capitato di pubblicare puntate grossolane. Il più delle volte considero le vecchie cose (e qui parlo di tutto) peggiori delle nuove.
 
