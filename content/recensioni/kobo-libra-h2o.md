@@ -1,6 +1,6 @@
 ---
 title: "Kobo Libra H2O"
-date: "2019-09-10T10:10:50+02:00"
+date: "2018-09-10T10:10:50+02:00"
 recensioni: current-menu-item
 slug: "kobo-libra-h2o"
 immagine_testa: "kobo-libra-h2o.jpg"
