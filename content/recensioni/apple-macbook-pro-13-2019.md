@@ -1,15 +1,14 @@
 ---
 title: "Apple MacBook Pro 13 2019"
-date: 2019-09-30T09:21:35+02:00
+date: 2019-10-02T11:21:35+02:00
 articoli: current-menu-item
 slug: "apple-macbook-pro-13-2019"
 immagine_testa: https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1569854686/recensioni/apple-macbook-pro-13.jpg
 description: "La video recensione a Apple MacBook Pro 13 2019 di Riccardo Palombo. Benchmark, analisi hardware, autonomia e confronto con i migliori portatili Windows."
 categoria: "1"
 rating: "4.5"
-draft: true
 layout: portatili/macbook-pro-13-2019
-video: https://www.youtube.com/embed/88qzXgmdlOI
+video: https://www.youtube.com/embed/1dP4ArM8N8w
 sommario: "È il portatile Apple per tutti"
 typed1: "^2000: ha Touch ID e TouchBar."
 typed2: ": ha CPU Quad Core e schermo P3."
@@ -17,8 +16,6 @@ typed3: ": è più potente di MacBook Air."
 typed4: ". Ed ha un prezzo di listino più basso."
 jquery: "1"
 ---
-
-
 
 Scrivo dal divano di casa, quello più grosso. Ho il Mac sulle gambe intrecciate e un senso di colpa che inizia a salire. Poco fa ho deciso di fregarmene del nutrizionista (che a lui, poi, sai cosa importa; sono io quello che sta spendendo un botto sia per andarci sia per tutta l’alimentazione controllata di questi mesi - e sono sempre io quello che si è messo in testa di stare sotto le tre ore alla Maratona di Francoforte dopo sei mesi di stop) e ho mangiato sei biscotti dozzinali afflosciati in un tè caldo “miscela di foglie nere dark-chocolate”. Sospetto che sia colpa del poco dormire: alle 5, ero in piedi; alle 6, ero in pista a fare ripetute da 1000 metri; alle 8:30, bloccato nel traffico, maledicevo questo e quello e poi solo grazie a dio ho trovato parcheggio qua sotto.
 
@@ -32,6 +29,7 @@ Scheda tecnica Apple MacBook Pro 13 2019
 FIG. 1. Clicca per ingrandire.
 
 Il touchpad occupa quasi la metà dello spazio verticale del telaio; anche per questo motivo è il più comodo della categoria.
+
 Ergonomia
 
           In estate ho vissuto il trauma della briciola sotto il tasto, una cosa che mi accomuna a tanti ragazzi là fuori. Nel mio caso, sotto la M, finì del meraviglioso pane casareccio comprato a Sicilì, nel Cilento, e fu per colpa sua che per giorni la M andava e non andava. Poi si deve essere frantumata da sola ed ecco che la tastiera è tornata ad essere la mia preferita su computer portatili: sì, migliore della AccuType del ThinkPad X1 che ora senso gommosa e indecisa; e, sì, migliore della tastiera di Surface Book; e, no, non migliore della tastiera del Chromebook CR-48, il prototipo regalato da Google agli sviluppatori nel dicembre 2010 (si trova ancora nei mercatini a circa 100 euro; non ve lo consiglio perché ha un Atom N455 Single Core e un difetto alle cerniere, ma se vi capita provate a metterci le mani sopra - per quanto credo che sia la mia memoria a rendere quell'esperienza di scrittura così memorabile, ma preferisco non verificare e cullare questi ricordi).
@@ -52,11 +50,14 @@ Il portatile da cui scrivo è l’ultimo MacBook Pro 13 di Apple. È l’edizion
     Ha un display con copertura DCI-P3 e TrueTone come i MacBook Pro 13 di fascia superiore (quelli con 4 porte Thunderbolt e CPU da 25 watt).
 
 Ed ha anche un prezzo di partenza più basso perché quello, al lancio, costava 1749 euro e questo, al lancio, 1549 euro. C’è il trucco - la SSD da 128 GB del nuovo - ma fa strano vedere una riduzione dei prezzi ufficiali Apple perché equivale ad un avvicinamento verso l'utente. Quindi una volta tanto Apple non crea solo un desiderio ma fa anche qualcosa per soddisfarlo.
+
 Apple MacBook Pro 13 2019: widget cripto sulla TouchBar.
+
 FIG. 9. Apple MacBook Pro 13 2019: la TouchBar è utile per visualizzare dati e contenuti, non per interagire con loro.
+
 Prestazioni
 
-          Di contro, questo nuovo ha la SSD saldata e non più su slot (problema vero perché si deve scegliere al momento dell’ordine e pagare i GB ai folli prezzi di Apple), ed ha una luminosità dello schermo parecchio più bassa: circa 420 nit di picco bastano e avanzano, ma i pannelli da 550 nit della generazione 2016 non si sono più visti.
+Di contro, questo nuovo ha la SSD saldata e non più su slot (problema vero perché si deve scegliere al momento dell’ordine e pagare i GB ai folli prezzi di Apple), ed ha una luminosità dello schermo parecchio più bassa: circa 420 nit di picco bastano e avanzano, ma i pannelli da 550 nit della generazione 2016 non si sono più visti.
 
 Ma gira e rigira vale l’aggiornamento per le prestazioni che ha e per tutti i bei numeri che vi piazzo qua e là in questa recensione - un qua e là che si trasforma in sotto e sopra se state leggendo da smartphone. Il mio unico dubbio era sull’impianto termico affidato ad una singola ventola. Anche il vecchio era così, ma non aveva un Quad Core con 3.9 GHz di frequenza massima e non aveva una GPU che può arrivare a 1050 MHz. Apple ha aggirato gli imprevisti con una diversa gestione dei watt. Se la vecchia piattaforma da 15 watt veniva spinta fino ai 35 watt per recuperare prestazioni (per chi è nuovo: i Mac sono famosi per questo, per la loro implementazione) tollerando temperature anche vicine ai 100° C (insisto: tutto in linea per gli Apple), la nuova tocca quei livelli ma cerca di restare sui 25 watt, anche 20 watt. Oscilla, fa su e giù, con una temperatura sulla CPU di 85° C circa e ventola a palla. Si nota bene nella parte centrale del grafico elaborato dopo una conversione Handbrake.
 
@@ -94,7 +95,7 @@ FIG. 6. Analisi dell'uniformità dello schermo. Variazioni sopra il 10% sono vis
 
 Autonomia
 
-          E l’autonomia? Niente di strano. La batteria è cresciuta rispetto al vecchio perché ci sono dei componenti in più, quindi la durata è quella. Ci faccio poco meno di 10 ore con schermo sopra la metà e Safari + Telegram + Finder, calcolatrice, Note, robette così. Con Safari intendo una media di 10 tab aperti. Sotto carico massimo, con luminosità sparata, è tutt’altra storia: -42% ogni ora, quindi 2.3 ore di autonomia. Ci finite almeno un rendering complesso ma poi dovete trovare una presa.
+E l’autonomia? Niente di strano. La batteria è cresciuta rispetto al vecchio perché ci sono dei componenti in più, quindi la durata è quella. Ci faccio poco meno di 10 ore con schermo sopra la metà e Safari + Telegram + Finder, calcolatrice, Note, robette così. Con Safari intendo una media di 10 tab aperti. Sotto carico massimo, con luminosità sparata, è tutt’altra storia: -42% ogni ora, quindi 2.3 ore di autonomia. Ci finite almeno un rendering complesso ma poi dovete trovare una presa.
 
 L’autonomia può sorprendere chi non ha seguito l’uscita dei processori Intel negli ultimi due anni (ed è comprensibile perché è un caos: ogni due mesi c’è un annuncio che promette molto e realizza poco; e le differenze sono negli intrecci tecnici), ma non è irreale se guardiamo i risultati della concorrenza con Windows e se mettiamo in conto il lavoro di decodifica video e di gestione “delle altre cose” fatto dal chip Apple T2 anziché dal SoC Intel. Chiaro, va abbinato ad un certo lavoro di integrazione hardware e software, ma questo non è mai stato in discussione con Apple. I suoi portatili non soffrono del draining alla batteria quando sono in standby, e non hanno uno dei fastidi più popolari degli ultimi anni: il coil-whine. L’alimentatore da 61 watt riesce sempre a caricare il portatile, anche quando è sotto stress massimo. Non è scontato. e vi ho fatto un grafico per dimostrarlo. L'avete visto? Tornate su.
 
@@ -128,9 +129,9 @@ L’utente medio o chi non ha tempo da dedicare a queste cose sceglie Mac perch�
 
 A me piace macOS; il rendering dei caratteri, la sfumatura dell’ombra delle finestre centrate, la leggerezza del poter iniziare il lavoro da una parte per continuarlo da un’altra (iPhone o iPad), il nuovo Safari, la partizione read-only di Catalina, e, più generalmente, l’assemblaggio dell’hardware che muove il tutto. Anche se il mio modo attuale di usare il computer portatile è, adesso, un ordine frenetico, e anche se preferisco spaccare il capello con un Linux puro, con una Arch + i3-wm (tutte cose che mi fanno stare stretto su macOS, adesso) sono sempre disponibile a mettere la faccia davanti ad un Mac perchè è sempre un bel posto sul quale passare del tempo. E questo ultimo MacBook Pro 13 20198 assiste bene il tutto.
 
-Prezzi ufficiali a ottobre 2019
+Prezzi ufficiali ad ottobre 2019
 
-    Core i5 15 W / Iris 645 / 8 GB di RAM / 128 GB SSD / 2 TB a 1549 euro;
-    Core i5 15 W / Iris 645 / 8 GB RAM / 256 GB SSD / 2 TB a 1799 euro;
-    Core i5 25 W / Iris 655 / 8 GB RAM / 256 GB SSD / 4 TB a 2099 euro.
+Core i5 15 W / Iris 645 / 8 GB di RAM / 128 GB SSD / 2 TB a 1549 euro;
+Core i5 15 W / Iris 645 / 8 GB RAM / 256 GB SSD / 2 TB a 1799 euro;
+Core i5 25 W / Iris 655 / 8 GB RAM / 256 GB SSD / 4 TB a 2099 euro.
 
