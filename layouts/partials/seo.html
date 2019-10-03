@@ -48,16 +48,22 @@
             "headline": "{{ .Title }}",
             "url": "{{ .Permalink }}",
             "datePublished": "{{ time .Date }}",
+            "dateModified": "{{ time .Date }}",
             "description": "{{ .Description }}",
             "image": "https://riccardo.im/img/android-chrome-512x512.png",
             "publisher":  {
-              "@type": "Person",
-              "name": "{{ .Site.Params.author }}"
+              "@type": "Organization",
+              "name": "{{ .Site.Params.author }}",
+              "logo":{
+                "@type":"ImageObject",
+                "url":"https://riccardo.im/img/android-chrome-512x512.png"
+             }
           },
             "author": {
-                "@type": "Person",
+                "@type": "Organization",
                 "name": "{{ .Site.Params.author }}"
             }
+          }
          }
 
         {{else if eq .Section "recensioni"}}
