@@ -4,14 +4,14 @@ title_interno: "FRITZ!Box e Vodafone: una guida semplice"
 articoli: current-menu-item
 slug: "avm-fritzbox-vodafone-voip-adsl"
 immagine_testa: appunti-riccardo-palombo.png
-description: "Ho sostituito la Vodafone Station con un FRITZ!Box. Procedura passo passo e parametri di configurazione."
+description: "Ho sostituito la Vodafone Station con un AVM FRITZ!Box. La procedura passo passo e i parametri di configurazione."
 categoria: "2"
 date: 2019-10-05T14:13:28+02:00
 ---
 
 ![Installare Fritz!Box 7590 su linea Vodafone](../../img/articoli/fritzbox-vodafone.jpg "Il FRITZ!Box 7590 di AVM")
 
-Ieri ho sostituito la Vodafone Station Revolution con un **FRITZ!Box 7590** e un **FRITZ!Repeater 1750**. Ho preso il primo perché volevo più controllo sui servizi della mia rete domestica (server di stampa via USB, NAS, telefonia VOIP; soprattutto programmazione degli orari di utilizzo, QoS per i gadget smart che ho, filtri e contatori di vario genere anche sulla suoneria), e il secondo per arrivare meglio nelle stanze più lontane di casa con l'extra della porta LAN da collegare al decoder MySKY (o alla Apple TV, appena scadrà l'abbonamento). In questo momento, mentre scrivo, ho diciotto dispositivi attivi, più altri sei (due ebook reader, la Nintendo Switch, l'iMac G4 con AirPort, vecchi laptop, la TV Smart) che accendo ogni tanto.
+Ieri ho sostituito la Vodafone Station Revolution con un **FRITZ!Box 7590** e un **FRITZ!Repeater 1750**. Ho preso il primo perché volevo più controllo sui servizi della mia rete domestica (server di stampa via USB, NAS, VPN, telefonia VOIP; soprattutto programmazione degli orari di utilizzo, QoS per i gadget smart che ho, filtri e contatori di vario genere anche sulla suoneria), e il secondo per arrivare meglio nelle stanze più lontane di casa con l'extra della porta LAN da collegare al decoder MySKY (o alla Apple TV, appena scadrà l'abbonamento). In questo momento, mentre scrivo, ho diciotto dispositivi attivi, più altri sei (due ebook reader, la Nintendo Switch, l'iMac G4 con AirPort, vecchi laptop, la TV Smart) che accendo ogni tanto.
 
 Preciso di non essere uno fissato con queste cose, almeno a casa; nasco come sistemista di rete quindi nel mio setup ideale ci sarebbero sempre router, switch, content filtering, proxy, server email, regole di nat e un **vecchio thin client** con Endian Firewall, o PFSense, o FreeNas, o M0n0Wall oppure uno XenServer (anche se adesso non esiste più) con sopra il mondo eccetera eccetera. Ma non abito più da solo e non mi va di incastrarmi ancora una volta con queste cose. Magari in vecchiaia, quando non dovrò più essere lucido per contratto (verbale, chiaro).
 

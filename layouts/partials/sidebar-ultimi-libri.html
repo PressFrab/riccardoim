@@ -7,7 +7,7 @@
         <li>
             <div>
                 <a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank"
-                    rel="nofollow">{{ .titolo }}</a>
+                    rel="nofollow">{{ .titolo | truncate 30 "..."}}</a>
                 <div class="recent-post-info">
                     <span class="post-author">di {{ .autore }}</span>
                 </div>
