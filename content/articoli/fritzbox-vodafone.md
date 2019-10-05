@@ -4,7 +4,7 @@ title_interno: "FRITZ!Box e Vodafone: una guida semplice"
 articoli: current-menu-item
 slug: "avm-fritzbox-vodafone-voip-adsl"
 immagine_testa: appunti-riccardo-palombo.png
-description: "L'ultimo capitolo di Lezioni di Letteratura di Nabokov è dedicato all'arte della letteratura e al senso comune."
+description: "Ho sostituito la Vodafone Station con un FRITZ!Box. Procedura passo passo e parametri di configurazione."
 categoria: "2"
 date: 2019-10-05T14:13:28+02:00
 ---
