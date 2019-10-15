@@ -1,6 +1,6 @@
 ---
 title: "Meno format e più progetti di vita"
-date: 2019-10-15T012:00:20+02:00
+date: 2019-10-15T12:00:20+02:00
 numero: "42"
 slug: "il-mordente-42"
 description: "Puntata 42 del podcast Il Mordente, registrato da Riccardo Palombo. Ecco il mio talk al Festival del Podcasting 2019 dal titolo: niente format e più progetti di vita."
