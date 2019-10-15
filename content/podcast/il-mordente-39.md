@@ -12,7 +12,7 @@ podcast: current-menu-item
 
 Una puntata diversa dalle altre, ma mi sembra il modo migliore per chiudere la porta (senza buttare la chiave!) al mio viaggio per <strong>IFA 2019</strong> di Berlino. Il Mordente 39 è un diario resoconto dalla coda lunga: cosa ho visto e cosa ho pensato nei quattro giorni di fiera, più l'inganno al "Trofeo Irilli" di domenica mattina. Un podcast personale, ispirato dal <a href="https://amzn.to/2HV1rwj" target="_blank" rel="nofollow" title="Una cosa divertente che non farò mai più">meraviglioso libro</a> di David Foster Wallace, registrato il 10 settembre 2019 con in testa <strong>IBC 2019</strong> (International Broadcasting Convention): da domani sarò ad Amsterdam per due giorni a vedere di persona le novità Canon. E ho una valigia ancora da organizzare.
 
-Buon ascolto e buona ripartenza! Dopo gli impegni di settembre vi darò i dettagli sui cambiamenti autunnali al sito, al podcast, alla community. A tre mesi dall'apertura ho le idee chiare su cosa continuare a migliore e cosa lasciar perdere. Nell'attesa, potete inviare messaggi vocali su Telegram o Whatsapp al numero <strong>351 8516089</strong>, oppure a scrivermi una e-mail dal modulo contatti di questo sito.
+Buon ascolto e buona ripartenza! Dopo gli impegni di settembre vi darò i dettagli sui cambiamenti autunnali al sito, al podcast, alla community. A tre mesi dall'apertura ho le idee chiare su cosa continuare a migliore e cosa lasciar perdere. Nell'attesa, potete inviare messaggi vocali su Telegram o Whatsapp al numero <strong>351 8516089</strong>, oppure scrivere una e-mail dal modulo contatti di questo sito.
 
 ### Consiglio
 <ul>

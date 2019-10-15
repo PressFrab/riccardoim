@@ -14,7 +14,7 @@ E così siamo arrivati al <abbr title="Ma ho ancora 39 anni, e lo ripeterò.">qu
 
 Oggi sono convinto degli argomenti che ho trattato. Ne Il Mordente 40 vi parlo di lavoro: il <mark>corso per sviluppatori web di Boolean</mark>; il libro di Nir Eyal per riconoscere la distrazione, abbracciarla e domarla; il codice sconto per venirmi a vedere al Festival del Podcasting 2019; un Hackintosh economico. E poi un grosso grazie per tutto l'apprezzamento alla <a href="/podcast/il-mordente-39/" target="_blank" title="Una fiera divertente che non farò mai più.">puntata 39</a>; non capita spesso che qualcosa piaccia a me quanto a voi.
 
-È tutto. Scrivo queste righe a poche ore da un viaggio stampa a Matera; sarà breve ma non vedo l'ora. Buon ascolto! Potete inviare messaggi vocali su Telegram o Whatsapp al numero <strong>351 8516089</strong>, oppure a scrivermi una e-mail dal modulo contatti di questo sito.
+È tutto. Scrivo queste righe a poche ore da un viaggio stampa a Matera; sarà breve ma non vedo l'ora. Buon ascolto! Potete inviare messaggi vocali su Telegram o Whatsapp al numero <strong>351 8516089</strong>, oppure scrivere una e-mail dal modulo contatti di questo sito.
 
 ### Consiglio
 <ul>
