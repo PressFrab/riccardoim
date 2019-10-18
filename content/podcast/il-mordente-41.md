@@ -14,7 +14,7 @@ podcast: current-menu-item
 
 Nella puntata 41 de Il Mordente (a proposito, ho fatto fare gli adesivi del podcast; poi vi dirò) vi parlo di: piriforme, colori, ThinkBook, MacBook, Ted Talks, gli sposini, la pigna in bocca al cane. E ancora: il mio intervento al <a href="https://festivaldelpodcasting.eventbrite.co.uk?discount=FRIEND-FREE" title="Festival del Podcasting 2019: programma e informazioni" target="_blank">Festival del Podcasting 2019</a> (il 12 ottobre al Talent Garden Calabiana di Milano; apro io gli speech alle 9:30), e la novità <strong>Social Media Strategies 2019</strong> (6 novembre al Palacongressi di Rimini; il mio talk è previsto alle 16. Con il coupon: <mark>smspalombo</mark> ottenete uno sconto di 30€ - poi ci torneremo). Infine: Kurt Vonnegut; anzi, suo zio.
 
-È tutto. Buon ascolto! Potete inviare messaggi vocali su Telegram o Whatsapp al numero <strong>351 8516089</strong>, oppure a scrivermi una e-mail dal modulo contatti di questo sito. Non esagerate con la lunghezza dei vocali. Andate al punto.
+È tutto. Buon ascolto! Potete inviare messaggi vocali su Telegram o Whatsapp al numero <strong>351 8516089</strong>, oppure scrivere una e-mail dal modulo contatti di questo sito. Non esagerate con la lunghezza dei vocali. Andate al punto.
 
 ### Consiglio:
 <ul>
