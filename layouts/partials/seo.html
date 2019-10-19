@@ -68,34 +68,27 @@
         {{else if eq .Section "recensioni"}}
         {
           "@context": "https://schema.org/",
-          "@type": "Review",
-          "itemReviewed": {
-            "@type": "Product",
-            "image": "{{ .Params.immagine_testa }}",
-            "name": "{{ .Title }}",
-            "headline": "{{ .Title }}",
-            "url": "{{ .Permalink }}",
-            "datePublished": "{{ time .Date }}",
-            "description": "{{ .Description }}",
-            "brand": {
+          "@type": "Product",
+          "name": "{{ .Title }}",
+          "image": [
+            "{{ .Params.immagine_testa }}"
+           ],
+          "description": "{{ .Description }}",
+          "brand": {
             "@type": "Thing",
             "name": "{{ .Params.brand }}"
-                  }
           },
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "{{ .Params.rating }}",
-            "bestRating": "5"
-          },
-          "name": "{{ .Title }}",
-          "author": {
-            "@type": "Person",
-            "name": "Riccardo Palombo"
-          },
-          "reviewBody": "{{ .Content }}",
-          "publisher": {
-            "@type": "Organization",
-            "name": "Riccardo Palombo"
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "{{ .Params.rating }}",
+              "bestRating": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Riccardo Palombo"
+            }
           }
         }
 
