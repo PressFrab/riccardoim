@@ -66,33 +66,31 @@
          }
 
         {{else if eq .Section "recensioni"}}
-        { 
-            "@context": "https://schema.org", 
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "name": "{{ .Title }}",
+          "image": [
+            "{{ .Params.immagine_testa }}"
+           ],
+          "description": "{{ .Description }}",
+          "brand": {
+            "@type": "Thing",
+            "name": "{{ .Params.brand }}"
+          },
+          "review": {
             "@type": "Review",
-            "headline": "{{ .Title }}",
-            "url": "{{ .Permalink }}",
-            "datePublished": "{{ time .Date }}",
-            "description": "{{ .Description }}",
-            "image": "https://riccardo.im/img/android-chrome-512x512.png",
-            "review": {
-              "@type": "Review",
-              "reviewRating": {
-                "@type": "Rating",
-                "ratingValue": "{{ .Params.rating }}",
-                "bestRating": "5",
-                },
-              "author": {
-                "@type": "Person",
-                "name": "{{ .Site.Params.author }}"
-            }
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "{{ .Params.rating }}",
+              "bestRating": "5"
             },
-            "itemReviewed": {
-              "@type": "Product",
-              "image": "{{ .Params.immagine_testa }}",
-              "name": "{{ .Title }}"
-              },
-              "name": "{{ .Title }}",
-         }
+            "author": {
+              "@type": "Person",
+              "name": "Riccardo Palombo"
+            }
+          }
+        }
 
         {{ else }}
         { 
