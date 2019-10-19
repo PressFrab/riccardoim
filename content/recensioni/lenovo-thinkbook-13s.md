@@ -7,8 +7,9 @@ immagine_testa: https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_aut
 description: "La video recensione a Lenovo ThinkBook 13s di Riccardo Palombo."
 categoria: "1"
 rating: "4"
+brand: "Lenovo"
 layout: portatili/lenovo-thinkbook-13s
-video: https://www.youtube.com/embed/1dP4ArM8N8w
+video: https://www.youtube.com/embed/rEIh12ctsuE
 sommario: "È il portatile Apple per tutti"
 typed1: "^2000: ha Touch ID e TouchBar."
 typed2: ": ha CPU Quad Core e schermo P3."

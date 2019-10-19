@@ -7,6 +7,7 @@ immagine_testa: "https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_au
 description: "Recensione a Kindle Oasis 3 (2019) di Riccardo Palombo. L'ebook reader di Amazon è rinnovato con la luce ambrata."
 categoria: "1"
 rating: "3"
+brand: "Amazon"
 layout: kindle-oasis-2019
 video: https://www.youtube.com/embed/Xnj4df7_AvQ
 sommario: "L'illuminazione ambrata con due anni di ritardo."

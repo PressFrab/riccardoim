@@ -7,6 +7,7 @@ immagine_testa: https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_aut
 description: "La video recensione a Apple MacBook Pro 13 2019 di Riccardo Palombo. Benchmark, analisi hardware, autonomia e confronto con i migliori portatili Windows."
 categoria: "1"
 rating: "4.5"
+brand: "Apple"
 layout: portatili/macbook-pro-13-2019
 video: https://www.youtube.com/embed/1dP4ArM8N8w
 sommario: "È il portatile Apple per tutti"
