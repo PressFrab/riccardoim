@@ -80,5 +80,11 @@
       "titolo": "Letture facoltative",
       "autore": "Wislawa Szymborska",
       "link": "https://amzn.to/2Kf4fpV"
+    },
+    "16": {
+      "titolo": "I russi sono matti. Corso sintetico di letteratura russa",
+      "autore": "Paolo Nori",
+      "link": "https://amzn.to/2pxZ6Bi",
+      "must": "1"
     }
   }
