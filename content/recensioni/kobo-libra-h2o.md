@@ -10,7 +10,7 @@ rating: "4.5"
 draft: true
 jquery: "1"
 brand: "Kobo Rakuten"
-layout: kobo-libra-h2o
+layout: ereader/kobo-libra-h2o
 video: https://www.youtube.com/embed/CgZd3zbC0Aw/
 sommario: "Ebook reader definitivo"
 typed1: "^3000"

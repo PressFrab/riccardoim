@@ -8,7 +8,7 @@ description: "Recensione a Kindle Oasis 3 (2019) di Riccardo Palombo. L'ebook re
 categoria: "1"
 rating: "3"
 brand: "Amazon"
-layout: kindle-oasis-2019
+layout: ereader/kindle-oasis-2019
 video: https://www.youtube.com/embed/Xnj4df7_AvQ
 sommario: "L'illuminazione ambrata con due anni di ritardo."
 typed1: "^3000"
