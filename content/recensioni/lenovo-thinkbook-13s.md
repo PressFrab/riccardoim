@@ -16,7 +16,6 @@ typed2: ": ha CPU Quad Core e schermo P3."
 typed3: ": è più potente di MacBook Air."
 typed4: ". Ecco le prove."
 jquery: "1"
-draft: true
 ---
 
 
