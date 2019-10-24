@@ -1,5 +1,5 @@
 ---
-title: "Kindle Oasis 3 (2019)"
+title: "Kindle Oasis 2019"
 date: "2019-08-01T12:21:35+02:00"
 recensioni: current-menu-item
 slug: "kindle-oasis-2019"
