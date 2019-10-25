@@ -1,12 +1,11 @@
 ---
 title: "Tra comico e cosmico balla una s."
-date: 2019-10-23T12:00:20+02:00
+date: 2019-10-25T06:10:20+02:00
 numero: "43"
 slug: "il-mordente-43"
 description: "Puntata 43 del podcast Il Mordente. Argomenti: autostima, letteratura russa, corsa lenta e endorfine, l'odore del Natale, chi vuole la pappa pronta, il Linux Day 2019. E ci sono consigli su cambiare vita e lavoro. Autore: Riccardo Palombo"
 featured_image: "v1571924737/Podcast/il-mordente-43.jpg"
 podcast: current-menu-item
-draft: true
 ---
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/19665407" data-resource="episode_id=19665407" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Listen to "Tra comico e cosmico cambia una S." on Spreaker.</a>
