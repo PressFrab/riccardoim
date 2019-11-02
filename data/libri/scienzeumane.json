@@ -52,5 +52,11 @@
     "titolo": "TED Talks: The official TED guide to public speaking",
     "autore": "Chris Anderson",
     "link": "https://amzn.to/2ZMEq9Y"
+  },
+  "12": {
+    "titolo": "L'autostima. Alta o bassa, stabile o fluttuante, autentica o illusoria.",
+    "autore": "Maria Miceli",
+    "link": "https://amzn.to/2nYKvhO",
+    "must": "1"
   }
 }
