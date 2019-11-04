@@ -1,6 +1,6 @@
 ---
 title: "Feiyutech AK4500"
-date: 2019-10-21T12:00:35+02:00
+date: 2019-11-04T02:00:35+02:00
 articoli: current-menu-item
 slug: "feiyutech-ak4500"
 immagine_testa: https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1571404021/recensioni/lenovo-thinkbook-13s.jpg
@@ -9,7 +9,7 @@ categoria: "1"
 rating: "4"
 brand: "Feiyutech"
 layout: feiyutech-ak4500
-video: https://www.youtube.com/embed/rEIh12ctsuE
+video: https://www.youtube.com/embed/-MICDPN4FNc
 sommario: "Ecco un portatile da 13 pollici che posso consigliare."
 typed1: "^2000: "
 typed2: ""
