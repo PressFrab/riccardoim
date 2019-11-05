@@ -1,6 +1,6 @@
 ---
 title: "Feiyutech AK4500"
-date: 2019-11-05T12:20:35+02:00
+date: 2019-11-05T12:10:35+02:00
 articoli: current-menu-item
 slug: "feiyutech-ak4500"
 immagine_testa: https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1572713921/recensioni/feiyutech-ak4500.jpg
