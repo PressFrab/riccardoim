@@ -1,6 +1,6 @@
 ---
 title: "Feiyutech AK4500"
-date: 2019-11-05T12:00:35+02:00
+date: 2019-11-05T12:20:35+02:00
 articoli: current-menu-item
 slug: "feiyutech-ak4500"
 immagine_testa: https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1572713921/recensioni/feiyutech-ak4500.jpg
@@ -16,7 +16,6 @@ typed2: ""
 typed3: ""
 typed4: ""
 jquery: "1"
-draft: true
 ---
 
 Feiyutech AK4500 ha le funzioni che ti aspetti di trovare in uno stabilizzatore DSLR di fascia medio alta. Cose come: delle porte USB per il collegamento delle videocamere Canon, Sony, Panasonic e Nikon (con tutti i cavetti in dotazione) e per gli accessori esterni come i follow focus; una piastra ad attacco rapido compatibile Manfrotto; dei pulsanti personalizzabili; un'app per iOS e Android decente; una certa flessibilità nella regolazione dei motori, dalla frizione alla sensibilità, fino a programmi adatti a certi contesti (esempio: riprese sportive); un telaio solido verniciato e rifinito per resistere a colpetti e ammaccature.
