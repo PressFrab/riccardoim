@@ -1,5 +1,5 @@
 ---
-title: "Tra comico e cosmico balla una s."
+title: "Tra comico e cosmico balla una s"
 date: 2019-10-25T06:10:20+02:00
 numero: "43"
 slug: "il-mordente-43"

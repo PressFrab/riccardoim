@@ -1,10 +1,9 @@
 ---
 title: "Tre ore e passa di felicità agostiniana"
-date: 2019-11-10T06:10:20+02:00
+date: 2019-11-11T06:00:20+02:00
 numero: "44"
 slug: "il-mordente-44"
-description: "Puntata 44 del podcast Il Mordente. Argomenti: la felicità, la Maratona di Francoforte, il mio talk a Social Media Strategies, i colori, la postura corretta. Autore: Riccardo Palombo"
-draft: true
+description: "Puntata 44 del podcast Il Mordente. Argomenti: la felicità, la Maratona di Francoforte, il mio talk a Social Media Strategies, la postura corretta durante il lavoro. Autore: Riccardo Palombo"
 featured_image: "v1573401626/Podcast/il-mordente-44.jpg"
 podcast: current-menu-item
 ---
@@ -15,7 +14,7 @@ podcast: current-menu-item
 
 La <a href="https://www.strava.com/activities/2821142125" target="_blank" rel="nofollow" title="Maratona di Francoforte di Riccardo Palombo su Strava">Maratona di Francoforte</a> è andata meglio del previsto: chiusa in 3 ore e 14 minuti di controllo assoluto, quasi senza sudare. Non ho ancora superato tutti gli acciacchi ma posso andare avanti e preparare altro; ascoltate l'audio per sapere quando e dove. Dimenticavo: sto provando un <strong>Surface Laptop 3</strong>, e a giorni metterò le mani sul Pixelbook vinto all'asta.
 
-Il titolo è ispirato ad una delle ultime letture consigliate: "La felicità" di Paolo Legresti. A pagina venti, come introduzione al paragrafo sulla felicità collettiva, si legge: "Nella Germania tra le due guerre, al Dio di S. Agostino si è sostituito  un nuovo ordine terreno, che ricorda la felicità agostiniana, nel senso che <mark>l'essere felici discende dal fondersi nella collettività, nell'immedesimarsi nei suoi valori</mark>". Non è quel che cerco, almeno adesso, ma ammetto di percepire questa influenza quando mi trovo in mezzo a grossi eventi pubblici.
+Il titolo è ispirato ad una delle ultime letture consigliate: "La felicità" di Paolo Legresti. A pagina venti, come introduzione al paragrafo sulla felicità collettiva, si legge: «Nella Germania tra le due guerre, al Dio di S. Agostino si è sostituito  un nuovo ordine terreno, che ricorda la felicità agostiniana, nel senso che <mark>l'essere felici discende dal fondersi nella collettività, nell'immedesimarsi nei suoi valori</mark>». Non è quel che cerco, almeno adesso, ma ammetto di percepire questa influenza quando mi trovo in mezzo a grossi eventi pubblici.
 
 Comunque sia, abbiamo ancora una certezza: potete inviare messaggi vocali su Telegram o Whatsapp al numero <strong>351 8516089</strong>, oppure scrivere una e-mail dal modulo contatti di questo sito. Non esagerate con la lunghezza dei vocali; andate al punto. E non inviate e-mail di cinque pagine perché sono consulenze, non commenti. Ciao.
 
