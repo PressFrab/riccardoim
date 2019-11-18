@@ -16,7 +16,7 @@ Dodici giorni fa sono stato invitato alla prima proiezione di <strong>Le Mans 66
 
 <mark>Importante: il 21 novembre sarò ospite di IAB Forum 2019. Ho trenta ingressi da regalare: ascoltate la puntata per sapere come ricevene uno.</mark>
 
-Nel podcast si parla della postazione per lavorare in piedi che ho appena costruito, e si accenna sia al nuovo MacBook Pro da 16 pollici sia al Surface Laptop 3 che ho appena finito di provare: le recensioni, e i video, saranno online nelle settimane a venire.
+Nel podcast si parla della postazione per lavorare in piedi che ho appena costruito, e si accenna sia al nuovo <strong>MacBook Pro</strong> da 16 pollici sia al Surface Laptop 3 che ho appena finito di provare: le recensioni, e i video, saranno online nelle settimane a venire.
 
 Come al solito potete mandare un messaggio vocale (o di testo, se siete ~~timidi~~ introversi) al <strong>3518516089</strong> su Whatsapp o Telegram. I messaggi servono per chiedere spiegazioni, proporre argomenti, restare in contatto. Se volete, possiamo restare in contatto. Seguono i consigli di questa settimana.
 
