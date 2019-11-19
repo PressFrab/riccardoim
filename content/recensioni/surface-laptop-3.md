@@ -1,0 +1,46 @@
+---
+title: "Microsoft Surface Laptop 3"
+date: 2019-11-10T12:00:35+02:00
+articoli: current-menu-item
+slug: "surface-laptop-3"
+immagine_testa: https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1571404021/recensioni/lenovo-thinkbook-13s.jpg
+description: "La video recensione a Microsoft Surface Laptop 3. In prova con benchmark, autonomia e confronto con i migliori portatili Windows e Linux. Pubblicata da Riccardo Palombo."
+categoria: "1"
+rating: "4"
+brand: "Microsoft"
+layout: portatili/microsoft-surface-laptop-3
+video: https://www.youtube.com/embed/vEXWpESA8FA
+sommario: "Ecco un portatile da 13 pollici che posso consigliare."
+typed1: "^2000: ."
+typed2: ": ha CPU Quad Core e schermo P3."
+typed3: ": è più potente di MacBook Air."
+typed4: ". Ecco le prove."
+jquery: "1"
+draft: true
+---
+
+Me ne sto in piedi con il portatile sotto mano per cercare di capire se lo schermo touchscreen e il supporot penna di Surface Laptop 3 sono un errore di design o no. Ho tirato fuori i libri di Munari e l'unico che ho di Donald Norman, ma non riesco a trovare la definizione esatta che son sicuro di aver letto da qualche parte. Cos'è il design? Posso scrivere senza sembrare un incompentente che aver installato uno schermo touchscreen, quindi con vetro riflettente, e perdipiù con digitalizzatore attivo per il supporto alla scrittura con penna e alla Microsoft Dial, è una cavolata? E' un difetto e un errore? Perché se da una parte è vero che spostare le finestre e le pagine con il dito può far comodo, dall'altra si creano tanti di quegli svantaggi che non serve nemmeno approfondire. Degli esempi? I riflessi, tanto per dire, più noiosi e più presenti di altri portatili simili (come il MacBook Pro che ho accanto); e il costo dei materiali, perché l'impatto sul listino di un digitalizzatore evoluto come quello che richiede la certificazione MPP (Microsoft Pen Protocol) e il supporto alla Pen e alla Dial, non è di poco conto. Preciso che: 1) la cerniera del notebook non va oltre un'apertura standard, e quindi è difficile capire come si potrebbe usare una penna per più di cinque secondi; 2) non c'è una GPU dedicata il che mi lascia dei dubbi sull'uso di programmi grafici adatti a sfruttare la rotellina Dial. Quindi su un macchina che racchiude le migliori intenzioni di progettazione, e che punta a considerare il design industriale, il design dell'interazione, e il design dell'esperienza utente, quello schermo touchscreen è un errore. Che diventa un difetto direttamente proporzionale al numero di volte che mi trovo a dover lavorare vicino al finestrino di un treno, o con una luce neon sopra la testa, o con una grossa finestra sopra la testa, o al parco.
+
+Ma comunque c'è molto molto altro da dire su Surface Laptop 3, e sollevate il vostro umore perché sono tutte notizie positive. O quasi. Do per scontato che conosciate le differenze tecniche tra questa edizione 2019 e la vecchia, la 2018. Si fa presto a rimediare; leggete la scheda tecnica a seguire e fate caso a tre cose: la Wi-Fi 6 (ax), la scheda grafica Gen11 con 64 EU, la USB-C. Ora cliccate l'immagine a fianco e guardate bene le dimensioni del touchpad: è parecchio più grosso di prima. Forse riuscite anche a notare la colorazione più scura dell'Alcantara (quest'anno ci sono anche i modelli in alluminio, senza Alcantara, ma queste informazioni si trovano ovunque e io voglio concentrarmi su quel che non è ancora stato detto) ma io preferivo la vecchia e credo che questa sia stata scelta perché si sporca meno.
+
+SCHEDA TECNICA
+
+Anche se le forme di Surface Laptop 3 sono quelle di sempre, quest'anno mi sembra di mettere le mani su un prodotto molto più maturo. E' normale perché significa che il nostro occhio e il nostro gusto si sono abituati alle sue linee e danno per scontato, adesso, percepire quell'effetto soffice e unico dei polsi sull'Alcantara. C'entra anche quell'equilibrio di cui parlo spesso nelle recensioni ai portatili: è il rapporto tra l'altezza dello schermo rispetto alla tastiera, la posizione dei tasti e il punto di appoggio dei polsi a rendere ergonomica o meno la dotazione di input. Surface Laptop è sempre stato un esempio in questo: la finitura, il suono smorzato della tastiera, lo schermo 3:2 che io continuo a preferire in tutto e per tutto ai formati allungati (che poi, un tempo potevano avere senso i 16:9, ma adesso chi utilizza i portatili lo fa per produrre qualcosa non per guardare film).
+
+Questa generazione ha una novità progettuale che dà e toglie: tutta la parte tastiera si smonta per scoprire gli interni (bellissimi, niente da aggiungere) e lo fa con un sistema magnetico parecchio apprezzabile. E' bello quando un oggetto del genere riesce a sorprenderti! La buona notizia è che si può fare un po' di manutenzione alla ventola interna e cambiare la SSD NVMe BG4 (un formato più compatto del solito). La cattiva notizia è che questa installazione ha reso appena meno rigida la parte centrale della tastiera. Che resta adorabile per scrivere a lungo, ma perde certezza proprio dove le FGHJK, ovvero dove non c'è un aggancio. E' una lieve sospensione che ho notato subito, e che non ricordo nel modello 2018.
+
+Intendiamoci: Surface Laptop 3 è una meraviglia per scrivere e per lavorare a lungo senza mouse. Il touchpad è grosso, le gesture sono precise, la tastiera è retroilluminata bene, c'è l'Alcantara, eccetera eccetera. E poi le temperature a contatto non vanno mai sopra i 40 °C, il portatile gira con se fosse fanless nel 90% dei casi, lo schermo è calibrato, il sensore IR sblocca Windows in meno di un secondo, il sistema Instant On lo fa sembrare sempre acceso, come se fosse un Chromebook, un MacBook o... uno smartphone.
+
+Ma la tastiera ha un millimetro di gioco e questo è un dato di fatto. Quando torno a scrivere sul MacBook Pro 13 mi sembra di schiacciare il marmo - e non mi sto riferendo al suo poggia polsi in alluminio gelido come un termosifone spento da mesi (anche per questo motivo me ne sto volentieri sull'Alcantara) e questo è un altro dato di fatto.
+
+Parliamo di prestazioni? L'aggiornamento delle piattaforma Intel ha migliorato il processore e la scheda grafica. Questa Iris Plus, in particolare, ha un 50% di potenza in più secondo i dati di Intel, ma, come dimostrano i grafici sotto, ha una resa sacrificata da un'impostazione energetica conservativa che cerca di vincolare le temperature nella fascia dei 75°C e, quindi, limita la capacità di girare alla massima frequenza.
+
+Il Core i5-1035G7 è un Ice Lake-U Quad Core con TDP di 15 watt con frequenza di 3.7 GHz (singolo core), 3.6 GHz (due core) e 3.3 GHz (quattro core). E' costruito a 10nm. Surface Laptop 3 lo spinge fino ai 39 watt ma cerca di restare appena sopra i 15 watt e di raggiungere una temperatura regolare di 70°C. Siamo circa 20°C sotto un MacBook Pro o un Dell XPS 13, per dire, che dalla loro hanno un sistema di smaltimento del calore a due ventole, molto più grosso. Per mettere sotto torchio l'hardware ho fatto girare per 30 volte di fila sia Cinebench R15 CPU Multi sia lo stress test di 3DMark Time Spy; poi ho fatto una conversione Handbrake di oltre 30 minuti, e dei rendering H264 con Adobe Premiere Pro CC 2019. Ne sono usciti i grafici di questa sezione ed i risultati dei benchmark del paragrafo più in basso.
+
+Considerando che i test sono stati fatti con alimentatore collegato proprio per avere lo scenario d'uso più caldo possibile, sono valori per niente spinti e sono temperature più basse del solito. Normale quindi che non si arrivi mai a del throttling termico penalizzante. Surface Laptop 3 resta sempre reattivo, sempre pronto. Il frusciare della piccola ventola è tutto il disagio che riesce a generare. Ed ha senso perché un notebook di questa categoria non può mai essere ottimizzato per portare al limite il suo hardware: non ha una scheda grafica dedicata quindi non è per il montaggio video professionale (ma vogliamo ragione sul cosa sia professionale di questi tempi? Un video che richiede un montaggio minimo può anche derivare da tanta attenzione alle riprese), non ha la porta Thunderbolt 3 quindi non può collegarsi alle dock con GPU aggiuntiva e porte extra, e non ha nemmeno la struttura interna, dalle heatpipe allo spazio fisico, per governare tanto calore. Ha senso così: stabile, freddo, adeguato a quel che deve fare. Conforme alle prospettive d'uso. Con una scheda grafica molto migliore rispetto ai modelli con CPU Intel di 8° e 9° generazione, e con le chicche hardware del Wi-Fi 6 e del risveglio immediato dallo standby.
+
+Da un altro punto di vista la scelta di una messa a punto tanto sapiente potrebbe essere stata forzata dalla batteria piccola. Una 46 Wh (circa) su una CPU da 15 watt basta ma non avanza. E anche il portatile Microsoft non fa miracoli. Lasciare che il sistema consumi più watt per più tempo avrebbe ridotto ancora l'autonomia creando, a quel punto, un fastidio. Surface Laptop 3 fa circa 7 ore di autonomia con schermo al 50%, luce della tastiera spenta, Wi-Fi collegato in ac e un uso intenso del browser, dei social network. Si sale verso le 8 ore quando si lavora in locale (sviluppo web nel mio caso con VSCode e Hugo su localhost) 
+
+ALIMENTATORE COMPATTO
+SUPPORTO LINUX
+e 
