@@ -1,15 +1,14 @@
 ---
 title: "Carnemonìa"
-date: 2019-11-24T05:45:20+02:00
+date: 2019-11-25T07:00:20+02:00
 numero: "46"
 slug: "il-mordente-46"
 description: "Puntata 46 del podcast Il Mordente. Argomenti: NordVPN, la mia intervista a IABForum 2019, il MacBook Pro 16, la corsa con il metronomo, il perché del mettersi in proprio, il libro Cromorama. Autore: Riccardo Palombo"
-featured_image: "v1574052405/Podcast/il-mordente-45.jpg"
+featured_image: "v1574662335/Podcast/il-mordente-46.jpg"
 podcast: current-menu-item
-draft: true
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/20238654" data-resource="episode_id=20238654" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Carnemonìa (parzialmente registrato dai microfoni del MacBook Pro 16)" su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/20238654" data-resource="episode_id=20238654" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Carnemonìa (o, nero di mummia)." su Spreaker.</a>
 
 Ho registrato <strong>Il Mordente 46</strong> parlando a braccio per quasi quaranta minuti; poi ho cambiato idea e ne ho fatto un podcast spezzettato di diciassette. E credo che questa sensazione di incoerenza si senta parecchio. Ma va bene così, perché dove è scritto che serve per forza un filo? O non posso io, dalla pesantezza dei miei quasi-quaranta-anni, usare l'attrezzatura che mi ritrovo a casa (e, in questo periodo, è tanta roba) per registrare e poi proporre un audio storto, come mi va di dire?
 
