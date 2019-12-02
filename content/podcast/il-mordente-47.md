@@ -1,15 +1,14 @@
 ---
-title: "Un anno di podcast"
+title: "Tanti auguri, Mordente!"
 date: 2019-12-02T05:00:20+02:00
 numero: "47"
 slug: "il-mordente-47"
 description: "Puntata 47 del podcast Il Mordente. Argomenti: il compleanno del podcast, la corsa in salita, le lezioni di meraviglia, Vera Gheno, Maura Gancitano. Ed io che sono stanco ma propositivo. Autore: Riccardo Palombo"
 featured_image: "v1575223100/Podcast/il-mordente-47.jpg"
 podcast: current-menu-item
-draft: true
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/20406837" data-resource="episode_id=20406837" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Un anno di mordente (e tutto è più scuro)" su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/20406837" data-resource="episode_id=20406837" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Tanti auguri, Mordente!" su Spreaker.</a>
 
 Ecco una puntata non prevista. <strong>Il Mordente 47</strong> è improvvisato e più breve del solito. Nei nove minuti e rotti, stacchetti compresi, vi parlo di Mac, di impicci, dei 4°C di questa mattina. E vi consiglio tre nuovi libri appena arrivati. Ma, soprattutto, festeggio il compleanno del podcast! <mark>Il Mordente compie un anno proprio oggi 2 dicembre 2019</mark> - anche se [la prima puntata](/podcast/il-mordente-1/) andò online qualche giorno dopo perché l'approvazione su Spotify e Google Podcast non arrivava mai.
 
