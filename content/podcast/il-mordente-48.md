@@ -1,12 +1,11 @@
 ---
 title: "Cosa ho detto a Rimini"
-date: 2019-12-02T07:00:20+02:00
+date: 2019-12-09T07:00:20+02:00
 numero: "48"
 slug: "il-mordente-48"
 description: "Puntata 48 del podcast Il Mordente. La registrazione del mio talk al Social Media Strategies 2019 di Rimini. Autore: Riccardo Palombo"
 featured_image: "v1575734591/Podcast/il-mordente-48.jpg"
 podcast: current-menu-item
-draft: true
 ---
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/20549540" data-resource="episode_id=20549540" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "#48 - Cosa ho detto a Rimini qualche tempo fa." su Spreaker.</a>
