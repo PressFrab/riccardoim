@@ -1,6 +1,5 @@
 {{ partial "header.html" . }}
-<link rel='stylesheet' href='{{.Site.BaseURL}}css/lightbox.css' type='text/css'
-    media='all'/>
+<link rel='stylesheet' href='{{.Site.BaseURL}}css/lightbox.css' type='text/css' media='all' />
 <main>
     <article class="main-scroll">
         <div class="row" style="margin-bottom: 0">
@@ -11,10 +10,8 @@
                         <!-- SHARE -->
                         <div class="jssocials-shares post-content-header">
                             <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://facebook.com/sharer/sharer.php?u={{.Permalink}}"
-                                    rel="noopener" class="jssocials-share-link"
-                                    title="Condividi su Facebook">
+                                <a target="_blank" href="https://facebook.com/sharer/sharer.php?u={{.Permalink}}"
+                                    rel="noopener" class="jssocials-share-link" title="Condividi su Facebook">
                                     <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
                                         class="jssocials-share-facebook" width="13" height="81"
                                         alt="Condividi su Facebook">
@@ -24,8 +21,7 @@
                             <div class="jssocials-share">
                                 <a target="_blank"
                                     href="https://twitter.com/share?url={{.Permalink}}&amp;text=Recensione%20{{.Title}}%20di%20%40riccardopalombo"
-                                    rel="noopener" class="jssocials-share-link"
-                                    title="Condividi su Twitter">
+                                    rel="noopener" class="jssocials-share-link" title="Condividi su Twitter">
                                     <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
                                         class="jssocials-share-twitter" width="13" height="81"
                                         alt="Condividi su Twitter">
@@ -35,11 +31,9 @@
                             <div class="jssocials-share">
                                 <a target="_blank"
                                     href="https://reddit.com/submit?url={{.Permalink}}&amp;title=Recensione%20{{.Title}}"
-                                    rel="noopener" class="jssocials-share-link"
-                                    title="Condividi su Reddit">
+                                    rel="noopener" class="jssocials-share-link" title="Condividi su Reddit">
                                     <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-reddit" width="13" height="81"
-                                        alt="Condividi su Reddit">
+                                        class="jssocials-share-reddit" width="13" height="81" alt="Condividi su Reddit">
                                 </a>
                             </div>
                         </div>
@@ -47,7 +41,7 @@
 
                     </div>
                     <h1>MacBook Pro 16</h1>
-                    <p>{{.Params.sommario}}<span id="typed"></span>
+                    <p>{{.Params.sommario}}
                     </p>
                 </div>
             </div>
@@ -58,7 +52,7 @@
                             {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
                         </span></span>
                     <span class="atail-multitext-text">Discussione
-                    <span><a href="#disqus_thread" title="Leggi i commenti">Leggi i commenti</a></span>
+                        <span><a href="#disqus_thread" title="Leggi i commenti">Leggi i commenti</a></span>
                     </span>
                     <span class="atail-multitext-text">Tempo di lettura <span>Circa
                             23-31 minuti</span></span>
@@ -70,39 +64,68 @@
 
         <!-- VIDEO FULL -->
 
-        <div class="videoWrapper embed-responsive embed-responsive-4by3"
-            data-yt-url="{{.Params.video}}">
+        <div class="videoWrapper embed-responsive embed-responsive-4by3" data-yt-url="{{.Params.video}}">
 
-        <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622277/Macbook-Pro-16/recensione_macbook_pro_16_video.png"
-                            alt="Video Recensione {{ .Title }}" class="cld-responsive lazyload play-youtube-video">
+            <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622277/Macbook-Pro-16/recensione_macbook_pro_16_video.png"
+                alt="Video Recensione {{ .Title }}" class="cld-responsive lazyload play-youtube-video">
         </div>
 
         <!-- FINE VIDEO -->
 
         <!-- SCHEDA TECNICA -->
-<div class="single-project row-col-12">
+        <div class="single-project row-col-12">
             <div class="col-md-2"></div>
 
-<div class="col-md-8 no-padding-left" style="margin-bottom:80px">
+            <div class="col-md-8 no-padding-left" style="margin-bottom:80px">
                 <aside class="yt-iscriviti">
                     <span class="atail-multitext-text">ISCRIVITI AL NUOVO CANALE YOUTUBE</span>
-                    <div class="g-ytsubscribe" data-channelid="UCIdYIrInVnUwHVbogLj6bqA" data-layout="full" data-count="default"></div>
+                    <div class="g-ytsubscribe" data-channelid="UCIdYIrInVnUwHVbogLj6bqA" data-layout="full"
+                        data-count="default"></div>
                 </aside>
-                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Scrivo dal divano di casa, quello più grosso. Ho il Mac sulle gambe intrecciate e un senso di colpa che inizia a salire. Poco fa ho deciso di fregarmene del nutrizionista (che a lui, poi, sai cosa importa; sono io quello che sta spendendo un botto sia per andarci sia per tutta l’alimentazione controllata di questi mesi - e sono sempre io quello che si è messo in testa di stare sotto le tre ore alla <strong>Maratona di Francoforte</strong> dopo sei mesi di stop) e ho mangiato sei biscotti dozzinali afflosciati in un tè caldo “miscela di foglie nere dark-chocolate”. Sospetto che sia colpa del poco dormire: alle 5, ero in piedi; alle 6, ero in pista a fare ripetute da 1000 metri; alle 8:30, bloccato nel traffico, maledicevo questo e quello e poi solo grazie a dio ho trovato parcheggio qua sotto.</p>
-                <p>
-                        Fatto sta, comunque sia, adesso mi godo questi pochi secondi di picco glicemico e cerco di farmi forza schiacciando l’ultima revisione degli switch a farfalla di Apple. Il brutto è che non sento il loro <em>clack clack</em> perché ho delle cuffie insonorizzanti da operaio (-39dB dichiarati) pagate <a href="https://amzn.to/31z5run" rel="nofollow" title="Vedi cuffie insonorizzanti su Amazon" target="_blank">11 euro su Amazon</a>. Ed è un peccato.
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> La vita è schizzinosa e richiede un concorso di circostanze
+                    assai particolari, ma questa recensione a <strong>MacBook Pro da 16 pollici</strong> sarà netta e
+                    schietta perché il prodotto è netto e schietto. Ho un compito facile che posso sbrigare così: vi
+                    serve? compratelo. Funziona come previsto ed è tra i prodotti Apple più riusciti - assieme agli
+                    AirPods, e come gli ultimi Apple Watch.
+
+                    Ora, con quel "vi serve?", do per scontato che vi serva un portatile per il lavoro impegnato e
+                    prolungato, soprattutto se creativo o comunque produttivo (nel senso latino di <em>producĕre</em>,
+                    derivato di <em>ducĕre</em> "condurre", quindi concludere quel che avete in testa, portarlo in
+                    una forma che altri possono esperire, buttarlo fuori). Perché è vero che costa quanto il vecchio 15
+                    pollici nonostante le novità (tastiera, schermo, impianto termico, memoria SSD doppia, altoparlanti,
+                    microfoni) ma sono comunque <a href="https://amzn.to/36gOWoH" rel="nofollow"
+                        title="Apple MacBook Pro 16 in offerta su Amazon" target="_blank">2799 euro</a> per la
+                    configurazione base e non c'è da scherzare con
+                    quasi-tremila-euro per un portatile.
+                </p>
+                <p>Per dirvi, e si capisce, che è sprecato quando non si fa sul serio, quando non è il PC di lavoro o
+                    quando si compra senza partita IVA (che poi qui potremmo aprire tutto un paragrafo sullo scaricare
+                    l'IVA e pagarlo meno ma non mi va). Oppure quando uno si rende conto che può lavorare in studio nel
+                    <abbr title="È una percentuale a caso, serve solo a farvi capire">97%</abbr> dei casi e
+                    allora farebbe bene a investire in un fisso anziché in una workstation da viaggio come questa. O
+                    anche quando si è il tipo di persona che <strike>riesce a</strike> può usare Windows anziché macOS.
+
+                    Ecco, un'ultima cosa: questo MacBook Pro 16 è cucito attorno ad un preciso utente, è <mark>pensato
+                        per un preciso modo di fare</mark>,
+                    che è quello di chi usa il sistema operativo Apple e i software a lui legati. Parlo di Final Cut Pro
+                    X, parlo di Logic
+                    Pro X, di Davinci Resolve, di Xcode, di Maya; e in minima parte di Premiere, Lightroom e Photoshop
+                    per chi
+                    sopporta gli alti e i bassi della suite Adobe su macOS. Perché? Perché è con questi software che fa
+                    cose che prima non si potevano fare sui laptop Apple. Ci arrivo. Prima devo chiudere questa sezione
+                    così come l'ho iniziata: vi serve? Compratelo.
                 </p>
             </div>
 
- <section class="col-md-4 col-md-push-2 no-padding-left">
+            <section class="col-md-4 col-md-push-2 no-padding-left">
                 <div class="atail-multitext">
                     <h2 class="atail-multitext-title">SCHEDA TECNICA</h2>
-                    <span class="atail-multitext-text">Schermo<span>16 pollici IPS 
+                    <span class="atail-multitext-text">Schermo<span>16 pollici IPS
                             3072 x 1920 px / P3 / True Tone</span></span>
                     <span class="atail-multitext-text">Processore<span>Intel
                             Core i7 o i9 fino a 8-core @ 2.4 - 5 GHz</span></span>
                     <span class="atail-multitext-text">Scheda grafica<span>
-                        Radeon Pro 5300M o 5500M / 4-8 GB GDDR6 / Intel HD 630</span></span>
+                            Radeon Pro 5300M o 5500M / 4-8 GB GDDR6 / Intel HD 630</span></span>
                     <span class="atail-multitext-text">Memorie<span>16-64 GB DDR4-2666 /
                             SSD NVMe 512-8192 GB</span></span>
                     <span class="atail-multitext-text">Rete<span>Wi-Fi ac +
@@ -113,456 +136,484 @@
                             USB-C 96 watt</span></span>
                     <span class="atail-multitext-text">Telaio<span>358 x 255 x 16 mm / 2000 grammi</span></span>
                     <span class="atail-multitext-text">Altro<span>Webcam 720p /
-                            TouchBar + Touch ID (chip T2) / 3 microfoni / 6 altoparlanti</span></span>
+                            TouchBar + Touch ID (chip T2) / 3 microfoni / 6 altoparlanti / 2 woofer</span></span>
                 </div>
- </section>
+            </section>
 
-<!-- FINE SCHEDA TECNICA -->
+            <!-- FINE SCHEDA TECNICA -->
 
-<!-- SCHEDA IMG -->
+            <!-- SCHEDA IMG -->
 
-<div class="col-md-4 col-md-push-2 no-padding-right">
+            <div class="col-md-4 col-md-push-2 no-padding-right">
                 <figure class="no-margin">
-                    <a
-                        href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622266/Macbook-Pro-16/apple-macbook-pro-16_x0pbri.jpg"
-                        data-lightbox="scheda"
-                        data-alt="{{ .Title }}" data-title="MacBook Pro 16 2019:
+                    <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622266/Macbook-Pro-16/apple-macbook-pro-16_x0pbri.jpg"
+                        data-lightbox="scheda" data-alt="{{ .Title }}" data-title="MacBook Pro 16 2019:
                         vista frontale." title="Scheda tecnica MacBook Pro 16 2019">
-                        <img
-                            data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622266/Macbook-Pro-16/apple-macbook-pro-16_x0pbri.jpg"
-                            alt="Scheda tecnica {{ .Title }}"
-                            class="cld-responsive lazyload">
+                        <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622266/Macbook-Pro-16/apple-macbook-pro-16_x0pbri.jpg"
+                            alt="Scheda tecnica {{ .Title }}" class="cld-responsive lazyload">
                     </a>
                     <figcaption>
                         <span class="description-title" style="padding-left:0">
-                            <span>FIG. 1.</span> Clicca per ingrandire.
+                             1.</span> Clicca per ingrandire.
                         </span>
                         <p>
-                            Ci sono quasi 200 grammi di differenza rispetto a MacBook Pro da 15 pollici, ma il telaio ha le stesse dimensioni. Nello zaino o in borsa cambia poco. Anche l'alimentatore ha lo stesso ingombro di prima.
+                            Ci sono quasi 200 grammi di differenza rispetto a MacBook Pro da 15 pollici, ma il telaio ha
+                            le stesse dimensioni. Nello zaino o in borsa cambia poco. Anche l'alimentatore ha lo stesso
+                            ingombro di prima.
                         </p>
                     </figcaption>
                 </figure>
 
                 <!-- FINE SCHEDA IMG -->
-</div>
-</div>
+            </div>
+        </div>
 
-<section class="single-project row-col-12">
+        <div class="single-project row-col-12">
             <div class="col-md-8 col-md-push-2 no-padding-left">
                 <h2>Ergonomia</h2>
-                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> In estate ho vissuto il trauma della briciola sotto il tasto, una cosa che mi accomuna a tanti ragazzi là fuori. Nel mio caso, sotto la M, finì del meraviglioso pane casareccio comprato a Sicilì, nel Cilento, e fu per colpa sua che per giorni la M andava e non andava. Poi si deve essere frantumata da sola ed ecco che la tastiera è tornata ad essere la mia preferita su computer portatili: sì, migliore della AccuType del ThinkPad X1 che ora sento gommosa e indecisa; e, sì, migliore della tastiera di Surface Book; e, no, non migliore della tastiera del <a href="https://en.wikipedia.org/wiki/Chromebook#Cr-48" rel="nofollow" title="Chromebook CR-48 su Wikipedia" target="_blank">Chromebook CR-48</a>, il prototipo regalato da Google agli sviluppatori nel dicembre 2010 (si trova ancora nei mercatini a circa 100 euro; non ve lo consiglio perché ha un Atom N455 Single Core e un difetto alle cerniere, ma se vi capita provate a metterci le mani sopra - per quanto credo che sia la mia memoria a rendere quell'esperienza di scrittura così memorabile, ma preferisco non verificare e cullare questi ricordi).
-                </p>   
-                <p>Quindi in questo stato ovattato e euforico dovuto ai carboidrati complessi dei biscotti, vi scrivo che, senza alcun dubbio, considero la tastiera e il touchpad di questo MacBook Pro <strong>una delle migliori esperienze sul mercato</strong>. Chi lavora nel settore deve pensarci solo per questo.
-
-                    Ma ecco che inizio ad avere caldo per via del tè bollente; credo sia finita l’euforia da zuccheri quindi è meglio mettersi al lavoro - e fare un passo indietro.</p>
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Sono tanto sfacciato perché Apple ha azzeccato ogni
+                    modifica. Lo schermo da 16 pollici dà il nome al portatile ma è il componente più banale perché usa
+                    le direttive di qualità degli ultimi MacBook Pro. Quindi arriva a 500 nits (con una variazione
+                    massima dell'illuminazione del 3%), quindi copre oltre il <strong>98% del DCI-P3</strong> e il 100%
+                    dell'sRGB, quindi ha il True Tone e di conseguenza risulta più naturale di tutti gli altri sistemi
+                    per la riduzione della luce blu, quindi ha valori DeltaE grigi e colori trascurabili. Più avanti, se
+                    scrollate un po', trovate i dati. È il solito schermo Apple che arriva calibrato, pronto per essere
+                    messo in mezzo senza sonde, senza software, e senza profili colore esterni.
+                </p>
+                <p>
+                    Non è tutto: grazie a macOS Catalina questo <em>Mac-da-16</em> (slang che adoro, sembra quello di un
+                    hamburger) può usare sia il Tone Mapping sui software supportati per non perdere le informazioni più
+                    luminose nei flussi HDR quando lavorati su monitor standard (EDR, ovvero <a
+                        href="https://developer.apple.com/documentation/metal/drawable_objects/displaying_hdr_content_in_a_metal_layer"
+                        rel="nofollow" title="Displaying HDR Content in a Metal Layer" target="_blank">Extended Dynamic
+                        Range</a>), sia il cambio di frequenza per adeguarsi alla fluidità del filmato in riproduzione
+                    (47.95, 48, 50, 59.94, 60 Hz). Non inserisco in questo paragrafo le cornici ridotte dovute alla
+                    nuova diagonale nel telaio di sempre, perché non è una cosa speciale. Anzi, era l'ora.
+                </p>
             </div>
-</section>
+        </div>
+        <!-- TEARDOWN -->
+        <figure>
+            <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622274/Macbook-Pro-16/macbook_pro_16_uniformita-display.png"
+                data-lightbox="grafico" data-alt="{{.Title }}: luminosità dello schermo."
+                data-title="Luminosità dello schermo di MacBook Pro 16.">
+                <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622274/Macbook-Pro-16/macbook_pro_16_uniformita-display.png"
+                    alt="{{.Title }}: luminosità dello schermo." class="cld-responsive lazyload"></a>
+            <figcaption>
+                <span class="description-title">
+                    <span>FIG. 2.</span> Analisi dell'uniformità dello schermo. La variazione massima è del 3%.
+                    Misurato con X-Rite i1 Display Pro.</span>
+            </figcaption>
+        </figure>
+        <!-- FINE TEARDONW -->
+        <section class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <p>
+                    E l'audio? Altra sciccheria. Ci sarebbe tutta una storia da raccontare sui sei altoparlanti e
+                    soprattutto sui due woofer force-cancelling per la controfase necessaria a ridurre le vibrazioni sul
+                    telaio, ma sarebbero comunque: 1) cose che avete già sentito; 2) informazioni tecniche spoglie poco
+                    utili per rendere l'idea di quello che è il risultato finale. Vuoi per qualche equalizzazione
+                    software specifica (cose che altri non fanno), vuoi perché finisci per averli davanti, alla distanza
+                    ideale di ascolto (ma questo vale per tutti i portatili), gli altoparlanti di MacBook Pro 16
+                    <strong>suonano come un impianto separato</strong>. Hanno tanti bassi, hanno tanti medio-alti per
+                    sembrare vicino alle orecchie, e riempiono bene una grande stanza al punto che li puoi usare per
+                    fare del montaggio video o dell'editing audio senza troppi sacrifici. Tempo fa provai un notebook da
+                    gaming con componenti simili (i woofer, soprattutto) ma lì era una questione di potenza d'uscita
+                    necessaria a coprire il fruscio delle ventole mentre qui c'è uno strumento che assiste il lavoro. È
+                    una questione di qualità, non di tanto volume.
+                </p>
+                <p>
+                    Con i tre microfoni ho registrato un pezzo di podcast. Nella <a href="/podcast/il-mordente-46/"
+                        title="Carnemonìa" target="_blank">puntata 46</a> de Il Mordente, uscita il 25 novembre 2019, ho
+                    risposto alla domanda di un utente dai microfoni del MacBook Pro 16. E sul canale Telegram ho
+                    lasciato un <a href="https://t.me/riccardopalombo/883" title="Canale Telegram Riccardo Palombo"
+                        target="_blank">messaggio vocale</a> catturato allo stesso modo. Anche il Soundcheck linkato
+                    poco sopra è registrato dai suoi microfoni. La qualità basta per il doppiaggio in mobilità di un
+                    video, o a registrare una traccia audio da editare, poi, per una pubblicazione impegnata. Non
+                    sostituiscono un microfono da studio, dinamico o a condensatore che sia (anche perché non c'è
+                    l'effetto prossimità: al MacBook si parla a distanza), ma non ricordo una qualità simile ricavata
+                    dai microfoni integrati di altri computer.
+                </p>
 
-<!-- GALLERIA TRIS -->
+            </div>
+        </section>
+        <!-- GALLERIA TRIS -->
 
-<div class="row tris">
+        <div class="row tris">
 
-<div class="col-md-4 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <div>
                     <figure>
-                        <a
-                            href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622271/Macbook-Pro-16/apple-macbook-pro-16-porte.jpg"
-                            data-lightbox="scheda"
-                            data-alt="{{ .Title }}: porte Thunderbolt 3" data-title="{{ .Title }}: le due porte Thunderbolt 3.">
-                            <img
-                                data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622271/Macbook-Pro-16/apple-macbook-pro-16-porte.jpg"
-                                alt="{{ .Title }} porte Thunderbolt 3."
-                                class="lazyload cld-responsive">
+                        <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622271/Macbook-Pro-16/apple-macbook-pro-16-porte.jpg"
+                            data-lightbox="scheda" data-alt="{{ .Title }}: porte Thunderbolt 3"
+                            data-title="{{ .Title }}: le due porte Thunderbolt 3.">
+                            <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622271/Macbook-Pro-16/apple-macbook-pro-16-porte.jpg"
+                                alt="{{ .Title }} porte Thunderbolt 3." class="lazyload cld-responsive">
                         </a>
                         <figcaption>
-                            <span class="description-title"
-                                style="padding-left:0">
-                                <span>FIG. 2.</span> Thunderbolt 3 e tasto ESC.
+                            <span class="description-title" style="padding-left:0">
+                                <span>FIG. 3.</span> Thunderbolt 3 e tasto ESC.
                             </span>
                         </figcaption>
                     </figure>
                 </div>
             </div>
 
-<div class="col-md-4 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <div>
                     <figure>
-                        <a
-                            href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622271/Macbook-Pro-16/apple-macbook-pro-16-profilo.jpg"
-                            data-lightbox="scheda"
-                            data-alt="{{ .Title }}: jack audio" data-title="{{ .Title }}: spessore del telaio.">
-                            <img
-                                data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622271/Macbook-Pro-16/apple-macbook-pro-16-profilo.jpg"
+                        <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622271/Macbook-Pro-16/apple-macbook-pro-16-profilo.jpg"
+                            data-lightbox="scheda" data-alt="{{ .Title }}: jack audio"
+                            data-title="{{ .Title }}: spessore del telaio.">
+                            <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622271/Macbook-Pro-16/apple-macbook-pro-16-profilo.jpg"
                                 alt="{{ .Title }}: spessore del telaio." class="lazyload
                                 cld-responsive">
                         </a>
                         <figcaption>
-                            <span class="description-title"
-                                style="padding-left:0">
-                                <span>FIG. 3.</span> Il telaio è spesso 16 mm.
+                            <span class="description-title" style="padding-left:0">
+                                <span>FIG. 4.</span> Il telaio è spesso 16 mm.
                             </span>
                         </figcaption>
                     </figure>
                 </div>
             </div>
 
-<div class="col-md-4 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <div>
                     <figure>
-                        <a
-                            href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622271/Macbook-Pro-16/apple-macbook-pro-16-jack-cuffia.jpg"
-                            data-lightbox="scheda"
-                            data-alt="{{ .Title }}: Touch ID" data-title="{{ .Title }}: jack cuffia.">
-                            <img
-                                data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622271/Macbook-Pro-16/apple-macbook-pro-16-jack-cuffia.jpg"
-                                alt="{{ .Title }}: jack cuffia da 3.5 mm."
-                                class="lazyload cld-responsive">
+                        <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622271/Macbook-Pro-16/apple-macbook-pro-16-jack-cuffia.jpg"
+                            data-lightbox="scheda" data-alt="{{ .Title }}: Touch ID"
+                            data-title="{{ .Title }}: jack cuffia.">
+                            <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622271/Macbook-Pro-16/apple-macbook-pro-16-jack-cuffia.jpg"
+                                alt="{{ .Title }}: jack cuffia da 3.5 mm." class="lazyload cld-responsive">
                         </a>
                         <figcaption>
-                            <span class="description-title"
-                                style="padding-left:0">
-                                <span>FIG. 4.</span> Jack cuffia e Touch ID.
+                            <span class="description-title" style="padding-left:0">
+                                <span>FIG. 5.</span> Jack cuffia e Touch ID.
                             </span>
                         </figcaption>
                     </figure>
                 </div>
             </div>
 
-</div>
-
-<!-- FINE TRIS -->
-
-<div class="single-project row-col-12">
-            <div class="col-md-8 col-md-push-2 no-padding-left">
-                <p>
-                        Il portatile da cui scrivo è l’ultimo MacBook Pro 16 di Apple. È l’edizione 2019, quella che in USA chiamano “economica” perché parte da 1299 dollari (+ tasse; anche in Italia costa meno della vecchia, ma ne parleremo tra un attimo) e perché <strong>sostituisce la vecchia edizione senza TouchBar</strong> che ho consigliato fino a poche ore fa. Adesso no, non lo faccio più. Meglio prendere questa. Ecco dieci motivi per farlo.</p>
-                        <ol>
-                            <li>
-                                Ha la TouchBar, alla quale dovete trovare voi un impegno all’interno del vostro modo di fare (io ci tengo i widget
-                                per l’andamento delle criptovalute); non cambia la vita perché i suoi tasti sono muti, sono morti.
-                            </li>
-                            <li>
-                                Ha il Touch ID, questo sì, utile e saggio.
-                            </li>
-                            <li>
-                                Ha il chip Apple T2 per una sfumatura di "sicurezza hardware".
-                            </li>
-                            <li>
-                                Ha una batteria da 58 Wh anziché da 54 Wh.
-                            </li>
-                            <li>
-                                Ha il Bluetooth 5.0.
-                            </li>
-                            <li>
-                                Ha tre microfoni anziché due.
-                            </li>
-                            <li>
-                                Ha un processore Quad Core con GPU a 48 unità di elaborazione e 128 MB di eDRAM, anziché un Dual Core con GPU a 24
-                                unità di elaborazione e 64 MB di eDRAM.
-                            </li>
-                            <li>
-                                Ha memorie RAM a 2133 MHz anziché a 1866 MHz.
-                            </li>
-                            <li>
-                                Ha un modulo SSD NVMe più veloce.
-                            </li>
-                            <li>
-                                Ha un display con copertura DCI-P3 e TrueTone come i MacBook Pro 16 di fascia superiore (quelli con 4 porte
-                                Thunderbolt e CPU da 25 watt).
-                        
-                            </li>
-                        </ol>
-                        <p>
-                                Ed ha anche un prezzo di partenza più basso perché quello, al lancio, costava 1749 euro e questo, al lancio, <a href="https://amzn.to/2nPZWs8" rel="nofollow" title="Apple MacBook Pro 16 su Amazon" target="_blank">1549 euro</a>. C’è il trucco - la SSD da 128 GB del nuovo - ma fa strano vedere una riduzione dei prezzi ufficiali Apple perché equivale ad un avvicinamento verso l'utente. Quindi una volta tanto Apple non crea solo un desiderio ma fa anche qualcosa per soddisfarlo.
-                                <br><br></p>
-            </div>
-                        <!-- GRANDE -->
-                        <figure>
-                                <a
-                                    href="https://res.cloudinary.com/rim3/image/upload/q_75,w_1000/v1569663873/MacBook_Pro_13_2019/macbook-pro-13-2019-touchbar-widget.jpg"
-                                    data-lightbox="scheda" data-alt="{{.Title }}: widget cripto sulla TouchBar."
-                                    data-title="{{.Title }}: widget cripto sulla TouchBar.">
-                                    <img
-                                        data-src="https://res.cloudinary.com/rim3/image/upload/w_auto,c_scale,q_75,f_auto/v1569663873/MacBook_Pro_13_2019/macbook-pro-13-2019-touchbar-widget.jpg"
-                                        alt="{{.Title }}: widget cripto sulla TouchBar." class="lazyload cld-responsive"></a>
-                                <figcaption>
-                                    <span class="description-title">
-                                        <span>FIG. 5.</span> MacBook Pro 16 2019: la TouchBar è utile per visualizzare dati e contenuti, non per interagire con loro.</span>
-                                </figcaption>
-                            </figure>
-                        <!-- FINE GRANDE -->
         </div>
 
-<section class="single-project row-col-12">
+        <!-- FINE TRIS -->
 
-<div class="col-md-8 col-md-push-2 no-padding-left">
+        <div class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <p>
+                    Diamo un'occhiata alla <strong>nuova tastiera</strong>. Conoscete la storia delle farfalle volate
+                    via (o delle forbici che hanno tagliato le loro ali, a vostro gusto) quindi non la ripeterò. Ma come
+                    tutti quelli che ci hanno messo le mani posso confermare che è simile alla vecchia, nel rumore e
+                    nella sensazione quando la premi, nella forma a T delle frecce e nel tasto ESC isolato, anche nella
+                    dimensione dei keycaps che sono più piccoli e più separati rispetto all'innominabile vecchia.
+                    <mark>Però
+                        io preferivo l'innominabile vecchia</mark>, specie nell'ultima revisione, quella del MacBook Pro
+                    13 di giugno 2019. La trovavo più precisa e più equilibrata
+                    nella discesa del tasto. Qui c'è una zona di incertezza prima del punto di attuazione (tra qualche
+                    giorno ne parleremo meglio su <em>Super Fun With Caps!</em>, perché la seconda puntata tratta una
+                    tastiera dove si può regolare questo "punto") che poi è uno dei motivi per cui ricorda vecchie
+                    sensazioni.
+                </p>
+                <p>
+                    Ora, non voglio darvi un'informazione per un'altra quindi ripeto quel che ho detto nel lungo
+                    discorso del video: è una tastiera ottima e vi piacerà. <a
+                        href="https://www.youtube.com/watch?v=AbbFQGhzRmY"
+                        title="Soundcheck // Apple MacBook Pro 16 con Magic Keyboard" target="_blank" rel="nofollow">Fa
+                        anche un suono che dà meno fastidio</a>. Ma ha una resa un po' banale, ecco, troppo comune per
+                    tipi come me. A questo punto, se devo schiacciare plastica quasi-morbida, torno sul ThinkPad X1. Una
+                    nota tecnica: Apple ha usato la struttura della Magic Keyboard per iMac ma ha dovuto rivedere il
+                    sistema di illuminazione, forse per esigenze di spazio. C'è il teardown di iFixit che lo spiega
+                    bene. Qualcuno in rete ha lamentato una rifrazione più sbaffata del solito, ma io non ho visto nulla
+                    di strano. Anche nella vecchia usciva un po' di luce dal contorno dei tasti, e si è sempre notata in
+                    confronto alle tastiere pulitissime dei Surface Laptop, per dire. Il touchpad è ancora il migliore
+                    della categoria. Punto.
+                </p>
+
+            </div>
+        </div>
+        <!-- GRANDE -->
+        <figure>
+            <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575912543/Macbook-Pro-16/apple-magic-keyboard-macbook-pro-16.jpg"
+                data-lightbox="scheda" data-alt="{{.Title }}: impianto audio da paura."
+                data-title="{{.Title }}: impianto audio da paura.">
+                <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575912543/Macbook-Pro-16/apple-magic-keyboard-macbook-pro-16.jpg"
+                    alt="{{.Title }}: impianto audio da paura." class="lazyload cld-responsive"></a>
+            <figcaption>
+                <span class="description-title">
+                    <span>FIG. 6.</span> Quella TouchBar ha bisogno di ritocchi. Così com'è, serve a mostrare
+                    informazioni ma non è comoda per interagire con i software. Alle fine della video recensione vi
+                    parlo della mia idea.</span>
+            </figcaption>
+        </figure>
+        <!-- FINE GRANDE -->
+
+        <section class="single-project row-col-12">
+
+            <div class="col-md-8 col-md-push-2 no-padding-left">
                 <h2>Prestazioni</h2>
                 <p>
-                    <s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Di contro, questo nuovo ha la <strong>SSD saldata</strong> e non più su slot (problema vero perché si deve scegliere al momento dell’ordine e pagare i GB ai folli prezzi di Apple), ed ha una luminosità dello schermo parecchio più bassa: circa 420 nit di picco bastano e avanzano, ma i pannelli da 550 nit della generazione 2016 non si sono più visti.
+                    <s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Adesso smettete di leggere e guardate i grafici sotto.
+                    Saltate questo paragrafo, saltate la foto agli interni, andate giù. Quelle linee dritte, senza
+                    crolli, derivano dal restyling al sistema di smaltimento del calore. E, dato che ho provato il
+                    MacBook Pro 16 più potente, quello con Intel Core i9-9880HK da 45 watt e 8-core, con <strong>Radeon
+                        Pro 5500M</strong> e 8 GB di GDDR6, posso fare il confronto col vecchio i9 da 15 pollici, quello
+                    famoso per aver fatto parlare di throttling termico il mondo intero. Perché prima di quel modello,
+                    sui MacBook Pro, eravamo abituati a temperature sui 100 °C ma non avevamo visto crolli tanto
+                    penalizzanti alle frequenze e alle prestazioni. Nel nuovo 16 ci sono ventole diverse, ci sono
+                    <strong>griglie posteriori più grandi</strong>.
                 </p>
-<p>
-        Ma gira e rigira <mark>vale l’aggiornamento per le prestazioni che ha</mark> e per tutti i bei numeri che vi piazzo qua e là in questa recensione - un qua e là che si trasforma in sotto e sopra se state leggendo da smartphone. Il mio unico dubbio era sull’impianto termico affidato ad una singola ventola. Anche il vecchio era così, ma non aveva un Quad Core con 3.9 GHz di frequenza massima e non aveva una GPU che può arrivare a 1050 MHz. Apple ha aggirato gli imprevisti con una diversa gestione dei watt. Se la vecchia piattaforma da 15 watt veniva spinta fino ai 35 watt per recuperare prestazioni (per chi è nuovo: i Mac sono famosi per questo, per la loro implementazione) tollerando temperature anche vicine ai 100° C (insisto: tutto in linea per gli Apple), la nuova tocca quei livelli ma <strong>cerca di restare sui 25 watt</strong>, anche 20 watt. Oscilla, fa su e giù, con una temperatura sulla CPU di 85° C circa e ventola a palla. Si nota bene nella parte centrale del grafico elaborato dopo una conversione Handbrake.
-</p>
-<!-- TABELLA -->
- <div class="row-col-6">
+
+                <p>Questo dimostra che nella vecchia implementazione
+                    Apple non si era comportata da Apple ma aveva fatto quel che la concorrenza mette in pratica da
+                    tempo (l'ultimo processore implementato nella maniera più veloce e standard possibile, e poi
+                    speriamo bene) mentre qui ha capito che doveva poter governare parecchi watt in più per non dover
+                    limitare la CPU dopo pochi minuti di spinta estrema. Quanti watt? 12, da reggere per tutto il tempo
+                    necessario.
+                    <br><br></p>
+
+            </div>
+            <!-- GRANDE -->
+            <figure>
+                <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622279/Macbook-Pro-16/apple-macbook-pro-16-smontato.jpg"
+                    data-lightbox="scheda" data-alt="{{.Title }} smontato: le due ventole e le heatpipes."
+                    data-title="{{.Title }} smontato: le due ventole e le heatpipes.">
+                    <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622279/Macbook-Pro-16/apple-macbook-pro-16-smontato.jpg"
+                        alt="{{.Title }} smontato: le due ventole e le heatpipes." class="lazyload cld-responsive"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 7.</span> Smontare il MacBook Pro 16 è semplice, ma i componenti principali sono
+                        saldati. La pulizia degli interni è unica nella categoria.</span>
+                </figcaption>
+            </figure>
+            <!-- FINE GRANDE -->
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <p>
+                    Il mio <strong>Core i9-9880HK da 2.4 - 5 GHz</strong> fa girare un mostro da 4600 euro (perché ci
+                    sono 2 TB di SSD) ma è un incubo per chi lo deve valutare perché i 5 GHz sono raggiunti in single
+                    core solo quando la temperatura è inferiore ai 50 °C (TVB, <em>Thermal Velocity Boost</em>, pari a
+                    +200 MHz su Coffe Lake-H), e su un portatile così significa avere uno spunto davvero breve. Di fatto
+                    i lavori girano a 4.5 GHz, piuttosto. E sono raggiunti quando serve dal MacBook Pro 16 con un
+                    consumo sulla CPU vicino ai 90 watt. È un bel vedere.
+                </p>
+                <p>A me hanno sorpreso due cose: le temperature a regime tendenti ai 90 °C sono basse per i MacBook Pro,
+                    e il consumo più alto dei 90 watt con la presa, a muro, che nel mio strumento supera i 100 watt
+                    (ultimo grafico) quindi oltre i 96 watt dell'alimentatore. Può essere un errore della mia
+                    attrezzatura perché non ho visto la batteria perdere capacità nei lavori più estremi, ma è
+                    un'informazione qualificante per capire di quali numeri parliamo. E sono numeri alti per un
+                    portatile comunque sottile e per un <strong>alimentatore che resta piccolo</strong> - in rapporto a
+                    quello che riesce a fare. Il compromesso è nelle sue temperature (47 °C a contatto, e credo si
+                    possano raggiungere anche i 50 °C - vedi immagine termica sotto) ma il formato così portatile dà
+                    senso al tutto e non rosicchia la portabilità.</p>
+
+            </div>
+        </section>
+        <!-- GRAFICI -->
+        <div class="single-project row-col-12" style="background-color:
+#f9f9f9;">
+
+            <figure>
+                <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622274/Macbook-Pro-16/macbook_pro_16_handbrake.png"
+                    data-lightbox="grafico" data-alt="{{.Title }}: analisi prestazioni Handbrake."
+                    data-title="Comportamento di CPU, consumi e temperatura durante la conversione video Handbrake.">
+                    <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622274/Macbook-Pro-16/macbook_pro_16_handbrake.png"
+                        alt="{{.Title }}: analisi prestazioni Handbrake." class="cld-responsive lazyload"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 8.</span> Comportamento di CPU, consumi e temperatura durante la conversione video
+                        Handbrake.</span>
+                </figcaption>
+            </figure>
+            <figure>
+                <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622278/Macbook-Pro-16/macbook_pro_16-premiere-rendering.png"
+                    data-lightbox="grafico" data-alt="{{.Title }}: analisi prestazioni Adobe Premiere Pro"
+                    data-title="Analisi termica e prestazionale durante un rendering con Adobe Premiere Pro CC 2019.">
+                    <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622278/Macbook-Pro-16/macbook_pro_16-premiere-rendering.png"
+                        alt="{{.Title }}: analisi prestazioni Adobe Premiere Pro" class="lazyload"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 9.</span> Comportamento di CPU, GPU e temperatura durante il rendering con Adobe
+                        Premiere Pro CC 2019.</span>
+                </figcaption>
+            </figure>
+
+            <figure>
+                <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622273/Macbook-Pro-16/macbook_pro_16_cinebench-loop.png"
+                    data-lightbox="grafico" data-alt="{{.Title }}: analisi prestazioni Cinebench R20 loop."
+                    data-title="Analisi prestazioni con Cinebench R20 loop.">
+                    <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622273/Macbook-Pro-16/macbook_pro_16_cinebench-loop.png"
+                        alt="{{.Title }}: analisi prestazioni Cinebench R20 loop" class="cld-responsive lazyload"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 10.</span> Analisi delle prestazioni della CPU durante 25 ripetizioni Cinebench
+                        R20.</span>
+                </figcaption>
+            </figure>
+            <figure>
+                <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575626755/Macbook-Pro-16/macbook_pro_16-consumo-watt.png"
+                    data-lightbox="grafico" data-alt="{{.Title }}: consumo su presa."
+                    data-title="Consumo su presa di MacBook Pro 16.">
+                    <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575626755/Macbook-Pro-16/macbook_pro_16-consumo-watt.png"
+                        alt="{{.Title }}: consumo su presa." class="cld-responsive lazyload"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 11.</span> Consumo su presa durante il carico massimo.</span>
+                </figcaption>
+            </figure>
+        </div>
+        <!-- FINE GRAFICI -->
+        <section class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <p>Guardare ancora una volta questi numeri fa capire quanto è complesso bilanciare tutto. Di fatto, un
+                    MacBook Pro 16 sotto stress massimo ha una richiesta di watt così alta da non farsi bastare i 65
+                    watt di Power Delivery del mio monitor Thunderbolt 3 <strong>BenQ PD2720U 4K HDR</strong> (ne
+                    parlerò meglio nel video Room Tour che sto montando in questi giorni), e quindi deve usare
+                    parzialmente la batteria. Quanto sarebbe istruttivo sentire una delle discussioni tra gli ingegneri
+                    si decidono queste cose! A cosa dare priorità? In quale situazione? Fino a dove si può rischiare?
+                    Regolamentare la gestione energetica fa poi la differenza quando c'è da considerare l'altro lato
+                    oscuro dei computer portatili potenti così: l'autonomia.
+                </p>
+            </div>
+        </section>
+        <section class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <h2>Autonomia</h2>
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> La nuova batteria da 99.8 Wh (ci sono le regole
+                    dell'aeronautica eccetera eccetera) compensa la diagonale dello schermo, la nuova componentistica e
+                    tutti quei watt in più. Fa quello che deve nelle condizioni pesanti ed è in linea con la categoria
+                    "pro" nell'uso giornaliero, quello che a dire il vero è sprecato per questa macchina; per navigare,
+                    scrivere e programmare, basta un Pro 13 base. La sorpresa arriva dalla possibilità di consumare poco
+                    o nulla durante la decodifica di video, ed è una delle ragioni tecniche per cui Apple punta alla
+                    personalizzazione hardware, ai chip finalizzati a determinati scopi. Quindi il <strong>chip
+                        T2</strong> responsabile della sicurezza in fase di avvio, dell'archiviazione criptata e in sola
+                    lettura che ho discusso nella recensione al <a href="/recensioni/apple-macbook-pro-13-2019/"
+                        title="Recensione Apple MacBook Pro 13 2019" target="_blank">MacBook Pro 13</a>, e del
+                    funzionamento del Touch ID, è un ARM che decodifica fino a H265/HEVC con consumi ridicoli. E
+                    permette alla riproduzione in streaming di durare tutte le ore che leggete in tabella.</p>
+                <p>
+                    Attenzione a questo: <mark>lavorare a batteria non riduce la frequenza operativa</mark> - o, almeno,
+                    non in maniera così importante da essere registrata nei soliti modi. Cambiano le finezze (luminosità
+                    schermo, luminosità tastiera, e vai a sapere cos'altro) ma CPU e GPU possono andare al massimo anche
+                    in mobilità. È uno dei vantaggi dell'aver scelto una piattaforma Intel + AMD così integrata e di
+                    aver deciso di vincolare tutto alla USB-C. Quei 100 watt che non si possono superare sono gli stessi
+                    che si riescono sempre a garantire. Per dire: non sarebbe stato possibile farlo con le GPU Nvidia di
+                    ultima generazione.
+                </p>
+                <!-- TABELLA -->
+                <div class="row-col-6">
                     <div class="col-md-6" style="margin-top: 60px">
 
-<table>
+                        <table>
                             <thead>
                                 <tr>
                                     <th></th>
-                                    <th>MBP 13 2019</th>
-                                    <th>MBP 13 2017</th>
-                                    <th>MBA 2018</th>
+                                    <th>SOFTWARE</th>
+                                    <th>DURATA</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td><strong>GeekBench 3 64-bit</strong><br>Single / Multi</td>
-                                    <td>4583 / 17065</td>
-                                    <td>3505 / 7076</td>
-                                    <td>4243 / 7723</td>
+                                    <td>Lavoro online</td>
+                                    <td>Safari 10 schede, Telegram, VSCode + Hugo,
+                                        GitHub Desktop</td>
+                                    <td>-15.4% / ora = 6.5 ore</td>
                                 </tr>
                                 <tr>
-                                    <td><strong>Cinebench R15</strong><br>OpenGL / CPU</td>
-                                    <td>57.44 / 698</td>
-                                    <td>35.75 / 315</td>
-                                    <td>34.29 / 251</td>
+                                    <td>Riproduzione streaming</td>
+                                    <td>DAZN su Safari</td>
+                                    <td>-6.66% / ora = 15 ore</td>
                                 </tr>
                                 <tr>
-                                    <td><strong>GFXBench Metal</strong><br>Offscreen</td>
-                                    <td>Man: 6240<br>
-                                        T-Rex: 10909<br>
-                                        ALU2: 11887</td>
-                                    <td>Man: 4846<br>
-                                        T-Rex: 9367<br>
-                                        ALU2: 10792</td>
-                                    <td>Man: 2976<br>
-                                        T-Rex: 2218<br>
-                                        ALU2: 5202</td>
+                                    <td>Montaggio video</td>
+                                    <td>Adobe Premiere CC 2019<br>Luminosità massima</td>
+                                    <td>-72% / ora = 1.4 ore</td>
                                 </tr>
                                 <tr>
-                                    <td><strong>QuickBench SSD MB/s</strong><br>Extended Test</td>
-                                    <td>2553 / 2283</td>
-                                    <td>2914 / 1477</td>
-                                    <td>2637 / 1050</td>
-                                </tr>
-                                <tr>
-                                    <td><strong>Temperatura massima</strong><br>Tastiera / CPU</td>
-                                    <td>42 °C / 100 °C</td>
-                                    <td>43 °C / 87 °C</td>
-                                    <td>37 °C / 100 °C</td>
-                                </tr>
-                                <tr>
-                                    <td><strong>Luminosità massima</strong></td>
-                                    <td>418 nit</td>
-                                    <td>550 nit</td>
-                                    <td>325 nit</td>
+                                    <td>Standby</td>
+                                    <td>Laptop chiuso</td>
+                                    <td>-0% / ora</td>
                                 </tr>
                             </tbody>
                         </table>
                         <div class="description-table">
                             <span class="description-title">
                                 <span>TAB. 1.</span>
-                                Confronto benchmarks.
+                                Durata della batteria.
                             </span>
                             <p>
-                                Prestazioni a confronto tra MacBook Pro 16 2019, MacBook Pro 16 2017 (Tasti Funzione), e MacBook Air 2018 (stessa CPU dell'edizione 2019).
+                                Test eseguiti con luminosità e volume al 50%.
+                                Illuminazione tastiera disattivata. True Tone attivo.
                             </p>
                         </div>
-</div>
+
+                    </div>
                 </div>
                 <!-- FINE TABELLA -->
+
+                <p> Non ho ancora parlato della resa con i software Apple perché non
+                    li ho
+                    usati nelle due settimane a mia disposizione. Premiere e Photoshop a parte, niente flussi 8K su
+                    Final Cut e
+                    niente tracce di <em>hit</em> internazionali su Logic Pro X. Ma ho visto dal vivo questi software
+                    durante l'incontro con Apple; li ho visti far girare le
+                    cose di cui si parla nelle pagine promozionali ed è stato impressionante non tanto farne esperienza
+                    ma notare (e confidarlo ai presenti) come ogni dimostrazione veniva fatta con gli altri software
+                    aperti, senza chiudere tutto, riavviare o assicurarsi di partire da un ambiente ottimizzato come
+                    farebbe un utente scrupoloso a casa o in studio. Ovviamente, a batteria. E non c'era la calcolatrice o l'app Note in
+                    background, intesi. Era DaVinci Resolve con diverse correzione colore in tempo reale, era Xcode con quattro emulazioni
+                    attive, era Affinity Photo con RAW HDR.</p>
             </div>
-
-<div class="col-md-8 col-md-push-2 no-padding-left">
-                <p>Le frequenze scalano con l’aumentare della temperatura come è normale che sia ma sono gestite in modo da <strong>evitare lo stallo</strong> (e ci mancherebbe) ed evitare che il calore di un modulo possa influenzare altri componenti (come succedeva nel MacBook Pro 15 con Core i9). Si nota anche nell’altro <em>graficone</em> di questo articolo: l’analisi del rendering con Adobe Premiere Pro CC dove la GPU resta al massimo senza noie.
-                    </p>
-</div>
-</section>
-<!-- GRAFICI -->
-<div class="single-project row-col-12" style="background-color:
-#f9f9f9;">
-<figure>
-    <a
-        href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622278/Macbook-Pro-16/macbook_pro_16-premiere-rendering.png"
-        data-lightbox="grafico" data-alt="{{.Title }}: analisi prestazioni Adobe Premiere Pro" data-title="Analisi termica e prestazionale durante un rendering con Adobe Premiere Pro CC 2019.">
-        <img
-            data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622278/Macbook-Pro-16/macbook_pro_16-premiere-rendering.png"
-            alt="{{.Title }}: analisi prestazioni Adobe Premiere Pro" class="lazyload"></a>
-    <figcaption>
-        <span class="description-title">
-            <span>FIG. 6.</span> Comportamento di CPU, GPU e temperatura durante il rendering con Adobe Premiere Pro CC 2019.</span>
-    </figcaption>
-</figure>
-
-<figure>
-    <a
-        href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622274/Macbook-Pro-16/macbook_pro_16_handbrake.png"
-        data-lightbox="grafico" data-alt="{{.Title }}: analisi prestazioni Handbrake."
-        data-title="Comportamento di CPU, consumi e temperatura durante la conversione video Handbrake.">
-        <img
-            data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622274/Macbook-Pro-16/macbook_pro_16_handbrake.png"
-            alt="{{.Title }}: analisi prestazioni Handbrake."
-            class="cld-responsive lazyload"></a>
-    <figcaption>
-        <span class="description-title">
-            <span>FIG. 7.</span> Comportamento di CPU, consumi e temperatura durante la conversione video Handbrake.</span>
-    </figcaption>
-</figure>
-
-<figure>
-    <a
-        href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622273/Macbook-Pro-16/macbook_pro_16_cinebench-loop.png"
-        data-lightbox="grafico" data-alt="{{.Title }}: analisi prestazioni Cinebench R20 loop."
-        data-title="Analisi prestazioni con Cinebench R20 loop.">
-        <img
-            data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622273/Macbook-Pro-16/macbook_pro_16_cinebench-loop.png"
-            alt="{{.Title }}: analisi prestazioni Cinebench R20 loop" class="cld-responsive lazyload"></a>
-    <figcaption>
-        <span class="description-title">
-            <span>FIG. 8.</span> Analisi delle prestazioni della CPU durante 25 ripetizioni Cinebench R20.</span>
-    </figcaption>
-</figure>
-<figure>
-    <a
-        href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575626755/Macbook-Pro-16/macbook_pro_16-consumo-watt.png"
-        data-lightbox="grafico" data-alt="{{.Title }}: consumo su presa."
-        data-title="Consumo su presa di MacBook Pro 16.">
-        <img
-            data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575626755/Macbook-Pro-16/macbook_pro_16-consumo-watt.png"
-            alt="{{.Title }}: consumo su presa."
-            class="cld-responsive lazyload"></a>
-    <figcaption>
-        <span class="description-title">
-            <span>FIG. 9.</span> Consumo su presa durante il carico massimo.</span>
-    </figcaption>
-</figure>
-</div>
-<!-- FINE GRAFICI -->
- <section class="single-project row-col-12">
-            <div class="col-md-8 col-md-push-2 no-padding-left">
-                <p>
-                        Il compromesso prestazionale non c’è; questa versione del MacBook Pro 2019 non ha i muscoli della variante a 6 core, ma è <strong>un altro mondo rispetto alla CPU serie-Y dei MacBook Air</strong> ed è molto, molto più veloce del modello senza TouchBar che sostituisce. Lo faccio vedere nel video: mentre fa rendering, e mentre registra lo schermo, riesco ad usare Safari e qualche sito. È un contesto irreale ma fa capire.
-                </p>
-                <p>
-                        Il compromesso pratico è una <strong>ventolina frusciante</strong>. Si sente durante questi carichi di lavoro e si sente quando vi capita una scheda impazzita su Safari (del tipo: coin360, o siti con javascript interattivi). Nell’uso giornaliero multi-desktop è silenzioso come i MacBook più recenti, ma quando parte lo fa per davvero. Intendiamoci: non è il rumore di un portatile da gaming MSI, Acer o ASUS, ma rispetto al MacBook Pro con doppia ventola qui c’è un fruscio più sottile, più sibilante, più fastidioso, meno morbido, meno avvolgente. E anche le temperature su fondo mi danno le stesse sensazioni. L'ho sentito bollente in estate, con la schiena sul letto e con lui sulle cosce; probabilmente è il solito problema di luglio e di agosto, perché adesso la camera termica non supera i <strong>40° C sul fondo</strong> durante lo stress test di 20 minuti. Tra un paio di scrollate vedrete delle foto termiche. 
-                        
-                        Intanto, per riassumere e farla breve: non va in throttling e non ha problemi termici, mantiene la CPU sul livello richiesto senza impazzire con le temperature ma la ventola (singola) si fa sentire.
-                <br><br></p>
-            </div>
-                        <!-- TEARDOWN -->
-                        <figure>
-                                <a
-                                    href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622274/Macbook-Pro-16/macbook_pro_16_uniformita-display.png"
-                                    data-lightbox="grafico" data-alt="{{.Title }}: luminosità dello schermo."
-                                    data-title="Luminosità dello schermo di MacBook Pro 16.">
-                                    <img
-                                        data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622274/Macbook-Pro-16/macbook_pro_16_uniformita-display.png"
-                                        alt="{{.Title }}: luminosità dello schermo."
-                                        class="cld-responsive lazyload"></a>
-                                <figcaption>
-                                    <span class="description-title">
-                                        <span>FIG. 6.</span> Analisi dell'uniformità dello schermo. La variazione massima è del 3%. Misurato con X-Rite i1 Display Pro.</span>
-                                </figcaption>
-                            </figure>
-                        <!-- FINE TEARDONW -->
         </section>
-<!-- ANALISI DISPLAY -->
-
-<section class="single-project row-col-12">
-    <div class="col-md-8 col-md-push-2 no-padding-left">
-        <h2>Autonomia</h2>
-        <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> E l’autonomia? Niente di strano. La batteria è cresciuta rispetto
-            al vecchio perché ci sono dei componenti in più, quindi la durata è quella. Ci faccio <strong>poco meno di
-                10 ore</strong> con schermo sopra la metà e Safari + Telegram + Finder, calcolatrice, Note, robette
-            così. Con Safari intendo una media di 10 tab aperti. Sotto carico massimo, con luminosità sparata, è
-            tutt’altra storia: -42% ogni ora, quindi <strong>2.3 ore di autonomia</strong>. Ci finite almeno un
-            rendering complesso ma poi dovete trovare una presa.
-        </p>
-        <p>
-            L’autonomia può sorprendere chi non ha seguito l’uscita dei processori Intel negli ultimi due anni (ed è
-            comprensibile perché è un caos: ogni due mesi c’è un annuncio che promette molto e realizza poco; e le
-            differenze sono negli intrecci tecnici), ma non è irreale se guardiamo i risultati della concorrenza con
-            Windows e se mettiamo in conto il lavoro di decodifica video e di gestione “delle altre cose” fatto dal chip
-            <strong>Apple T2</strong> anziché dal SoC Intel. Chiaro, va abbinato ad un certo lavoro di integrazione
-            hardware e software, ma questo non è mai stato in discussione con Apple. I suoi portatili non soffrono del
-            draining alla batteria quando sono in standby, e non hanno uno dei fastidi più popolari degli ultimi anni:
-            il <abbr
-                title="Un difetto hardware, un ronzio o un leggero cigolio, che si percepisce dai componenti della scheda madre quando si lavora in completo silenzio.">coil-whine</abbr>.
-            L’alimentatore da 61 watt riesce sempre a caricare il portatile, anche quando è sotto stress massimo. Non è
-            scontato. e vi ho fatto un grafico per dimostrarlo. L'avete visto? Tornate su.
-        </p>
-    </div>
-</section>
 
 <!-- GALLERIA CINQUE -->
 
 <div class="row tris">
+
         <figure>
-                <a
-                    href="https://res.cloudinary.com/rim3/image/upload/q_75,w_1000/v1569651359/MacBook_Pro_13_2019/macbook-pro-13-2019-recensione.jpg"
-                    data-lightbox="scheda" data-alt="macOS Catalina su {{ .Title }}"
-                    data-title="macOS Catalina su {{ .Title }} migliora la sicurezza e la pricavy dell'utente.">
-                    <img
-                        data-src="https://res.cloudinary.com/rim3/image/upload/w_auto,c_scale,q_75,f_auto/v1569651359/MacBook_Pro_13_2019/macbook-pro-13-2019-recensione.jpg"
-                        alt="macOS Catalina su {{.Title }}" class="lazyload cld-responsive"></a>
+                <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575627254/Macbook-Pro-16/macbook-pro-16-macOS-catalina.png"
+                    data-lightbox="scheda" data-alt="{{.Title }}: multitasking."
+                    data-title="{{.Title }}: multitasking.">
+                    <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575627254/Macbook-Pro-16/macbook-pro-16-macOS-catalina.png"
+                        alt="{{.Title }}: multitasking." class="lazyload cld-responsive"></a>
                 <figcaption>
                     <span class="description-title">
-                        <span>FIG. 10.</span> macOS Catalina migliora la sicurezza dei dati dell'utente ed è più attento alla privacy.</span>
+                        <span>FIG. 12.</span> Apple MacBook Pro 16 con un po' di applicazioni aperte. Questo è un contesto facile per la mia configurazione.</span>
                 </figcaption>
             </figure>
-            <div class="col-md-2 col-sm-6">
-                <div>
-                    <figure>
-                        <a
-                            href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575627015/Macbook-Pro-16/macbook_pro_16-temperature-tastiera.jpg"
-                            data-lightbox="grafico" data-alt="Temperature
-                            massime sulla tastiera di {{.Title }}"
-                            data-title="Temperature massime sulla tastiera di
-                            {{.Title }}.">
-                            <img
-                                data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575627015/Macbook-Pro-16/macbook_pro_16-temperature-tastiera.jpg"
-                                alt="Temperature massime sulla tastiera di {{.Title }}." class="cld-responsive lazyload"></a>
-                        <figcaption>
-                            <span class="description-title">
-                                <span>FIG. 12.</span> Temperature massime tastiera.</span>
-                        </figcaption>
-                    </figure>
-                </div>
-            </div>
-            <div class="col-md-2 col-sm-6">
-                <div>
-                    <figure>
-                        <a
-                            href="https://res.cloudinary.com/rim3/image/upload/q_75,w_1000/v1569668905/MacBook_Pro_13_2019/macbook-pro-13-2019-macos-catalina-disco-sola-lettura.png"
-                            data-lightbox="grafico" data-alt="Il disco in sola lettura di macOS Catalina."
-                            data-title="Il disco in sola lettura di macOS Catalina.">
-                            <img
-                                data-src="https://res.cloudinary.com/rim3/image/upload/w_auto,c_scale,q_75,f_auto/v1569668905/MacBook_Pro_13_2019/macbook-pro-13-2019-macos-catalina-disco-sola-lettura.png"
-                                alt="Il disco in sola lettura di macOS Catalina." class="cld-responsive lazyload"></a>
-                        <figcaption>
-                            <span class="description-title">
-                                <span>FIG. 13.</span> macOS Catalina: disco in sola lettura.</span>
-                        </figcaption>
-                    </figure>
-                </div>
-            </div>
 
-<div class="col-md-2 col-sm-6">
+            <div class="col-md-2 col-sm-6">
                 <div>
                     <figure>
                         <a
-                            href="https://res.cloudinary.com/rim3/image/upload/q_75,w_1000/v1569668904/MacBook_Pro_13_2019/macbook-pro-13-2019-macos-catalina.png"
-                            data-lightbox="grafico" data-alt="macOS Catalina: preferenze."
-                            data-title="macOS Catalina: preferenze">
+                            href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622276/Macbook-Pro-16/apple-macbook-pro-16-speaker.jpg"
+                            data-lightbox="grafico" data-alt="{{.Title }}: griglia posteriore."
+                            data-title="{{.Title }}: griglia posteriore.">
                             <img
-                                data-src="https://res.cloudinary.com/rim3/image/upload/w_auto,c_scale,q_75,f_auto/v1569668904/MacBook_Pro_13_2019/macbook-pro-13-2019-macos-catalina.png"
-                                alt="macOS Catalina: preferenze" class="cld-responsive
+                                data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622276/Macbook-Pro-16/apple-macbook-pro-16-speaker.jpg"
+                                alt="{{.Title }}: griglia posteriore." class="cld-responsive
                                 lazyload"></a>
                         <figcaption>
                             <span class="description-title">
-                                <span>FIG. 14.</span> macOS Catalina: preferenze.</span>
+                                <span>FIG. 13.</span> Una delle due griglie posteriori; servono a tirare dentro aria fredda.</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+
+            <div class="col-md-8 col-sm-6">
+                <div>
+                    <figure>
+                        <a
+                            href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622266/Macbook-Pro-16/apple-macbook-pro-16-alimentatore_96.jpg"
+                            data-lightbox="scheda" data-alt="{{.Title }}: alimentatore da 96 watt"
+                            data-title="{{.Title }}: alimentatore da 96 watt.">
+                            <img
+                                data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575975696/Macbook-Pro-16/apple-macbook-pro-16-alimentatore_96.jpg"
+                                alt="{{.Title }}: alimentatore da 96 watt." class="lazyload cld-responsive"></a>
+                        <figcaption>
+                            <span class="description-title">
+                                <span>FIG. 14.</span> {{.Title }}: l'alimentatore da 96 watt è grande quanto il vecchio da 86 watt.</span>
                         </figcaption>
                     </figure>
                 </div>
@@ -572,235 +623,161 @@
                 <div>
                     <figure>
                         <a
-                            href="https://res.cloudinary.com/rim3/image/upload/q_75,w_1000/v1569668904/MacBook_Pro_13_2019/macbook-pro-13-2019-macos-catalina-tempo-utilizzo.png"
-                            data-lightbox="grafico" data-alt="macOS Catalina: tempo di utilizzo."
-                            data-title="macOS Catalina: tempo di utilizzo.">
+                            href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622272/Macbook-Pro-16/apple-macbook-pro-16-thunderbolt-3_brqz8m.jpg"
+                            data-lightbox="grafico" data-alt="{{.Title }}: le porte Thunderbolt 3 e jack cuffie"
+                            data-title="{{.Title }}: le porte Thunderbolt 3 e jack cuffie.">
                             <img
-                                data-src="https://res.cloudinary.com/rim3/image/upload/w_auto,c_scale,q_75,f_auto/v1569668904/MacBook_Pro_13_2019/macbook-pro-13-2019-macos-catalina-tempo-utilizzo.png"
-                                alt="macOS Catalina: tempo di utilizzo." class="cld-responsive lazyload"></a>
+                                data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622272/Macbook-Pro-16/apple-macbook-pro-16-thunderbolt-3_brqz8m.jpg"
+                                alt="{{.Title }}: le porte Thunderbolt 3 e jack cuffie"
+                                class="cld-responsive lazyload"></a>
                         <figcaption>
                             <span class="description-title">
-                                <span>FIG. 15.</span> macOS Catalina: tempo di utilizzo.</span>
+                                <span>FIG. 15.</span> Il profilo del portatile resta tra i più sottili della categoria.</span>
                         </figcaption>
                     </figure>
-                </div>
-            </div>
-
-<div class="col-md-2 col-sm-6">
-                <div>
-                    <figure>
-                        <a
-                            href="https://res.cloudinary.com/rim3/image/upload/q_75,w_1000/v1569828184/MacBook_Pro_13_2019/macbook-pro-13-2019-macos-catalina-font.png"
-                            data-lightbox="grafico" data-alt="{{.Title }}: font di sistema."
-                            data-title="{{.Title }}: font di sistema.">
-                            <img
-                                data-src="https://res.cloudinary.com/rim3/image/upload/w_auto,c_scale,q_75,f_auto/v1569828184/MacBook_Pro_13_2019/macbook-pro-13-2019-macos-catalina-font.png"
-                                alt="{{.Title }}: font di sistema." class="cld-responsive lazyload"></a>
-                        <figcaption>
-                            <span class="description-title">
-                                <span>FIG. 16.</span> macOS Catalina: font di sistema.</span>
-                        </figcaption>
-                    </figure>
-                </div>
-            </div>
-
-<div class="col-md-2 col-sm-6">
-                <div>
-                        <figure>
-                                <a
-                                    href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575627015/Macbook-Pro-16/macbook_pro_16-temperature-telaio.jpg"
-                                    data-lightbox="grafico" data-alt="Temperature
-                                    massime sul retro di {{.Title }}"
-                                    data-title="Temperature massime sul retro di {{.Title }}.">
-                                    <img
-                                        data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575627015/Macbook-Pro-16/macbook_pro_16-temperature-telaio.jpg"
-                                        alt="Temperature massime sul retro di {{.Title }}." class="cld-responsive lazyload"></a>
-                                <figcaption>
-                                    <span class="description-title">
-                                        <span>FIG. 17.</span> Temperature massime sul retro.</span>
-                                </figcaption>
-                            </figure>
                 </div>
             </div>
         </div>
-
+  
 <!-- FINE GALLERIA CINQUE -->
 
-<section class="single-project row-col-12">
+ 
+        <section class="single-project row-col-12">
             <div class="col-md-8 col-md-push-2 no-padding-left">
-                <h3 class="small-title">IL "READ ONLY SYSTEM VOLUME"</h3>
-                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Tra le novità del nuovo sistema operativo <strong>macOS 10.15 Catalina</strong> (uscita prevista ad ottobre 2019, installato in versione Beta al momento della scrittura di questo articolo - ma, tranquilli, i test e le misurazioni sono state fatte sulla 10.14 Mojave) c'è la modalità di "sola lettura" della partizione di sistema. Potete trovare molte informazioni tecniche online (ecco la <a
-                    href="https://developer.apple.com/videos/play/wwdc2019/710/" rel="nofollow" title="What's New in Apple File Systems" target="_blank">conferenza da WWDC 2019</a>) ma, in breve, macOS Catalina vi mostra due volumi: uno normale, in sola lettura, e l'altro con suffisso "Data". Uno viene usato per i file di sistema e l'altro per i dati utente. Chi utilizza il computer non si accorge di nulla. Il sistema sposta alcune cartelle utente, le collega grazie ad una tipologia di link simile al mount di UNIX ma propria del filesystem APFS (<em>firmlinks</em>), e agisce in modo trasparente proteggendo l'integrità dell'installazione. I file dell'OS, in altre parole, restano separati dal resto e restano, soprattutto, all'interno di un volume logico montato in sola lettura.</p>
-                    <p>
-                        È un approccio cloud/enteprise che si inizia a vedere anche nel settore consumer, e anche una visione condivisa da distribuzioni Linux come Fedora SilverBlue. Ci sono parecchie implementazioni più o meno simili (alcune ideate anni fa, altre amatoriali); a chi vuol approfondire consiglio questa <a
-                        href="https://news.ycombinator.com/item?id=20431511" rel="nofollow" title="What is SilverBlue?" target="_blank">discussione su Hacker News</a>. Bene, comunque sia, vedere novità del genere da Apple, su computer usati da chiunque, assieme ad altre misure di sicurezza e del controllo dei propri dati inserite su Catalina.
-                    </p>
+                <p>Quel Mac probabilmente aveva 64 GB di RAM, ma era un esemplare in vendita non un prototipo super
+                    selezionato del tipo mostrato a certe fiere, con pasta termica e componenti diversi da quelli destinati al popolo. Per quanto le prestazioni pure del MacBook Pro 16 non sono esclusive ma possibili su
+                    altre macchine simili, è la possibilità di avere <strong>questo sistema operativo e questi software</strong> a determinare una scelta. Per questo, sopra, sono stato tanto sboccato nel consigliarlo senza giustificazioni ai
+                    professionisti utenti Mac.
+                </p>
             </div>
- </section>
+        </section>
 
- <!-- SPLIT -->
+        <!-- SPLIT -->
 
-<section class="row">
+        <section class="row">
 
-        <div class="col-md-6 no-padding-left col-sm-6 split2">
-                    <div>
-                            <h3 class="small-title">UN ACCESSORIO CONSIGLIATO</h3>
-                            <p>
-                                Il <a
-                                href="/recensioni/minix-neo-storage/" title="Recensione Minix Neo Storage" target="_blank" style="color:white">Minix Neo Storage</a> (il link porta alla mia recensione) è un HUB USB con memoria SSD interna. Ha 2 porte USB Type-A, l'uscita video HDMI, una USB-C per la ricarica e, appunto, un modulo SSD M.2 SATA3 da 128 o 256 GB. Non è tutto: basta un po' di manualità per smontarlo e migliorarlo con qualcosa di più capiente. Funziona su tutti i computer, ma è perfetto per i backup di Time Machine o per chi decide di comprare un MacBook Pro 16 da 128 GB.
-                            </p>
-                    </div>
-        </div>
-    
-        <div class="col-md-6 no-padding-right col-sm-6 split">
-                    <div>
-                            <h3 class="small-title">DA MIGLIORARE</h3>
-                            <p>
-                                La TouchBar deve avere un feedback tattile. Senza una risposta, torna scomodo usarla per l'interazione con i contenuti: devo guardarla per capire se il comando è stato preso o se ho toccato, per errore, un'altra zona. In fin dei conti è come utilizzare un touchscreen alla cieca. Ha senso per la visualizzazione di contenuti ma è un peccato continuare ad inserirla nei MacBook Pro senza un'evoluzione e senza una reale dichiarazione d'utilizzo.
-                            </p>
-                    </div>
-        </div>
-    </section>
-    
-    <!-- FINE SPLIT-->
+            <div class="col-md-6 no-padding-left col-sm-6 split2">
+                <div>
+                    <h3 class="small-title">IL GHIRIBIZZO</h3>
+                    <p>
+                        La <a href="https://amzn.to/348pa4H" rel="nofollow" title="Custodia MacBook Pro 16 pollici" target="_blank"
+                        style="color:white">custodia in pelle da 219 euro</a> è una meraviglia, ma ha un prezzo folle e non dirò nulla per farvi cambiare idea. Ho avuto la fortuna di usarla in questi giorni di prova (così come di tenere per tutta l'estate quella del Pro 13) e l'ho trovata leggera, bella, profumata, aderente. Non la comprate a prezzo pieno ma prendetela in considerazione come regalo, magari, se conoscete una persona speciale.</p>
+                </div>
+            </div>
 
-<section class="single-project row-col-12">
+            <div class="col-md-6 no-padding-right col-sm-6 split">
+                <div>
+                    <h3 class="small-title">DA MIGLIORARE</h3>
+                    <p>
+                        La Wi-Fi ac e la webcam 720p. E avrei fatto cento con un lettore SD sul fianco; il Mac-da-16 si presta al lavoro con file enormi e trasferire tutto alla massima velocità avrebbe fatto la differenza. Il passaggio alla Wi-Fi 6 poteva garantire longevità perché questo laptop che non si cambia ogni due anni. E la webcam è un'occasione sprecata perché quei microfoni e quell'impianto audio si meritano compagni migliori.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- FINE SPLIT-->
+
+        <section class="single-project row-col-12">
             <div class="col-md-8 col-md-push-2 no-padding-left">
                 <h2>Conclusioni</h2>
-                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> I computer Apple si comprano perché si sceglie una via, un modo di fare. Iniziare da un iPhone, e poi aggiungere un Apple Watch e un MacBook vuol dire <mark>allargare gli strumenti a disposizione, non comprare gadget.</mark></p>
-
-                <p>La concorrenza ha portatili più potenti e più convenienti; ha più scelta; ha più possibilità di essere acquistata a prezzi dimezzati rispetto al lancio su e-commerce o mercatini. Io credo ancora nel <a href="/podcast/il-mordente-1/" title="Il Mordente 1 - Intro, Firenze e il mio ThinkPad X1" target="_blank">ThinkPad X1 da 300 euro</a> ricondizionato su eBay, ma si entra in un giro diverso. Al pari del passaggio quasi spirituale di un portatile gestito da software open-source, preferire macOS va al di là le prestazioni pure. Di questi tempi, l’utente Apple sa benissimo che l’hardware potente fa la differenza solo nei giochi, ed io sono quasi d’accordo con lui. Resta fuori il montaggio video, resta fuori il calcolo computazionale o lo sviluppo su più macchine virtuali simultanee, ma chi vuole un laptop per queste cose non deve vedere il MacBook Pro da 13 pollici base, deve vedere il Pro 15, almeno. E in quel caso davvero valutare un portatile da gaming con Windows, GPU RTX e sportellino per l’aggiornamento della RAM. Ma noi oggi non stiamo parlando di questo.
-                </p>
-                                        <p>
-                    Un Mac così è consigliato a tutti gli utenti che possono spendere più di 1000 euro per un portatile di fascia alta. Lo ripeto: fascia alta per il telaio, per il touchpad, per la tastiera, per lo schermo, per l’autonomia, per il marchio che porta che gli permette di mantenere l’investimento negli anni perché <strong>i MacBook si rivendono bene</strong> e a prezzi molto alti e, sembra strano dirlo ma è così, alla lunga possono far spendere meno. Tra due anni, un MacBook Pro 16 2019 base si rivende a 900 euro senza sforzi mentre un Dell XPS 13 o un Huawei MateBook X Pro, per dire, sarebbe da piazzare a 500 euro. Adesso l’utente medio sceglie Apple anche per questo, ma è un calcolo che sento fare da anni ai professionisti della fotografia, o agli studenti universitari che sono riusciti a comprare in un paese con IVA più bassa e con lo sconto studente.<br><br></p>
-                </div>
-                <!-- TEARDOWN -->
-                <figure>
-                        <a
-                            href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1575622279/Macbook-Pro-16/apple-macbook-pro-16-smontato.jpg"
-                            data-lightbox="scheda" data-alt="Teardown {{ .Title }}"
-                            data-title="Gli interni di {{ .Title }}. Ogni componente è saldato.">
-                            <img
-                                data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622279/Macbook-Pro-16/apple-macbook-pro-16-smontato.jpg"
-                                alt="Teardown {{.Title }}" class="lazyload cld-responsive"></a>
-                        <figcaption>
-                            <span class="description-title">
-                                <span>FIG. 18.</span> Gli interni di MacBook Pro 16. Tutti i componenti sono saldati. Le ventole hanno più lamelle e le griglie di ventilazione sono più grandi rispetto all'edizione da 15 pollici.</span>
-                        </figcaption>
-                    </figure>
-                <!-- FINE TEARDONW -->
-<div class="col-md-8 col-md-push-2 no-padding-left">
-
-                <p>     
-                        L’utente medio o chi non ha tempo da dedicare a queste cose sceglie Mac perché ci sono troppi portatili Windows in circolazione; difficile informarsi, capire, ordinare online, e magari dover passare un giorno intero ad installare una .iso pulita o, peggio, a rimuovere il crapware pre-installato. L’utente medio si compra un MacBook perché usa il software di macOS che già trova dentro, e perché lo considera, a ragione, di qualità. L’utente medio usa macOS perché si fida di più (a ragione) e perché sposta tutte le sue cose, backuppa e ripristina, in un attimo. L’utente medio compra un MacBook Pro perché i migliori modelli della concorrenza non costano tanto meno. Lo sviluppatore sceglie macOS e un MacBook perché <strong>gli utenti Apple pagano le app</strong>. Perché di sicuro usa iPhone e iPad e deve provare di persona quel che vuole vendere. Perché è più semplice avere una macchina virtuale Windows su macOS, del <a href="https://github.com/kholia/OSX-KVM" rel="nofollow" title="macOs su QEMU" target="_blank">contrario</a>. Perché l’esperienza che si fa su un UNIX poi torna comoda su tutto quel che è web, dai server cloud ai server Linux, dall’IoT alla prototipizzazione con Arduino.
-                </p>   
-                      
-            <p>
-                    A me piace macOS; il rendering dei caratteri, la sfumatura dell’ombra delle finestre centrate, la leggerezza del poter iniziare il lavoro da una parte per continuarlo da un’altra (iPhone o iPad), il nuovo Safari, la partizione read-only di Catalina, e, più generalmente, l’assemblaggio dell’hardware che muove il tutto. Anche se il mio modo attuale di usare il computer portatile è, adesso, un ordine frenetico, e anche se preferisco spaccare il capello con un Linux puro, con una Arch + i3-wm (tutte cose che mi fanno stare stretto su macOS, adesso) sono sempre disponibile a mettere la faccia davanti ad un Mac perché è sempre un bel posto sul quale passare del tempo. E questo ultimo MacBook Pro 16 2019 assiste bene il tutto.</p> 
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Non mi sento in grado di fare altri raffronti ma una cosa la so: MacBook Pro 16 è il portatile dell'anno. Non il migliore in assoluto perché è una macchina costosa e settoriale. Non il migliore tra tutti perché il portatile mastro non può esistere così come non sta né in cielo né in terra l'idea di fare tutti le stesse cose con i PC. Ma è il portatile dell'anno per le aspettative che aveva, per come ha corretto di colpo i problemi qualificanti, per come è riuscito a dare agli utenti Mac un hardware che fa cose impossibili, prima, sui Mac da viaggio. Ha davvero senso di stare sul mercato, di essere in vendita, anche nella sua versione base. E, soprattutto, come non era tanto chiaro da un po', con lui il brand Apple non è più solo un'idea psicologica ma anche merce. E che merce.</p>
             </div>
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <aside class="yt-iscriviti">
+                    <span class="atail-multitext-text">APPLE + AMAZON = ❤️</span>
+                    <a href="https://amzn.to/36gOWoH" rel="nofollow" target="_blank"
+                        title="Vedi offerte e sconti MacBook Pro 16 su Amazon">
+                        <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575885201/Macbook-Pro-16/apple-macbook-pro-16-amazon.jpg"
+                            alt="MacBook Pro 16 su Amazon" class="cld-responsive lazyload" style="max-width:100%" />
+                    </a>
+                </aside>
+                <!-- VIDEO FULL -->
+                <div class="videoWrapper embed-responsive embed-responsive-4by3" data-yt-url="{{.Params.video}}">
+                    <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622277/Macbook-Pro-16/recensione_macbook_pro_16_video.png"
+                        alt="Video Recensione {{ .Title }}" class="cld-responsive lazyload play-youtube-video">
+                </div>
+                <!-- FINE VIDEO -->
+            </div>
+        </section>
+        <!-- PREV-NEXT -->
+        <div class="row-col-12">
 
-            <div class="col-md-8 col-md-push-2 no-padding-left"> 
-                    <aside class="yt-iscriviti">
-                                        <span class="atail-multitext-text">NUOVO APPLE STORE SU AMAZON</span>
-                                        <a href="https://amzn.to/2nPZWs8" rel="nofollow" target="_blank" title="Vedi offerte e sconti Amazon sui prodotti Apple">
-                                            <img data-src="https://res.cloudinary.com/rim3/image/upload/w_auto,c_scale,q_75,f_auto/v1569853394/MacBook_Pro_13_2019/apple-store-amazon-italia.jpg" alt="Apple Store su Amazon" class="cld-responsive lazyload" style="max-width:100%" />
-                                        </a>
-                    </aside>
-                    <!-- VIDEO FULL -->
-                        <div class="videoWrapper embed-responsive embed-responsive-4by3" data-yt-url="{{.Params.video}}">
-                            <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575622277/Macbook-Pro-16/recensione_macbook_pro_16_video.png" alt="Video Recensione {{ .Title }}" class="cld-responsive lazyload play-youtube-video">
+            <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
+                <div class="single-project-prev atail-project-nav">
+                    {{if .PrevInSection}}
+                    <a href="{{.PrevInSection.Permalink}}" class="single-project-link-arrow"
+                        title="Recensione precedente">
+                        <span class="single-project-arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="57.143px"
+                                height="34.454px" viewBox="0 0 57.143 34.454" enable-background="new 0 0 57.143 34.454"
+                                xml:space="preserve">
+                                <g>
+                                    <g>
+                                        <polygon fill="" points="51.908,17.599 46.891,13.1
+                                    46.891,17.094 6.904,17.094
+                                    6.904,18.094 46.891,18.094
+                                    46.891,22.099">
+                                        </polygon>
+                                    </g>
+                                </g>
+                            </svg>
+                        </span>
+                        <span>Precedente</span>
+                    </a>
+
+                    <a href="{{.PrevInSection.Permalink}}" class="single-project-info"
+                        title="Recensione {{.PrevInSection.Title}}">
+                        <div class="atail-project-image">
+                            <img data-src="{{.PrevInSection.Params.immagine_testa}}"
+                                alt="Recensione {{.PrevInSection.Title}}" class="cld-responsive lazyload" />
                         </div>
-                    <!-- FINE VIDEO -->
+                        <h4>{{.PrevInSection.Title}}</h4>
+                    </a>
+                    {{end}}
+                </div>
             </div>
-</section>
-<!-- PREV-NEXT -->
-<div class="row-col-12">
 
-    <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
-        <div class="single-project-prev atail-project-nav">
-            {{if .PrevInSection}}
-            <a href="{{.PrevInSection.Permalink}}"
-                class="single-project-link-arrow" title="Recensione precedente">
-                <span class="single-project-arrow">
-                    <svg version="1.1"
-                        xmlns="http://www.w3.org/2000/svg" x="0px"
-                        y="0px" width="57.143px"
-                        height="34.454px" viewBox="0 0 57.143 34.454"
-                        enable-background="new 0 0 57.143 34.454"
-                        xml:space="preserve">
-                        <g>
-                            <g>
-                                <polygon fill=""
-                                    points="51.908,17.599 46.891,13.1
+            <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
+                <div class="single-project-next atail-project-nav">
+                    {{if .NextInSection}}
+                    <a href="{{.NextInSection.Permalink}}" class="single-project-link-arrow"
+                        title="Prossima recensione">
+                        <span>Prossima</span>
+                        <span class="single-project-arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="57.143px"
+                                height="34.454px" viewBox="0 0 57.143 34.454" enable-background="new 0 0 57.143 34.454"
+                                xml:space="preserve">
+                                <g>
+                                    <g>
+                                        <polygon fill="" points="51.908,17.599 46.891,13.1
                                     46.891,17.094 6.904,17.094
                                     6.904,18.094 46.891,18.094
                                     46.891,22.099">
-                                </polygon>
-                            </g>
-                        </g>
-                    </svg>
-                </span>
-                <span>Precedente</span>
-            </a>
+                                        </polygon>
+                                    </g>
+                                </g>
+                            </svg>
+                        </span>
+                    </a>
 
-            <a href="{{.PrevInSection.Permalink}}"
-                class="single-project-info" title="Recensione {{.PrevInSection.Title}}">
-                <div class="atail-project-image">
-                    <img data-src="{{.PrevInSection.Params.immagine_testa}}"
-                        alt="Recensione {{.PrevInSection.Title}}" class="cld-responsive lazyload" />
+                    <a href="{{.NextInSection.Permalink}}" class="single-project-info"
+                        title="Recensione {{.NextInSection.Title}}">
+                        <div class="atail-project-image">
+                            <img data-src="{{.NextInSection.Params.immagine_testa}}"
+                                alt="Recensione {{.NextInSection.Title}}" class="cld-responsive lazyload" />
+                        </div>
+                        <h4>{{.NextInSection.Title}}</h4>
+                    </a>
+                    {{end}}
                 </div>
-                <h4>{{.PrevInSection.Title}}</h4>
-            </a>
-            {{end}}
+            </div>
+
         </div>
-    </div>
-
-    <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
-        <div class="single-project-next atail-project-nav">
-            {{if .NextInSection}}
-            <a href="{{.NextInSection.Permalink}}"
-                class="single-project-link-arrow" title="Prossima recensione">
-                <span>Prossima</span>
-                <span class="single-project-arrow">
-                    <svg version="1.1"
-                        xmlns="http://www.w3.org/2000/svg" x="0px"
-                        y="0px" width="57.143px"
-                        height="34.454px" viewBox="0 0 57.143 34.454"
-                        enable-background="new 0 0 57.143 34.454"
-                        xml:space="preserve">
-                        <g>
-                            <g>
-                                <polygon fill=""
-                                    points="51.908,17.599 46.891,13.1
-                                    46.891,17.094 6.904,17.094
-                                    6.904,18.094 46.891,18.094
-                                    46.891,22.099">
-                                </polygon>
-                            </g>
-                        </g>
-                    </svg>
-                </span>
-            </a>
-
-            <a href="{{.NextInSection.Permalink}}"
-                class="single-project-info" title="Recensione {{.NextInSection.Title}}">
-                <div class="atail-project-image">
-                    <img data-src="{{.NextInSection.Params.immagine_testa}}"
-                        alt="Recensione {{.NextInSection.Title}}" class="cld-responsive lazyload" />
-                </div>
-                <h4>{{.NextInSection.Title}}</h4>
-            </a>
-            {{end}}
-        </div>
-    </div>
-
-</div>
-<!-- FINE PREV-NEXT -->
+        <!-- FINE PREV-NEXT -->
 
         <!-- DISQUS -->
 
-        <div class="single-project row-col-12 atail-post-comments-wrapper"
-            style="margin-bottom: 0; border-right:0">
+        <div class="single-project row-col-12 atail-post-comments-wrapper" style="margin-bottom: 0; border-right:0">
             <div class="col-md-2"></div>
             <aside class="col-md-8 no-padding-left">
                 {{ partial "disqus-comments.html" . }}
@@ -809,27 +786,18 @@
 
         <!-- FINE DISQUS -->
         <!-- FINE PAGINA -->
-</article>
-        <!-- main-scroll -->
+    </article>
+    <!-- main-scroll -->
 </main> <!-- main -->
 {{ partial "aside.html" . }}
 </div> <!-- atail -->
 
 <script src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
-<script src="{{.Site.BaseURL}}js/lazysizes.min.js" async ></script>
-<script src="{{.Site.BaseURL}}js/typed.min.js"></script>
+<script src="{{.Site.BaseURL}}js/lazysizes.min.js" async></script>
 <script>
-    var typed = new Typed('#typed',{
-         strings:["{{.Params.typed1}}", "{{.Params.typed2}}", "{{.Params.typed3}}", "{{.Params.typed4}}"],
-         backSpeed: 40,
-        typeSpeed: 60,
-         loop: false
-        });
+    const cl = cloudinary.Cloudinary.new({ cloud_name: 'rim7' })
+    cl.responsive()
 </script>
-<script>
-const cl = cloudinary.Cloudinary.new({ cloud_name: 'rim7' })
-cl.responsive()
-</script>
-<script src='{{.Site.BaseURL}}js/lightbox.js' async ></script>
+<script src='{{.Site.BaseURL}}js/lightbox.js' async></script>
 <script async src="https://apis.google.com/js/platform.js"></script>
 {{ partial "footer-review.html" . }}
