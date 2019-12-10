@@ -16,7 +16,6 @@ typed2: ": ha CPU Quad Core e schermo P3."
 typed3: ": è più potente di MacBook Air."
 typed4: ". Ed ha un prezzo di listino più basso."
 jquery: "1"
-draft: true
 ---
 
 La vita è schizzinosa e richiede un concorso di circostanze assai particolari, ma questa recensione a MacBook Pro da 16 pollici sarà netta e schietta perché il prodotto è netto e schietto. Ho un compito facile che posso sbrigare così: vi serve? compratelo. Funziona come previsto ed è tra i prodotti Apple più riusciti - assieme agli AirPods, e come gli ultimi Apple Watch. Ora, con quel "vi serve?", do per scontato che vi serva un portatile per il lavoro impegnato e prolungato, soprattutto se creativo o comunque produttivo (nel senso latino di producĕre, derivato di ducĕre "condurre", quindi concludere quel che avete in testa, portarlo in una forma che altri possono esperire, buttarlo fuori). Perché è vero che costa quanto il vecchio 15 pollici nonostante le novità (tastiera, schermo, impianto termico, memoria SSD doppia, altoparlanti, microfoni) ma sono comunque 2799 euro per la configurazione base e non c'è da scherzare con quasi-tremila-euro per un portatile.
