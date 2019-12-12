@@ -1,0 +1,357 @@
+{{ partial "header.html" . }}
+<link rel='stylesheet' href='{{.Site.BaseURL}}css/lightbox.css' type='text/css' media='all' />
+<main>
+    <article class="main-scroll">
+        <div class="row" style="margin-bottom: 0">
+            <div class="col-md-1"></div>
+            <div class="col-md-8 no-padding-left col-sm-8">
+                <div class="promo-box recensioni">
+                    <div class="small-title">
+                        <!-- SHARE -->
+                        <div class="jssocials-shares post-content-header">
+                            <div class="jssocials-share">
+                                <a target="_blank" href="https://facebook.com/sharer/sharer.php?u={{.Permalink}}"
+                                    rel="noopener" class="jssocials-share-link" title="Condividi su Facebook">
+                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
+                                        class="jssocials-share-facebook" width="13" height="81"
+                                        alt="Condividi su Facebook">
+                                </a>
+                            </div>
+
+                            <div class="jssocials-share">
+                                <a target="_blank"
+                                    href="https://twitter.com/share?url={{.Permalink}}&amp;text=Recensione%20{{.Title}}%20di%20%40riccardopalombo"
+                                    rel="noopener" class="jssocials-share-link" title="Condividi su Twitter">
+                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
+                                        class="jssocials-share-twitter" width="13" height="81"
+                                        alt="Condividi su Twitter">
+                                </a>
+                            </div>
+
+                            <div class="jssocials-share">
+                                <a target="_blank"
+                                    href="https://reddit.com/submit?url={{.Permalink}}&amp;title=Recensione%20{{.Title}}"
+                                    rel="noopener" class="jssocials-share-link" title="Condividi su Reddit">
+                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
+                                        class="jssocials-share-reddit" width="13" height="81" alt="Condividi su Reddit">
+                                </a>
+                            </div>
+                        </div>
+                        <!-- FINE SHARE -->
+
+                    </div>
+                    <h1>Room Tour 2019</h1>
+                    <p>
+                        {{.Params.sommario}}
+                        <span id="typed"></span>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-2 no-padding-right col-sm-4">
+                <div class="atail-multitext inizio">
+                    <span class="atail-multitext-title">TIME-LAPSE</span>
+                    <span class="atail-multitext-text">Online dal<span>
+                            {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                        </span></span>
+                    <span class="atail-multitext-text">Discussione
+                        <span><a href="#disqus_thread" title="Leggi i commenti">Leggi i commenti</a></span>
+                    </span>
+                    <span class="atail-multitext-text">Tempo di lettura <span>Circa 5 minuti</span></span>
+                </div>
+            </div>
+
+            <div class="col-md-2"></div>
+        </div>
+
+        <!-- VIDEO FULL -->
+
+        <div class="videoWrapper embed-responsive embed-responsive-4by3" data-yt-url="{{.Params.video}}">
+
+            <img data-src="https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_75,f_auto/v1567075201/recensioni/Canon-G7X-Mark3/canon-g7x-mark3-time-lapse.jpg"
+                alt="Video Recensione {{ .Title }}" class="cld-responsive lazyload play-youtube-video">
+        </div>
+
+        <!-- FINE VIDEO -->
+
+        <!-- SCHEDA TECNICA -->
+        <div class="single-project row-col-12">
+            <div class="col-md-2"></div>
+
+            <div class="col-md-8 no-padding-left" style="margin-bottom:80px">
+                <aside class="yt-iscriviti">
+                    <span class="atail-multitext-text">ISCRIVITI AL NUOVO CANALE YOUTUBE</span>
+                    <div class="g-ytsubscribe" data-channelid="UCIdYIrInVnUwHVbogLj6bqA" data-layout="full"
+                        data-count="default"></div>
+                </aside>
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Vi ricordate del vecchio Room Tour? Quello diviso in tre
+                    parti, pubblicato nel 2017, con dentro una pimpante e ingenua versione di me? Aveva delle lacune,
+                    dei buchi. Quindi ho pensato di svecchiare la stanza. C'è stata l'opportunità di cambiare monitor
+                    con un modello dieci volte migliore (e l'ho colta); c'è stata l'opportunità di dare via una montagna
+                    di fumetti per dare spazio ai libri e quindi spostare la libreria (e l'ho colta); mi è servito un
+                    microfono fissato a muro; c'è stata la necessità di mettere in piedi una postazione per lavorare...
+                    in piedi, ed è un pretesto che ha liberato l'Arturo Bandini che è in me.</p>
+                <p>
+                    Sono soddisfatto del risultato. Quando la mattina mi metto lì a lavorare, sento di avere tutto sotto
+                    controllo. Ma non è ancora finita. La workstation Ryzen sta per essere rinnovata nei componenti
+                    (CPU, GPU e RAM) e nell'impianto di smaltimento di calore (torno alle ventole) perché anche questa è
+                    un'opportunità che ho colto. Più potenza grafica, parecchi più core fisici e logici, e nessuna
+                    lucina all'interno. Peccato che non sia altrettando facile svecchiare se stessi! Ma vi dirò tutto
+                    nella seconda puntata del Room Tour. Per oggi, iniziamo a parlare del monitor BenQ e del piano di
+                    lavoro a la Jethro Gibbs.
+                </p>
+            </div>
+            <section class="col-md-4 col-md-push-2 no-padding-left">
+                <div class="atail-multitext">
+                    <h2 class="atail-multitext-title">SCHEDA TECNICA</h2>
+                    <span class="atail-multitext-text">Schermo<span>27 pollici / 3840 x 2160 px /
+                            Anti-riflesso</span></span>
+                    <span class="atail-multitext-text">Pannello<span>IPS / 60 Hz / 10-bit / 1000:1 / 5ms
+                            GtG</span></span>
+                    <span class="atail-multitext-text">Copertura<span>DCI-P3 96% / sRGB 100% / AdobeRGB
+                            100%</span></span>
+                    <span class="atail-multitext-text">Regolazioni<span>Inclinazione 5-20° / Altezza +-15 cm / Rotazione
+                            +- 30° / Pivot</span></span>
+                    <span class="atail-multitext-text">Connettività<span>2x Thunderbolt 3 (PD 15W e 65W) / 2 HDMI 2.0 /
+                            DP .14 / 2 USB 3.1 Downstream / USB 3.1 Upstream / mini-USB / Jack 3.5 mm</span></span>
+                    <span class="atail-multitext-text">Audio<span>Altoparlanti integrati 2x 2 watt</span></span>
+                    <span class="atail-multitext-text">Dimensioni<span>Senza base: 444 x 614 x 186 mm / 8.3
+                            kg</span></span> <span class="atail-multitext-text">Altro<span>VESA 100 / Controller OSD
+                            esterno Hotkey Puck G2 / Filtro luce blu / PiP / PbP / KVM / Cavi Thunderbolt 3 in
+                            confezione</span></span>
+                </div>
+            </section>
+
+            <!-- FINE SCHEDA TECNICA -->
+
+            <!-- SCHEDA IMG -->
+
+            <div class="col-md-4 col-md-push-2 no-padding-right">
+                <figure class="no-margin">
+                    <a href="https://res.cloudinary.com/rim2/image/upload/q_75,w_1000/v1567062670/Canon-G7X-Mark3/canon-powershot-g7x-mark-3.jpg"
+                        data-lightbox="scheda" data-alt="{{ .Title }}"
+                        data-title="BenQ DesignVue PD2720U: scheda tecnica" title="Scheda tecnica {{ .Title }}">
+                        <img data-src="https://res.cloudinary.com/rim2/image/upload/w_auto,c_scale,q_75,f_auto/v1567062670/Canon-G7X-Mark3/canon-powershot-g7x-mark-3.jpg"
+                            alt="Scheda tecnica {{ .Title }}" class="cld-responsive lazyload">
+                    </a>
+                    <figcaption>
+                        <span class="description-title" style="padding-left:0">
+                            <span>FIG. 1.</span> Clicca per ingrandire.
+                        </span>
+                        <p>
+                            Il monitor BenQ può essere orientato in verticale.
+                        </p>
+                    </figcaption>
+                </figure>
+
+                <!-- FINE SCHEDA IMG -->
+            </div>
+        </div>
+        <section class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+
+                <h2>BenQ PD2720U</h2>
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Passare da un 27 pollici Full HD a un 27 pollici 4K HDR con
+                    copertura P3 e mille altre qualità comprese le due Thunderbolt 3 con Power Delivery, è un
+                    miglioramento che tutti vorrebbero almeno sperimentare. In realtà avevo dei dubbi perché quel 27
+                    così "sgranato" non era lì per caso: affiancava il Samsung da 34 pollici 1440P e mi dava diverse
+                    possibilità. Scrivere con caratteri grossi, controllare la resa dei lavori prima di metterli online,
+                    lavorare con una finestra alla volta e quindi concentrarmi solo su quello che ho davanti. Ecco
+                    perché nel video consiglio di non sostituire i vecchi monitor di qualità ma di affiancarli ad altro:
+                    il loro punto di vista vi può servire.
+                </p>
+
+                <p>
+                    Questa meraviglia software corrisponde al nome di <mark>Filmato stelle time-lapse</mark>, ed è una
+                    delle "scene" della modalità "Scena" (SCN sulla ghiera dei modi) della Canon G7X Mark III. Ci sono
+                    altre opzioni dedicate alla fotografia notturna di un cielo stellato ma scattano foto, non video;
+                    sono immagini con traiettorie delle stelle più o meno evidenti, ottenute con tempi di esposizione
+                    lunghi oppure con l'unione di tanti scatti. Ma sono foto, già detto, non video. Belle, per carità:
+                    guardate sotto.
+                    <br><br>
+                </p>
+            </div>
+            <!-- IMG GRANDE -->
+            <figure>
+                <a href="https://res.cloudinary.com/rim2/image/upload/q_75,w_1000/v1567068921/Canon-G7X-Mark3/canon-g7-mark3-scatto-notturno-riccardo-palombo.jpg"
+                    data-lightbox="grafico" data-alt="Canon G7X Mark III: modalità cielo stellato"
+                    data-title="Canon G7X Mark III: modalità cielo stellato.">
+                    <img data-src="https://res.cloudinary.com/rim2/image/upload/w_auto,c_scale,q_75,f_auto/v1567068921/Canon-G7X-Mark3/canon-g7-mark3-scatto-notturno-riccardo-palombo.jpg"
+                        alt="Canon G7X Mark III: modalità cielo stellato." class="lazyload cld-responsive"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 2.</span> Canon PowerShot G7X Mark III: modalità cielo stellato (120 minuti).</span>
+                </figcaption>
+            </figure>
+            <!-- FINE IMG GRANDE -->
+
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <p>
+                    Potete <a href="https://t.me/riccardopalombo/682" rel="nofollow" target="_blank"
+                        title="Scarica il .JPG originale dal canale Telegram di Riccardo Palombo">scaricare l'originale
+                        in .JPG</a> (sono quasi 13 mega) dal canale Telegram e farvi un'idea della resa nella
+                    familiarità del vostro monitor. Purtroppo sono un idiota e ho cancellato il RAW. Ho caricato
+                    contenuti simili su Instagram per tutto agosto e poi un giorno ho formattato la SD senza motivo.
+                    <em>Bah!</em> Voglio precisare che si tratta di prove, le mie prime prove con questa camera e con lo
+                    startrail: non pretendete un lavoro professionale. Però avvertitemi se ci tirate fuori uno sfondo
+                    per desktop o per smartphone - come hanno fatto i ragazzi di <a href="https://motionwall.it/s/254"
+                        rel="nofollow" target="_blank"
+                        title="Sfondi di Riccardo Palombo su MotionWall.it">motionwall.it</a>.
+                </p>
+            </div>
+        </section>
+
+        <section class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <h2>Lavorare in piedi</h2>
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s>
+                    La compattina di Canon ha altre comodità. Ci sono modelli con ottiche più nitide e con un'ergonomia
+                    migliore; la PowerShot G5X Mark II che ho visto a Cortona On The Move, per esempio. Ma questa ha il
+                    suo senso: è una via di mezzo tra lo smartphone e una mirrorless più strutturata. Basta il jack
+                    audio da 3.5 mm a farla preferire a chi deve registrare e documentare con video, o servizi per siti
+                    web o LIVE YouTube (c'è una modalità apposita indipendente dallo smartphone), ma anche i video in
+                    verticale di Instagram e Facebook (la macchina riconosce l'orientamento e salva il filmato nel modo
+                    corretto). Io la porterò ad IFA 2019 di Berlino per le foto e per gli eventi. E continuerò ad usarla
+                    collegata al mio <a href="https://www.instagram.com/p/B0n-t6uoRVC/?utm_source=ig_web_copy_link"
+                        rel="nofollow" target="_blank" title="Ecco il mio casco - Riccardo Palombo su Instagram">casco
+                        per riprese POV</a> perché sembra fatta apposta.
+                </p>
+                <p>
+                    Canon G7X Mark III è appena uscita in Italia. La trovate ovunque, anche su Amazon.
+                </p>
+            </div>
+
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <aside class="yt-iscriviti">
+                    <span class="atail-multitext-text">QUANTO COSTA? VEDI SU AMAZON</span>
+                    <a href="https://amzn.to/2L8y5LK" rel="nofollow" target="_blank"
+                        title="Compra su Amazon e aiutami a migliorare il podcast e il sito">
+                        <img data-src="https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_75,f_auto/v1566984083/recensioni/canon-g7x-mark3.jpg"
+                            alt="Supporta Riccardo.im" class="cld-responsive lazyload" />
+                    </a>
+                </aside>
+
+                <!-- VIDEO FULL -->
+
+                <div class="videoWrapper embed-responsive embed-responsive-4by3" data-yt-url="{{.Params.video}}">
+
+                    <img data-src="https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_75,f_auto/v1567075201/recensioni/Canon-G7X-Mark3/canon-g7x-mark3-time-lapse.jpg"
+                        alt="Video Recensione {{ .Title }}" class="cld-responsive lazyload play-youtube-video">
+                </div>
+
+                <!-- FINE VIDEO -->
+            </div>
+
+
+        </section>
+
+        <!-- PREV-NEXT -->
+        <div class="row-col-12">
+
+            <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
+                <div class="single-project-prev atail-project-nav">
+                    {{if .PrevInSection}}
+                    <a href="{{.PrevInSection.Permalink}}" class="single-project-link-arrow"
+                        title="Recensione precedente">
+                        <span class="single-project-arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="57.143px"
+                                height="34.454px" viewBox="0 0 57.143 34.454" enable-background="new 0 0 57.143 34.454"
+                                xml:space="preserve">
+                                <g>
+                                    <g>
+                                        <polygon fill="" points="51.908,17.599 46.891,13.1
+                                    46.891,17.094 6.904,17.094
+                                    6.904,18.094 46.891,18.094
+                                    46.891,22.099">
+                                        </polygon>
+                                    </g>
+                                </g>
+                            </svg>
+                        </span>
+                        <span>Precedente</span>
+                    </a>
+
+                    <a href="{{.PrevInSection.Permalink}}" class="single-project-info"
+                        title="Recensione {{.PrevInSection.Title}}">
+                        <div class="atail-project-image">
+                            <img data-src="{{.PrevInSection.Params.immagine_testa}}"
+                                alt="Recensione {{.PrevInSection.Title}}" class="cld-responsive lazyload" />
+                        </div>
+                        <h4>{{.PrevInSection.Title}}</h4>
+                    </a>
+                    {{end}}
+                </div>
+            </div>
+
+            <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
+                <div class="single-project-next atail-project-nav">
+                    {{if .NextInSection}}
+                    <a href="{{.NextInSection.Permalink}}" class="single-project-link-arrow"
+                        title="Prossima recensione">
+                        <span>Prossima</span>
+                        <span class="single-project-arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="57.143px"
+                                height="34.454px" viewBox="0 0 57.143 34.454" enable-background="new 0 0 57.143 34.454"
+                                xml:space="preserve">
+                                <g>
+                                    <g>
+                                        <polygon fill="" points="51.908,17.599 46.891,13.1
+                                    46.891,17.094 6.904,17.094
+                                    6.904,18.094 46.891,18.094
+                                    46.891,22.099">
+                                        </polygon>
+                                    </g>
+                                </g>
+                            </svg>
+                        </span>
+                    </a>
+
+                    <a href="{{.NextInSection.Permalink}}" class="single-project-info"
+                        title="Recensione {{.NextInSection.Title}}">
+                        <div class="atail-project-image">
+                            <img data-src="{{.NextInSection.Params.immagine_testa}}"
+                                alt="Recensione {{.NextInSection.Title}}" class="cld-responsive lazyload" />
+                        </div>
+                        <h4>{{.NextInSection.Title}}</h4>
+                    </a>
+                    {{end}}
+                </div>
+            </div>
+
+        </div>
+        <!-- FINE PREV-NEXT -->
+
+        <!-- DISQUS -->
+
+        <div class="single-project row-col-12 atail-post-comments-wrapper" style="margin-bottom: 0; border-right:0">
+            <div class="col-md-2"></div>
+            <aside class="col-md-8 no-padding-left">
+                {{ partial "disqus-comments.html" . }}
+            </aside>
+        </div>
+
+        <!-- FINE DISQUS -->
+        <!-- FINE PAGINA -->
+    </article>
+    <!-- main-scroll -->
+</main> <!-- main -->
+{{ partial "aside.html" . }}
+</div> <!-- atail -->
+
+<script src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
+<script src="{{.Site.BaseURL}}js/lazysizes.min.js" async></script>
+<script src="{{.Site.BaseURL}}js/typed.min.js"></script>
+<script>
+    var typed = new Typed('#typed', {
+        strings: ["{{.Params.typed1}}", "{{.Params.typed2}}", "{{.Params.typed3}}", "{{.Params.typed4}}"],
+        backSpeed: 40,
+        typeSpeed: 60,
+        loop: false
+    });
+</script>
+<script>
+    const cl = cloudinary.Cloudinary.new({ cloud_name: 'rim2' })
+    cl.responsive()
+</script>
+<script async src="https://apis.google.com/js/platform.js"></script>
+<script src='{{.Site.BaseURL}}js/lightbox.js' async></script>
+{{ partial "footer-review.html" . }}
