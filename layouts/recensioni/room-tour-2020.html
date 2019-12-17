@@ -1,0 +1,503 @@
+{{ partial "header.html" . }}
+<link rel='stylesheet' href='{{.Site.BaseURL}}css/lightbox.css' type='text/css' media='all' />
+<main>
+    <article class="main-scroll">
+        <div class="row" style="margin-bottom: 0">
+            <div class="col-md-1"></div>
+            <div class="col-md-8 no-padding-left col-sm-8">
+                <div class="promo-box recensioni">
+                    <div class="small-title">
+                        <!-- SHARE -->
+                        <div class="jssocials-shares post-content-header">
+                            <div class="jssocials-share">
+                                <a target="_blank" href="https://facebook.com/sharer/sharer.php?u={{.Permalink}}"
+                                    rel="noopener" class="jssocials-share-link" title="Condividi su Facebook">
+                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
+                                        class="jssocials-share-facebook" width="13" height="81"
+                                        alt="Condividi su Facebook">
+                                </a>
+                            </div>
+
+                            <div class="jssocials-share">
+                                <a target="_blank"
+                                    href="https://twitter.com/share?url={{.Permalink}}&amp;text=Recensione%20{{.Title}}%20di%20%40riccardopalombo"
+                                    rel="noopener" class="jssocials-share-link" title="Condividi su Twitter">
+                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
+                                        class="jssocials-share-twitter" width="13" height="81"
+                                        alt="Condividi su Twitter">
+                                </a>
+                            </div>
+
+                            <div class="jssocials-share">
+                                <a target="_blank"
+                                    href="https://reddit.com/submit?url={{.Permalink}}&amp;title=Recensione%20{{.Title}}"
+                                    rel="noopener" class="jssocials-share-link" title="Condividi su Reddit">
+                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
+                                        class="jssocials-share-reddit" width="13" height="81" alt="Condividi su Reddit">
+                                </a>
+                            </div>
+                        </div>
+                        <!-- FINE SHARE -->
+
+                    </div>
+                    <h1>Room Tour 2020</h1>
+                    <p>
+                        {{.Params.sommario}}
+                        <span id="typed"></span>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-2 no-padding-right col-sm-4">
+                <div class="atail-multitext inizio">
+                    <span class="atail-multitext-title">TIME-LAPSE</span>
+                    <span class="atail-multitext-text">Online dal<span>
+                            {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                        </span></span>
+                    <span class="atail-multitext-text">Discussione
+                        <span><a href="#disqus_thread" title="Leggi i commenti">Leggi i commenti</a></span>
+                    </span>
+                    <span class="atail-multitext-text">Tempo di lettura <span>Circa 5 minuti</span></span>
+                </div>
+            </div>
+
+            <div class="col-md-2"></div>
+        </div>
+
+        <!-- VIDEO FULL -->
+        
+        <div class="videoWrapper embed-responsive embed-responsive-4by3" data-yt-url="{{.Params.video}}">
+
+            <img data-src="https://res.cloudinary.com/rim4/image/upload/w_auto,c_scale,q_75,f_auto/v1576603137/Room-Tour-2020/room-tour-riccardo-palombo_2020.jpg"
+                alt="Video {{ .Title }}" class="cld-responsive lazyload play-youtube-video">
+        </div>
+
+        <!-- FINE VIDEO -->
+
+        <!-- SCHEDA TECNICA -->
+        <div class="single-project row-col-12">
+            <div class="col-md-2"></div>
+
+            <div class="col-md-8 no-padding-left" style="margin-bottom:80px">
+                <aside class="yt-iscriviti">
+                    <span class="atail-multitext-text">ISCRIVITI AL NUOVO CANALE YOUTUBE</span>
+                    <div class="g-ytsubscribe" data-channelid="UCIdYIrInVnUwHVbogLj6bqA" data-layout="full"
+                        data-count="default"></div>
+                </aside>
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Vi ricordate del vecchio Room Tour? Quello diviso in tre
+                    parti, pubblicato nel 2017, con dentro una pimpante e ingenua versione di me? Aveva delle lacune,
+                    dei buchi. Quindi ho pensato di svecchiare la stanza. C'è stata l'opportunità di cambiare monitor
+                    con un modello dieci volte migliore (e l'ho colta); c'è stata l'opportunità di dare via una montagna
+                    di fumetti e quindi spostare la libreria (e l'ho colta); mi è servito un
+                    microfono attaccato al muro così da poter <a href="/podcast/"
+                    target="_blank"
+                    title="Il Mordente Podcast">parlare in piedi</a>; è venuta fuori la necessità di costruire una postazione per lavorare in piedi, senza sedermi, ed è un pretesto che ha liberato l'Arturo Bandini che è in me.</p>
+                <p>
+                    Sono soddisfatto del risultato. Quando la mattina mi metto lì a lavorare sento di avere tutto sotto
+                    controllo. Ma non è ancora finita. La workstation Ryzen sta per essere rinnovata nei componenti
+                    (CPU, GPU e RAM) e nell'impianto di smaltimento di calore (torno alle ventole). È un'altra opportunità/proposta che ho preso al volo: più potenza grafica, parecchi più core fisici, nessuna
+                    lucina all'interno. Peccato che non sia altrettando facile svecchiare se stessi! Ma vi dirò tutto
+                    nella <strong>seconda parte del Room Tour.</strong> Oggi iniziamo a parlare del monitor BenQ e del piano di
+                    lavoro a la Jethro Gibbs.
+                </p>
+            </div>
+            
+            <section class="col-md-4 col-md-push-2 no-padding-left">
+                <div class="atail-multitext">
+                    <h2 class="atail-multitext-title">SCHEDA TECNICA</h2>
+                    <span class="atail-multitext-text">Schermo<span>27 pollici / 3840 x 2160 px /
+                            Anti-riflesso</span></span>
+                    <span class="atail-multitext-text">Pannello<span>IPS / 60 Hz / 10-bit / 1000:1 / 5ms
+                            GtG</span></span>
+                    <span class="atail-multitext-text">Copertura<span>DCI-P3 96% / sRGB 100% / AdobeRGB
+                            100%</span></span>
+                    <span class="atail-multitext-text">Regolazioni<span>Inclinazione 5-20° / Altezza +-15 cm / Rotazione
+                            +- 30° / Pivot</span></span>
+                    <span class="atail-multitext-text">Connettività<span>2x Thunderbolt 3 (PD 15W e 65W) / 2 HDMI 2.0 /
+                            DP .14 / 2 USB 3.1 Downstream / USB 3.1 Upstream / mini-USB / Jack 3.5 mm</span></span>
+                    <span class="atail-multitext-text">Audio<span>Altoparlanti integrati 2x 2 watt</span></span>
+                    <span class="atail-multitext-text">Dimensioni<span>Senza base: 444 x 614 x 186 mm / 8.3
+                            kg</span></span>
+                    <span class="atail-multitext-text">Altro<span>VESA 100 / Controller OSD
+                            esterno Hotkey Puck G2 / Filtro luce blu / PiP / PbP / KVM </span></span>
+                    <span class="atail-multitext-text">Confezione<span>Cavo Thunderbolt 3 / 2x cavi HDMI 2.0 / Cavo alimentazione / CD-ROM</span></span>
+                </div>
+            </section>
+
+            <!-- FINE SCHEDA TECNICA -->
+
+            <!-- SCHEDA IMG -->
+
+            <div class="col-md-4 col-md-push-2 no-padding-right">
+                <figure class="no-margin">
+                    <a href="https://res.cloudinary.com/rim4/image/upload/q_75,w_1000/v1576575487/Room-Tour-2020/benq-pd2720u-verticale_pivot.jpg"
+                        data-lightbox="scheda" data-alt="BenQ PD2720U: scheda tecnica"
+                        data-title="BenQ DesignVue PD2720U: scheda tecnica" title="Scheda tecnica BenQ PD2720U">
+                        <img data-src="https://res.cloudinary.com/rim4/image/upload/w_auto,c_scale,q_75,f_auto/v1576575487/Room-Tour-2020/benq-pd2720u-verticale_pivot.jpg"
+                            alt="Scheda tecnica BenQ PD2720U" class="cld-responsive lazyload">
+                    </a>
+                    <figcaption>
+                        <span class="description-title" style="padding-left:0">
+                            <span>FIG. 1.</span> Clicca per ingrandire.
+                        </span>
+                        <p>
+                            Il monitor BenQ può essere orientato in verticale.
+                        </p>
+                    </figcaption>
+                </figure>
+
+                <!-- FINE SCHEDA IMG -->
+            </div>
+        </div>
+        <section class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+
+                <h2>BenQ PD2720U</h2>
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Passare da un 27 pollici Full HD a un 27 pollici 4K HDR con
+                    copertura P3 e mille altre qualità comprese le due Thunderbolt 3 con Power Delivery, è un
+                    miglioramento che tutti vorrebbero almeno sperimentare. In realtà avevo dei dubbi perché quel 27
+                    (un 27MB35PH-B) così "sgranato" non era lì per caso. Affiancava il Samsung da 34 pollici 1440P e mi dava diverse
+                    possibilità: scrivere con caratteri grossi, controllare la resa dei lavori prima di metterli online,
+                    lavorare con una finestra alla volta e quindi concentrarmi solo su quello che ho davanti. <mark>Consiglio di non sostituire i vecchi monitor di qualità ma di affiancarli ad altro:
+                il loro punto di vista vi può servire</mark>.
+                </p>
+
+                <p>
+                    Al di là dei dati tecnici, delle varie coperture e dalla calibratura effettuata su ogni unità prima di inserirla nella scatola, del monitor BenQ PD2720U apprezzo diverse scelte progettuali. <strong>L'alimentatore integrato</strong> nel telaio è fondamentale nella mia postazione, perché con un modulo esterno avrei dovuto smontare la staffa e la canalina reggi-cavi che sta sotto. Anche avere tutte le porte sul fondo anziché sui lati mantiene la cornice laterale sottile per affiancare, volendo,e meglio, un altro display; inoltre riesco a tenere un cavo Thunderbolt 3 piegato e collegato sotto al monitor perché ci sono circa 10 cm tra le porte e la fine del telaio. 
+                    <br><br>
+                </p>
+            </div>
+            <!-- IMG GRANDE -->
+            <figure>
+                <a href="https://res.cloudinary.com/rim4/image/upload/q_75,w_1000/v1576593121/Room-Tour-2020/pd2720u-recensione-benq.jpg"
+                    data-lightbox="grafico" data-alt="BenQ DesignVue PD2720U: porte e connessioni."
+                    data-title="BenQ DesignVue PD2720U: porte e connessioni.">
+                    <img data-src="https://res.cloudinary.com/rim4/image/upload/w_auto,c_scale,q_75,f_auto/v1576593121/Room-Tour-2020/pd2720u-recensione-benq.jpg"
+                        alt="BenQ DesignVue PD2720U; porte e connessioni." class="lazyload cld-responsive"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 2.</span> Connettività di BenQ PD2720U. Tutte le porte sono sul fondo così da lasciare liberi i lati.</span>
+                </figcaption>
+            </figure>
+            <!-- FINE IMG GRANDE -->
+
+            
+
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+            <p>La modalità Pivot (verticale), il supporto VESA e le regolazioni avanti, indietro e rotazione destra/sinistra sono quello che ci si aspetta da un prodotto così, ma qui c'è anche una <strong>staffa in metallo</strong> parecchio più stabile (e pesante) di quelle che ho trovato nel Samsung C34H890 e nel 32UD99 di LG che avevo prima. A distanza di cinque mesi, per chiudere questo blocco, non sento le plastiche scricchiolare nonostante l'installazione sul braccio esterno.
+                </p>
+            <p>Ma c'è dell'altro, e riguarda il software. Inteso come firmware (interno) e come gestione dal sistema operativo. Dal programma chiamato <strong>BenQ Display Pilot</strong> si riescono a controllare tutte le funzioni previste dal monitor senza toccare il pulsante sul retro; dagli strumenti come il <abbr title="Picture in Picture">PiP</abbr>, il <abbr title="Picture by Picture">PbP</abbr> fino a x4, il <abbr title="Per usare una coppia di mouse e tastiera su più sorgenti">KVM</abbr> e il partizionamento del desktop, ai profili colore (sRGB, M-Book, DCI-P3, HDR, Adobe RGB, Rec.709, CAD/CAM e Animazione). Ci sono due grosse chicche: la modalità applicazione e l'<strong>ICC Sync</strong>. La prima serve ad attivare una calibratura specifica per l'app in funzione (ad esempio: sRGB per Illustrator, DCI-P3 per Premiere Pro, eccetera eccetera); la seconda pensa ad installare ed attivare il profilo icc specifico allo spazio colore selezionato. Così se ho il monitor in AdobeRGB, ecco che il sistema operativo si adegua.
+            </p> 
+            </div>
+        </section>
+<!-- GALLERIA CINQUE -->
+
+<div class="row tris">
+    
+    <figure>
+        <img
+            data-src="https://res.cloudinary.com/rim4/image/upload/w_auto,c_scale,q_75,f_auto/v1576592428/Room-Tour-2020/pd2720u-luminosita_benq.png"
+            alt="BenQ PD2720U: analisi luminosità dello schermo."
+            class="cld-responsive lazyload">
+    <figcaption>
+        <span class="description-title">
+            <span>FIG. 12.</span> Uniformità dello schermo. Il pannello ha un trattamento opaco anti-riflesso.</span>
+    </figcaption>
+</figure>
+
+        <div class="col-md-2 col-sm-6">
+            <div>
+                <figure>
+                    <a
+                        href="https://res.cloudinary.com/rim4/image/upload/q_75,w_1000/v1576591309/Room-Tour-2020/benq-pd2720u-profili-colore.png"
+                        data-lightbox="grafico" data-alt="BenQ DesignVue PD2720U: Display Pilot."
+                        title="BenQ DesignVue PD2720U: Display Pilot e profili colore.">
+                        <img
+                            data-src="https://res.cloudinary.com/rim4/image/upload/w_auto,c_scale,q_75,f_auto/v1576591309/Room-Tour-2020/benq-pd2720u-profili-colore.png"
+                            alt="BenQ DesignVue PD2720U: Display Pilot." class="cld-responsive lazyload"></a>
+                    <figcaption>
+                        <span class="description-title">
+                            <span>FIG. 16.</span> Display Pilot.</span>
+                    </figcaption>
+                </figure>
+            </div>
+        </div>
+
+        <div class="col-md-2 col-sm-6">
+            <div>
+                    <figure>
+                            <a
+                                href="https://res.cloudinary.com/rim4/image/upload/q_75,w_1000/v1576591198/Room-Tour-2020/benq-pd2720u-grigi.png"
+                                data-lightbox="grafico" data-alt="BenQ DesignVue PD2720U: DeltaE grigi."
+                                title="BenQ DesignVue PD2720U: DeltaE grigi.">
+                                <img
+                                    data-src="https://res.cloudinary.com/rim4/image/upload/w_auto,c_scale,q_75,f_auto/v1576591198/Room-Tour-2020/benq-pd2720u-grigi.png"
+                                    alt="BenQ DesignVue PD2720U: DeltaE grigi." class="cld-responsive lazyload"></a>
+                            <figcaption>
+                                <span class="description-title">
+                                    <span>FIG. 18.</span> DeltaE grigi.</span>
+                            </figcaption>
+                        </figure>
+            </div>
+        </div>
+
+        <div class="col-md-2 col-sm-6">
+            <div>
+                <figure>
+                    <a
+                        href="https://res.cloudinary.com/rim4/image/upload/q_75,w_1000/v1576591199/Room-Tour-2020/benq-pd2720u-dci-p3.png"
+                        data-lightbox="grafico" data-alt="BenQ DesignVue PD2720U: copertura DCI-P3."
+                        title="BenQ DesignVue PD2720U: copertura DCI-P3.">
+                        <img
+                            data-src="https://res.cloudinary.com/rim4/image/upload/w_auto,c_scale,q_75,f_auto/v1576591199/Room-Tour-2020/benq-pd2720u-dci-p3.png"
+                            alt="BenQ DesignVue PD2720U: copertura DCI-P3." class="cld-responsive lazyload"></a>
+                    <figcaption>
+                        <span class="description-title">
+                            <span>FIG. 14.</span> Copertura DCI-P3.</span>
+                    </figcaption>
+                </figure>
+            </div>
+        </div>
+
+<div class="col-md-2 col-sm-6">
+    <div>
+        <figure>
+            <a
+                href="https://res.cloudinary.com/rim4/image/upload/q_75,w_1000/v1576591200/Room-Tour-2020/benq-pd2720u-sRGB.png"
+                data-lightbox="grafico" data-alt="BenQ DesignVue PD2720U: copertura Adobe RGB."
+                title="BenQ DesignVue PD2720U: copertura sRGB.">
+                <img
+                    data-src="https://res.cloudinary.com/rim4/image/upload/w_auto,c_scale,q_75,f_auto/v1576591200/Room-Tour-2020/benq-pd2720u-sRGB.png"
+                    alt="BenQ DesignVue PD2720U: copertura sRGB" class="cld-responsive
+                    lazyload"></a>
+            <figcaption>
+                <span class="description-title">
+                    <span>FIG. 15.</span> Copertura sRGB.</span>
+            </figcaption>
+        </figure>
+    </div>
+</div>
+
+<div class="col-md-2 col-sm-6">
+    <div>
+        <figure>
+            <a
+                href="https://res.cloudinary.com/rim4/image/upload/q_75,w_1000/v1576591198/Room-Tour-2020/benq-pd2720u-colori.png"
+                data-lightbox="grafico" data-alt="BenQ DesignVue PD2720U: deltaE colori."
+                title="BenQ DesignVue PD2720U: deltaE colori.">
+                <img
+                    data-src="https://res.cloudinary.com/rim4/image/upload/w_auto,c_scale,q_75,f_auto/v1576591198/Room-Tour-2020/benq-pd2720u-colori.png"
+                    alt="BenQ DesignVue PD2720U: deltaE colori." class="cld-responsive
+                    lazyload"></a>
+            <figcaption>
+                <span class="description-title">
+                    <span>FIG. 15.</span> DeltaE colori.</span>
+            </figcaption>
+        </figure>
+    </div>
+</div>
+<div class="col-md-2 col-sm-6">
+    <div>
+        <figure>
+            <a
+                href="https://res.cloudinary.com/rim4/image/upload/q_75,w_1000/v1576591573/Room-Tour-2020/benq-pd2720u-display-pilot.png"
+                data-lightbox="grafico" data-alt="BenQ DesignVue PD2720U: PiP e PbP."
+                title="BenQ DesignVue PD2720U: PiP e PbP.">
+                <img
+                    data-src="https://res.cloudinary.com/rim4/image/upload/w_auto,c_scale,q_75,f_auto/v1576591573/Room-Tour-2020/benq-pd2720u-display-pilot.png"
+                    alt="BenQ DesignVue PD2720U: PiP e PbP." class="cld-responsive lazyload"></a>
+            <figcaption>
+                <span class="description-title">
+                    <span>FIG. 16.</span> PiP e PbP.</span>
+            </figcaption>
+        </figure>
+    </div>
+</div>
+
+    </div>
+
+<!-- FINE GALLERIA CINQUE -->
+        <section class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <p>Difetti hardware non ne vedo, ma ci sono dei limiti nella componentistica. <strong>L'impianto audio è inadeguato</strong>, e se da una parte è vero che chi acquista una monitor come questo ha una strumentazione audio specifica e separata, dall'altra si potevano inserire due altoparlanti almeno modesti, non insufficienti. Anche la luminosità massima della mia unità è più bassa di quel che avrei voluto - valore dichiarato di 350 nits - ma l'uniformità è impeccabile ed è una dote molto più importante quando si discute un monitor da studio. Infine il controller <strong>Pocket Puck G2</strong> è un gadget utile perché fa risparmiare tempo, ma lo avrei barattato con il sensore di luminosità BenQ Brightness Intelligence Plus per leggere la luce ambientale e regolare l'intensità e la temperatura in automatico durante la giornata.
+                </p>
+            <p>
+                Il monitor BenQ costa circa <strong>1000 euro</strong> in questo momento. Il prezzo è una discriminante e fa capire a chi si rivolge. Queste persone possono prenderlo in considerazione perché non ha difetti tecnici ed è flessibile sia nel posizionamento sia nel firmware. È perfetto per i MacBook (ha un preset specifico per macOS dove si cerca di replicare la resa del pannello integrato) e per gli ultraportatili con Thunderbolt 3, oppure per affiancare un monitor specifico per il multimedia e il gaming come il mio Samsung VA da 100Hz (lo so, ho un setup invidiabile). Tutti gli altri dettagli tecnici sono sul sito <a href="https://www.benq.eu/it-it/monitor/designer/pd2720u.html"
+                target="_blank" rel="nofollow"
+                title="BenQ Italia">BenQ Italia</a>.
+            </p>
+            </div>
+
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <aside class="yt-iscriviti">
+                    <span class="atail-multitext-text">BENQ PD2720U SU AMAZON</span>
+                    <a href="https://amzn.to/35wPjvx" rel="nofollow" target="_blank"
+                        title="Compra su Amazon e supportami!">
+                        <img data-src="https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_75,f_auto/v1562766484/amazon.png"
+                            alt="Monitor BenQ PD2720U su Amazon" class="cld-responsive lazyload" />
+                    </a>
+                </aside>
+            </div>
+                   <!-- IMG GRANDE -->
+                   <figure>
+                    <a href="https://res.cloudinary.com/rim4/image/upload/q_75,w_1000/v1576589889/Room-Tour-2020/benq-pd2720U.jpg"
+                        data-lightbox="grafico" data-alt="BenQ DesignVue PD2720U con Adobe Premiere Pro."
+                        data-title="BenQ DesignVue PD2720U con Adobe Premiere Pro.">
+                        <img data-src="https://res.cloudinary.com/rim4/image/upload/w_auto,c_scale,q_75,f_auto/v1576589889/Room-Tour-2020/benq-pd2720U.jpg"
+                            alt="BenQ DesignVue PD2720U con Adobe Premiere Pro." class="lazyload cld-responsive"></a>
+                    <figcaption>
+                        <span class="description-title">
+                            <span>FIG. 2.</span> Premiere Pro su BenQ PD2720U: lavorare in 4K per più di qualche giorno cambia la percezione degli spazi.</span>
+                    </figcaption>
+                </figure>
+                <!-- FINE IMG GRANDE -->
+            </section>
+
+        <section class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <h2>Lavorare in piedi</h2>
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> La scrivania per lavorare in piedi è un banco da lavoro alto 103 cm perché è questa l'altezza che mi fa stare con <mark>le spalle rilassate, i piedi appena divaricati, il collo sciolto</mark>. I dettagli sono nel video abbinato a questo articolo, ma, in sostanza: ho comprato una libreria Ikea Billy; ho fatto tagliare i lati a 101 cm; ho installato sopra un piano rivestito largo 40 cm e spesso 2; ho attaccato tutto al muro. Il resto sono finiture (l'altro pannello laterale, il bordino, i tappi per nascondere le viti) e accessori (la ciabatta a scomparsa, tutte le scatole sotto, il pannello forato Ikea).
+            </p>
+        <p>
+                Ho speso <strong>meno di 100 euro</strong> per tutto. Il mobile è stato assemblato in un pomeriggio con colla vinilica, viti e trapano, ma la maggior parte del tempo è servita per tagliare qua e là dove serviva così da far aderire tutto bene a muro. Le mensole laterali e quella in alto sono state ricavate dagli avanzi e poi verniciate. Tutto qua: l'obiettivo è tenere a portata di mano solo l'essenziale, spostare il resto in un altra stanza, e minimizzare le distrazioni e le finalità; voglio che resti un banco da lavoro (per smontare oggetti, sistemare oggetti, costruire oggetti) e non una seconda scrivania. Quindi voglio che sia libero, pulito, in ordine.<br><br>
+        </p>
+                          <!-- IMG GRANDE -->
+                          <figure>
+                            <a href="https://res.cloudinary.com/rim4/image/upload/q_75,w_1000/v1576589889/Room-Tour-2020/benq-pd2720U.jpg"
+                                data-lightbox="grafico" data-alt="BenQ DesignVue PD2720U con Adobe Premiere Pro."
+                                data-title="BenQ DesignVue PD2720U con Adobe Premiere Pro.">
+                                <img data-src="https://res.cloudinary.com/rim4/image/upload/w_auto,c_scale,q_75,f_auto/v1576589889/Room-Tour-2020/benq-pd2720U.jpg"
+                                    alt="BenQ DesignVue PD2720U con Adobe Premiere Pro." class="lazyload cld-responsive"></a>
+                            <figcaption>
+                                <span class="description-title">
+                                    <span>FIG. 2.</span> Premiere Pro su BenQ PD2720U: lavorare in 4K per più di qualche giorno cambia la percezione degli spazi.</span>
+                            </figcaption>
+                        </figure>
+                        <!-- FINE IMG GRANDE -->
+    <p>
+        Durante la giornata cerco di <strong>sedermi il meno possibile</strong>, oppure di spostarmi spesso tra la postazione con doppio monitor e questa. Mi sforzo ad alternare le sedie tra la Cinius ergonomica e una classica seduta Ikea da ufficio. Stare in piedi per molte ore al giorno può essere faticoso se non si fa attenzione alla postura; niente posizioni strane, appoggi su una gamba, intrecci; niente collo rivolto verso il basso. Bisogna sforzarsi per cancellare questi <strong>vizi posturali</strong> e non è così semplice. Faccio del mio meglio perché la differenza tra una giornata ideale e una che ho passato a montare video, quindi per più di otto ore sulla scriania grande, è così importante da avere ripercussioni il giorno successivo. Si tratta di avere una schiena dolorante nella zona lombare e nelle scapole, o avere un busto sciolto. Si tratta di uscire la mattina a correre con un corpo che sento a posto, o di dovermi scaldare bene perché un po' "incastrato".
+    </p>
+    <p>C'è un libro di cui vi ho parlato spesso nel podcast chiamato <a href="https://amzn.to/34vhQjJ"
+        target="_blank" rel="nofollow"
+        title="Deskbound: Standing Up to a Sitting World">Deskbound</a>. Il suo payoff è "Sitting is the New Smoking" e questo dovrebbe darvi un'idea. Ve lo consiglio. Leggetelo ed abbinate l'altro testo <a href="https://amzn.to/34rh9bF" target="_blank" rel="nofollow" title="Vedi il libro Ready to Run: Unlocking Your Potential to Run Naturally">Ready to Run</a> se fate attività fisica e volete fare un salto quantico nella mobilità. Si tratta di passare dieci minuti al giorno, ogni giorno, a fare stretching. E non è una prospettiva tanto brutta, no?
+    </p>
+            </div>
+
+            <div class="col-md-8 col-md-push-2 no-padding-left"> 
+                    <!-- VIDEO FULL -->
+                        <div class="videoWrapper embed-responsive embed-responsive-4by3" data-yt-url="{{.Params.video}}">
+                            <img data-src="https://res.cloudinary.com/rim4/image/upload/w_auto,c_scale,q_75,f_auto/v1576603137/Room-Tour-2020/room-tour-riccardo-palombo_2020.jpg" alt="Room Tour Riccardo Palombo Video" class="cld-responsive lazyload play-youtube-video">
+                        </div>
+                    <!-- FINE VIDEO -->
+            </div>            
+</section>
+        <!-- PREV-NEXT -->
+        <div class="row-col-12">
+
+            <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
+                <div class="single-project-prev atail-project-nav">
+                    {{if .PrevInSection}}
+                    <a href="{{.PrevInSection.Permalink}}" class="single-project-link-arrow"
+                        title="Recensione precedente">
+                        <span class="single-project-arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="57.143px"
+                                height="34.454px" viewBox="0 0 57.143 34.454" enable-background="new 0 0 57.143 34.454"
+                                xml:space="preserve">
+                                <g>
+                                    <g>
+                                        <polygon fill="" points="51.908,17.599 46.891,13.1
+                                    46.891,17.094 6.904,17.094
+                                    6.904,18.094 46.891,18.094
+                                    46.891,22.099">
+                                        </polygon>
+                                    </g>
+                                </g>
+                            </svg>
+                        </span>
+                        <span>Precedente</span>
+                    </a>
+
+                    <a href="{{.PrevInSection.Permalink}}" class="single-project-info"
+                        title="Recensione {{.PrevInSection.Title}}">
+                        <div class="atail-project-image">
+                            <img data-src="{{.PrevInSection.Params.immagine_testa}}"
+                                alt="Recensione {{.PrevInSection.Title}}" class="cld-responsive lazyload" />
+                        </div>
+                        <h4>{{.PrevInSection.Title}}</h4>
+                    </a>
+                    {{end}}
+                </div>
+            </div>
+
+            <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
+                <div class="single-project-next atail-project-nav">
+                    {{if .NextInSection}}
+                    <a href="{{.NextInSection.Permalink}}" class="single-project-link-arrow"
+                        title="Prossima recensione">
+                        <span>Prossima</span>
+                        <span class="single-project-arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="57.143px"
+                                height="34.454px" viewBox="0 0 57.143 34.454" enable-background="new 0 0 57.143 34.454"
+                                xml:space="preserve">
+                                <g>
+                                    <g>
+                                        <polygon fill="" points="51.908,17.599 46.891,13.1
+                                    46.891,17.094 6.904,17.094
+                                    6.904,18.094 46.891,18.094
+                                    46.891,22.099">
+                                        </polygon>
+                                    </g>
+                                </g>
+                            </svg>
+                        </span>
+                    </a>
+
+                    <a href="{{.NextInSection.Permalink}}" class="single-project-info"
+                        title="Recensione {{.NextInSection.Title}}">
+                        <div class="atail-project-image">
+                            <img data-src="{{.NextInSection.Params.immagine_testa}}"
+                                alt="Recensione {{.NextInSection.Title}}" class="cld-responsive lazyload" />
+                        </div>
+                        <h4>{{.NextInSection.Title}}</h4>
+                    </a>
+                    {{end}}
+                </div>
+            </div>
+
+        </div>
+        <!-- FINE PREV-NEXT -->
+
+        <!-- DISQUS -->
+
+        <div class="single-project row-col-12 atail-post-comments-wrapper" style="margin-bottom: 0; border-right:0">
+            <div class="col-md-2"></div>
+            <aside class="col-md-8 no-padding-left">
+                {{ partial "disqus-comments.html" . }}
+            </aside>
+        </div>
+
+        <!-- FINE DISQUS -->
+        <!-- FINE PAGINA -->
+    </article>
+    <!-- main-scroll -->
+</main> <!-- main -->
+{{ partial "aside.html" . }}
+</div> <!-- atail -->
+
+<script src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
+<script src="{{.Site.BaseURL}}js/lazysizes.min.js" async></script>
+<script src="{{.Site.BaseURL}}js/typed.min.js"></script>
+<script>
+    var typed = new Typed('#typed', {
+        strings: ["{{.Params.typed1}}", "{{.Params.typed2}}", "{{.Params.typed3}}", "{{.Params.typed4}}"],
+        backSpeed: 40,
+        typeSpeed: 60,
+        loop: false
+    });
+</script>
+<script>
+    const cl = cloudinary.Cloudinary.new({ cloud_name: 'rim4' })
+    cl.responsive()
+</script>
+<script async src="https://apis.google.com/js/platform.js"></script>
+<script src='{{.Site.BaseURL}}js/lightbox.js' async></script>
+{{ partial "footer-review.html" . }}
