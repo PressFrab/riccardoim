@@ -16,7 +16,6 @@ typed1: "^3000 un monitor 4K DCI-P3."
 typed2: "un banco per scrivere in piedi."
 typed3: "un microfono per podcast."
 typed4: "una migliore versione di me."
-draft: true
 ---
 
 Vi ricordate del vecchio Room Tour? Quello diviso in tre parti, pubblicato nel 2017, con dentro una pimpante e ingenua versione di me? Aveva delle lacune, dei buchi. Quindi ho pensato di svecchiare la stanza. C'è stata l'opportunità di cambiare monitor con un modello dieci volte migliore (e l'ho colta); c'è stata l'opportunità di dare via una montagna di fumetti e quindi spostare la libreria (e l'ho colta); mi è servito un microfono attaccato al muro così da poter parlare in piedi; è venuta fuori la necessità di costruire una postazione per lavorare in piedi, senza sedermi, ed è un pretesto che ha liberato l'Arturo Bandini che è in me.
