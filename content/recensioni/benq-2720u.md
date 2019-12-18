@@ -1,19 +1,19 @@
 ---
 title: "Room Tour 2020"
-date: "2019-12-11T12:23:06+02:00"
+date: "2019-12-18T12:30:06+02:00"
 recensioni: current-menu-item
 slug: "room-tour-2020"
-immagine_testa: "https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1566984083/recensioni/canon-g7x-mark3.jpg"
-description: "Room Tour 2019 di Riccardo Palombo. Dalla postazione per lavorare in piedi al monitor BenQ PD2720U, ideale per la grafica."
+immagine_testa: "https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1576658968/recensioni/benq-pd2720u-recensione.png"
+description: "Room Tour 2020 di Riccardo Palombo. Dalla postazione per lavorare in piedi al monitor BenQ PD2720U, ideale per la grafica."
 categoria: "1"
 rating: "5"
 brand: "Riccardo Palombo"
 jquery: "1"
 layout: room-tour-2020
-video: https://www.youtube.com/embed/WGTP8PViT6o
+video: https://www.youtube.com/embed/06q_7R4BQyo
 sommario: "Ho svecchiato lo studio con"
-typed1: "^3000 un monitor 4K HDR."
-typed2: "una postazione per stare in piedi."
+typed1: "^3000 un monitor 4K DCI-P3."
+typed2: "un banco per scrivere in piedi."
 typed3: "un microfono per podcast."
 typed4: "una migliore versione di me."
 draft: true
