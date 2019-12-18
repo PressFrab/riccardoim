@@ -13,7 +13,7 @@ jquery: "1"
             <div class="col-md-4 no-padding-left col-sm-6">
                 <div class="promo-box ">
                    <h1>Info e contatti</h1>
-                    <span class="small-title">Usa il modulo sotto per proposte e idee.</span>
+                    <span class="small-title">Usa il modulo sotto per proposte e <mark>idee</mark>.</span>
                 </div>
             </div>
             <div class="col-md-4 no-padding col-sm-6">
@@ -27,13 +27,13 @@ jquery: "1"
             </div>
 <div class="row-col-12">
             <div class="col-md-8 col-md-push-2 no-padding-left">             
-<p>Mi occupo di contenuti digitali: produco foto, video e testi per agenzie e siti web. Negli ultimi cinque anni ho lavorato per HDblog, poi ho <a href="/podcast/il-mordente-25/" title="Ascolta: perché ho cambiato lavoro e per fare cosa">voluto cambiare</a>. Così a dicembre 2018 ho aperto un podcast: Il Mordente, e a giugno 2019 ho messo online il sito internet che stai leggendo.</p>
+<p>Mi occupo di contenuti digitali: produco foto, video e testi per agenzie e siti web. Negli ultimi cinque anni ho lavorato per un grande network italiano, poi ho <a href="/podcast/il-mordente-25/" title="Ascolta: perché ho cambiato lavoro e per fare cosa">voluto cambiare</a>. Così a dicembre 2018 ho aperto un podcast, Il Mordente, e a giugno 2019 ho messo online il sito internet che stai leggendo.</p>
 </div>
         </div>
 <div class="google-map-wrapper" id="map"></div>
 <div class="row-col-12">
-            <div class="col-md-8 col-md-push-2 no-padding-left">             
-<p>Adesso ho quasi 40 anni, niente figli. Cerco il silenzio e quindi giro per musei, parchi o chiese silenziose. Appena posso leggo. <a href="https://www.strava.com/athletes/12993620" title="Riccardo Palombo su Strava" rel="nofollow">Ogni mattina corro</a>.</p>
+            <div class="col-md-8 col-md-push-2 no-padding-left">    
+            <p>Adesso ho quasi 40 anni. Niente figli. Cerco il riserbo e quindi giro per musei, parchi o chiese silenziose. Appena posso <a href="/libri/" title="Vai alla sezione Libreria">leggo</a>. Ogni mattina <a href="https://www.strava.com/athletes/12993620" title="Profilo di Riccardo Palombo su Strava" target="_blank" rel="nofollow">corro</a>.</p>         
 <p>Usa il modulo contatti a seguire per scrivermi di un'idea, di un suggerimento, di una proposta di collaborazione; di solito rispondo ai messaggi dopo poche ore.
 Oppure mi trovi sui principali social network, ad eccezione di Facebook, e al numero di telefono del podcast: <strong>3518516089</strong> (solo messaggi Whatsapp o Telegram).</p>
 </div>
