@@ -16,7 +16,7 @@ Ho aperto un nuovo podcast, si chiama Tech.is.it. Ricordate questo nome? È il d
 
 Perché non sarà solo podcast. Tech.is.it, e non vedo l'ora di farvi vedere su cosa ho perso tempo negli ultimi due mesi, sarà **il nome di una serie di video** dedicati allo stesso argomento, ma con una forma diversa dal solito. Lavoro per mettere online la prima puntata subito dopo natale. Ci saranno altre novità entro fine 2019, ma arriverà il loro momento. Oggi festeggiamo il lancio del nuovo podcast. La puntata di presentazione è online e la prima, quella che vi ho già anticipato nel file audio sarà dedicata al MacBook Pro da 16 pollici, è in preparazione.
 
-[![Tech.is.it](../../img/articoli/tech-is-it.jpg "Ascolta Tech.is.it")](https://www.spreaker.com/show/tech-is-it "Tech.is.it su Spreaker")
+[![Tech.is.it](../../img/articoli/tech-is-it.png "Ascolta Tech.is.it")](https://www.spreaker.com/show/tech-is-it "Tech.is.it su Spreaker")
 
 Tech.is.it è un cantiere aperto. Anche la copertina, lo stesso logo, i colori, sono in discussione. Ho appena fatto richiesta per l'inserimento su Spotify, Google Podcast e Apple Podcast, ma serviranno giorni prima di avere una distribuzione adeguata. Prometto di aggiornarvi appena avrò notizie ma, intanto, potete aggiungere [questo feed rss](https://www.spreaker.com/show/4176168/episodes/feed "Feed RSS Tech.is.it") alla vostra app per podcast. Oppure seguirlo su Spreaker. Dovrò anche rivedere la sezione podcast di questo sito, e iniziare ad integrare gli audio registrati nelle rispettive recensioni. Mi si prospetta un bel fine anno. Fatemi gli auguri.
 
