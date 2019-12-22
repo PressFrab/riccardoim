@@ -41,7 +41,6 @@ baseName = "_headers"
 isPlainText = true
 notAlternative = true
 
-
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]
