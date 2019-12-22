@@ -10,7 +10,7 @@ rating: "5"
 brand: "Apple"
 layout: portatili/macbook-pro-16
 video: https://www.youtube.com/embed/tCLCs2EYqi4
-sommario: "Un brand non è mai la merce ma la sua idea psicologica."
+sommario: "Un brand come Apple non è mai la merce ma la sua idea psicologica."
 typed1: "^2000: ha Touch ID e TouchBar."
 typed2: ": ha CPU Quad Core e schermo P3."
 typed3: ": è più potente di MacBook Air."
