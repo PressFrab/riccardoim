@@ -19,8 +19,8 @@ Ecco i consigli di questa puntata:
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2GbdaHS" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Storia dell'arte">La storia dell'arte</a> di Ernst H. Gombrich.</li>
-<li><a class="text-info" href="https://amzn.to/2SaDskb" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Tecnologie Radicali">Tecnologie radicali. Il progetto della vita quotidiana </a> di Adam Greenfield.</li>
-<li><a class="text-info" href="https://amzn.to/2UkyKwP" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro L'uomo artigiano">L'uomo artigiano</a> di Richard Sennett.</li>
-<li><a class="text-info" href="https://betterhumans.coach.me/how-to-do-1-000-push-ups-in-a-single-day-22886742a9e3" target="_blank" rel="noopener" title="Vedi l'articolo">How to Do 1,000 Push-ups in a Single Day</a> su Better Humans.</li>
+<li><a class="text-info" href="https://amzn.to/2GbdaHS" target="_blank" rel="nofollow noopener" title="Vedi il libro Storia dell'arte">La storia dell'arte</a> di Ernst H. Gombrich.</li>
+<li><a class="text-info" href="https://amzn.to/2SaDskb" target="_blank" rel="nofollow noopener" title="Vedi il libro Tecnologie Radicali">Tecnologie radicali. Il progetto della vita quotidiana </a> di Adam Greenfield.</li>
+<li><a class="text-info" href="https://amzn.to/2UkyKwP" target="_blank" rel="nofollow noopener" title="Vedi il libro L'uomo artigiano">L'uomo artigiano</a> di Richard Sennett.</li>
+<li><a class="text-info" href="https://betterhumans.coach.me/how-to-do-1-000-push-ups-in-a-single-day-22886742a9e3" target="_blank" title="Vedi l'articolo">How to Do 1,000 Push-ups in a Single Day</a> su Better Humans.</li>
 </ul>

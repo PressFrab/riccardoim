@@ -16,8 +16,8 @@ Buon ascolto! La prossima puntata del podcast arriverà nella seconda metà di a
 
 ### Consigli
 <ul>
-<li><a href=https://amzn.to/2Kf4fpV" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro">Letture facoltative</a> di Wislawa Szymborska.</li>
-<li><a href="https://amzn.to/2ZqVr5u" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Humanless">#Humanless. L'algoritmo egoista</a> di Massimo Chiriatti.</li>
-<li><a href="https://medium.com/@leemartin/space-oddity-6bdf6109d5c" target="_blank" rel="noopener" rel="nofollow" title="App Space Oddity">Building an Oddity on the Web for David Bowie featuring the Moon</a> su Medium.</li>
-<li><a href="https://www.newyorker.com/magazine/2019/07/29/herman-melville-at-home" target="_blank" rel="noopener" rel="nofollow" title="Herman Melville at home">Herman Melville at Home</a> su The New Yorker.</li>
+<li><a href=https://amzn.to/2Kf4fpV" target="_blank" rel="nofollow noopener" title="Vedi il libro">Letture facoltative</a> di Wislawa Szymborska.</li>
+<li><a href="https://amzn.to/2ZqVr5u" target="_blank" rel="nofollow noopener" title="Vedi il libro Humanless">#Humanless. L'algoritmo egoista</a> di Massimo Chiriatti.</li>
+<li><a href="https://medium.com/@leemartin/space-oddity-6bdf6109d5c" target="_blank" rel="nofollow noopener" title="App Space Oddity">Building an Oddity on the Web for David Bowie featuring the Moon</a> su Medium.</li>
+<li><a href="https://www.newyorker.com/magazine/2019/07/29/herman-melville-at-home" target="_blank" rel="nofollow noopener" title="Herman Melville at home">Herman Melville at Home</a> su The New Yorker.</li>
 </ul>

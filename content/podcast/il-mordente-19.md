@@ -20,8 +20,8 @@ Ecco i contenuti discussi questa settimana:
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://techcrunch.com/2019/03/24/where-did-social-media-go-wrong/" target="_blank" rel="noopener" rel="nofollow" title="Vedi l'articolo Where did social media go wrong?">Where did social media go wrong?</a> di Jon Evans.</li>
-<li><a class="text-info" href="https://amzn.to/2HI0IjL" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Chiudete internet">Chiudete Internet</a> di Christian Rocca.</li>
-<li><a class="text-info" href="https://amzn.to/2SjHSQJ" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro La fatica più bella">La fatica più bella </a> di Gastone Breccia.</li>
-<li><a class="text-info" href="https://amzn.to/2CkuHtP" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro In un batter d'occhi">In un batter d'occhi. Una prospettiva sul montaggio cinematografico nell'era digitale</a> di Walter Murch.</li>
+<li><a class="text-info" href="https://techcrunch.com/2019/03/24/where-did-social-media-go-wrong/" target="_blank" rel="nofollow noopener" title="Vedi l'articolo Where did social media go wrong?">Where did social media go wrong?</a> di Jon Evans.</li>
+<li><a class="text-info" href="https://amzn.to/2HI0IjL" target="_blank" rel="nofollow noopener" title="Vedi il libro Chiudete internet">Chiudete Internet</a> di Christian Rocca.</li>
+<li><a class="text-info" href="https://amzn.to/2SjHSQJ" target="_blank" rel="nofollow noopener" title="Vedi il libro La fatica più bella">La fatica più bella </a> di Gastone Breccia.</li>
+<li><a class="text-info" href="https://amzn.to/2CkuHtP" target="_blank" rel="nofollow noopener" title="Vedi il libro In un batter d'occhi">In un batter d'occhi. Una prospettiva sul montaggio cinematografico nell'era digitale</a> di Walter Murch.</li>
 </ul>

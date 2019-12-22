@@ -20,11 +20,11 @@ Ecco i contenuti consigliati questa settimana:
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2D9tyFR" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Serving the servant. Ricordando Kurt Cobain">Serving the servant. Ricordando Kurt Cobain</a> di Danny Goldberg.</li>
-<li><a class="text-info" href="https://amzn.to/2UtsHtv" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Lo schermo empatico. Cinema e neuroscienze">Lo schermo empatico. Cinema e neuroscienze</a> di Vittorio Gallese e Michele Guerra.</li>
-<li><a class="text-info" href="https://amzn.to/2Kn6wBk" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Mastermind. Pensare come Sherlock Holmes">Mastermind. Pensare come Sherlock Holmes</a> di Maria Konnikova.</li>
-<li><a class="text-info" href="https://amzn.to/2U8Haaa" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Lektro">Lektro</a> di Reiner Zimnik.</li>
-<li><a class="text-info" href="https://www.npr.org/programs/ted-radio-hour/468877892/how-things-spread?showDate=2019-04-05" target="_blank" rel="noopener" title="Vedi How Things Spread">How Things Spread</a> sul podcast TED Radio Hour.</li>
-<li><a class="text-info" href="https://www.ted.com/talks/worklife_with_adam_grant_how_to_remember_anything?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare" target="_blank" rel="noopener" title="Vedi How to remember anything">How to remember anything</a> sul podcast WorkLife.</li>
+<li><a class="text-info" href="https://amzn.to/2D9tyFR" target="_blank" rel="nofollow noopener" title="Vedi il libro Serving the servant. Ricordando Kurt Cobain">Serving the servant. Ricordando Kurt Cobain</a> di Danny Goldberg.</li>
+<li><a class="text-info" href="https://amzn.to/2UtsHtv" target="_blank" rel="nofollow noopener" title="Vedi il libro Lo schermo empatico. Cinema e neuroscienze">Lo schermo empatico. Cinema e neuroscienze</a> di Vittorio Gallese e Michele Guerra.</li>
+<li><a class="text-info" href="https://amzn.to/2Kn6wBk" target="_blank" rel="nofollow noopener" title="Vedi il libro Mastermind. Pensare come Sherlock Holmes">Mastermind. Pensare come Sherlock Holmes</a> di Maria Konnikova.</li>
+<li><a class="text-info" href="https://amzn.to/2U8Haaa" target="_blank" rel="nofollow noopener" title="Vedi il libro Lektro">Lektro</a> di Reiner Zimnik.</li>
+<li><a class="text-info" href="https://www.npr.org/programs/ted-radio-hour/468877892/how-things-spread?showDate=2019-04-05" target="_blank" rel="nofollow noopener" title="Vedi How Things Spread">How Things Spread</a> sul podcast TED Radio Hour.</li>
+<li><a class="text-info" href="https://www.ted.com/talks/worklife_with_adam_grant_how_to_remember_anything?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare" target="_blank" rel="nofollow noopener" title="Vedi How to remember anything">How to remember anything</a> sul podcast WorkLife.</li>
 </ul>
 

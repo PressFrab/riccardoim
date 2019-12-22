@@ -19,7 +19,7 @@ Come al solito, potete inviare messaggi vocali su Telegram o Whatsapp al numero 
 A seguire gli articoli consigliati in questa puntata:
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://www.saggiamente.com/2019/03/il-consumatore-apple-prima-coccolato-poi-studiato-oggi-spennato/" target="_blank" rel="noopener" title="Leggi l'articolo Il consumatore Apple: prima coccolato, poi studiato, oggi spennato">Il consumatore Apple: prima coccolato, poi studiato, oggi spennato</a> di Maurizio Natali.</li>
-<li><a class="text-info" href="https://www.macitynet.it/nuovi-ipad-dove-finito-il-less-is-more/" target="_blank" rel="noopener" title="Leggi l'articolo Nuovi iPad, dov’è finito il “Less is more”">Nuovi iPad, dov’è finito il “Less is more”?</a> di Antonio Dini.</li>
-<li>Il sito ufficiale di <a class="text-info" href="https://stadia.dev/" target="_blank" rel="noopener" title="Vedi il sito Google Stadia">Google Stadia</a>.</li>
+<li><a class="text-info" href="https://www.saggiamente.com/2019/03/il-consumatore-apple-prima-coccolato-poi-studiato-oggi-spennato/" target="_blank" title="Leggi l'articolo Il consumatore Apple: prima coccolato, poi studiato, oggi spennato">Il consumatore Apple: prima coccolato, poi studiato, oggi spennato</a> di Maurizio Natali.</li>
+<li><a class="text-info" href="https://www.macitynet.it/nuovi-ipad-dove-finito-il-less-is-more/" target="_blank" title="Leggi l'articolo Nuovi iPad, dov’è finito il “Less is more”">Nuovi iPad, dov’è finito il “Less is more”?</a> di Antonio Dini.</li>
+<li>Il sito ufficiale di <a class="text-info" href="https://stadia.dev/" target="_blank" title="Vedi il sito Google Stadia">Google Stadia</a>.</li>
 </ul>

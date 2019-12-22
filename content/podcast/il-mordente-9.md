@@ -20,18 +20,18 @@ Ecco i consigli di questa puntata:
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2UrGjlx" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Come non scrivere">Come non scrivere</a> di Claudio Giunta.</li>
-<li><a class="text-info" href="https://amzn.to/2DDk46m" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Imparare a scrivere con i grandi">Imparare a scrivere con i grandi</a> di Guido Conti.</li>
-<li><a class="text-info" href="https://amzn.to/2RR57X6" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Il mestiere dello scrittore">Il mestiere dello scrittore</a> di Haruki Murakami.</li>
-<li><a class="text-info" href="https://amzn.to/2UlXnJs" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro On writing">On writing</a> di Stephen King.</li>
-<li><a class="text-info" href="https://amzn.to/2RThSQP" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Elementi di stile nella scrittura">Elementi di stile nella scrittura</a> di William Strunk.</li>
-<li><a class="text-info" href="https://amzn.to/2RThUYX" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Scrivere bene">Scrivere bene</a> di William Zinsser.</li>
-<li><a class="text-info" href="https://amzn.to/2Bmar9Y" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Questione di virgole su Amazon">Questione di virgole</a> di Leonardo Luccone.</li>
-<li><a class="text-info" href="https://amzn.to/2RRMaDF" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Minuti scritti. 12 esercizi di pensiero e scrittura">Minuti scritti. 12 esercizi di pensiero e scrittura</a> di Annamaria Testa.</li>
-<li><a class="text-info" href="https://amzn.to/2UkyKwP" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro L'uomo artigiano">L'uomo artigiano</a> di Richard Sennett.</li>
-<li><a class="text-info" href="https://amzn.to/2Ul8t1u" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Sei proprio il mio Typo">Sei proprio il mio Typo</a> di 
+<li><a class="text-info" href="https://amzn.to/2UrGjlx" target="_blank" rel="nofollow noopener" title="Vedi il libro Come non scrivere">Come non scrivere</a> di Claudio Giunta.</li>
+<li><a class="text-info" href="https://amzn.to/2DDk46m" target="_blank" rel="nofollow noopener" title="Vedi il libro Imparare a scrivere con i grandi">Imparare a scrivere con i grandi</a> di Guido Conti.</li>
+<li><a class="text-info" href="https://amzn.to/2RR57X6" target="_blank" rel="nofollow noopener" title="Vedi il libro Il mestiere dello scrittore">Il mestiere dello scrittore</a> di Haruki Murakami.</li>
+<li><a class="text-info" href="https://amzn.to/2UlXnJs" target="_blank" rel="nofollow noopener" title="Vedi il libro On writing">On writing</a> di Stephen King.</li>
+<li><a class="text-info" href="https://amzn.to/2RThSQP" target="_blank" rel="nofollow noopener" title="Vedi il libro Elementi di stile nella scrittura">Elementi di stile nella scrittura</a> di William Strunk.</li>
+<li><a class="text-info" href="https://amzn.to/2RThUYX" target="_blank" rel="nofollow noopener" title="Vedi il libro Scrivere bene">Scrivere bene</a> di William Zinsser.</li>
+<li><a class="text-info" href="https://amzn.to/2Bmar9Y" target="_blank" rel="nofollow noopener" title="Vedi il libro Questione di virgole su Amazon">Questione di virgole</a> di Leonardo Luccone.</li>
+<li><a class="text-info" href="https://amzn.to/2RRMaDF" target="_blank" rel="nofollow noopener" title="Vedi il libro Minuti scritti. 12 esercizi di pensiero e scrittura">Minuti scritti. 12 esercizi di pensiero e scrittura</a> di Annamaria Testa.</li>
+<li><a class="text-info" href="https://amzn.to/2UkyKwP" target="_blank" rel="nofollow noopener" title="Vedi il libro L'uomo artigiano">L'uomo artigiano</a> di Richard Sennett.</li>
+<li><a class="text-info" href="https://amzn.to/2Ul8t1u" target="_blank" rel="nofollow noopener" title="Vedi il libro Sei proprio il mio Typo">Sei proprio il mio Typo</a> di 
 Simon Garfield.</li>
-<li><a class="text-info" href="https://amzn.to/2B6un0W" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Lezioni americane">Lezioni americane</a> di Italo Calvino.</li>
-<li>La <a class="text-info" href="https://www.anandtech.com/show/13405/intel-10nm-cannon-lake-and-core-i3-8121u-deep-dive-review" target="_blank" rel="noopener" title="Vedi il sito">recensione a Intel 10nm Cannon Lake</a> di AnandTech.</li>
-<li>L'articolo <a class="text-info" href="https://betterhumans.coach.me/how-to-make-your-iphone-black-and-white-and-why-you-should-42e70deb92c7" target="_blank" rel="noopener" title="Vedi l'articolo su Medium">How to Make Your iPhone Black and White</a> di Megan E. Holstein.</li>
+<li><a class="text-info" href="https://amzn.to/2B6un0W" target="_blank" rel="nofollow noopener" title="Vedi il libro Lezioni americane">Lezioni americane</a> di Italo Calvino.</li>
+<li>La <a class="text-info" href="https://www.anandtech.com/show/13405/intel-10nm-cannon-lake-and-core-i3-8121u-deep-dive-review" target="_blank" title="Vedi il sito">recensione a Intel 10nm Cannon Lake</a> di AnandTech.</li>
+<li>L'articolo <a class="text-info" href="https://betterhumans.coach.me/how-to-make-your-iphone-black-and-white-and-why-you-should-42e70deb92c7" target="_blank" title="Vedi l'articolo su Medium">How to Make Your iPhone Black and White</a> di Megan E. Holstein.</li>
 </ul>

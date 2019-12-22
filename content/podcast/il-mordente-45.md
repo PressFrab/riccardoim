@@ -22,7 +22,7 @@ Come al solito potete mandare un messaggio vocale (o di testo, se siete ~~timidi
 
 ### Consiglio:
 <ul>
-<li>Il mio intervento a <a href="https://www.iabforumregistration.com/PACKAGE/1" target="_blank" rel="noopener" rel="nofollow" title="Riccardo Palombo a IAB Forum 2019">IAB Forum 2019</a>: inizio ore 11.40.</li>
-<li>I libri <a href="https://amzn.to/34rh9bF" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Ready to Run: Unlocking Your Potential to Run Naturally">Ready to Run</a> e <a href="https://amzn.to/2K9mLiV" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Deskbound: Standing Up to a Sitting World">Deskbound</a>, di Kelly Starrett.</li>
-<li>Il libro <a href="https://amzn.to/36tnODI" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro La felicità">La felicità</a>, di Paolo Legrenzi.</li>
+<li>Il mio intervento a <a href="https://www.iabforumregistration.com/PACKAGE/1" target="_blank" rel="nofollow noopener" title="Riccardo Palombo a IAB Forum 2019">IAB Forum 2019</a>: inizio ore 11.40.</li>
+<li>I libri <a href="https://amzn.to/34rh9bF" target="_blank" rel="nofollow noopener" title="Vedi il libro Ready to Run: Unlocking Your Potential to Run Naturally">Ready to Run</a> e <a href="https://amzn.to/2K9mLiV" target="_blank" rel="nofollow noopener" title="Vedi il libro Deskbound: Standing Up to a Sitting World">Deskbound</a>, di Kelly Starrett.</li>
+<li>Il libro <a href="https://amzn.to/36tnODI" target="_blank" rel="nofollow noopener" title="Vedi il libro La felicità">La felicità</a>, di Paolo Legrenzi.</li>
 </ul>

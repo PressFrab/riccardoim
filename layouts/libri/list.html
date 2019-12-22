@@ -37,8 +37,8 @@
                     <ul>
                         {{ range .Site.Data.libri.consigliati }}
                         <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
-                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank" rel="noopener"
-                                rel="nofollow">{{ .titolo | truncate 35 "..."}}</a> di {{ .autore }}</li>
+                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank"
+                                rel="nofollow noopener">{{ .titolo | truncate 35 "..."}}</a> di {{ .autore }}</li>
                             {{end}}
                     </ul>
                 </div>
@@ -54,8 +54,8 @@
                     <ul>
                         {{ range .Site.Data.libri.tecnologia }}
                         <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
-                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank" rel="noopener"
-                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank"
+                                rel="nofollow noopener">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
                             {{end}}
                     </ul>
                 </div>
@@ -69,8 +69,8 @@
                     <ul>
                         {{ range .Site.Data.libri.informatica }}
                         <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
-                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank" rel="noopener"
-                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank"
+                                rel="nofollow noopener">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
                             {{end}}
                     </ul>
                 </div>
@@ -86,8 +86,8 @@
                     <ul>
                         {{ range .Site.Data.libri.scienzeumane }}
                         <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
-                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank" rel="noopener"
-                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank"
+                                rel="nofollow noopener">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
                             {{end}}
                     </ul>
                 </div>
@@ -100,8 +100,8 @@
                     <ul>
                         {{ range .Site.Data.libri.scienze }}
                         <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
-                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank" rel="noopener"
-                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank"
+                                rel="nofollow noopener">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
                             {{end}}
                     </ul>
                 </div>
@@ -117,8 +117,8 @@
                     <ul>
                         {{ range .Site.Data.libri.narrativa }}
                         <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
-                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank" rel="noopener"
-                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank"
+                                rel="nofollow noopener">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
                             {{end}}
                     </ul>
                 </div>
@@ -132,8 +132,8 @@
                     <ul>
                         {{ range .Site.Data.libri.scrittura }}
                         <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
-                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank" rel="noopener"
-                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank"
+                                rel="nofollow noopener">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
                             {{end}}
                     </ul>
                 </div>
@@ -149,8 +149,8 @@
                         <ul>
                             {{ range .Site.Data.libri.formazione }}
                             <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
-                                    title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank" rel="noopener"
-                                    rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                                    title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank"
+                                    rel="nofollow noopener">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
                                 {{end}}
                         </ul>
                     </div>
@@ -163,8 +163,8 @@
                         <ul>
                             {{ range .Site.Data.libri.video }}
                             <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
-                                    title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank" rel="noopener"
-                                    rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                                    title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank"
+                                    rel="nofollow noopener">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
                                 {{end}}
                         </ul>
                     </div>
@@ -180,8 +180,8 @@
                     <ul>
                         {{ range .Site.Data.libri.sport }}
                         <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
-                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank" rel="noopener"
-                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank"
+                                rel="nofollow noopener">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
                             {{end}}
                     </ul>
                 </div>
@@ -194,8 +194,8 @@
                     <ul>
                         {{ range .Site.Data.libri.altro }}
                         <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
-                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank" rel="noopener"
-                                rel="nofollow">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
+                                title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank"
+                                rel="nofollow noopener">{{ .titolo | truncate 30 "..."}}</a> di {{ .autore }}</li>
                             {{end}}
                     </ul>
                 </div>

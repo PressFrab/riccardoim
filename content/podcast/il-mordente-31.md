@@ -14,7 +14,7 @@ Il Mordente 31 è il ritorno alle nostre cose. Il sito è online, il canale YouT
 
 Nella prima parte vi parlo di cosa mi ha portato a certe scelte e del perché non ho avuto l'appagamento che speravo di raggiungere. Da un certo punto di vista, va bene così; ma non vi nascondo che speravo in uno slancio migliore.
 
-Ad ogni modo sono discorsi del passato: ora posso tornare ad occuparmi di libri, di informatica, di corsa, della ricerca di umanità. Ora posso tornare sui contenuti. Quindi: la blockchain. Grazie agli organizzatori di <mark><a href="https://www.blockchainweekrome.com" title="Blockchain Week Rome 2019" rel="nofollow">Blockchain Week Rome</a></mark>, posso passarvi un codice sconto promozionale che celebra (e ci torno per l'ultima volta, promesso) il lancio del nuovo sito. Il tutto assieme alle promozioni già in corso.
+Ad ogni modo sono discorsi del passato: ora posso tornare ad occuparmi di libri, di informatica, di corsa, della ricerca di umanità. Ora posso tornare sui contenuti. Quindi: la blockchain. Grazie agli organizzatori di <mark><a href="https://www.blockchainweekrome.com" title="Blockchain Week Rome 2019" rel="nofollow noopener">Blockchain Week Rome</a></mark>, posso passarvi un codice sconto promozionale che celebra (e ci torno per l'ultima volta, promesso) il lancio del nuovo sito. Il tutto assieme alle promozioni già in corso.
 
 - **Coupon RICCARDOIM**: vi dà diritto ad un secondo biglietto omaggio. Ne comprate uno e ne ricevete due. Così dividete le spese con un collega, o ne regalate uno ad un amico, o portate la vostra ragazza (o il vostro ragazzo - o entrambi!) all'evento di fine giugno. È perfetto come regalo.
 - **Promozione criptovalute**: chi compra i biglietti con criptovaluta li paga fino al 50% di sconto (ma c'è un tempo limite, controllate sul sito).
@@ -28,8 +28,8 @@ Ultima cosa, ditemi: volontà o rappresentazione? Apparenza o realtà? Cielo o t
 
 ### Consigli
 <ul>
-<li><a href="https://amzn.to/2KvGqdX" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro I Simpson e la filosofia">I Simpson e la filosofia</a> di Irwin, Conard e Skoble.</li>
-<li><a href="https://amzn.to/2JFUeSJ" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro L'universo elegante">L'universo elegante</a> di Brian Greene.</li>
-<li><a href="https://amzn.to/2Vnbz56" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Mastering Bitcoin">Mastering Bitcoin</a> in italiano.</li>
-<li><a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" rel="noopener" rel="nofollow" title="Kindle Unlimited 30 giorni">Kindle Unlimited</a> gratis per 30 giorni.</li>
+<li><a href="https://amzn.to/2KvGqdX" target="_blank" rel="nofollow noopener" title="Vedi il libro I Simpson e la filosofia">I Simpson e la filosofia</a> di Irwin, Conard e Skoble.</li>
+<li><a href="https://amzn.to/2JFUeSJ" target="_blank" rel="nofollow noopener" title="Vedi il libro L'universo elegante">L'universo elegante</a> di Brian Greene.</li>
+<li><a href="https://amzn.to/2Vnbz56" target="_blank" rel="nofollow noopener" title="Vedi il libro Mastering Bitcoin">Mastering Bitcoin</a> in italiano.</li>
+<li><a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" rel="nofollow noopener" title="Kindle Unlimited 30 giorni">Kindle Unlimited</a> gratis per 30 giorni.</li>
 </ul>

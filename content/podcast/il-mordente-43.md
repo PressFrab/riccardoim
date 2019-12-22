@@ -22,10 +22,10 @@ Recuperate il libro! Ma ascoltate prima la puntata perché ci sono altri suggeri
 
 ### Consiglio:
 <ul>
-<li><a href="https://amzn.to/2pKlOX8" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro I russi sono matti. Corso sintetico di letteratura russa 1820-1991">I russi sono matti</a>, di Paolo Nori.</li>
-<li><a href="https://amzn.to/2nYKvhO" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro L'autostima. Alta o bassa, stabile o fluttuante, autentica o illusoria">L'autostima</a>, di Maria Miceli.</li>
-<li><a href="https://amzn.to/33OYfLm" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Gratitudine">Gratitudine</a>, di Oliver Sacks.</li>
-<li><a href="https://amzn.to/2qGy0bP" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Nikolaj Gogol">Nikolaj Gogol</a>, di Vladimir Nabokov.</li>
-<li>La mappa del <a href="https://www.linuxday.it/2019/P" target="_blank" rel="noopener" rel="nofollow" title="Vedi il sito Linux Day 2019">Linux Day 2019</a>.</li>
+<li><a href="https://amzn.to/2pKlOX8" target="_blank" rel="nofollow noopener" title="Vedi il libro I russi sono matti. Corso sintetico di letteratura russa 1820-1991">I russi sono matti</a>, di Paolo Nori.</li>
+<li><a href="https://amzn.to/2nYKvhO" target="_blank" rel="nofollow noopener" title="Vedi il libro L'autostima. Alta o bassa, stabile o fluttuante, autentica o illusoria">L'autostima</a>, di Maria Miceli.</li>
+<li><a href="https://amzn.to/33OYfLm" target="_blank" rel="nofollow noopener" title="Vedi il libro Gratitudine">Gratitudine</a>, di Oliver Sacks.</li>
+<li><a href="https://amzn.to/2qGy0bP" target="_blank" rel="nofollow noopener" title="Vedi il libro Nikolaj Gogol">Nikolaj Gogol</a>, di Vladimir Nabokov.</li>
+<li>La mappa del <a href="https://www.linuxday.it/2019/P" target="_blank" rel="nofollow noopener" title="Vedi il sito Linux Day 2019">Linux Day 2019</a>.</li>
 </ul>
 

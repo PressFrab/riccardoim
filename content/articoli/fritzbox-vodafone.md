@@ -22,7 +22,7 @@ Fatto sta che ieri ho staccato la **Vodafone Station** e ho montato i nuovi FRIT
 <figure>
                     <a
                         href="https://res.cloudinary.com/rim3/image/upload/q_75,w_1000/v1570276258/Articoli/vodafone-fritzbox-configurazione.png"
-                        data-alt="Configurazione FritzBox linea ADSL Vodafone" target="_blank" rel="noopener" data-title="Configurazione FritzBox linea ADSL Vodafone." title="Configurazione FritzBox su linea ADSL Vodafone">
+                        data-alt="Configurazione FritzBox linea ADSL Vodafone" target="_blank" data-title="Configurazione FritzBox linea ADSL Vodafone." title="Configurazione FritzBox su linea ADSL Vodafone">
                         <img
                             data-src="https://res.cloudinary.com/rim3/image/upload/w_auto,c_scale,q_75,f_auto/v1570276258/Articoli/vodafone-fritzbox-configurazione.png" alt="Configurazione FritzBox linea ADSL Vodafone" class="cld-responsive lazyload">
                     </a>
@@ -39,7 +39,7 @@ Fatto sta che ieri ho staccato la **Vodafone Station** e ho montato i nuovi FRIT
 4. Seguire la configurazione guidata selezionando "Vodafone" o "Altro Provider Internet" se Vodafone non è presente (dipende dal firmware installato; se è vecchio, non c'è) e inserite _vodafoneadsl_ nei campi "Nome Utente" e "Password". Il resto va bene com'è, compreso l'incapsulamento PPPoE. Confermare la configurazione.
 5. Al termine, Internet non funzionerà. Entrare nella sezione "Internet" > "Dati di accesso" > "Impostazioni della connessione" e inserire "1036" nel campo "Utilizzare VLAN per l'accesso a Internet". Applicare.
 
-<p align="center"><mark><a href="https://amzn.to/35c2EJL" title="Ci sono sconti nel negozio AVM di Amazon" rel="nofollow" target="_blank" rel="noopener">Vedi le  offerte AVM FRITZ!Box su Amazon Italia.</a></mark></p>
+<p align="center"><mark><a href="https://amzn.to/35c2EJL" title="Ci sono sconti nel negozio AVM di Amazon" rel="nofollow noopener" target="_blank">Vedi le  offerte AVM FRITZ!Box su Amazon Italia.</a></mark></p>
 
 Adesso la linea Internet dovrebbe essere attiva. Potete cliccare su "Sistema" > "Aggiornamento" ed installare l'ultimo firmware. Per aggiornamenti sui parametri citati sopra fate riferimento alla sezione dedicata sul sito Vodafone (link a fine pagina).
 
@@ -47,7 +47,7 @@ Adesso la linea Internet dovrebbe essere attiva. Potete cliccare su "Sistema" > 
 
 <figure>
                     <a
-                        href="https://res.cloudinary.com/rim3/image/upload/q_75,w_1000/v1570276258/Articoli/vodafone-fritzbox-configurazione-fonia.png" target="_blank" rel="noopener" 
+                        href="https://res.cloudinary.com/rim3/image/upload/q_75,w_1000/v1570276258/Articoli/vodafone-fritzbox-configurazione-fonia.png" target="_blank" 
                         data-alt="Configurazione FritzBox linea voce Vodafone" data-title="Configurazione FritzBox linea voce Vodafone." title="Configurazione FritzBox su linea voce Vodafone">
                         <img
                             data-src="https://res.cloudinary.com/rim3/image/upload/w_auto,c_scale,q_75,f_auto/v1570276258/Articoli/vodafone-fritzbox-configurazione-fonia.png" alt="Configurazione FritzBox linea voce Vodafone" class="cld-responsive lazyload">
@@ -74,10 +74,10 @@ Io ho collegato una stampante HP multi-funzione alla **porta USB del FRITZ!Box**
 
 #### Link utili
 
-- I parametri aggiornati su <a href="https://www.vodafone.it/portal/Privati/Supporto/Assistenza-dispositivi/Installare-e-configurare/Modem-Alternativo" title="Vodafone Modem Libero" rel="nofollow" target="_blank" rel="noopener">voda.it/modemlibero</a>.
-- L'assistenza AVM per le <a href="https://it.avm.de/assistenza/libera-scelta-del-router/vodafone/" title="AVM e Vodafone" rel="nofollow" target="_blank" rel="noopener">configurazioni Vodafone</a>.
-- Le altre discussioni nella <a href="https://community.vodafone.it/" title="Vodafone Community" rel="nofollow" target="_blank" rel="noopener">community ufficiale Vodafone</a>.
-- Il <a href="https://amzn.to/35c2EJL" title="Sconti FritzBox su Amazon Italia" rel="nofollow" target="_blank" rel="noopener"> negozio AVM FRITZ!Box</a> su Amazon Italia.
+- I parametri aggiornati su <a href="https://www.vodafone.it/portal/Privati/Supporto/Assistenza-dispositivi/Installare-e-configurare/Modem-Alternativo" title="Vodafone Modem Libero" rel="nofollow noopener" target="_blank">voda.it/modemlibero</a>.
+- L'assistenza AVM per le <a href="https://it.avm.de/assistenza/libera-scelta-del-router/vodafone/" title="AVM e Vodafone" rel="nofollow noopener" target="_blank">configurazioni Vodafone</a>.
+- Le altre discussioni nella <a href="https://community.vodafone.it/" title="Vodafone Community" rel="nofollow noopener" target="_blank">community ufficiale Vodafone</a>.
+- Il <a href="https://amzn.to/35c2EJL" title="Sconti FritzBox su Amazon Italia" rel="nofollow noopener" target="_blank"> negozio AVM FRITZ!Box</a> su Amazon Italia.
 
 ##### Novità AVM da IFA 2019
 

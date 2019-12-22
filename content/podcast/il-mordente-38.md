@@ -16,10 +16,10 @@ Buon ascolto! Dopo gli impegni di settembre vi darò i dettagli sui cambiamenti 
 
 ### Consigli
 <ul>
-<li><a href="https://storytel.com/riccardoim" target="_blank" rel="noopener" rel="nofollow" title="Prova Storytel per 30 giorni con Riccardo.im">Prova Storytel</a> per 30 giorni anziché 14.</li>
-<li><a href="https://amzn.to/2MlpOYa" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro La lingua geniale">La lingua geniale: 9 ragioni per amare il greco</a> di Andrea Marcolongo.</li>
-<li><a href="https://amzn.to/2ZqVr5u" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Humanless">#Humanless. L'algoritmo egoista</a> di Massimo Chiriatti.</li>
-<li><a href="https://amzn.to/2ZnxJWV" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Il Signore degli Anelli">Il Signore degli Anelli</a> di R. R. Tolkien.</li>
-<li><a href="https://www.inverse.com/article/48300-why-is-it-hard-to-focus-research-humans" target="_blank" rel="noopener" rel="nofollow" title="Scientists Reveal the Number of Times You're Actually Conscious Each Minute">Scientists Reveal the Number of Times You're Actually Conscious Each Minute</a> su Inverse.</li>
-<li><a href="https://maebert.github.io/themostdangerouswritingapp/" target="_blank" rel="noopener" rel="nofollow" title="The Most Dangerous Writing App">The Most Dangerous Writing App</a> di Manuel Ebert.</li>
+<li><a href="https://storytel.com/riccardoim" target="_blank" rel="nofollow noopener" title="Prova Storytel per 30 giorni con Riccardo.im">Prova Storytel</a> per 30 giorni anziché 14.</li>
+<li><a href="https://amzn.to/2MlpOYa" target="_blank" rel="nofollow noopener" title="Vedi il libro La lingua geniale">La lingua geniale: 9 ragioni per amare il greco</a> di Andrea Marcolongo.</li>
+<li><a href="https://amzn.to/2ZqVr5u" target="_blank" rel="nofollow noopener" title="Vedi il libro Humanless">#Humanless. L'algoritmo egoista</a> di Massimo Chiriatti.</li>
+<li><a href="https://amzn.to/2ZnxJWV" target="_blank" rel="nofollow noopener" title="Vedi il libro Il Signore degli Anelli">Il Signore degli Anelli</a> di R. R. Tolkien.</li>
+<li><a href="https://www.inverse.com/article/48300-why-is-it-hard-to-focus-research-humans" target="_blank" rel="nofollow noopener" title="Scientists Reveal the Number of Times You're Actually Conscious Each Minute">Scientists Reveal the Number of Times You're Actually Conscious Each Minute</a> su Inverse.</li>
+<li><a href="https://maebert.github.io/themostdangerouswritingapp/" target="_blank" rel="nofollow noopener" title="The Most Dangerous Writing App">The Most Dangerous Writing App</a> di Manuel Ebert.</li>
 </ul>

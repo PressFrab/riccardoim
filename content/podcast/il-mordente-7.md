@@ -17,7 +17,7 @@ Buon ascolto! Questo è il podcast più lungo pubblicato finora. Spero sia il pr
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://twobithistory.org/2018/12/18/rss.html" target="_blank" rel="noopener" title="Vedi The Rise and Demise of RSS">The Rise and Demise of RSS</a> su Two-Bit History.</li>
-<li><a class="text-info" href="https://twobithistory.org/2018/11/12/cat.html" target="_blank" rel="noopener" title="Vedi The Source History of Cat">The Source History of Cat</a> su Two-Bit History.</li>
-<li><a class="text-info" href="https://medium.com/s/story/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3" target="_blank" rel="noopener" title="Vedi Six Years With a Distraction-Free iPhone">Six Years With a Distraction-Free iPhone</a> di Jake Knapp.</li>
+<li><a class="text-info" href="https://twobithistory.org/2018/12/18/rss.html" target="_blank" title="Vedi The Rise and Demise of RSS">The Rise and Demise of RSS</a> su Two-Bit History.</li>
+<li><a class="text-info" href="https://twobithistory.org/2018/11/12/cat.html" target="_blank" title="Vedi The Source History of Cat">The Source History of Cat</a> su Two-Bit History.</li>
+<li><a class="text-info" href="https://medium.com/s/story/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3" target="_blank" title="Vedi Six Years With a Distraction-Free iPhone">Six Years With a Distraction-Free iPhone</a> di Jake Knapp.</li>
 </ul>

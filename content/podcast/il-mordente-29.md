@@ -21,9 +21,9 @@ Ecco i consigli di questa settimana:
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2JHgaxC" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro La vista da qui">La vista da qui</a> di Massimo Mantellini.</li>
-<li><a class="text-info" href="https://amzn.to/2EDn8zp" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Bassa risoluzione">Bassa risoluzione</a> di Massimo Mantellini.</li>
-<li><a class="text-info" href="https://amzn.to/2EwSub5" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Breve storia di un raggio di sole">Breve storia di un raggio di sole</a> di Gianumberto Accinelli.</li>
-<li><a class="text-info" href="https://amzn.to/2WsdE4g" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro di Luis Sepulveda">Storia di una balena bianca raccontata da lei stessa</a> di Luis Sepulveda.</li>
-<li><a class="text-info" href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" rel="noopener" title="Kindle Unlimited 30 giorni">Kindle Unlimited</a> gratis per 30 giorni.</li>
+<li><a class="text-info" href="https://amzn.to/2JHgaxC" target="_blank" rel="nofollow noopener" title="Vedi il libro La vista da qui">La vista da qui</a> di Massimo Mantellini.</li>
+<li><a class="text-info" href="https://amzn.to/2EDn8zp" target="_blank" rel="nofollow noopener" title="Vedi il libro Bassa risoluzione">Bassa risoluzione</a> di Massimo Mantellini.</li>
+<li><a class="text-info" href="https://amzn.to/2EwSub5" target="_blank" rel="nofollow noopener" title="Vedi il libro Breve storia di un raggio di sole">Breve storia di un raggio di sole</a> di Gianumberto Accinelli.</li>
+<li><a class="text-info" href="https://amzn.to/2WsdE4g" target="_blank" rel="nofollow noopener" title="Vedi il libro di Luis Sepulveda">Storia di una balena bianca raccontata da lei stessa</a> di Luis Sepulveda.</li>
+<li><a class="text-info" href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" title="Kindle Unlimited 30 giorni">Kindle Unlimited</a> gratis per 30 giorni.</li>
 </ul>
