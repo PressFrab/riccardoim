@@ -20,10 +20,10 @@ Ecco i consigli di questa settimana:
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2T49rhh" target="_blank" rel="nofollow" title="Vedi il libro Manuale del montaggio">Manuale del montaggio</a> di Diego Cassani.</li>
-<li><a class="text-info" href="https://amzn.to/2CkuHtP" target="_blank" rel="nofollow" title="Vedi il libro In un batter d'occhi">In un batter d'occhi. Una prospettiva sul montaggio cinematografico nell'era digitale</a> di Walter Murch.</li>
-<li><a class="text-info" href="https://amzn.to/2Cm8NpU" target="_blank" rel="nofollow" title="Vedi il libro L'ABC del linguaggio cinematografico. Strutture, analisi e figure nella narrazione per immagini ">L'ABC del linguaggio cinematografico. Strutture, analisi e figure nella narrazione per immagini</a> di Arcangelo Mazzoleni.</li>
-<li><a class="text-info" href="https://amzn.to/2EYygWX" target="_blank" rel="nofollow" title="Vedi il libro La fotografia nel film: Volume 1">La fotografia nel film: volume 1</a> di Blain Brown.</li>
-<li>Il video del <a class="text-info" href="https://www.ted.com/talks/greta_thunberg_the_disarming_case_to_act_right_now_on_climate" target="_blank" title="Ted Talk di Greta Thunberg">Ted Talk di Greta Thunberg</a>.</li>
-<li>La mappa degli <a class="text-info" href="https://www.fridaysforfuture.org/events/map" target="_blank" title="Eventi Fridays for Future">eventi Fridays For Future</a> italiani.</li>
+<li><a class="text-info" href="https://amzn.to/2T49rhh" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Manuale del montaggio">Manuale del montaggio</a> di Diego Cassani.</li>
+<li><a class="text-info" href="https://amzn.to/2CkuHtP" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro In un batter d'occhi">In un batter d'occhi. Una prospettiva sul montaggio cinematografico nell'era digitale</a> di Walter Murch.</li>
+<li><a class="text-info" href="https://amzn.to/2Cm8NpU" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro L'ABC del linguaggio cinematografico. Strutture, analisi e figure nella narrazione per immagini ">L'ABC del linguaggio cinematografico. Strutture, analisi e figure nella narrazione per immagini</a> di Arcangelo Mazzoleni.</li>
+<li><a class="text-info" href="https://amzn.to/2EYygWX" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro La fotografia nel film: Volume 1">La fotografia nel film: volume 1</a> di Blain Brown.</li>
+<li>Il video del <a class="text-info" href="https://www.ted.com/talks/greta_thunberg_the_disarming_case_to_act_right_now_on_climate" target="_blank" rel="noopener" title="Ted Talk di Greta Thunberg">Ted Talk di Greta Thunberg</a>.</li>
+<li>La mappa degli <a class="text-info" href="https://www.fridaysforfuture.org/events/map" target="_blank" rel="noopener" title="Eventi Fridays for Future">eventi Fridays For Future</a> italiani.</li>
 </ul>

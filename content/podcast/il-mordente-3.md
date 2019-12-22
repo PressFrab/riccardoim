@@ -23,8 +23,8 @@ Libri consigliati in questa puntata:
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2Gm6zeJ" target="_blank" rel="nofollow" title="Vedi il libro Se tremi sull'orlo su Amazon">Se tremi sull'orlo. Lettere a un cercatore di sé</a> di Henry David Thoreau.</li>
-<li><a class="text-info" href="https://amzn.to/2Gtg0JA" target="_blank" rel="nofollow" title="Vedi il libro Walden su Amazon">Walden. Vita nel bosco</a> di Henry David Thoreau.</li>
-<li><a class="text-info" href="https://amzn.to/2Bmar9Y" target="_blank" rel="nofollow" title="Vedi il libro Questione di virgole su Amazon">Questione di virgole. Punteggiare rapido e accorto</a> di Leonardo Luccone.</li>
-<li><a class="text-info" href="https://amzn.to/2QSt0fG" target="_blank" rel="nofollow" title="Vedi il libro Il Maestro e Margherita su Amazon">Il Maestro e Margherita</a> di Michail Bulgakov.</li>
+<li><a class="text-info" href="https://amzn.to/2Gm6zeJ" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Se tremi sull'orlo su Amazon">Se tremi sull'orlo. Lettere a un cercatore di sé</a> di Henry David Thoreau.</li>
+<li><a class="text-info" href="https://amzn.to/2Gtg0JA" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Walden su Amazon">Walden. Vita nel bosco</a> di Henry David Thoreau.</li>
+<li><a class="text-info" href="https://amzn.to/2Bmar9Y" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Questione di virgole su Amazon">Questione di virgole. Punteggiare rapido e accorto</a> di Leonardo Luccone.</li>
+<li><a class="text-info" href="https://amzn.to/2QSt0fG" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Il Maestro e Margherita su Amazon">Il Maestro e Margherita</a> di Michail Bulgakov.</li>
 </ul>

@@ -20,11 +20,11 @@ Ecco i consigli di questa settimana:
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://www.blockchainweekrome.com/" target="_blank" title="Vedi il sito Blockchain Week Rome 2019">Blockchain Week Rome 2019</a>, coupon sconto 10%: RICCARDOPALOMBO.</li>
-<li><a class="text-info" href="https://solar.lowtechmagazine.com/" target="_blank" title="Vedi il sito Low-Tech Magazine">Low-Tech Magazine Solar Edition</a>.</li>
-<li><a class="text-info" href="https://amzn.to/2JFUeSJ" target="_blank" rel="nofollow" title="Vedi il libro L'universo elegante">L'universo elegante</a> di Brian Greene.</li>
-<li><a class="text-info" href="https://amzn.to/2Vgwmvh" target="_blank" rel="nofollow" title="Vedi il libro Scolpire il tempo">Scolpire il tempo</a> di Andrej Tarkovskij.</li>
-<li><a class="text-info" href="https://amzn.to/2WKVVC5" target="_blank" rel="nofollow" title="Vedi il libro UFO e altri oggetti non identificati">UFO e altri oggetti non identificati</a> di Giorgio Manganelli.</li>
-<li><a class="text-info" href="https://amzn.to/2Vnbz56" target="_blank" rel="nofollow" title="Vedi il libro Mastering Bitcoin">Mastering Bitcoin</a> in italiano.</li>
-<li><a class="text-info" href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" title="Kindle Unlimited 30 giorni">Kindle Unlimited gratis per 30 giorni.</a></li>
+<li><a class="text-info" href="https://www.blockchainweekrome.com/" target="_blank" rel="noopener" title="Vedi il sito Blockchain Week Rome 2019">Blockchain Week Rome 2019</a>, coupon sconto 10%: RICCARDOPALOMBO.</li>
+<li><a class="text-info" href="https://solar.lowtechmagazine.com/" target="_blank" rel="noopener" title="Vedi il sito Low-Tech Magazine">Low-Tech Magazine Solar Edition</a>.</li>
+<li><a class="text-info" href="https://amzn.to/2JFUeSJ" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro L'universo elegante">L'universo elegante</a> di Brian Greene.</li>
+<li><a class="text-info" href="https://amzn.to/2Vgwmvh" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Scolpire il tempo">Scolpire il tempo</a> di Andrej Tarkovskij.</li>
+<li><a class="text-info" href="https://amzn.to/2WKVVC5" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro UFO e altri oggetti non identificati">UFO e altri oggetti non identificati</a> di Giorgio Manganelli.</li>
+<li><a class="text-info" href="https://amzn.to/2Vnbz56" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Mastering Bitcoin">Mastering Bitcoin</a> in italiano.</li>
+<li><a class="text-info" href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" rel="noopener" title="Kindle Unlimited 30 giorni">Kindle Unlimited gratis per 30 giorni.</a></li>
 </ul>

@@ -19,8 +19,8 @@ Come al solito, potete inviare messaggi vocali su Telegram o Whatsapp al numero 
 Ecco i consigli di questa settimana:
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://buffer.com/resources/vertical-video" target="_blank" title="Does Vertical Video Make a Difference?">Does Vertical Video Make a Difference?</a> su buffer.com</li>
-<li><a class="text-info" href="https://amzn.to/2Tb2srO" target="_blank" rel="nofollow" title="Vedi il libro Allenati ad essere felice">Allenati ad essere felice</a> di Fagnani e Ottavi.</li>
-<li><a class="text-info" href="https://amzn.to/2ErCczm" target="_blank" rel="nofollow" title="Vedi il libro Il punto vincente">Il punto vincente</a> di Novak Djokovic.</li>
-<li><a class="text-info" href="https://it.wikisource.org/wiki/La_cattedrale_e_il_bazaar" target="_blank" title="Vedi il libro La cattedrale e il bazaar">La cattedrale e il bazaar</a> di Eric Steven Raymond.</li>
+<li><a class="text-info" href="https://buffer.com/resources/vertical-video" target="_blank" rel="noopener" title="Does Vertical Video Make a Difference?">Does Vertical Video Make a Difference?</a> su buffer.com</li>
+<li><a class="text-info" href="https://amzn.to/2Tb2srO" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Allenati ad essere felice">Allenati ad essere felice</a> di Fagnani e Ottavi.</li>
+<li><a class="text-info" href="https://amzn.to/2ErCczm" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Il punto vincente">Il punto vincente</a> di Novak Djokovic.</li>
+<li><a class="text-info" href="https://it.wikisource.org/wiki/La_cattedrale_e_il_bazaar" target="_blank" rel="noopener" title="Vedi il libro La cattedrale e il bazaar">La cattedrale e il bazaar</a> di Eric Steven Raymond.</li>
 </ul>

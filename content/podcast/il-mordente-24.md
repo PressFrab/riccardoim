@@ -18,14 +18,14 @@ Ecco i libri consigliati in questo podcast:
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2UlXnJs" target="_blank" rel="nofollow" title="Vedi il libro On writing">On writing</a> di Stephen King.</li>
-<li><a class="text-info" href="https://amzn.to/2ZChdn8" target="_blank" rel="nofollow" title="Vedi il libro Da cosa nasce cosa">Da cosa nasce cosa</a> di Bruno Munari.</li>
-<li><a class="text-info" href="https://amzn.to/2ZGAoMR" target="_blank" rel="nofollow" title="Vedi il libro La Cultura. Numero 1000">La Cultura. Numero 1000</a> edizioni Il Saggiatore.</li>
-<li><a class="text-info" href="https://amzn.to/2XXgCem" target="_blank" rel="nofollow" title="Vedi il libro Ruba come un artista">Ruba come un artista</a> di Austin Kleon.</li>
-<li><a class="text-info" href="https://amzn.to/33VK3Rz" target="_blank" title="Vedi il libro I Maestri della luce">I maestri della luce</a> di 
+<li><a class="text-info" href="https://amzn.to/2UlXnJs" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro On writing">On writing</a> di Stephen King.</li>
+<li><a class="text-info" href="https://amzn.to/2ZChdn8" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Da cosa nasce cosa">Da cosa nasce cosa</a> di Bruno Munari.</li>
+<li><a class="text-info" href="https://amzn.to/2ZGAoMR" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro La Cultura. Numero 1000">La Cultura. Numero 1000</a> edizioni Il Saggiatore.</li>
+<li><a class="text-info" href="https://amzn.to/2XXgCem" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Ruba come un artista">Ruba come un artista</a> di Austin Kleon.</li>
+<li><a class="text-info" href="https://amzn.to/33VK3Rz" target="_blank" rel="noopener" title="Vedi il libro I Maestri della luce">I maestri della luce</a> di 
 Dennis Schaefer e Larry Salvato.</li>
-<li><a class="text-info" href="https://amzn.to/2XSTVrr" target="_blank" rel="nofollow" title="Vedi il libro Vevi">Vevi</a> di Erica Lillegg.</li>
-<li><a class="text-info" href="https://amzn.to/2Vgwmvh" target="_blank" rel="nofollow" title="Vedi il libro Scolpire il tempo">Scolpire il tempo</a> di Andrej Tarkovskij.</li>
-<li><a class="text-info" href="https://www.amazon.it/kindle-dbs/promoLanding?promoCode=cfbc50c0-c7a6-42a6-adb8-079b6c705c18&amp;campaignId=cfbc50c0-c7a6-42a6-adb8-079b6c705c18&_encoding=UTF8&tag=eeepcit-21&linkCode=ur2&linkId=78dbb4a09b1ed73819f00dd8e1f5e187&camp=3414&creative=21718" target="_blank" title="Kindle Unlimited 90 giorni">90 giorni gratis di Kindle Unlimited.</a></li>
+<li><a class="text-info" href="https://amzn.to/2XSTVrr" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Vevi">Vevi</a> di Erica Lillegg.</li>
+<li><a class="text-info" href="https://amzn.to/2Vgwmvh" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Scolpire il tempo">Scolpire il tempo</a> di Andrej Tarkovskij.</li>
+<li><a class="text-info" href="https://www.amazon.it/kindle-dbs/promoLanding?promoCode=cfbc50c0-c7a6-42a6-adb8-079b6c705c18&amp;campaignId=cfbc50c0-c7a6-42a6-adb8-079b6c705c18&_encoding=UTF8&tag=eeepcit-21&linkCode=ur2&linkId=78dbb4a09b1ed73819f00dd8e1f5e187&camp=3414&creative=21718" target="_blank" rel="noopener" title="Kindle Unlimited 90 giorni">90 giorni gratis di Kindle Unlimited.</a></li>
 </ul>
 

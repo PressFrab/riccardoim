@@ -18,8 +18,8 @@ Ecco i libri consigliati in questa puntata:
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2L3TfKU" target="_blank" rel="nofollow" title="Vedi il libro Creative Selection su Amazon">Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs</a> di Ken Kocienda.</li>
-<li><a class="text-info" href="https://amzn.to/2PloJfL" target="_blank" rel="nofollow" title="Vedi il libro The One Device su Amazon">The One Device: The Secret History of the iPhone</a> di Brian Merchant.</li>
-<li><a class="text-info" href="https://amzn.to/2KYz0Oq" target="_blank" rel="nofollow" title="Vedi il libro Discorso sul metodo su Amazon">Discorso sul metodo</a> di Cartesio.</li>
-<li><a class="text-info" href="https://amzn.to/2AVbP2T" target="_blank" rel="nofollow" title="Vedi il libro Insanely Great su Amazon">Insanely Great: The Life And Times of Macintosh</a> di Steven Levy.</li>
+<li><a class="text-info" href="https://amzn.to/2L3TfKU" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Creative Selection su Amazon">Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs</a> di Ken Kocienda.</li>
+<li><a class="text-info" href="https://amzn.to/2PloJfL" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro The One Device su Amazon">The One Device: The Secret History of the iPhone</a> di Brian Merchant.</li>
+<li><a class="text-info" href="https://amzn.to/2KYz0Oq" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Discorso sul metodo su Amazon">Discorso sul metodo</a> di Cartesio.</li>
+<li><a class="text-info" href="https://amzn.to/2AVbP2T" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Insanely Great su Amazon">Insanely Great: The Life And Times of Macintosh</a> di Steven Levy.</li>
 </ul>

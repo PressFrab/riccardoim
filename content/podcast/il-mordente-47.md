@@ -18,8 +18,8 @@ Per tutto il resto, potete continuare a mandare messaggi vocali (o di testo, se 
 
 ### Consiglio:
 <ul>
-<li><a href="https://amzn.to/2KWMtr9" target="_blank" rel="nofollow" title="Vedi il libro Meglio essere felici">Meglio essere felici</a>, di Zygmunt Bauman.</li>
-<li><a href="https://amzn.to/2Djq3MG" target="_blank" rel="nofollow" title="Vedi il libro Lezioni di meraviglia">Lezioni di meraviglia</a>, di A. Colamedici e M. Gancitano.</li>
-<li><a href="https://amzn.to/2Dp3YfS" target="_blank" rel="nofollow" title="Vedi il libro Potere alle parole">Potere alle parole</a>, di Vera Gheno.</li>
-<li><a href="https://amzn.to/2Dpd0tk" target="_blank" rel="nofollow" title="Vedi il libro Una cosa alla volta. Le regole dell'attenzione">Una cosa alla volta. Le regole dell'attenzione</a>, di P. Legrenzi e C. Umiltà.</li>
+<li><a href="https://amzn.to/2KWMtr9" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Meglio essere felici">Meglio essere felici</a>, di Zygmunt Bauman.</li>
+<li><a href="https://amzn.to/2Djq3MG" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Lezioni di meraviglia">Lezioni di meraviglia</a>, di A. Colamedici e M. Gancitano.</li>
+<li><a href="https://amzn.to/2Dp3YfS" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Potere alle parole">Potere alle parole</a>, di Vera Gheno.</li>
+<li><a href="https://amzn.to/2Dpd0tk" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Una cosa alla volta. Le regole dell'attenzione">Una cosa alla volta. Le regole dell'attenzione</a>, di P. Legrenzi e C. Umiltà.</li>
 </ul>

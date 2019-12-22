@@ -20,9 +20,9 @@ Potete mandare un messaggio vocale (o di testo, se siete ~~timidi~~ introversi) 
 
 ### Consigli
 <ul>
-<li><a href="https://amzn.to/2WSxTnQ" target="_blank" rel="nofollow" title="Vedi il libro Lezioni di letteratura">Lezioni di letteratura</a> di Vladimir Nabokov.</li>
-<li><a href="https://amzn.to/2NOp4Ms" target="_blank" rel="nofollow" title="Vedi il libro Come cambiare la tua mente">Come cambiare la tua mente</a> di Micheal Pollan.</li>
-<li>L'articolo <a href="https://www.esquire.com/it/cultura/libri/a28183503/lsd-pollan-libro/" target="_blank" rel="nofollow" title="Leggi l'articolo Inganno psichedelico">Inganno psichedelico</a> su Esquire.</li>
-<li><a href="https://italia.campus-party.org/cpit3-community-partner/" target="_blank" rel="nofollow" title="Registrati al Campus Party 2019">Campus Party Italia 2019</a> - biglietti gratuiti.</li>
-<li><a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" rel="nofollow" title="Kindle Unlimited 30 giorni">Kindle Unlimited</a> gratis per 30 giorni.</li>
+<li><a href="https://amzn.to/2WSxTnQ" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Lezioni di letteratura">Lezioni di letteratura</a> di Vladimir Nabokov.</li>
+<li><a href="https://amzn.to/2NOp4Ms" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Come cambiare la tua mente">Come cambiare la tua mente</a> di Micheal Pollan.</li>
+<li>L'articolo <a href="https://www.esquire.com/it/cultura/libri/a28183503/lsd-pollan-libro/" target="_blank" rel="noopener" rel="nofollow" title="Leggi l'articolo Inganno psichedelico">Inganno psichedelico</a> su Esquire.</li>
+<li><a href="https://italia.campus-party.org/cpit3-community-partner/" target="_blank" rel="noopener" rel="nofollow" title="Registrati al Campus Party 2019">Campus Party Italia 2019</a> - biglietti gratuiti.</li>
+<li><a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" rel="noopener" rel="nofollow" title="Kindle Unlimited 30 giorni">Kindle Unlimited</a> gratis per 30 giorni.</li>
 </ul>

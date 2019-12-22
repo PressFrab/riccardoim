@@ -6,7 +6,7 @@
         {{ range .Site.Data.libri.consigliati }}
         <li>
             <div>
-                <a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank"
+                <a href="{{ .link }}" title="Vedi il libro {{ .titolo }}" target="_blank" rel="noopener"
                     rel="nofollow">{{ .titolo | truncate 30 "..."}}</a>
                 <div class="recent-post-info">
                     <span class="post-author">di {{ .autore }}</span>

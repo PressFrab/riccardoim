@@ -19,11 +19,11 @@ Potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**,
 Ecco i libri consigliati questa settimana:
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2BP7vU9" target="_blank" rel="nofollow" title="Vedi il libro di Fulvio Massini">Andiamo a correre</a> di Fulvio Massini.</li>
-<li><a class="text-info" href="https://amzn.to/2GELdZr" target="_blank" rel="nofollow" title="Vedi il libro di Orlando Pizzolato">Correre secondo Orlando Pizzolato</a> di Orlando Pizzolato.</li>
-<li><a class="text-info" href="https://amzn.to/2GHRUKl" target="_blank" rel="nofollow" title="Vedi il libro 80/20 Running">80 / 20 Running</a> di Matt Fitzgerald.</li>
-<li><a class="text-info" href="https://amzn.to/2Vdcwx3" target="_blank" rel="nofollow" title="Vedi il libro l'arte di correre">L'arte di correre</a> di Haruki Murakami.</li>
-<li><a class="text-info" href="https://amzn.to/2SjHSQJ" target="_blank" rel="nofollow" title="Vedi il libro La fatica più bella">La fatica più bella </a> di Gastone Breccia.</li>
-<li><a class="text-info" href="https://amzn.to/2T04zP9" target="_blank" rel="nofollow" title="Vedi il libro 10-21-42 Km. Come preparare le gare su strada">10-21-42 Km. Come preparare le gare su strada</a> di De Luca e Pappa.</li>
-<li><a class="text-info" href="https://amzn.to/2BPu4Ih" target="_blank" rel="nofollow" title="Vedi il libro Chronicles">Chronicles: Volume 1</a> di Bob Dylan.</li>
+<li><a class="text-info" href="https://amzn.to/2BP7vU9" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro di Fulvio Massini">Andiamo a correre</a> di Fulvio Massini.</li>
+<li><a class="text-info" href="https://amzn.to/2GELdZr" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro di Orlando Pizzolato">Correre secondo Orlando Pizzolato</a> di Orlando Pizzolato.</li>
+<li><a class="text-info" href="https://amzn.to/2GHRUKl" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro 80/20 Running">80 / 20 Running</a> di Matt Fitzgerald.</li>
+<li><a class="text-info" href="https://amzn.to/2Vdcwx3" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro l'arte di correre">L'arte di correre</a> di Haruki Murakami.</li>
+<li><a class="text-info" href="https://amzn.to/2SjHSQJ" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro La fatica più bella">La fatica più bella </a> di Gastone Breccia.</li>
+<li><a class="text-info" href="https://amzn.to/2T04zP9" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro 10-21-42 Km. Come preparare le gare su strada">10-21-42 Km. Come preparare le gare su strada</a> di De Luca e Pappa.</li>
+<li><a class="text-info" href="https://amzn.to/2BPu4Ih" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Chronicles">Chronicles: Volume 1</a> di Bob Dylan.</li>
 </ul>

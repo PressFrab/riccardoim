@@ -18,8 +18,8 @@ Come al solito, potete inviare messaggi vocali su Telegram o Whatsapp al numero 
 
 ### Consigli
 <ul>
-<li>Il corso di programmazione <a class="text-info" href="https://learnjavascript.online/" target="_blank" title="Vedi LearnJavascript.online">LearnJavascript.online</a>.</li>
-<li>Il podcast <a class="text-info" href="https://www.everythingisalive.com/" target="_blank" title="Vedi Everything Is Alive">Everything Is Alive</a>.</li>
-<li>Il libro <a class="text-info" href="https://amzn.to/2R1RT4k" target="_blank" rel="nofollow" title="Vedi Gli Amori Difficili">Gli amori difficili</a> di Italo Calvino.</li>
-<li>Il libro <a class="text-info" href="https://amzn.to/2RozP91" target="_blank" rel="nofollow" title="Vedi il libro Quiet su Amazon">Quiet. Il potere degli introversi in un mondo che non sa smettere di parlare</a> di Susan Cain.</li>
+<li>Il corso di programmazione <a class="text-info" href="https://learnjavascript.online/" target="_blank" rel="noopener" title="Vedi LearnJavascript.online">LearnJavascript.online</a>.</li>
+<li>Il podcast <a class="text-info" href="https://www.everythingisalive.com/" target="_blank" rel="noopener" title="Vedi Everything Is Alive">Everything Is Alive</a>.</li>
+<li>Il libro <a class="text-info" href="https://amzn.to/2R1RT4k" target="_blank" rel="noopener" rel="nofollow" title="Vedi Gli Amori Difficili">Gli amori difficili</a> di Italo Calvino.</li>
+<li>Il libro <a class="text-info" href="https://amzn.to/2RozP91" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Quiet su Amazon">Quiet. Il potere degli introversi in un mondo che non sa smettere di parlare</a> di Susan Cain.</li>
 </ul>

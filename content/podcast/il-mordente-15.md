@@ -19,10 +19,10 @@ Buon ascolto! Potete inviare messaggi vocali su Telegram o Whatsapp al numero **
 Ecco i consigli di questa settimana:
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2EZLfJ9" target="_blank" rel="nofollow" title="Tutti i libri di Jack London">Tutti i libri di Jack London</a>.</li>
-<li><a class="text-info" href="https://amzn.to/2EMOD94" target="_blank" rel="nofollow" title="Tutti i libri di Carlo Rovelli">Tutti i libri di Carlo Rovelli</a>.</li>
-<li>Il sito del progetto <a class="text-info" href="http://scrittoreperstrada.blogspot.com/" target="_blank" title="Scrittore per strada">Scrittore per strada</a> e <a class="text-info" href="https://amzn.to/2XPSJpy" target="_blank" rel="nofollow" title="Tutti i libri di Walter Lazzarin">tutti i libri</a> di Walter Lazzarin.</li>
-<li>La homepage di <a class="text-info" href="https://gohugo.io/" target="_blank" title="Hugo Framework">Hugo Framework</a> per la generazione di siti statici.</li>
-<li>La homepage di <a class="text-info" href="https://www.netlify.com/" target="_blank" rel="nofollow" title="Netlify">Netlify</a> per il deploy di siti statici.</li>
-<li><a class="text-info" href="https://amzn.to/2Gm6zeJ" target="_blank" rel="nofollow" title="Vedi il libro Se tremi sull'orlo su Amazon">Se tremi sull'orlo. Lettere a un cercatore di sé</a> di Henry David Thoreau.</li>
+<li><a class="text-info" href="https://amzn.to/2EZLfJ9" target="_blank" rel="noopener" rel="nofollow" title="Tutti i libri di Jack London">Tutti i libri di Jack London</a>.</li>
+<li><a class="text-info" href="https://amzn.to/2EMOD94" target="_blank" rel="noopener" rel="nofollow" title="Tutti i libri di Carlo Rovelli">Tutti i libri di Carlo Rovelli</a>.</li>
+<li>Il sito del progetto <a class="text-info" href="http://scrittoreperstrada.blogspot.com/" target="_blank" rel="noopener" title="Scrittore per strada">Scrittore per strada</a> e <a class="text-info" href="https://amzn.to/2XPSJpy" target="_blank" rel="noopener" rel="nofollow" title="Tutti i libri di Walter Lazzarin">tutti i libri</a> di Walter Lazzarin.</li>
+<li>La homepage di <a class="text-info" href="https://gohugo.io/" target="_blank" rel="noopener" title="Hugo Framework">Hugo Framework</a> per la generazione di siti statici.</li>
+<li>La homepage di <a class="text-info" href="https://www.netlify.com/" target="_blank" rel="noopener" rel="nofollow" title="Netlify">Netlify</a> per il deploy di siti statici.</li>
+<li><a class="text-info" href="https://amzn.to/2Gm6zeJ" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Se tremi sull'orlo su Amazon">Se tremi sull'orlo. Lettere a un cercatore di sé</a> di Henry David Thoreau.</li>
 </ul>

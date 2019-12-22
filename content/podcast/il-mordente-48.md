@@ -19,7 +19,7 @@ Infine, non dimenticate: potete inviare messaggi vocali su Telegram o Whatsapp a
 ### Dicevo?
 
 <ul>
-<li><a href="https://open.spotify.com/episode/0bL1cnJZWCbkZA5Q4ugmC5" target="_blank" rel="nofollow" title="Ascolta: Il grande spirito siamo noi">Il grande spirito siamo noi</a>, il monologo a Campus Party 2019.</li>
-<li><a href="/podcast/il-mordente-42/" target="_blank" title="Ascolta: Meno format e più progetti di vita">Meno format e più progetti di vita</a>, il talk al Festival del Podcasting 2019.</li>
-<li><a href="https://omny.fm/shows/iab-podcast/il-punto-di-arrivo-riccardo-palombo-blogger" target="_blank" rel="nofollow" title="Ascolta: Il punto di arrivo">Il punto di arrivo</a>, l'intervista a IAB Forum 2019.</li>
+<li><a href="https://open.spotify.com/episode/0bL1cnJZWCbkZA5Q4ugmC5" target="_blank" rel="noopener" rel="nofollow" title="Ascolta: Il grande spirito siamo noi">Il grande spirito siamo noi</a>, il monologo a Campus Party 2019.</li>
+<li><a href="/podcast/il-mordente-42/" target="_blank" rel="noopener" title="Ascolta: Meno format e più progetti di vita">Meno format e più progetti di vita</a>, il talk al Festival del Podcasting 2019.</li>
+<li><a href="https://omny.fm/shows/iab-podcast/il-punto-di-arrivo-riccardo-palombo-blogger" target="_blank" rel="noopener" rel="nofollow" title="Ascolta: Il punto di arrivo">Il punto di arrivo</a>, l'intervista a IAB Forum 2019.</li>
 </ul>

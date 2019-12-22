@@ -19,10 +19,10 @@ Potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**,
 Ecco i consigli di questa settimana:
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2IkwpAU" target="_blank" rel="nofollow" title="Vedi il libro Salinger, la vera storia di un genio">Salinger. La vera storia di un genio</a> di Kenneth Slawenski.</li>
-<li><a class="text-info" href="https://amzn.to/2SGoQt8" target="_blank" rel="nofollow" title="Vedi il libro Come diventare vivi">Come diventare vivi</a> di Giuseppe Montesano.</li>
-<li><a class="text-info" href="https://amzn.to/2Saxfj8" target="_blank" rel="nofollow" title="Vedi il libro Discorso dell'ombra e dello stemma">Discorso dell'ombra e dello stemma</a> di Giorgio Manganelli.</li>
-<li><a class="text-info" href="https://amzn.to/2EgfnzF" target="_blank" rel="nofollow" title="Vedi il libro Il Giovane Holden">Il giovane Holden</a> di J.D. Salinger.</li>
-<li><a class="text-info" href="https://amzn.to/2EfXIYM" target="_blank" rel="nofollow" title="Vedi il libro Le più belle pagine. Scelte da Italo Calvino">Le più belle pagine. Scelte da Italo Calvino</a> di Tommaso Landolfi.</li>
-<li>Il sito per runner <a class="text-info" href="http://therunningpitt.com/" target="_blank" title="Vedi il sito The Running Pitt">The Running Pitt</a>.</li>
+<li><a class="text-info" href="https://amzn.to/2IkwpAU" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Salinger, la vera storia di un genio">Salinger. La vera storia di un genio</a> di Kenneth Slawenski.</li>
+<li><a class="text-info" href="https://amzn.to/2SGoQt8" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Come diventare vivi">Come diventare vivi</a> di Giuseppe Montesano.</li>
+<li><a class="text-info" href="https://amzn.to/2Saxfj8" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Discorso dell'ombra e dello stemma">Discorso dell'ombra e dello stemma</a> di Giorgio Manganelli.</li>
+<li><a class="text-info" href="https://amzn.to/2EgfnzF" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Il Giovane Holden">Il giovane Holden</a> di J.D. Salinger.</li>
+<li><a class="text-info" href="https://amzn.to/2EfXIYM" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Le più belle pagine. Scelte da Italo Calvino">Le più belle pagine. Scelte da Italo Calvino</a> di Tommaso Landolfi.</li>
+<li>Il sito per runner <a class="text-info" href="http://therunningpitt.com/" target="_blank" rel="noopener" title="Vedi il sito The Running Pitt">The Running Pitt</a>.</li>
 </ul>

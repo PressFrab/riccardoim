@@ -22,7 +22,7 @@ newsletter: current-menu-item
             </div>
 <div class="row-col-12">
             <div class="col-md-8 col-md-push-2 no-padding-left">             
-<p>Vorrei curare una nuova newsletter per segnalare la pubblicazione di una video recensione o l'arrivo di un evento speciale. Le recensioni non saranno frequenti quindi non sarà un continuo di e-mail. Se pensi che ti sia utile, e se ti va, iscriviti utilizzando il modulo sotto. Se non funziona, usa <a href="https://tinyletter.com/RiccardoIM" rel="nofollow" title="Iscriviti alla newsletter" target="_blank">questo link</a>.</p>
+<p>Vorrei curare una nuova newsletter per segnalare la pubblicazione di una video recensione o l'arrivo di un evento speciale. Le recensioni non saranno frequenti quindi non sarà un continuo di e-mail. Se pensi che ti sia utile, e se ti va, iscriviti utilizzando il modulo sotto. Se non funziona, usa <a href="https://tinyletter.com/RiccardoIM" rel="nofollow" title="Iscriviti alla newsletter" target="_blank" rel="noopener">questo link</a>.</p>
 </div>
         </div>
 <!-- Form Newsletter-->			  

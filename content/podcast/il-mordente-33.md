@@ -21,8 +21,8 @@ C'è dell'altro: il 12 ottobre 2019 parteciperò al <mark>Festival del Podcastin
 
 ### Consigli
 <ul>
-<li><a href="https://amzn.to/2YjKW3d" target="_blank" rel="nofollow" title="Vedi il libro L'anno della clessidra orizzontale">L'anno della clessidra orizzontale</a> di Giuseppe Ciponte.</li>
-<li><a href="https://www.internazionale.it/opinione/annamaria-testa/2019/06/10/scontenti-riusciti" target="_blank" rel="nofollow" title="Internazionale - Annamaria Testa">Scontenti di essere riusciti</a> su Internazionale.</li>
-<li><a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" rel="nofollow" title="Kindle Unlimited 30 giorni">Kindle Unlimited</a> gratis per 30 giorni.</li>
-<li><a href="https://festivaldelpodcasting.eventbrite.co.uk?discount=FRIEND-FREE" title="Festival del Podcasting 2019" target="_blank" rel="nofollow">Festival del Podcasting 2019</a>, con il codice FRIEND-FREE.</li>
+<li><a href="https://amzn.to/2YjKW3d" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro L'anno della clessidra orizzontale">L'anno della clessidra orizzontale</a> di Giuseppe Ciponte.</li>
+<li><a href="https://www.internazionale.it/opinione/annamaria-testa/2019/06/10/scontenti-riusciti" target="_blank" rel="noopener" rel="nofollow" title="Internazionale - Annamaria Testa">Scontenti di essere riusciti</a> su Internazionale.</li>
+<li><a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=eeepcit-21" target="_blank" rel="noopener" rel="nofollow" title="Kindle Unlimited 30 giorni">Kindle Unlimited</a> gratis per 30 giorni.</li>
+<li><a href="https://festivaldelpodcasting.eventbrite.co.uk?discount=FRIEND-FREE" title="Festival del Podcasting 2019" target="_blank" rel="noopener" rel="nofollow">Festival del Podcasting 2019</a>, con il codice FRIEND-FREE.</li>
 </ul>

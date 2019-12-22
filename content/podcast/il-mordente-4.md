@@ -18,11 +18,11 @@ Comunque sia: buon Natale! E, coraggio: inviatemi messaggi vocali su Telegram, W
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2Rja7T8" target="_blank" rel="nofollow" title="Vedi il libro Art of Atari su Amazon">The Art of Atari</a> di Tim Lapetino.</li>
-<li><a class="text-info" href="https://amzn.to/2QOI7HQ" target="_blank" rel="nofollow" title="Vedi il libro Scrittura dal futuro su Amazon">Freeman's. Scrittori dal futuro</a> di J. Freeman.</li>
-<li><a class="text-info" href="https://amzn.to/2QPdy4O" target="_blank" rel="nofollow" title="Vedi il libro Arte e Cervello su Amazon">Arte e cervello</a> di Maffei e Fiorentini.</li>
-<li>Podcast <a class="text-info" href="https://www.codenewbie.org/" target="_blank" title="Vedi Podcast Code Newbie">Code Newbie.</a></li>
-<li>Podcast <a class="text-info" href="https://developertea.com/" target="_blank" title="Vedi Podcast Developer Tea">Developer Tea.</a></li>
-<li>Contenuti di <a class="text-info" href="https://gaudio.org/" target="_blank" title="Vai al sito di Luigi Gaudio">Luigi Gaudio.</a></li>
-<li>Newsletter <a class="text-info" href="https://www.getrevue.co/profile/shift-happens" target="_blank" title="Newsletter Shift Happens">Shift Happens</a> di Marcin Wichary.</li>
+<li><a class="text-info" href="https://amzn.to/2Rja7T8" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Art of Atari su Amazon">The Art of Atari</a> di Tim Lapetino.</li>
+<li><a class="text-info" href="https://amzn.to/2QOI7HQ" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Scrittura dal futuro su Amazon">Freeman's. Scrittori dal futuro</a> di J. Freeman.</li>
+<li><a class="text-info" href="https://amzn.to/2QPdy4O" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Arte e Cervello su Amazon">Arte e cervello</a> di Maffei e Fiorentini.</li>
+<li>Podcast <a class="text-info" href="https://www.codenewbie.org/" target="_blank" rel="noopener" title="Vedi Podcast Code Newbie">Code Newbie.</a></li>
+<li>Podcast <a class="text-info" href="https://developertea.com/" target="_blank" rel="noopener" title="Vedi Podcast Developer Tea">Developer Tea.</a></li>
+<li>Contenuti di <a class="text-info" href="https://gaudio.org/" target="_blank" rel="noopener" title="Vai al sito di Luigi Gaudio">Luigi Gaudio.</a></li>
+<li>Newsletter <a class="text-info" href="https://www.getrevue.co/profile/shift-happens" target="_blank" rel="noopener" title="Newsletter Shift Happens">Shift Happens</a> di Marcin Wichary.</li>
 </ul>

@@ -20,7 +20,7 @@ Potete mandare un messaggio vocale (o di testo, se siete ~~timidi~~ introversi) 
 
 ### Consigli
 <ul>
-<li><a href="https://amzn.to/2WSxTnQ" target="_blank" rel="nofollow" title="Vedi il libro Lezioni di letteratura">Lezioni di letteratura</a> di Vladimir Nabokov.</li>
-<li><a href="https://italia.campus-party.org/cpit3-community-partner/" target="_blank" rel="nofollow" title="Registrati al Campus Party 2019">Campus Party Italia 2019</a> - ultimi biglietti gratuiti.</li>
-<li><a href="https://www.canon.it/press-centre/press-releases/2019/07/powershot-g5-g7-x-mark-ii-iii/" target="_blank" rel="nofollow" title="Canon G5X Mark II e G7X Mark III ufficiali">Le nuove PowerShot G5X e G7X</a> sul sito Canon.</li>
+<li><a href="https://amzn.to/2WSxTnQ" target="_blank" rel="noopener" rel="nofollow" title="Vedi il libro Lezioni di letteratura">Lezioni di letteratura</a> di Vladimir Nabokov.</li>
+<li><a href="https://italia.campus-party.org/cpit3-community-partner/" target="_blank" rel="noopener" rel="nofollow" title="Registrati al Campus Party 2019">Campus Party Italia 2019</a> - ultimi biglietti gratuiti.</li>
+<li><a href="https://www.canon.it/press-centre/press-releases/2019/07/powershot-g5-g7-x-mark-ii-iii/" target="_blank" rel="noopener" rel="nofollow" title="Canon G5X Mark II e G7X Mark III ufficiali">Le nuove PowerShot G5X e G7X</a> sul sito Canon.</li>
 </ul>
