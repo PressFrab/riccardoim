@@ -7,7 +7,7 @@ immagine_testa: https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_aut
 description: "Video recensione a Microsoft Surface Laptop 3. La prova con benchmark, autonomia e confronto con i migliori portatili Windows e Linux. Pubblicata da Riccardo Palombo."
 categoria: "1"
 rating: "4"
-brand: "Microsoft"
+brand: "Microsoft Corporation"
 layout: portatili/microsoft-surface-laptop-3
 video: https://www.youtube.com/embed/vEXWpESA8FA
 sommario: "Questo portatile"

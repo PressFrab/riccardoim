@@ -19,13 +19,14 @@
             <div class="col-md-2 no-padding-right col-sm-4">
                 <div class="atail-multitext inizio">
                     <span class="atail-multitext-title">RECENSIONE</span>
-                    <span class="atail-multitext-text">Online dal<span>
+                    <span class="atail-multitext-text">Brand <span>{{.Params.brand}}</span>                
+<span class="atail-multitext-text">Online dal<span>
                             {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
                         </span></span>
                     <span class="atail-multitext-text">Discussione
                     <span><a href="#disqus_thread" title="Leggi i commenti">Leggi i commenti</a></span>
                     </span>
-                    <span class="atail-multitext-text">Tempo di lettura <span>Circa 8-11 minuti</span></span>
+</span>
                 </div>
             </div>
 
