@@ -1,12 +1,13 @@
 ---
-title: "2019. Un anno terribile*"
-date: 2019-12-22T06:40:20+02:00
-numero: "50"
-slug: "il-mordente-50"
+title: "Di MacBook, watt e vecchi iMac"
+date: 2019-12-25T00:40:20+02:00
+numero: "1"
+slug: "tech-is-it-macbook"
 description: "Puntata 50 del podcast Il Mordente. Argomenti: Five Fingers, Assisi, corsa, mezza maratona, Boolean Careers, libri, letteratura e tech.is.it. Autore: Riccardo Palombo"
 featured_image: "v1577050688/Podcast/il-mordente-50.jpg"
 podcast: current-menu-item
-
+techisit: 1
+draft: true
 ---
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/20946605" data-resource="episode_id=20946605" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "2019. Un anno terribile*" su Spreaker.</a>
