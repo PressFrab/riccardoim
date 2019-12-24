@@ -4,7 +4,7 @@ date: 2019-12-09T07:00:20+02:00
 numero: "48"
 slug: "il-mordente-48"
 description: "Puntata 48 del podcast Il Mordente. La registrazione del mio talk al Social Media Strategies 2019 di Rimini. Autore: Riccardo Palombo"
-featured_image: "v1575734591/Podcast/il-mordente-48.jpg"
+featured_image: "v1577209029/Podcast/social-media-strategies.jpg"
 podcast: current-menu-item
 ---
 
