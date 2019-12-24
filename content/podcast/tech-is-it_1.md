@@ -1,6 +1,6 @@
 ---
 title: "Di MacBook, watt e vecchi iMac"
-date: 2019-12-25T00:40:20+02:00
+date: 2019-12-24T00:40:20+02:00
 numero: "1"
 slug: "tech-is-it-macbook"
 description: "Puntata 50 del podcast Il Mordente. Argomenti: Five Fingers, Assisi, corsa, mezza maratona, Boolean Careers, libri, letteratura e tech.is.it. Autore: Riccardo Palombo"

@@ -75,7 +75,11 @@
             </div>
        
     <div class="col-md-3 post-sidebar">
-        {{ partial "sidebar-iscriviti.html" . }}
+        {{ if ( .Params.techisit ) }} 
+            {{ partial "sidebar-iscriviti-techisit.html" . }}
+        {{else}}
+            {{ partial "sidebar-iscriviti.html" . }}
+        {{ end }}
         {{ partial "sidebar-newsletter.html" . }}
         {{ partial "sidebar-promo.html" . }}
         {{ partial "sidebar-ultimi.html" . }}
