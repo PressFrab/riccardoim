@@ -1,21 +1,17 @@
 ---
-title: "Di MacBook, watt e vecchi iMac"
+title: "Sul MacBook Pro 16 e su altre storie Apple"
 date: 2019-12-24T00:40:20+02:00
 numero: "1"
 slug: "tech-is-it-macbook"
-description: "Puntata 50 del podcast Il Mordente. Argomenti: Five Fingers, Assisi, corsa, mezza maratona, Boolean Careers, libri, letteratura e tech.is.it. Autore: Riccardo Palombo"
+description: "Puntata 1 del podcast Tech.is.it. Parliamo di Apple MacBook Pro 16 con Maurizio Natali di Saggiamente. Autore: Riccardo Palombo"
 featured_image: "v1577050688/Podcast/il-mordente-50.jpg"
 podcast: current-menu-item
 techisit: 1
 draft: true
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/20946605" data-resource="episode_id=20946605" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "2019. Un anno terribile*" su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/e/uXEhUqseRER" data-resource="episode_key=uXEhUqseRER" data-width="100%" data-height="350px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F15020a5c63f8a4414fee525deddaee85.jpg">Ascolta "Apple MacBook Pro 16 (e tutto il mondo attorno)" su Spreaker.</a>
 
-Il Mordente n°50 è una puntatona di fine anno. La immagino un podcast diviso a metà: primo tempo sulle prospettive 2020, sulla mezza maratona corsa ad Assisi, sulla scoperta delle **Five Fingers**. E una seconda parte concentrata sui libri, sulle migliori letture di quest'anno, su quegli argomenti che ci hanno portato fin qua. <mark>Ho selezionato 23 testi</mark>, e ne ho lasciati fuori altrettanti. Alla lista mancano tutti gli ebook: è uno degli svantaggi del non essere in libreria (e preferisco il cartaceo anche per questo), che poi è anche il loro minore impatto nel lungo periodo, quel non essere lì con gli altri che me li fa quasi dimenticare. 
+Nella prima puntata di Tech.is.it torno sul MacBook Pro 16. Nella recensione pubblicata giorni fa ho nominato l'ultimo prodotto di Apple ["il portatile dell'anno"](/recensioni/apple-macbook-pro-16/ "Video recensione MacBook Pro 16"), ed è un'investitura che richiede un approfondimento. Per questo motivo ho chiesto a Maurizio Natali (Saggiamente, Saggiopodcast, _"...e molte altre cose"_) il suo parere, le sue impressioni, e un'anticipazione di quella che sarà la sua valutazione. Ne è uscita una chiacchierata di cinquanta minuti con tutti i punti chiave (tastiera, temperature, prestazioni, schermo, prezzo di vendita) discussi senza una scaletta, ma con in mezzo aneddoti e divagazioni sull'informatica, sul collezionismo di vecchi Mac, sui consigli software per il montaggio video.
 
-In mezzo c'è la nuova promozione dei ragazzi di Boolean: si chiama **Money Back**, e sarà valida da febbraio 2020. Vi assicura un rimborso completo (100%) se non riuscite a trovare un lavoro dopo aver frequentato il corso. Ascoltate la puntata per farvi un'idea e poi approfondite i termini e le condizioni nel loro <a href="https://www.boolean.careers/" target="_blank" rel="nofollow noopener" title="Vai al sito di Boolean">sito ufficiale</a>. Non dimenticate di citarmi! Dite ai ragazzi che siete ascoltatori de Il Mordente ed avrete 200 euro di sconto.
-
-Ora che il progetto [tech.is.it](/podcast/il-mordente-49/ "Vi presento tech.is.it") è almeno avviato (sto montando la prima puntata del nuovo podcast proprio adesso, dal treno, e da domani inizierò a mettere gli occhi sul <strike>famoso</strike> fumoso video che aprirà la versione video - del tutto diversa, fidatevi), posso tornare a coccolare il mio Mordente. Che in parte significa anche coccolare voi. Riportare la community alla base delle mie idee (e non al centro, quello è mio dovere) è la prima promessa per il 2020. Tra qualche giorno vi dirò come sarà possibile partecipare attivamente a tutto questo. È tutto, torno al montaggio audio. Tutti i libri citati nella puntata sono nella [sezione libri](/libri/ "Vai alla sezione Libreria"). 
-
-*: solo un omaggio al "1933. Un anno terribile" di John Fante.
+[Tech.is.it](/podcast/il-mordente-49/ "Vi presento tech.is.it") è ancora un esperimento. L'idea è portare in audio, quando è necessario e quando va di farlo, i ragionamenti che hanno portato alle opinioni espresse in una video recensione o in un testo. Oppure parlare di strumenti e di tecnologie passate da queste parti e non ancora analizzate. Ma non è tutto: presto usciranno dei video YouTube nominati allo stesso modo dove i protagonisti non saranno i prodotti. Il primo episodio sarà online entro la fine del 2019.

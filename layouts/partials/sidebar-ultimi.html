@@ -1,13 +1,20 @@
 <div class="widget widget_atail_recent_posts_widget">
     <div class="widget-title"><span class="small-title">Ultimi podcast</span></div>
     <ul>
-         {{ range first 5 (where (where .Site.Pages "Section" "podcast") ".Title" "!=" "Podcast" )}}
+         {{ range first 4 (where (where .Site.Pages "Section" "podcast") ".Title" "!=" "Podcast" )}}
         <li>
-                <img data-src="https://res.cloudinary.com/rim/image/upload/w_50,c_scale,q_75,f_auto/{{.Params.featured_image }}" alt="{{ .Title }}" class="cld-responsive"/>
+                <img 
+                {{ if ( .Params.techisit ) }}
+                data-src="https://res.cloudinary.com/rim/image/upload/w_50,c_scale,q_75,f_auto/v1576760673/Podcast/tech-is-it.png"
+                {{else}}
+                    data-src="https://res.cloudinary.com/rim/image/upload/w_50,c_scale,q_75,f_auto/v1577130672/Podcast/il-mordente-podcast.jpg"
+                {{ end }}n° {{.Params.numero }}
+                
+                 alt="{{ .Title }}" class="cld-responsive"/>
             <div>
-                <a href="{{ .Permalink }}" title="Ascolta{{ if ( .Params.techisit ) }} Tech.is.it {{else}} Il Mordente {{ end }}n° {{.Params.numero }}">{{ .Title }}</a>
+                <a href="{{ .Permalink }}" title="Ascolta{{ if ( .Params.techisit ) }} Tech.is.it {{else}} Il Mordente {{ end }}n° {{.Params.numero }}">{{ .Title | truncate 35 "..."}}</a>
                 <div class="recent-post-info">
-                    <span class="post-author">{{ if ( .Params.techisit ) }} Tech.is.it {{else}} Il Mordente {{ end }}n° {{.Params.numero }}</span>
+                    <span class="post-author">Puntata {{.Params.numero }}</span>
                 </div>
             </div>
         </li>
