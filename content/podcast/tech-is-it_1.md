@@ -1,16 +1,15 @@
 ---
 title: "Alla ricerca del MacBook perduto"
-date: 2019-12-24T00:40:20+02:00
+date: 2019-12-26T07:00:20+02:00
 numero: "1"
 slug: "tech-is-it-macbook"
-description: "Puntata 1 del podcast Tech.is.it. Parliamo di Apple MacBook Pro 16 con Maurizio Natali di Saggiamente. Autore: Riccardo Palombo"
+description: "Nella prima puntata del podcast Tech.is.it parliamo di Apple MacBook Pro 16 con Maurizio Natali di Saggiamente. Autore: Riccardo Palombo"
 featured_image: "v1577209144/Podcast/apple-macbook-pro-16.jpg"
 podcast: current-menu-item
 techisit: 1
-draft: true
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/e/uXEhUqseRER" data-resource="episode_key=uXEhUqseRER" data-width="100%" data-height="350px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F15020a5c63f8a4414fee525deddaee85.jpg">Ascolta "Apple MacBook Pro 16 (e tutto il mondo attorno)" su Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/e/uXEhUqseRER" data-resource="episode_key=uXEhUqseRER" data-width="100%" data-height="350px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F15020a5c63f8a4414fee525deddaee85.jpg">Ascolta "Alla ricerca del MacBook perduto (feat. Maurizio Natali)" su Spreaker.</a>
 
 Nella prima puntata di Tech.is.it torno sul MacBook Pro 16. Nella recensione pubblicata giorni fa ho nominato l'ultimo prodotto di Apple «[il portatile dell'anno](/recensioni/apple-macbook-pro-16/ "Video recensione MacBook Pro 16")», ed è un'investitura che richiede un approfondimento. Per questo motivo ho chiesto a Maurizio Natali (Saggiamente, Saggiopodcast, _"...e molte altre cose"_) il suo parere, le sue impressioni, e un'anticipazione di quella che sarà la sua valutazione. Ne è uscita una chiacchierata di cinquanta minuti con tutti i punti chiave (tastiera, temperature, prestazioni, schermo, prezzo di vendita) discussi senza una scaletta, ma con in mezzo aneddoti e divagazioni sull'informatica, sul collezionismo di vecchi Mac, sui consigli software per il montaggio video.
 
