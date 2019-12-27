@@ -20,8 +20,8 @@ Ecco i libri consigliati questa settimana:
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2th8k3G" target="_blank" rel="nofollow" title="Vedi l'articolo">Hit Refresh</a> di Satya Nadella.</li>
-<li><a class="text-info" href="https://amzn.to/2Gln8a2" target="_blank" rel="nofollow" title="Vedi il libro Billy Budd">Billy Budd</a> di Herman Melville.</li>
-<li><a class="text-info" href="https://amzn.to/2BtL4E6" target="_blank" rel="nofollow" title="Vedi il libro La speculazione edilizia">La speculazione edilizia</a> di Italo Calvino.</li>
-<li><a class="text-info" href="https://amzn.to/2SaDskb" target="_blank" rel="nofollow" title="Vedi il libro Tecnologie Radicali">Tecnologie radicali.</a> di Adam Greenfield.</li>
+<li><a class="text-info" href="https://amzn.to/2th8k3G" target="_blank" rel="nofollow noopener" title="Vedi l'articolo">Hit Refresh</a> di Satya Nadella.</li>
+<li><a class="text-info" href="https://amzn.to/2Gln8a2" target="_blank" rel="nofollow noopener" title="Vedi il libro Billy Budd">Billy Budd</a> di Herman Melville.</li>
+<li><a class="text-info" href="https://amzn.to/2BtL4E6" target="_blank" rel="nofollow noopener" title="Vedi il libro La speculazione edilizia">La speculazione edilizia</a> di Italo Calvino.</li>
+<li><a class="text-info" href="https://amzn.to/2SaDskb" target="_blank" rel="nofollow noopener" title="Vedi il libro Tecnologie Radicali">Tecnologie radicali.</a> di Adam Greenfield.</li>
 </ul>

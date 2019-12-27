@@ -20,7 +20,7 @@ Ecco i consigli di questa settimana:
 ### Consigli
 <ul>
 <li><a class="text-info" href="https://medium.com/@Melt_Dem/im-not-an-international-drug-dealer-3e8e3c75c57c" target="_blank" title="Vedi l'articolo su Medium ">I’m Not an International Drug Dealer. So Why Do I Need Privacy?</a> su Medium</li>
-<li><a class="text-info" href="https://amzn.to/2Jpt2aK" target="_blank" rel="nofollow" title="Vedi il libro La Cultura 1000">La Cultura 1000</a> di Il Saggiatore.</li>
-<li><a class="text-info" href="https://amzn.to/2WuyX20" target="_blank" rel="nofollow" title="Vedi il libro su Cechov">Capolavori</a> di Anton Cechov.</li>
-<li><a class="text-info" href="https://amzn.to/2DDk46m" target="_blank" rel="nofollow" title="Vedi il libro Imparare a scrivere con i grandi">Imparare a scrivere con i grandi</a> di Guido Conti.</li>
+<li><a class="text-info" href="https://amzn.to/2Jpt2aK" target="_blank" rel="nofollow noopener" title="Vedi il libro La Cultura 1000">La Cultura 1000</a> di Il Saggiatore.</li>
+<li><a class="text-info" href="https://amzn.to/2WuyX20" target="_blank" rel="nofollow noopener" title="Vedi il libro su Cechov">Capolavori</a> di Anton Cechov.</li>
+<li><a class="text-info" href="https://amzn.to/2DDk46m" target="_blank" rel="nofollow noopener" title="Vedi il libro Imparare a scrivere con i grandi">Imparare a scrivere con i grandi</a> di Guido Conti.</li>
 </ul>

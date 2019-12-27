@@ -19,8 +19,8 @@ Ecco i libri discussi questa settimana:
 
 ### Consigli
 <ul>
-<li><a class="text-info" href="https://amzn.to/2CkuHtP" target="_blank" rel="nofollow" title="Vedi il libro In un batter d'occhi">In un batter d'occhi. Una prospettiva sul montaggio cinematografico nell'era digitale</a> di Walter Murch.</li>
-<li><a class="text-info" href="https://amzn.to/2UIjsT8" target="_blank" rel="nofollow" title="Vedi il libro Running Anatomy">Running Anatomy</a> di Joe Puleo e Patrick Milroy.</li>
-<li><a class="text-info" href="https://amzn.to/2Y6gjyD" target="_blank" rel="nofollow" title="Vedi il libro Mastering Bitcoin: Programming the Open Blockchain">Mastering Bitcoin: Programming the Open Blockchain</a> di Andreas Antonopoulos.</li>
-<li><a class="text-info" href="https://amzn.to/2HGfnek" target="_blank" rel="nofollow" title="Vedi il libro Filosofia della percezione">Filosofia della percezione</a> di Clotilde Calabi.</li>
+<li><a class="text-info" href="https://amzn.to/2CkuHtP" target="_blank" rel="nofollow noopener" title="Vedi il libro In un batter d'occhi">In un batter d'occhi. Una prospettiva sul montaggio cinematografico nell'era digitale</a> di Walter Murch.</li>
+<li><a class="text-info" href="https://amzn.to/2UIjsT8" target="_blank" rel="nofollow noopener" title="Vedi il libro Running Anatomy">Running Anatomy</a> di Joe Puleo e Patrick Milroy.</li>
+<li><a class="text-info" href="https://amzn.to/2Y6gjyD" target="_blank" rel="nofollow noopener" title="Vedi il libro Mastering Bitcoin: Programming the Open Blockchain">Mastering Bitcoin: Programming the Open Blockchain</a> di Andreas Antonopoulos.</li>
+<li><a class="text-info" href="https://amzn.to/2HGfnek" target="_blank" rel="nofollow noopener" title="Vedi il libro Filosofia della percezione">Filosofia della percezione</a> di Clotilde Calabi.</li>
 </ul>

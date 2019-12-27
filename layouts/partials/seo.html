@@ -1,5 +1,5 @@
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
-    <title>{{if eq .Section "podcast"}}Il Mordente | {{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }}Pagina {{ .Paginator.PageNumber }} | {{ end }}{{ end }}{{end}}{{if eq .Section "recensioni"}}Recensione {{end}}{{ .Title | default .Site.Title }}{{ if not .IsHome }} - Riccardo.im{{ end }}</title>
+    <title>{{if eq .Section "podcast"}}{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }}Pagina {{ .Paginator.PageNumber }} | {{ end }}{{ end }}{{end}}{{if eq .Section "recensioni"}}Recensione {{end}}{{ .Title | default .Site.Title }}{{ if not .IsHome }} - Riccardo.im{{ end }}</title>
     <link rel="canonical" href="{{ .Permalink}}" />
 
     <!-- Twitter Card -->
@@ -32,7 +32,13 @@
       "name": "{{ .Site.Title }}",
        "author": {
           "@type": "Person",
-          "name": "{{ .Site.Params.author }}"
+          "name": "{{ .Site.Params.author }}",
+          "sameAs": [
+          "https://www.instagram.com/riccardopalombo",
+          "https://www.twitter.com/riccardopalombo",
+          "https://youtube.com/riccardopalombo",
+          "https://it-it.facebook.com/riccardo.palombo.52"            
+        ]
         },
       "description": "{{ .Site.Params.description }}",
       "image": "https://riccardo.im/img/android-chrome-512x512.png"
@@ -87,7 +93,13 @@
             },
             "author": {
               "@type": "Person",
-              "name": "Riccardo Palombo"
+              "name": "Riccardo Palombo",
+              "sameAs": [
+              "https://www.instagram.com/riccardopalombo",
+              "https://www.twitter.com/riccardopalombo",
+              "https://youtube.com/riccardopalombo",
+              "https://it-it.facebook.com/riccardo.palombo.52"             
+            ]
             }
           }
         }
@@ -101,7 +113,13 @@
           "image": "https://riccardo.im/img/android-chrome-512x512.png",
            "author": {
               "@type": "Person",
-              "name": "{{ .Site.Params.author }}"
+              "name": "{{ .Site.Params.author }}",
+              "sameAs": [
+              "https://www.instagram.com/riccardopalombo",
+              "https://www.twitter.com/riccardopalombo",
+              "https://youtube.com/riccardopalombo",
+              "https://it-it.facebook.com/riccardo.palombo.52"             
+            ]
             },
           "description": "{{ .Description }}"
         }

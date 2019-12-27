@@ -7,7 +7,7 @@ immagine_testa: https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_aut
 description: "La video recensione a Lenovo ThinkBook 13s. Benchmark, aggiornamento hardware, autonomia e confronto con i migliori portatili Windows e Linux. Pubblicata da Riccardo Palombo."
 categoria: "1"
 rating: "4.5"
-brand: "Lenovo"
+brand: "Lenovo Group Limited"
 layout: portatili/lenovo-thinkbook-13s
 video: https://www.youtube.com/embed/rEIh12ctsuE
 sommario: "Ecco un portatile da 13 pollici che posso consigliare."

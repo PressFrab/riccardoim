@@ -24,7 +24,7 @@ Poi. La promozione dello sponsor di questa puntata è in linea con i tempi moder
 
 ### Consiglio:
 <ul>
-<li>L'offerta di <a href="https://nordvpn.org/palombo" target="_blank" rel="nofollow" title="Offerta NordVPN -70% Palombo">NordVPN</a> con il codice: PALOMBO.</li>
-<li><a href="https://omny.fm/shows/iab-podcast/il-punto-di-arrivo-riccardo-palombo-blogger" target="_blank" rel="nofollow" title="Riccardo Palombo a IAB Forum 2019">Il punto di arrivo</a>, il mio intervento a IAB Forum 2019.</li>
-<li>Il libro <a href="https://amzn.to/33z9VSV" target="_blank" rel="nofollow" title="Vedi il libro Cromorama">Cromorama</a>, di Riccardo Falcinelli.</li>
+<li>L'offerta di <a href="https://nordvpn.org/palombo" target="_blank" rel="nofollow noopener" title="Offerta NordVPN -70% Palombo">NordVPN</a> con il codice: PALOMBO.</li>
+<li><a href="https://omny.fm/shows/iab-podcast/il-punto-di-arrivo-riccardo-palombo-blogger" target="_blank" rel="nofollow noopener" title="Riccardo Palombo a IAB Forum 2019">Il punto di arrivo</a>, il mio intervento a IAB Forum 2019.</li>
+<li>Il libro <a href="https://amzn.to/33z9VSV" target="_blank" rel="nofollow noopener" title="Vedi il libro Cromorama">Cromorama</a>, di Riccardo Falcinelli.</li>
 </ul>

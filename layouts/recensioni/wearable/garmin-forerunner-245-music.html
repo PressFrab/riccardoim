@@ -7,34 +7,7 @@
             <div class="col-md-8 no-padding-left col-sm-8">
                 <div class="promo-box recensioni">
                     <div class="small-title">
-                        <!-- SHARE -->
-                        <div class="jssocials-shares post-content-header">
-                            <div class="jssocials-share">
-                                <a target="_blank" href="https://facebook.com/sharer/sharer.php?u={{.Permalink}}" rel="noopener" class="jssocials-share-link" title="Condividi su Facebook">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-facebook" width="13" height="81"
-                                        alt="Condividi su Facebook">
-                                </a>
-                            </div>
-
-                            <div class="jssocials-share">
-                                <a target="_blank" href="https://twitter.com/share?url={{.Permalink}}&amp;text=Recensione%20{{.Title}}%20di%20%40riccardopalombo" rel="noopener" class="jssocials-share-link" title="Condividi su Twitter">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-twitter" width="13" height="81"
-                                        alt="Condividi su Twitter">
-                                </a>
-                            </div>
-
-                            <div class="jssocials-share">
-                                <a target="_blank" href="https://reddit.com/submit?url={{.Permalink}}&amp;title=Recensione%20{{.Title}}" rel="noopener" class="jssocials-share-link" title="Condividi su Reddit">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-reddit" width="13" height="81"
-                                        alt="Condividi su Reddit">
-                                </a>
-                            </div>
-                        </div>
-                        <!-- FINE SHARE -->
-
+                        {{ partial "share.html" . }}
                     </div>
                     <h1>Garmin 245 Music</h1>
                     <p>{{.Params.sommario}}</p>
@@ -43,13 +16,13 @@
             <div class="col-md-2 no-padding-right col-sm-4">
                 <div class="atail-multitext inizio">
                     <span class="atail-multitext-title">RECENSIONE</span>
-                    <span class="atail-multitext-text">Online dal<span>
+                    <span class="atail-multitext-text">Brand <span>{{.Params.brand}}</span></span>                  
+<span class="atail-multitext-text">Online dal<span>
                             {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
                         </span></span>
                     <span class="atail-multitext-text">Discussione
                     <span><a href="#disqus_thread" title="Leggi i commenti">Leggi i commenti</a></span>
-                    </span>
-                    <span class="atail-multitext-text">Tempo di lettura <span>20-27 minuti</span></span>
+</span>
                 </div>
             </div>
 
@@ -281,7 +254,7 @@
                 </p>
                 <p>
                     Io le uso da anni. Le trovo perfette per fare sport. Sono resistenti perché l'archetto è in titanio, perché sono leggere al punto da non sentirle, con un'autonomia di giorni e un volume adeguato. Scrivo queste righe dopo tre settimane di test e non ho
-                    avuto una singola disconnessione con il Forerunner 245 Music. Le Trekz Titanium costano <a href="https://amzn.to/2G76KYL" title="Vedi auricolari Trekz Titanium su Amazon" rel="nofollow" target="_blank">circa 80 euro</a>                    su Amazon. Se fate sport con la musica, e soprattutto se preferite farlo all'aria aperta senza isolarvi, vi consiglio di provarle.
+                    avuto una singola disconnessione con il Forerunner 245 Music. Le Trekz Titanium costano <a href="https://amzn.to/2G76KYL" title="Vedi auricolari Trekz Titanium su Amazon" rel="nofollow noopener" target="_blank">circa 80 euro</a> su Amazon. Se fate sport con la musica, e soprattutto se preferite farlo all'aria aperta senza isolarvi, vi consiglio di provarle.
                 </p>
 
             </div>
@@ -296,7 +269,7 @@
                     non è la predefinita, ma è quella che dà i risultati migliori su Forerunner 935.
                 </p>
                 <p>
-                    Le tracce GPS importate su Google Maps danno tracciati meno attendibili di quelle originali (viste su Garmin Connect o su <a href="https://www.strava.com/athletes/12993620" title="Riccardo Palombo su Strava" rel="nofollow" target="_blank">Strava</a>)
+                    Le tracce GPS importate su Google Maps danno tracciati meno attendibili di quelle originali (viste su Garmin Connect o su <a href="https://www.strava.com/athletes/12993620" title="Riccardo Palombo su Strava" rel="nofollow noopener" target="_blank">Strava</a>)
                     ma credo siano dettagli non discriminanti perché non danno fastidio ai conteggi finali. L'esperienza mi dice che è normale aspettarsi spostamenti di qualche metro su una carreggiata, così come qualche taglio alle curve e una certa
                     instabilità da una giornata all'altra. Per dire: l'importante è portare il tracciato a casa, sempre e comunque, senza i blocchi e le stime del tutto sballate di qualche anno fa. Affidabilità prima di tutto.
                 </p>
@@ -372,7 +345,7 @@
                     Anche nel confronto cardio c'è un leggero ritardo rispetto al 935. Il 245 usa una versione aggiornata del sensore Elevate ed è possibile che abbia bisogno di rodaggio. Oppure: <mark>è possibile che sia questa la lettura più fedele</mark>,
                     e non quella del 935. Non sono riuscito a fare un confronto con la fascia cardio per una serie di impicci (il più importante: la mia si è rotta) ma a pensarci bene non è un argomento di vero interesse. Vale quanto detto nel video:
                     chi fa fede alla frequenza cardiaca per allenamenti diversi dalla corsa lenta, dal lungo in bici, dal nuoto in piscina (a proposito: il sensore al polso è spento mentre si nuota), deve usare la fascia toracica. I modelli Garmin costano
-                    il giusto (<a href="https://amzn.to/2G2sEMQ" title="Garmin HRM Run e Swim" target="_blank" rel="nofollow">vedi prezzi su Amazon</a>) e sono fenomenali per comodità e sensoristica. Tutti gli altri possono vivere tranquilli controllando
+                    il giusto (<a href="https://amzn.to/2G2sEMQ" title="Garmin HRM Run e Swim" target="_blank" rel="nofollow noopener">vedi prezzi su Amazon</a>) e sono fenomenali per comodità e sensoristica. Tutti gli altri possono vivere tranquilli controllando
                     i battiti per minuto dopo una corsa media o un lento, meglio se nel lungo periodo.
                 </p>
             </div>
@@ -504,7 +477,7 @@
                     A proposito di <strong>notifiche</strong> e di integrazione con lo smartphone: si ha lo stesso comportamento degli altri Forerunner e, quindi, la possibilità di rispondere con messaggi pre-impostati o faccine soltanto su Android. Chi
                     usa iPhone può visualizzare i messaggi (anche lunghi, su più schermate), accettare o meno una chiamata, rimandare o spegnere le sveglie, e far squillare il telefono a distanza. La segnalazione delle notifiche può essere disattivata
                     durante l'attività, o si può scegliere se ricevere soltanto le chiamate e gli SMS. Chi ha bisogno di tutti i dettagli sulle opzioni di FR245 può leggere il <a href="https://www8.garmin.com/manuals/webhelp/forerunner245/IT-IT/GUID-7331A37C-ED58-4C8E-B802-ADB5C1620C98-homepage.html"
-                        title="Manuale utente Garmin FR245" rel="nofollow" target="_blank">manuale utente</a>.
+                        title="Manuale utente Garmin FR245" rel="nofollow noopener" target="_blank">manuale utente</a>.
                 </p>
             </div>
         </div>
@@ -556,7 +529,7 @@
             <div class="col-md-8 col-md-push-2 no-padding-left">
                 <aside class="yt-iscriviti">
                     <span class="atail-multitext-text">ACQUISTA SU AMAZON E SUPPORTAMI</span>
-                    <a href="https://amzn.to/2Vo4lm3" rel="nofollow" target="_blank" title="Aiutami a migliorare il podcast e il sito">
+                    <a href="https://amzn.to/2Vo4lm3" rel="nofollow noopener" target="_blank" title="Aiutami a migliorare il podcast e il sito">
                                             <img data-src="https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_75,f_auto/v1562766484/amazon.png" alt="Supporta Riccardo.im" class="cld-responsive lazyload" />
                                         </a>
                 </aside>

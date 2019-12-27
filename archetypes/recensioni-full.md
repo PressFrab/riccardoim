@@ -7,6 +7,7 @@ immagine_testa: "{{ .Name }}.jpg"
 description: "Recensione a {{ replace .Name "-" " " | title }} di Riccardo Palombo."
 categoria: "1"
 rating: "3"
+brand: 
 draft: true
 jquery: "1"
 layout: nuove

@@ -7,38 +7,7 @@
             <div class="col-md-8 no-padding-left col-sm-8">
                 <div class="promo-box recensioni">
                     <div class="small-title">
-                        <!-- SHARE -->
-                        <div class="jssocials-shares post-content-header">
-                            <div class="jssocials-share">
-                                <a target="_blank" href="https://facebook.com/sharer/sharer.php?u={{.Permalink}}"
-                                    rel="noopener" class="jssocials-share-link" title="Condividi su Facebook">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-facebook" width="13" height="81"
-                                        alt="Condividi su Facebook">
-                                </a>
-                            </div>
-
-                            <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://twitter.com/share?url={{.Permalink}}&amp;text=Recensione%20{{.Title}}%20di%20%40riccardopalombo"
-                                    rel="noopener" class="jssocials-share-link" title="Condividi su Twitter">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-twitter" width="13" height="81"
-                                        alt="Condividi su Twitter">
-                                </a>
-                            </div>
-
-                            <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://reddit.com/submit?url={{.Permalink}}&amp;title=Recensione%20{{.Title}}"
-                                    rel="noopener" class="jssocials-share-link" title="Condividi su Reddit">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-reddit" width="13" height="81" alt="Condividi su Reddit">
-                                </a>
-                            </div>
-                        </div>
-                        <!-- FINE SHARE -->
-
+                        {{ partial "share.html" . }}
                     </div>
                     <h1>MacBook Pro 16</h1>
                     <p>{{.Params.sommario}}
@@ -48,14 +17,13 @@
             <div class="col-md-2 no-padding-right col-sm-4">
                 <div class="atail-multitext inizio">
                     <span class="atail-multitext-title">RECENSIONE</span>
+                    <span class="atail-multitext-text">Brand <span>{{.Params.brand}}</span></span>
                     <span class="atail-multitext-text">Online da<span>
                             {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
                         </span></span>
                     <span class="atail-multitext-text">Discussione
                         <span><a href="#disqus_thread" title="Leggi i commenti">Leggi i commenti</a></span>
                     </span>
-                    <span class="atail-multitext-text">Tempo di lettura <span>Circa
-                            23-31 minuti</span></span>
                 </div>
             </div>
 
@@ -77,11 +45,6 @@
             <div class="col-md-2"></div>
 
             <div class="col-md-8 no-padding-left" style="margin-bottom:80px">
-                <aside class="yt-iscriviti">
-                    <span class="atail-multitext-text">ISCRIVITI AL NUOVO CANALE YOUTUBE</span>
-                    <div class="g-ytsubscribe" data-channelid="UCIdYIrInVnUwHVbogLj6bqA" data-layout="full"
-                        data-count="default"></div>
-                </aside>
                 <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> La vita è schizzinosa e richiede un concorso di circostanze
                     assai particolari, ma questa recensione a <strong>MacBook Pro da 16 pollici</strong> sarà netta e
                     schietta perché il prodotto è netto e schietto. Ho un compito facile che posso sbrigare così: vi
@@ -93,7 +56,7 @@
                     derivato di <em>ducĕre</em> "condurre", quindi concludere quel che avete in testa, portarlo in
                     una forma che altri possono esperire, buttarlo fuori). Perché è vero che costa quanto il vecchio 15
                     pollici nonostante le novità (tastiera, schermo, impianto termico, memoria SSD doppia, altoparlanti,
-                    microfoni) ma sono comunque <a href="https://amzn.to/36gOWoH" rel="nofollow"
+                    microfoni) ma sono comunque <a href="https://amzn.to/36gOWoH" rel="nofollow noopener"
                         title="Apple MacBook Pro 16 in offerta su Amazon" target="_blank">2799 euro</a> per la
                     configurazione base e non c'è da scherzare con
                     quasi-tremila-euro per un portatile.
@@ -185,7 +148,7 @@
                     hamburger) può usare sia il Tone Mapping sui software supportati per non perdere le informazioni più
                     luminose nei flussi HDR quando lavorati su monitor standard (EDR, ovvero <a
                         href="https://developer.apple.com/documentation/metal/drawable_objects/displaying_hdr_content_in_a_metal_layer"
-                        rel="nofollow" title="Displaying HDR Content in a Metal Layer" target="_blank">Extended Dynamic
+                        rel="nofollow noopener" title="Displaying HDR Content in a Metal Layer" target="_blank">Extended Dynamic
                         Range</a>), sia il cambio di frequenza per adeguarsi alla fluidità del filmato in riproduzione
                     (47.95, 48, 50, 59.94, 60 Hz). Non inserisco in questo paragrafo le cornici ridotte dovute alla
                     nuova diagonale nel telaio di sempre, perché non è una cosa speciale. Anzi, era l'ora.
@@ -227,7 +190,7 @@
                         title="Carnemonìa" target="_blank">puntata 46</a> de Il Mordente, uscita il 25 novembre 2019, ho
                     risposto alla domanda di un utente dai microfoni del MacBook Pro 16. E sul canale Telegram ho
                     lasciato un <a href="https://t.me/riccardopalombo/883" title="Canale Telegram Riccardo Palombo"
-                        target="_blank">messaggio vocale</a> catturato allo stesso modo. Anche il Soundcheck linkato
+                        target="_blank" rel="nofollow noopener">messaggio vocale</a> catturato allo stesso modo. Anche il Soundcheck linkato
                     poco sopra è registrato dai suoi microfoni. La qualità basta per il doppiaggio in mobilità di un
                     video, o a registrare una traccia audio da editare, poi, per una pubblicazione impegnata. Non
                     sostituiscono un microfono da studio, dinamico o a condensatore che sia (anche perché non c'è
@@ -320,7 +283,7 @@
                     Ora, non voglio darvi un'informazione per un'altra quindi ripeto quel che ho detto nel lungo
                     discorso del video: è una tastiera ottima e vi piacerà. <a
                         href="https://www.youtube.com/watch?v=AbbFQGhzRmY"
-                        title="Soundcheck // Apple MacBook Pro 16 con Magic Keyboard" target="_blank" rel="nofollow">Fa
+                        title="Soundcheck // Apple MacBook Pro 16 con Magic Keyboard" target="_blank" rel="nofollow noopener">Fa
                         anche un suono che dà meno fastidio</a>. Ma ha una resa un po' banale, ecco, troppo comune per
                     tipi come me. A questo punto, se devo schiacciare plastica quasi-morbida, torno sul ThinkPad X1. Una
                     nota tecnica: Apple ha usato la struttura della Magic Keyboard per iMac ma ha dovuto rivedere il
@@ -660,7 +623,7 @@
                 <div>
                     <h3 class="small-title">IL GHIRIBIZZO</h3>
                     <p>
-                        La <a href="https://amzn.to/348pa4H" rel="nofollow" title="Custodia MacBook Pro 16 pollici" target="_blank"
+                        La <a href="https://amzn.to/348pa4H" rel="nofollow noopener" title="Custodia MacBook Pro 16 pollici" target="_blank"
                         style="color:white">custodia in pelle da 219 euro</a> è una meraviglia, ma ha un prezzo folle e non dirò nulla per farvi cambiare idea. Ho avuto la fortuna di usarla in questi giorni di prova (così come di tenere per tutta l'estate quella del Pro 13) e l'ho trovata leggera, bella, profumata, aderente. Non la comprate a prezzo pieno ma prendetela in considerazione come regalo, magari, se conoscete una persona speciale.</p>
                 </div>
             </div>
@@ -685,7 +648,7 @@
             <div class="col-md-8 col-md-push-2 no-padding-left">
                 <aside class="yt-iscriviti">
                     <span class="atail-multitext-text">APPLE + AMAZON = ❤️</span>
-                    <a href="https://amzn.to/36gOWoH" rel="nofollow" target="_blank"
+                    <a href="https://amzn.to/36gOWoH" rel="nofollow noopener" target="_blank"
                         title="Vedi offerte e sconti MacBook Pro 16 su Amazon">
                         <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1575885201/Macbook-Pro-16/apple-macbook-pro-16-amazon.jpg"
                             alt="MacBook Pro 16 su Amazon" class="cld-responsive lazyload" style="max-width:100%" />
@@ -799,5 +762,4 @@
     cl.responsive()
 </script>
 <script src='{{.Site.BaseURL}}js/lightbox.js' async></script>
-<script async src="https://apis.google.com/js/platform.js"></script>
 {{ partial "footer-review.html" . }}

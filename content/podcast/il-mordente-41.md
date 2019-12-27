@@ -18,9 +18,9 @@ Nella puntata 41 de Il Mordente (a proposito, ho fatto fare gli adesivi del podc
 
 ### Consiglio:
 <ul>
-<li>Il <a href="https://www.boolean.careers/" target="_blank" rel="nofollow" title="Vai al sito di Boolean. Diventa sviluppatore web">corso Boolean</a> per diventare sviluppatori web.</li>
-<li>Il libro <a href="https://amzn.to/2LWVpg6" target="_blank" rel="nofollow" title="Vedi il libro Un colore tira l'altro">Un colore tira l'altro</a> di Michel Pastoureau.</li>
-<li>Il libro <a href="https://amzn.to/2ZMEq9Y" target="_blank" rel="nofollow" title="Vedi il libro TED Talks: The official TED guide to public speaking">TED Talks: The official TED guide to public speaking</a> di Chris Anderson.</li>
-<li>Il libro <a href="https://amzn.to/2V0lHC4" target="_blank" rel="nofollow" title="Vedi il libro Cronosisma su Amazon">Cronosisma</a> di Kurt Vonnegut.</li>
+<li>Il <a href="https://www.boolean.careers/" target="_blank" rel="nofollow noopener" title="Vai al sito di Boolean. Diventa sviluppatore web">corso Boolean</a> per diventare sviluppatori web.</li>
+<li>Il libro <a href="https://amzn.to/2LWVpg6" target="_blank" rel="nofollow noopener" title="Vedi il libro Un colore tira l'altro">Un colore tira l'altro</a> di Michel Pastoureau.</li>
+<li>Il libro <a href="https://amzn.to/2ZMEq9Y" target="_blank" rel="nofollow noopener" title="Vedi il libro TED Talks: The official TED guide to public speaking">TED Talks: The official TED guide to public speaking</a> di Chris Anderson.</li>
+<li>Il libro <a href="https://amzn.to/2V0lHC4" target="_blank" rel="nofollow noopener" title="Vedi il libro Cronosisma su Amazon">Cronosisma</a> di Kurt Vonnegut.</li>
 <li>Il podcast <a href="http://www.giorgiotave.it/fastforward/" target="_blank" title="Vai al sito di Giorgio Taverniti">Fast Forward</a> di Giorgio Taverniti.</li>
 </ul>

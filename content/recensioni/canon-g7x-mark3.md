@@ -7,7 +7,7 @@ immagine_testa: "https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_au
 description: "Recensione a Canon PowerShot G7C Mark 3 di Riccardo Palombo. Video e scatti di prova."
 categoria: "1"
 rating: "3.5"
-brand: "Canon"
+brand: "Canon Inc."
 jquery: "1"
 layout: canon-g7x-mark3
 video: https://www.youtube.com/embed/JbL2Cgdlw7Q

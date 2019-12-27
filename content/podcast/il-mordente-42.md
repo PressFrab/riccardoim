@@ -22,6 +22,6 @@ La puntata inizia con aggiornamento sull'umore, sulla corsa, sul perché chi vie
 
 ### Consiglio:
 <ul>
-<li><a class="text-info" href="https://amzn.to/2Saxfj8" target="_blank" rel="nofollow" title="Vedi il libro Discorso dell'ombra e dello stemma">Discorso dell'ombra e dello stemma</a> di Giorgio Manganelli.</li>
-<li><a href="https://amzn.to/2ZQtMik" target="_blank" rel="nofollow" title="Vedi il libro Norme per la redazione di un testo radiofonico">Norme per la redazione di un testo radiofonico</a> di Carlo E. Gadda.</li>
+<li><a class="text-info" href="https://amzn.to/2Saxfj8" target="_blank" rel="nofollow noopener" title="Vedi il libro Discorso dell'ombra e dello stemma">Discorso dell'ombra e dello stemma</a> di Giorgio Manganelli.</li>
+<li><a href="https://amzn.to/2ZQtMik" target="_blank" rel="nofollow noopener" title="Vedi il libro Norme per la redazione di un testo radiofonico">Norme per la redazione di un testo radiofonico</a> di Carlo E. Gadda.</li>
 </ul>

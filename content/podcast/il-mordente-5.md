@@ -18,8 +18,8 @@ Comunque sia: buon capodanno 2019! E, coraggio, guardate il TED Talk di Susan Ca
 
 ### Consigli
 <ul>
-<li>Il libro <a class="text-info" href="https://amzn.to/2RozP91" target="_blank" rel="nofollow" title="Vedi il libro Quiet su Amazon">Quiet. Il potere degli introversi in un mondo che non sa smettere di parlare</a> di Susan Cain.</li>
-<li>Il video YouTube: <a class="text-info" href="https://youtu.be/eWJVvNptHZ4"  rel="nofollow" target="_blank" title="Vai al video Youtube di Arnold">Arnold Schwarzenegger 2018 - The speech that broke the internet</a>.</li>
+<li>Il libro <a class="text-info" href="https://amzn.to/2RozP91" target="_blank" rel="nofollow noopener" title="Vedi il libro Quiet su Amazon">Quiet. Il potere degli introversi in un mondo che non sa smettere di parlare</a> di Susan Cain.</li>
+<li>Il video YouTube: <a class="text-info" href="https://youtu.be/eWJVvNptHZ4"  rel="nofollow noopener" target="_blank" title="Vai al video Youtube di Arnold">Arnold Schwarzenegger 2018 - The speech that broke the internet</a>.</li>
 <li>Il TED Talk <a class="text-info" href="https://www.ted.com/talks/susan_cain_the_power_of_introverts" target="_blank" title="Vedi TED Talk di Susan Cain">The Power of Introverts</a> di Susan Cain.</li>
 <li>La recensione <a class="text-info" href="https://games.hdblog.it/2018/12/24/super-smash-bros-ultimate-recensione-switch/" target="_blank" title="Vai alla recensione di Gabriele Congiu su HDblog.it">Super Smash Bros. Ultimate: è il miglior Smash di sempre</a> di Gabriele Congiu.</li>
 </ul>

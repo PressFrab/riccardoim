@@ -8,43 +8,7 @@
             <div class="col-md-8 no-padding-left col-sm-8">
                 <div class="promo-box recensioni">
                     <div class="small-title">
-                        <!-- SHARE -->
-                        <div class="jssocials-shares post-content-header">
-                            <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://facebook.com/sharer/sharer.php?u={{.Permalink}}"
-                                    rel="noopener" class="jssocials-share-link"
-                                    title="Condividi su Facebook">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-facebook" width="13" height="81"
-                                        alt="Condividi su Facebook">
-                                </a>
-                            </div>
-
-                            <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://twitter.com/share?url={{.Permalink}}&amp;text=Recensione%20{{.Title}}%20di%20%40riccardopalombo"
-                                    rel="noopener" class="jssocials-share-link"
-                                    title="Condividi su Twitter">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-twitter" width="13" height="81"
-                                        alt="Condividi su Twitter">
-                                </a>
-                            </div>
-
-                            <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://reddit.com/submit?url={{.Permalink}}&amp;title=Recensione%20{{.Title}}"
-                                    rel="noopener" class="jssocials-share-link"
-                                    title="Condividi su Reddit">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-reddit" width="13" height="81"
-                                        alt="Condividi su Reddit">
-                                </a>
-                            </div>
-                        </div>
-                        <!-- FINE SHARE -->
-
+                        {{ partial "share.html" . }}
                     </div>
                     <h1>Tastiera Akko 3068</h1>
                     <p>{{.Params.sommario}}
@@ -55,14 +19,13 @@
             <div class="col-md-2 no-padding-right col-sm-4">
                 <div class="atail-multitext inizio">
                     <span class="atail-multitext-title">RECENSIONE</span>
+                    <span class="atail-multitext-text">Brand <span>{{.Params.brand}}</span></span>
                     <span class="atail-multitext-text">Online da<span>
                             {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
                         </span></span>
                     <span class="atail-multitext-text">Discussione
                     <span><a href="#disqus_thread" title="Leggi i commenti">Leggi i commenti</a></span>
                     </span>
-                    <span class="atail-multitext-text">Tempo di lettura <span>Circa
-                            9-12 minuti</span></span>
                 </div>
             </div>
 
@@ -324,7 +287,7 @@
             <div class="col-md-8 col-md-push-2 no-padding-left">
                     <p>
                             Si passa dalla modalità cablata a quella Bluetooth con una pressione di Fn + Tab. C'è un LED bianco a confermare il tutto. Si possono registrare <mark>tre profili Bluetooth</mark> con Fn + E, Fn + R, FN + T, seguendo le legende stampate su quei tasti. Di solito non ci sono imprevisti; magari bisogna provare un paio di volte per capire come attivare il pairing, e bisogna arrivare a capire che il numero sul nome della tastiera visualizzato dal PC/smartphone equivale al profilo in ascolto (3068BT-1, 3068BT-2, 3068BT-3). Si tratta di prendere la mano con queste cose. Il problema, da quel che ho visto, è ripetere l'abbinamento su più dispositivi. Mi sono trovato a formattare e cambiare computer più volte al giorno ed ho avuto noie a riabbinare e sovrascrivere i profili. Sono cose difficili da descrivere perché casuali e senza preavviso, ma credo vi serva sapere che il software della Akko non è ottimizzato per ogni OS e non è a prova di bug. Magari funziona, magari no. Potrebbe arrivare un aggiornamento firmware, ma sul sito ufficiale <a
-                            href="https://www.akkogear.com/download" title="Akko Gear Download" target="_blank" rel="nofollow">akkogear.com</a> non ci sono software per questo modello.
+                            href="https://www.akkogear.com/download" title="Akko Gear Download" target="_blank" rel="nofollow noopener">akkogear.com</a> non ci sono software per questo modello.
                         </p>
             </div>
         </div>
@@ -359,13 +322,13 @@
                 <h2>Conclusione</h2>
                 <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Consiglio la tastiera Akko 3068 a chi cerca una meccanica compatta da migliorare nel tempo. Ha switch che vanno bene sia per scrivere sia per giocare e una qualità costruttiva decente. Il layout 65% riprende quello dei computer portatili e l'autonomia è adeguata alla tipologia di prodotto. Il formato compatto <strong>migliora l'ergonomia</strong> perché permette all'utente di restare allineato con lo schermo ed avere il mouse o la trackball in linea con il braccio; lo spostamento laterale forzato dalle tastiere 100% (le Full Size) è una delle cause di mal di schiena o di rigidità alle scapole perché porta ad una postura sbagliata.</p>
             <p>
-                Tuttavia la Akko 3068 non è una tastiera per chi vuole fare il salto di qualità. Il suo <a href="https://it.gearbest.com/akko-3068-_gear/?lkid=45822008" rel="nofollow" target="_blank" title="Vedi prezzo Akko 3068 su Gearbest">prezzo di vendita è buono</a>, ma è meglio aggiungere 60 euro e prendere una Leopold FC660, una Varmilo VA68 o una Vortex Race 3, giusto per citare altri modelli con layout simile; si perde il Bluetooth ma si guadagna in tutto il resto, esperienza di scrittura compresa. Anche la Anne Pro 2 resta un'alternativa; con una spesa  simile si ha il vantaggio della retroilluminazione e più scelta tra gli switch. Ma il suo layout senza pad direzionale è consigliato solo a chi ha già provato diverse tastiere meccaniche. Ho in arrivo altri modelli Akko quindi, in breve, ci torneremo.</p> 
+                Tuttavia la Akko 3068 non è una tastiera per chi vuole fare il salto di qualità. Il suo <a href="https://it.gearbest.com/akko-3068-_gear/?lkid=45822008" rel="nofollow noopener" target="_blank" title="Vedi prezzo Akko 3068 su Gearbest">prezzo di vendita è buono</a>, ma è meglio aggiungere 60 euro e prendere una Leopold FC660, una Varmilo VA68 o una Vortex Race 3, giusto per citare altri modelli con layout simile; si perde il Bluetooth ma si guadagna in tutto il resto, esperienza di scrittura compresa. Anche la Anne Pro 2 resta un'alternativa; con una spesa  simile si ha il vantaggio della retroilluminazione e più scelta tra gli switch. Ma il suo layout senza pad direzionale è consigliato solo a chi ha già provato diverse tastiere meccaniche. Ho in arrivo altri modelli Akko quindi, in breve, ci torneremo.</p> 
             </div>
 
             <div class="col-md-8 col-md-push-2 no-padding-left"> 
                     <aside class="yt-iscriviti">
                                         <span class="atail-multitext-text">VEDI OFFERTA AKKO 3068 SU GEARBEST</span>
-                                        <a href="https://it.gearbest.com/akko-3068-_gear/?lkid=45822008" rel="nofollow" target="_blank" title="Vedi prezzi Akko 3068 su Gearbest">
+                                        <a href="https://it.gearbest.com/akko-3068-_gear/?lkid=45822008" rel="nofollow noopener" target="_blank" title="Vedi prezzi Akko 3068 su Gearbest">
                                             <img data-src="https://res.cloudinary.com/rim2/image/upload/w_auto,c_scale,q_75,f_auto/v1564131372/Akko-3068/akko-3068-prezzo_listino.png" alt="Supporta Riccardo.im" class="cld-responsive lazyload" style="max-width: 711px"/>
                                         </a>
                     </aside>

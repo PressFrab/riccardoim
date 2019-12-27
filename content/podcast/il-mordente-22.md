@@ -22,6 +22,6 @@ Ecco i contenuti consigliati questa settimana:
 <li>Il trailer di <a class="text-info" href="https://www.youtube.com/watch?v=gkKOIQwTiKE" target="_blank" title="Guarda il trailer di Amazing Grace">Amazing Grace</a> di Aretha Franklin.</li>
 <li><a class="text-info" href="https://www.hdblog.it/2019/04/15/garmin-forerunner-945-245-745xt/" target="_blank" title="Garmin Forerunner 945 e 245: cosa sappiamo e cosa aspettarci">Garmin Forerunner 945 e 245: cosa sappiamo</a> su HDblog.</li>
 <li>La mostra <a class="text-info" href="https://www.palazzoesposizioni.it/mostra/il-corpo-della-voce-carmelo-bene-cathy-berberian-demetrio-stratos" target="_blank" title="IL CORPO DELLA VOCE. CARMELO BENE, CATHY BERBERIAN, DEMETRIO STRATOS">Il Corpo della voce</a> al Palazzo delle Esposizioni.</li>
-<li><a class="text-info" href="https://amzn.to/2D9tyFR" target="_blank" rel="nofollow" title="Vedi il libro Serving the servant. Ricordando Kurt Cobain">Serving the servant. Ricordando Kurt Cobain</a> di Danny Goldberg.</li>
-<li><a class="text-info" href="https://amzn.to/2UtsHtv" target="_blank" rel="nofollow" title="Vedi il libro Lo schermo empatico. Cinema e neuroscienze">Lo schermo empatico. Cinema e neuroscienze</a> di Vittorio Gallese e Michele Guerra.</li>
+<li><a class="text-info" href="https://amzn.to/2D9tyFR" target="_blank" rel="nofollow noopener" title="Vedi il libro Serving the servant. Ricordando Kurt Cobain">Serving the servant. Ricordando Kurt Cobain</a> di Danny Goldberg.</li>
+<li><a class="text-info" href="https://amzn.to/2UtsHtv" target="_blank" rel="nofollow noopener" title="Vedi il libro Lo schermo empatico. Cinema e neuroscienze">Lo schermo empatico. Cinema e neuroscienze</a> di Vittorio Gallese e Michele Guerra.</li>
 </ul>

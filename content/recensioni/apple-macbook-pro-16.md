@@ -7,7 +7,7 @@ immagine_testa: https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_aut
 description: "La video recensione a Apple MacBook Pro 16 pollici di Riccardo Palombo. Prestazioni, analisi temperature, confronti su tastiera, schermo e impianto audio."
 categoria: "1"
 rating: "5"
-brand: "Apple"
+brand: "Apple Inc."
 layout: portatili/macbook-pro-16
 video: https://www.youtube.com/embed/tCLCs2EYqi4
 sommario: "Un brand non è mai la merce ma la sua idea psicologica."

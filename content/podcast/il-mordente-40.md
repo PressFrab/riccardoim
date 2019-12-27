@@ -18,9 +18,9 @@ Oggi sono convinto degli argomenti che ho trattato. Ne Il Mordente 40 vi parlo d
 
 ### Consiglio
 <ul>
-<li>Il <a href="https://www.boolean.careers/" target="_blank" rel="nofollow" title="Vai al sito di Boolean. Diventa sviluppatore web">corso Boolean</a> per diventare  sviluppatore web.</li>
-<li>La puntata di <a href="https://www.indiehackers.com/podcast/117-nir-eyal-of-indistractable" target="_blank" rel="nofollow" title="Vedi Indie Hackers Podcast">Indie Hackers</a> con Nir Eyal di Indistractable.</li>
-<li>Il libro <a href="https://amzn.to/2QcmX6q" target="_blank" rel="nofollow" title="Vedi Indistractable: How to Control Your Attention and Choose Your Life">Indistractable</a> di Nir Eyal.</li>
-<li><a href="https://www.youtube.com/watch?v=1-xf80ibl8U" target="_blank" rel="nofollow" title="Vedi Hackintosh Lenovo IdeaPad 330U">Hackintosh Lenovo IdeaPad 330U</a> su YouTube.</li>
-<li><a href="https://festivaldelpodcasting.eventbrite.co.uk?discount=FRIEND-FREE" title="Festival del Podcasting 2019" target="_blank" rel="nofollow">Festival del Podcasting 2019</a>, con il codice FRIEND-FREE.</li>
+<li>Il <a href="https://www.boolean.careers/" target="_blank" rel="nofollow noopener" title="Vai al sito di Boolean. Diventa sviluppatore web">corso Boolean</a> per diventare  sviluppatore web.</li>
+<li>La puntata di <a href="https://www.indiehackers.com/podcast/117-nir-eyal-of-indistractable" target="_blank" rel="nofollow noopener" title="Vedi Indie Hackers Podcast">Indie Hackers</a> con Nir Eyal di Indistractable.</li>
+<li>Il libro <a href="https://amzn.to/2QcmX6q" target="_blank" rel="nofollow noopener" title="Vedi Indistractable: How to Control Your Attention and Choose Your Life">Indistractable</a> di Nir Eyal.</li>
+<li><a href="https://www.youtube.com/watch?v=1-xf80ibl8U" target="_blank" rel="nofollow noopener" title="Vedi Hackintosh Lenovo IdeaPad 330U">Hackintosh Lenovo IdeaPad 330U</a> su YouTube.</li>
+<li><a href="https://festivaldelpodcasting.eventbrite.co.uk?discount=FRIEND-FREE" title="Festival del Podcasting 2019" target="_blank" rel="nofollow noopener">Festival del Podcasting 2019</a>, con il codice FRIEND-FREE.</li>
 </ul>

@@ -8,43 +8,7 @@
             <div class="col-md-8 no-padding-left col-sm-8">
                 <div class="promo-box recensioni">
                     <div class="small-title">
-                        <!-- SHARE -->
-                        <div class="jssocials-shares post-content-header">
-                            <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://facebook.com/sharer/sharer.php?u={{.Permalink}}"
-                                    rel="noopener" class="jssocials-share-link"
-                                    title="Condividi su Facebook">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-facebook" width="13" height="81"
-                                        alt="Condividi su Facebook">
-                                </a>
-                            </div>
-
-                            <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://twitter.com/share?url={{.Permalink}}&amp;text=Recensione%20{{.Title}}%20di%20%40riccardopalombo"
-                                    rel="noopener" class="jssocials-share-link"
-                                    title="Condividi su Twitter">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-twitter" width="13" height="81"
-                                        alt="Condividi su Twitter">
-                                </a>
-                            </div>
-
-                            <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://reddit.com/submit?url={{.Permalink}}&amp;title=Recensione%20{{.Title}}"
-                                    rel="noopener" class="jssocials-share-link"
-                                    title="Condividi su Reddit">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-reddit" width="13" height="81"
-                                        alt="Condividi su Reddit">
-                                </a>
-                            </div>
-                        </div>
-                        <!-- FINE SHARE -->
-
+                        {{ partial "share.html" . }}
                     </div>
                     <h1>Lenovo ThinkBook 13s</h1>
                     <p>E cosa c'entra Bulgàkov con un laptop da 13 pollici?
@@ -54,14 +18,13 @@
             <div class="col-md-2 no-padding-right col-sm-4">
                 <div class="atail-multitext inizio">
                     <span class="atail-multitext-title">RECENSIONE</span>
+                    <span class="atail-multitext-text">Brand <span>{{.Params.brand}}</span></span>
                     <span class="atail-multitext-text">Online da<span>
                             {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
                         </span></span>
                     <span class="atail-multitext-text">Discussione
                     <span><a href="#disqus_thread" title="Leggi i commenti">Leggi i commenti</a></span>
                     </span>
-                    <span class="atail-multitext-text">Tempo di lettura <span>Circa
-                            17-23 minuti</span></span>
                 </div>
             </div>
 
@@ -84,13 +47,9 @@
             <div class="col-md-2"></div>
 
 <div class="col-md-8 no-padding-left" style="margin-bottom:80px">
-                <aside class="yt-iscriviti">
-                    <span class="atail-multitext-text">ISCRIVITI AL NUOVO CANALE YOUTUBE</span>
-                    <div class="g-ytsubscribe" data-channelid="UCIdYIrInVnUwHVbogLj6bqA" data-layout="full" data-count="default"></div>
-                </aside>
                 <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Seguimi, lettore! Chi ha detto che non esiste a questo mondo un portatile di fascia media che non sia goffo, che non sia scadente, che non abbia un prezzo troppo alto o un difetto evidente! Al mentitore sia tagliata la malefica lingua. Seguimi, lettore. Solo me, segui. E io ti mostrerò un tale prodigio: Lenovo ThinkBook 13s.</p>
                 <p>È offensivo usare l'inizio della seconda parte de <a
-                    href="https://amzn.to/2QSt0fG" rel="nofollow" title="Il Maestro e Margherita di Bulgàkov su Amazon" target="_blank">"Il Maestro e Margherita"</a> di Bulgàkov - e anche cambiarlo in certe parole - per pubblicizzare uno dei prodotti dell'elettronica di consumo di fine 2019. Non ho scuse. Ma sono convinto che vi basterà guardare la video recensione e poi fare una ricerca su trovaprezzi per capire che ne è valsa la pena. Le migliori offerte lo vendono a <mark>circa 750 euro</mark>, nella configurazione più che onesta descritta qua sotto. Ma il suo vero punto di forza è negli interni: RAM su slot, scheda Wi-Fi su slot, modulo SSD su slot. Su ThinkBook 13s si possono <strong>aggiornare i componenti</strong> più importanti, e c'è anche un PDF che vi spiega passo passo come procedere. Vi darò il link tra poco. 
+                    href="https://amzn.to/2QSt0fG" rel="nofollow noopener" title="Il Maestro e Margherita di Bulgàkov su Amazon" target="_blank">"Il Maestro e Margherita"</a> di Bulgàkov - e anche cambiarlo in certe parole - per pubblicizzare uno dei prodotti dell'elettronica di consumo di fine 2019. Non ho scuse. Ma sono convinto che vi basterà guardare la video recensione e poi fare una ricerca su trovaprezzi per capire che ne è valsa la pena. Le migliori offerte lo vendono a <mark>circa 750 euro</mark>, nella configurazione più che onesta descritta qua sotto. Ma il suo vero punto di forza è negli interni: RAM su slot, scheda Wi-Fi su slot, modulo SSD su slot. Su ThinkBook 13s si possono <strong>aggiornare i componenti</strong> più importanti, e c'è anche un PDF che vi spiega passo passo come procedere. Vi darò il link tra poco. 
                 </p>
             </div>
 
@@ -305,7 +264,7 @@
 <div class="col-md-8 col-md-push-2 no-padding-left">
                 <p>Delusi? Non dovete. La piattaforma Intel Whiskey Lake-U di ThinkBook 13s è stata tarata da Lenovo per girare con un <strong>numero di watt superiore allo standard</strong> (ne parleremo tra un attimo) e questo ha il vantaggio di migliorare le prestazioni rispetto ad una implementazione basilare. Inoltre non ci sono problemi di <em>coil-whine</em> o di consumo (<em>draining</em>) a PC chiuso, e questo di solito dà indizi positivi sul controllo qualità e sulla messa a punto dei driver. Sono sei ore di autonomia in Wi-Fi che possono diventare sette o otto se state un po' attenti con la luminosità o con le impostazioni di risparmio energetico. Al minuto 9:40 della video recensione vi racconto un aneddoto su questo; è arrivato il momento di guardarla - se ancora non l'avete fatto.</p>
                 <p>In realtà a guardare gli interni non si poteva fare di più. Dove sarebbe entrata una batteria più grossa? Di sicuro non in un <mark>telaio tanto affollato perché vincolato agli slot per la RAM, per la SSD e per la scheda wireless</mark>. Guardate anche quanto è grande la struttura della cerniere. Io non vedo spazio per una batteria più larga. E io mi accontento volentieri della 44 Wh se mi dà il vantaggio dell'aggiornamento hardware. Divertitevi a spulciare un po' la foto a seguire. Smontare il laptop non è stato semplice perché, a viti T5 esposte, Lenovo ha unito un incastro a pressione e un fondo in metallo opaco facile da rovinare. Prima di aprire un Lenovo ThinkBook 13s, consiglio di scaricare e guardare il <a
-                    href="https://download.lenovo.com/consumer/mobiles_pub/thinkbook_13s-14s_iwl_hmm_201905.pdf" rel="nofollow" title="Lenovo Hardware Maintenance Manual" target="_blank">manuale di manutenzione hardware</a> in PDF. È un documento ufficiale, quindi grazie, Lenovo.
+                    href="https://download.lenovo.com/consumer/mobiles_pub/thinkbook_13s-14s_iwl_hmm_201905.pdf" rel="nofollow noopener" title="Lenovo Hardware Maintenance Manual" target="_blank">manuale di manutenzione hardware</a> in PDF. È un documento ufficiale, quindi grazie, Lenovo.
                 <br><br></p>
 </div>
             <!-- TEARDOWN -->
@@ -576,7 +535,7 @@
                         <h3 class="small-title">SUPPORTO GNU/LINUX</h3>
                         <p>
                             ThinkBook 13s supporta bene Linux ed ha un BIOS flessibile per UEFI/Legacy e Dual Boot. Ho installato Clear Linux, Manjaro i3, MXLinux e cos'altro non ricordo, per poi finire sulla beta di Ubuntu 19.10. Tutti i componenti principali sono riconosciuti, ma c'è un inghippo: Lenovo rilascia i nuovi BIOS soltanto in formato .exe, ed anche con le varie <a
-                            href="https://medium.com/@BladeCoder/flash-your-lenovo-ideapad-laptop-bios-from-linux-using-uefi-capsule-updates-a82e455ea29c" title="Flash your Lenovo Ideapad laptop BIOS from Linux using UEFI capsule updates" target="_blank" rel="nofollow" style="color:white">tecniche di estrazione</a> disponibili online non si riesce ad aggiornarlo da Linux. Quindi: non cancellate Windows con leggerezza.
+                            href="https://medium.com/@BladeCoder/flash-your-lenovo-ideapad-laptop-bios-from-linux-using-uefi-capsule-updates-a82e455ea29c" title="Flash your Lenovo Ideapad laptop BIOS from Linux using UEFI capsule updates" target="_blank" rel="nofollow noopener" style="color:white">tecniche di estrazione</a> disponibili online non si riesce ad aggiornarlo da Linux. Quindi: non cancellate Windows con leggerezza.
                         </p>
                 </div>
     </div>
@@ -606,7 +565,7 @@
             <div class="col-md-8 col-md-push-2 no-padding-left"> 
                     <aside class="yt-iscriviti">
                                         <span class="atail-multitext-text">COMPRALO SU AMAZON E SUPPORTAMI</span>
-                                        <a href="https://amzn.to/35RSy0V" rel="nofollow" target="_blank" title="Aiutami a migliorare il podcast e il sito">
+                                        <a href="https://amzn.to/35RSy0V" rel="nofollow noopener" target="_blank" title="Aiutami a migliorare il podcast e il sito">
                                             <img data-src="https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_75,f_auto/v1562766484/amazon.png" alt="Compra su Amazon e supportami" class="cld-responsive lazyload" />
                                         </a>
                     </aside>
@@ -727,5 +686,4 @@ const cl = cloudinary.Cloudinary.new({ cloud_name: 'rim4' })
 cl.responsive()
 </script>
 <script src='{{.Site.BaseURL}}js/lightbox.js' async ></script>
-<script async src="https://apis.google.com/js/platform.js"></script>
 {{ partial "footer-review.html" . }}

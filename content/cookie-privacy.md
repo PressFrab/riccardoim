@@ -100,10 +100,10 @@ Nel caso in cui sia installato un servizio di questo tipo, è possibile che, anc
 
 <p>Google Analytics è un servizio di analisi web fornito da Google Ireland Limited (“Google”). Google utilizza i Dati Personali raccolti allo scopo di tracciare ed esaminare l’utilizzo di questo Sito, compilare report e condividerli con gli altri servizi sviluppati da Google.
 Google potrebbe utilizzare i Dati Personali per contestualizzare e personalizzare gli annunci del proprio network pubblicitario.
-Al seguente link <a href="https://tools.google.com/dlpage/gaoptout?hl=it">https://tools.google.com/dlpage/gaoptout?hl=it</a> è inoltre reso disponibile da Google il componente aggiuntivo del browser per la disattivazione di Google Analytics</p>
+Al seguente link <a title="Google Disable Analytics" target="_blank" rel="noopener nofollow" href="https://tools.google.com/dlpage/gaoptout?hl=it">https://tools.google.com/dlpage/gaoptout?hl=it</a> è inoltre reso disponibile da Google il componente aggiuntivo del browser per la disattivazione di Google Analytics</p>
 
 <p>Dati personali raccolti: Cookie e Dati di utilizzo.
-Luogo del trattamento : USA – <a href="https://www.google.it/intl/en/policies/privacy/">Privacy Policy</a> – <a href="https://tools.google.com/dlpage/gaoptout?hl=it">Opt Out</a></p>
+Luogo del trattamento : USA – <a target="_blank" rel="noopener nofollow" href="https://www.google.it/intl/en/policies/privacy/" title="Opt Out">Privacy Policy</a> – <a target="_blank" rel="noopener nofollow" href="https://tools.google.com/dlpage/gaoptout?hl=it" title="Opt Out">Opt Out</a></p>
 
 <h4 id="diritti-dell-utente">Diritti dell’Utente</h4>
 

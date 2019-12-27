@@ -52,15 +52,15 @@ L’idea si manifesta in tre modi (si può partire da):
 
 ### Da cercare
 
--   Recuperare "<a href="https://amzn.to/32J49Ow" title="Scrivere con i grandi" target="_blank" rel="nofollow">Scrivere come i grandi</a>" di William Cane.
--   Recuperare il libro di Edoardo Albinati: "<a href="https://amzn.to/30Ontb4" title="Oro colato" target="_blank" rel="nofollow">Oro colato</a>".
--   Recuperare "<a href="https://amzn.to/2K7qehl" title="Esercizi di stile" target="_blank" rel="nofollow">Esercizi di stile”</a>" di Quenau (lo ho già in Toscana?). 
--   Recuperare "<a href="https://amzn.to/2K08fZQ" title="La macchina umana" target="_blank" rel="nofollow">La macchia umana</a>" di Roth (c'è anche l'audilibro).
--   Recuperare "<a href="https://amzn.to/2Goxcx4" title="Quel pasticciaccio butto de via Merulana" target="_blank" rel="nofollow">Quel pasticciaccio brutto de via Merulana</a>"” di Gadda (c'è audiolibro).
--   Recuperare "<a href="https://amzn.to/2SrNslM" title="Dostoevskij mio marito" target="_blank" rel="nofollow">Dostoevskij mio marito</a>". 
+-   Recuperare "<a href="https://amzn.to/32J49Ow" title="Scrivere con i grandi" target="_blank" rel="nofollow noopener">Scrivere come i grandi</a>" di William Cane.
+-   Recuperare il libro di Edoardo Albinati: "<a href="https://amzn.to/30Ontb4" title="Oro colato" target="_blank" rel="nofollow noopener">Oro colato</a>".
+-   Recuperare "<a href="https://amzn.to/2K7qehl" title="Esercizi di stile" target="_blank" rel="nofollow noopener">Esercizi di stile”</a>" di Quenau (lo ho già in Toscana?). 
+-   Recuperare "<a href="https://amzn.to/2K08fZQ" title="La macchina umana" target="_blank" rel="nofollow noopener">La macchia umana</a>" di Roth (c'è anche l'audilibro).
+-   Recuperare "<a href="https://amzn.to/2Goxcx4" title="Quel pasticciaccio butto de via Merulana" target="_blank" rel="nofollow noopener">Quel pasticciaccio brutto de via Merulana</a>"” di Gadda (c'è audiolibro).
+-   Recuperare "<a href="https://amzn.to/2SrNslM" title="Dostoevskij mio marito" target="_blank" rel="nofollow noopener">Dostoevskij mio marito</a>". 
 -   Controllare il capitolo finale di "Delitto e castigo".
 -   Guardare il monologo di Popolizio per "Delitto e Castigo" su YouTube.
--   Controllare "<a href="https://amzn.to/2XVuMRl" title="Mia madre, la mia bambina" target="_blank" rel="nofollow">Mia madre, la mia bambina</a>". 
+-   Controllare "<a href="https://amzn.to/2XVuMRl" title="Mia madre, la mia bambina" target="_blank" rel="nofollow noopener">Mia madre, la mia bambina</a>". 
 
 ### Note
 

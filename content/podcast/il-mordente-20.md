@@ -22,8 +22,8 @@ Ecco i contenuti consigliati questa settimana:
 <ul>
 <li><a class="text-info" href="https://www.nytimes.com/2019/03/25/science/metamorphosis-evolution-animals.html" target="_blank" title="Vedi l'articolo Why Would an Animal Trade One Body for Another?">Why Would an Animal Trade One Body for Another?</a> di Carl Zimmer.</li>
 <li><a class="text-info" href="https://www.npr.org/programs/ted-radio-hour/414972943/shifting-time?t=1554391475934" target="_blank" title="Vedi l'articolo Shifting Time">Shifting Time</a> su TED Radio Hour.</li>
-<li><a class="text-info" href="https://amzn.to/2HGfnek" target="_blank" rel="nofollow" title="Vedi il libro Filosofia della percezione">Filosofia della percezione</a> di Clotilde Calabi.</li>
-<li><a class="text-info" href="https://amzn.to/2UtsHtv" target="_blank" rel="nofollow" title="Vedi il libro Lo schermo empatico. Cinema e neuroscienze">Lo schermo empatico. Cinema e neuroscienze</a> di Vittorio Gallese e Michele Guerra.</li>
-<li><a class="text-info" href="https://amzn.to/2OOWI1q" target="_blank" rel="nofollow" title="Vedi il libro Bàrnabo delle montagne">Bàrnabo delle montagne</a> di Dino Buzzati.</li>
-<li><a class="text-info" href="https://amzn.to/2IkwpAU" target="_blank" rel="nofollow" title="Vedi il libro Salinger, la vera storia di un genio">Salinger. La vera storia di un genio</a> di Kenneth Slawenski.</li>
+<li><a class="text-info" href="https://amzn.to/2HGfnek" target="_blank" rel="nofollow noopener" title="Vedi il libro Filosofia della percezione">Filosofia della percezione</a> di Clotilde Calabi.</li>
+<li><a class="text-info" href="https://amzn.to/2UtsHtv" target="_blank" rel="nofollow noopener" title="Vedi il libro Lo schermo empatico. Cinema e neuroscienze">Lo schermo empatico. Cinema e neuroscienze</a> di Vittorio Gallese e Michele Guerra.</li>
+<li><a class="text-info" href="https://amzn.to/2OOWI1q" target="_blank" rel="nofollow noopener" title="Vedi il libro Bàrnabo delle montagne">Bàrnabo delle montagne</a> di Dino Buzzati.</li>
+<li><a class="text-info" href="https://amzn.to/2IkwpAU" target="_blank" rel="nofollow noopener" title="Vedi il libro Salinger, la vera storia di un genio">Salinger. La vera storia di un genio</a> di Kenneth Slawenski.</li>
 </ul>

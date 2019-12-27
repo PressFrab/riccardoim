@@ -7,38 +7,7 @@
             <div class="col-md-8 no-padding-left col-sm-8">
                 <div class="promo-box recensioni">
                     <div class="small-title">
-                        <!-- SHARE -->
-                        <div class="jssocials-shares post-content-header">
-                            <div class="jssocials-share">
-                                <a target="_blank" href="https://facebook.com/sharer/sharer.php?u={{.Permalink}}"
-                                    rel="noopener" class="jssocials-share-link" title="Condividi su Facebook">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-facebook" width="13" height="81"
-                                        alt="Condividi su Facebook">
-                                </a>
-                            </div>
-
-                            <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://twitter.com/share?url={{.Permalink}}&amp;text=Recensione%20{{.Title}}%20di%20%40riccardopalombo"
-                                    rel="noopener" class="jssocials-share-link" title="Condividi su Twitter">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-twitter" width="13" height="81"
-                                        alt="Condividi su Twitter">
-                                </a>
-                            </div>
-
-                            <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://reddit.com/submit?url={{.Permalink}}&amp;title=Recensione%20{{.Title}}"
-                                    rel="noopener" class="jssocials-share-link" title="Condividi su Reddit">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-reddit" width="13" height="81" alt="Condividi su Reddit">
-                                </a>
-                            </div>
-                        </div>
-                        <!-- FINE SHARE -->
-
+                        {{ partial "share.html" . }}
                     </div>
                     <h1>Room Tour 2020</h1>
                     <p>
@@ -78,11 +47,6 @@
             <div class="col-md-2"></div>
 
             <div class="col-md-8 no-padding-left" style="margin-bottom:80px">
-                <aside class="yt-iscriviti">
-                    <span class="atail-multitext-text">ISCRIVITI AL NUOVO CANALE YOUTUBE</span>
-                    <div class="g-ytsubscribe" data-channelid="UCIdYIrInVnUwHVbogLj6bqA" data-layout="full"
-                        data-count="default"></div>
-                </aside>
                 <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Vi ricordate del vecchio Room Tour? Quello diviso in tre
                     parti, pubblicato nel 2017, con dentro una pimpante e ingenua versione di me? Aveva delle lacune,
                     dei buchi. Quindi ho pensato di svecchiare la stanza. C'è stata l'opportunità di cambiare monitor
@@ -318,24 +282,24 @@
 <!-- FINE GALLERIA CINQUE -->
         <section class="single-project row-col-12">
             <div class="col-md-8 col-md-push-2 no-padding-left">
-                <p>Difetti hardware non ne vedo, ma ci sono dei limiti nella componentistica. <strong>L'impianto audio è inadeguato</strong>, e se da una parte è vero che chi acquista una monitor come questo ha una strumentazione audio specifica e separata, dall'altra si potevano inserire due altoparlanti almeno modesti. Anche la luminosità massima della mia unità è più bassa di quel che avrei voluto - valore dichiarato di 350 nits - ma l'uniformità è impeccabile ed è una dote molto più importante quando si discute un monitor da studio. Infine il controller <strong>Pocket Puck G2</strong> è un gadget utile perché fa risparmiare tempo, ma lo avrei barattato con il sensore di luminosità BenQ Brightness Intelligence Plus per leggere la luce ambientale e regolare l'intensità e la temperatura in automatico durante la giornata.
+                <p>Difetti hardware non ne vedo, ma ci sono dei limiti nella componentistica. <strong>L'impianto audio è inadeguato</strong>, e se da una parte è vero che chi acquista un monitor come questo ha una strumentazione audio specifica e separata, dall'altra si potevano inserire due altoparlanti almeno modesti. Anche la luminosità massima della mia unità è più bassa di quel che avrei voluto - valore dichiarato di 350 nits - ma l'uniformità è impeccabile ed è una dote molto più importante quando si discute un monitor da studio. Infine il controller <strong>Pocket Puck G2</strong> è un gadget utile perché fa risparmiare tempo, ma lo avrei barattato con il sensore di luminosità BenQ Brightness Intelligence Plus per leggere la luce ambientale e regolare l'intensità e la temperatura in automatico durante la giornata.
                 </p>
                 <aside class="yt-iscriviti">
                     <span class="atail-multitext-text">OFFERTE BENQ PD2720U SU AMAZON</span>
-                    <a href="https://amzn.to/35wPjvx" rel="nofollow" target="_blank" title="Vedi offerte Monitor BenQ PD2720U su Amazon">
+                    <a href="https://amzn.to/35wPjvx" rel="nofollow noopener" target="_blank" title="Vedi offerte Monitor BenQ PD2720U su Amazon">
                         <img data-src="https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_75,f_auto/v1562766484/amazon.png" alt="Monitor BenQ PD2720U su Amazon" class="cld-responsive lazyload" />
                     </a>
                 </aside>
     
                 <aside class="yt-iscriviti">
                     <span class="atail-multitext-text">OFFERTE BENQ PD2720U SU EBAY</span>
-                    <a href="http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5574905075&toolid=10001&campid=5338615928&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dm570.l1313%26_nkw%3Dbenq%2Bpd2720u%26_sacat%3D0" rel="nofollow" target="_blank" title="Vedi offerte Monitor BenQ PD2720U su ebay">
+                    <a href="http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5574905075&toolid=10001&campid=5338615928&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dm570.l1313%26_nkw%3Dbenq%2Bpd2720u%26_sacat%3D0" rel="nofollow noopener" target="_blank" title="Vedi offerte Monitor BenQ PD2720U su ebay">
                         <img data-src="https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_75,f_auto/v1572942519/ebay.png" alt="Monitor BenQ PD2720U su eBay" class="cld-responsive lazyload" />
                     </a>
                 </aside>
                 <p>
                 Il monitor BenQ costa circa <strong>1000 euro</strong> in questo momento. Il prezzo è una discriminante e fa capire a chi si rivolge. Queste persone possono prenderlo in considerazione perché non ha difetti tecnici ed è flessibile sia nel posizionamento sia nel firmware. È perfetto per i MacBook (ha un preset specifico per macOS dove si cerca di replicare la resa del pannello integrato) e per gli ultraportatili con Thunderbolt 3, oppure per affiancare un monitor specifico per il multimedia e il gaming come il mio Samsung VA da 100Hz (lo so, ho un setup invidiabile). Tutti gli altri dettagli tecnici sono sul sito <a href="https://www.benq.eu/it-it/monitor/designer/pd2720u.html"
-                target="_blank" rel="nofollow"
+                target="_blank" rel="nofollow noopener"
                 title="BenQ Italia">BenQ Italia</a>.<br><br>
             </p>
             </div>
@@ -360,7 +324,7 @@
                 <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> La scrivania per lavorare in piedi è un banco da lavoro alto 103 cm perché è questa l'altezza che mi fa stare con <mark>le spalle rilassate, i piedi appena divaricati, il collo sciolto</mark>. I dettagli sono nel video abbinato a questo articolo, ma, in sostanza: ho comprato una libreria Ikea Billy; ho fatto tagliare i lati a 101 cm dal falegname sotto casa; ci ho avvitato e incollato sopra un piano rivestito largo 40 cm e spesso 2; ho attaccato tutto al muro. Il resto sono finiture (l'altro pannello laterale, il bordo battente, i tappi per nascondere le viti - cavicchi, da queste parti, non so da voi) e accessori (la ciabatta a scomparsa, tutte le scatole sotto, il pannello forato Ikea).
             </p>
         <p>
-                Ho speso <strong>meno di 100 euro</strong>. Il mobile è stato assemblato in un pomeriggio con colla vinilica, viti e trapano, ma la maggior parte del tempo è servita per tagliare qua e là dove serviva così da far aderire tutto al muro. Le mensole laterali e quella in alto sono state ricavate dagli avanzi e poi verniciate. Tutto qua: l'obiettivo è tenere a portata di mano solo l'essenziale, spostare il resto in un altra stanza, e minimizzare le distrazioni e le finalità; voglio che resti un banco da lavoro (per smontare oggetti, sistemare oggetti, costruire oggetti) e non una seconda scrivania. Quindi voglio che sia libero, pulito, in ordine.
+                Ho speso <strong>meno di 100 euro</strong>. Il mobile è stato assemblato in un pomeriggio con colla vinilica, viti e trapano, ma la maggior parte del tempo è servita per tagliare qua e là dove serviva così da far aderire tutto al muro. Le mensole laterali e quella in alto sono state ricavate dagli avanzi e poi verniciate. Tutto qua: l'obiettivo è tenere a portata di mano solo l'essenziale, spostare il resto in un'altra stanza, e minimizzare le distrazioni e le finalità; voglio che resti un banco da lavoro (per smontare oggetti, sistemare oggetti, costruire oggetti) e non una seconda scrivania. Quindi voglio che sia libero, pulito, in ordine.
         </p>
         <p>
             Durante la giornata cerco di <strong>sedermi il meno possibile</strong>, oppure di spostarmi spesso tra la postazione con doppio monitor e questa. Mi sforzo ad alternare le sedie tra la Cinius ergonomica e una classica seduta Ikea da ufficio. Stare in piedi per molte ore al giorno può essere faticoso se non si fa attenzione alla postura; niente posizioni strane, appoggi su una gamba, intrecci; niente collo rivolto verso il basso. Bisogna sforzarsi per cancellare questi <strong>vizi posturali</strong> e non è così semplice. Faccio del mio meglio perché la differenza tra una giornata ideale e una che ho passato a montare video, quindi per dieci ore sulla scrivania grande, è così importante da darmi ripercussioni il giorno successivo. Si tratta di avere una schiena dolorante nella zona lombare e nelle scapole, o avere un busto sciolto. Si tratta di uscire la mattina a correre con un corpo che sento a posto, o di dovermi scaldare bene perché un po' "incastrato".<br><br>
@@ -381,34 +345,34 @@
                         <!-- FINE IMG GRANDE -->
     <div class="col-md-8 col-md-push-2 no-padding-left">
     <p>C'è un libro di cui vi ho parlato nel podcast chiamato <a href="https://amzn.to/34vhQjJ"
-        target="_blank" rel="nofollow"
-        title="Deskbound: Standing Up to a Sitting World">Deskbound</a>. Il suo payoff è "Sitting is the New Smoking" e questo dovrebbe darvi un'idea. Ve lo consiglio. Leggetelo ed abbinate l'altro testo <a href="https://amzn.to/34rh9bF" target="_blank" rel="nofollow" title="Vedi il libro Ready to Run: Unlocking Your Potential to Run Naturally">Ready to Run</a> se fate attività fisica e volete fare un salto quantico nella mobilità. Si tratta di passare dieci minuti al giorno, ogni giorno, a fare stretching. E non è una prospettiva tanto brutta, no?
+        target="_blank" rel="nofollow noopener"
+        title="Deskbound: Standing Up to a Sitting World">Deskbound</a>. Il suo payoff è "Sitting is the New Smoking" e questo dovrebbe darvi un'idea. Ve lo consiglio. Leggetelo ed abbinate l'altro testo <a href="https://amzn.to/34rh9bF" target="_blank" rel="nofollow noopener" title="Vedi il libro Ready to Run: Unlocking Your Potential to Run Naturally">Ready to Run</a> se fate attività fisica e volete fare un salto quantico nella mobilità. Si tratta di passare dieci minuti al giorno, ogni giorno, a fare stretching. E non è una prospettiva tanto brutta, no?
     </p>
     <p>Chiudo con una serie di link; sono affiliati perché mi aiutano a campare. Per i dettagli sulla scrivania, e per i nomi di tutto il resto, guardate il video. Nella seconda parte di questa serie vi parlerò della workstation Ryzen che sto assemblando, di cosa ho scelto e dei motivi che mi hanno fatto venir voglia di mettere insieme una configurazione il più silenziosa possibile (non facile quando hai un 3900X e una 5700XT). Ci torneremo.</p>
     <ul>
         <li>
-            Il monitor <a href="https://amzn.to/35wPjvx" target="_blank" rel="nofollow" title="Vedi monitor BenQ su Amazon">BenQ DesignVue PD2720U</a>.
+            Il monitor <a href="https://amzn.to/35wPjvx" target="_blank" rel="nofollow noopener" title="Vedi monitor BenQ su Amazon">BenQ DesignVue PD2720U</a>.
         </li>
         <li>
-            Il microfono <a href="https://amzn.to/2PyuHxg" target="_blank" rel="nofollow" title="Vedi microfono BeyerDynamic su Amazon">BeyerDynamic Fox USB</a>.
+            Il microfono <a href="https://amzn.to/2PyuHxg" target="_blank" rel="nofollow noopener" title="Vedi microfono BeyerDynamic su Amazon">BeyerDynamic Fox USB</a>.
         </li>
         <li>
-            Il cacciavite elettrico <a href="https://it.gearbest.com/other-tools-accessories/pp_009351617232.html?lkid=65682170" target="_blank" rel="nofollow" title="Vedi Wowstick + kit su Amazon">Wowstick con kit inserti</a>.
+            Il cacciavite elettrico <a href="https://it.gearbest.com/other-tools-accessories/pp_009351617232.html?lkid=65682170" target="_blank" rel="nofollow noopener" title="Vedi Wowstick + kit su Amazon">Wowstick con kit inserti</a>.
         </li>
         <li>
-            Gli auricolari a conduzione ossea <a href="https://amzn.to/2rZu2fd" target="_blank" rel="nofollow" title="Vedi Aftershokz Aeropex su Amazon">Aftershokz Aeropex</a>.
+            Gli auricolari a conduzione ossea <a href="https://amzn.to/2rZu2fd" target="_blank" rel="nofollow noopener" title="Vedi Aftershokz Aeropex su Amazon">Aftershokz Aeropex</a>.
         </li>
         <li>
-            Le cuffie <a href="https://amzn.to/35KwvZy" target="_blank" rel="nofollow" title="Vedi cuffie antirumore su Amazon">isolanti e antirumore</a>.
+            Le cuffie <a href="https://amzn.to/35KwvZy" target="_blank" rel="nofollow noopener" title="Vedi cuffie antirumore su Amazon">isolanti e antirumore</a>.
         </li>
         <li>
-            Le ciabatte a scomparsa <a href="https://amzn.to/34vWbI7" target="_blank" rel="nofollow" title="Vedi colonnina elettrica su Amazon">Inotech</a> e <a href="https://amzn.to/35B0O5c" target="_blank" rel="nofollow" title="Vedi ciabatta a scomparsa su Amazon">Brennenstuhl</a>.
+            Le ciabatte a scomparsa <a href="https://amzn.to/34vWbI7" target="_blank" rel="nofollow noopener" title="Vedi colonnina elettrica su Amazon">Inotech</a> e <a href="https://amzn.to/35B0O5c" target="_blank" rel="nofollow noopener" title="Vedi ciabatta a scomparsa su Amazon">Brennenstuhl</a>.
         </li>
         <li>
-            L'orologio fluido <a href="https://society6.com/product/gravity-abe_wall-clock" target="_blank" rel="nofollow" title="Vedi orologio Gravity su Society6">Gravity</a>.
+            L'orologio fluido <a href="https://society6.com/product/gravity-abe_wall-clock" target="_blank" rel="nofollow noopener" title="Vedi orologio Gravity su Society6">Gravity</a>.
         </li>
         <li>
-            Il supporto a muro <a href="https://amzn.to/2rfbozS" target="_blank" rel="nofollow" title="Vedi supporto proiettore soffitto su Amazon">per microfono e proiettore</a>.
+            Il supporto a muro <a href="https://amzn.to/2rfbozS" target="_blank" rel="nofollow noopener" title="Vedi supporto proiettore soffitto su Amazon">per microfono e proiettore</a>.
         </li>
     </ul> 
     </p>
@@ -531,6 +495,5 @@
     const cl = cloudinary.Cloudinary.new({ cloud_name: 'rim4' })
     cl.responsive()
 </script>
-<script async src="https://apis.google.com/js/platform.js"></script>
 <script src='{{.Site.BaseURL}}js/lightbox.js' async></script>
 {{ partial "footer-review.html" . }}

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"/>
     {{ partial "seo.html" . }}
     <link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL}}index.xml" title="Riccardo.im - Sito ufficiale di Riccardo Palombo">
     <link rel='stylesheet' href='{{.Site.BaseURL}}css/main-unito.css' type='text/css' media='all'/>
@@ -51,13 +51,13 @@
                     </div>
                     <ol id="menu-menu-1" class="nav-list">
                         <li class="menu-item col-xs-2 {{ if or ( .Params.articoli ) }} current-menu-item {{ end }}">
-                            <a href="{{.Site.BaseURL}}articoli/" title="Le recensioni e gli articoli di Riccardo Palombo"><span>Recensioni</span></a>
+                            <a href="{{.Site.BaseURL}}articoli/" title="Le recensioni e gli articoli di Riccardo Palombo"><span>Articoli</span></a>
                         </li>
                         <li class="menu-item col-xs-2 {{ .Params.libri }}">
                             <a href="{{.Site.BaseURL}}libri/" title="I libri consigliati da Riccardo Palombo"><span>Libreria</span></a>
                         </li>
                         <li class="menu-item col-xs-2 {{ .Params.podcast }}">
-                            <a href="{{.Site.BaseURL}}podcast/" title="Il Mordente Podcast: tutte le puntate"><span>Podcast</span></a>
+                            <a href="{{.Site.BaseURL}}podcast/" title="Il Mordente e Tech.is.it: le puntate dei podcast"><span>Podcast</span></a>
                         </li>
                         <li class="menu-item col-xs-2 {{ .Params.contatti }}">
                             <a href="{{.Site.BaseURL}}contatti/" title="Invia un messaggio a Riccardo Palombo"><span>Contatti</span></a>

@@ -8,43 +8,7 @@
             <div class="col-md-8 no-padding-left col-sm-8">
                 <div class="promo-box recensioni">
                     <div class="small-title">
-                        <!-- SHARE -->
-                        <div class="jssocials-shares post-content-header">
-                            <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://facebook.com/sharer/sharer.php?u={{.Permalink}}"
-                                    rel="noopener" class="jssocials-share-link"
-                                    title="Condividi su Facebook">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-facebook" width="13" height="81"
-                                        alt="Condividi su Facebook">
-                                </a>
-                            </div>
-
-                            <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://twitter.com/share?url={{.Permalink}}&amp;text=Recensione%20{{.Title}}%20di%20%40riccardopalombo"
-                                    rel="noopener" class="jssocials-share-link"
-                                    title="Condividi su Twitter">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-twitter" width="13" height="81"
-                                        alt="Condividi su Twitter">
-                                </a>
-                            </div>
-
-                            <div class="jssocials-share">
-                                <a target="_blank"
-                                    href="https://reddit.com/submit?url={{.Permalink}}&amp;title=Recensione%20{{.Title}}"
-                                    rel="noopener" class="jssocials-share-link"
-                                    title="Condividi su Reddit">
-                                    <img src="https://res.cloudinary.com/rim/image/upload/f_auto/v1562766483/social.png"
-                                        class="jssocials-share-reddit" width="13" height="81"
-                                        alt="Condividi su Reddit">
-                                </a>
-                            </div>
-                        </div>
-                        <!-- FINE SHARE -->
-
+                        {{ partial "share.html" . }}
                     </div>
                     <h1>{{.Title}}</h1>
                     <p>{{.Params.sommario}}
@@ -55,14 +19,13 @@
             <div class="col-md-2 no-padding-right col-sm-4">
                 <div class="atail-multitext inizio">
                     <span class="atail-multitext-title">RECENSIONE</span>
+                    <span class="atail-multitext-text">Brand <span>{{.Params.brand}}</span></span>
                     <span class="atail-multitext-text">Online da<span>
                             {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
                         </span></span>
                     <span class="atail-multitext-text">Discussione
                     <span><a href="#disqus_thread" title="Leggi i commenti">Leggi i commenti</a></span>
                     </span>
-                    <span class="atail-multitext-text">Tempo di lettura <span>Circa
-                            19-26 minuti</span></span>
                 </div>
             </div>
 
@@ -85,10 +48,6 @@
             <div class="col-md-2"></div>
 
 <div class="col-md-8 no-padding-left" style="margin-bottom:80px">
-                <aside class="yt-iscriviti">
-                    <span class="atail-multitext-text">ISCRIVITI AL NUOVO CANALE YOUTUBE</span>
-                    <div class="g-ytsubscribe" data-channelid="UCIdYIrInVnUwHVbogLj6bqA" data-layout="full" data-count="default"></div>
-                </aside>
                 <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Le edizioni
                     precedenti avevano il problema della webcam installata in
                     basso, poco sopra la tastiera. Era il compromesso per le
@@ -782,7 +741,7 @@
                     usare Linux. Una Ubuntu 19.04 riconosce tutto sin dal primo
                     avvio, e lo stesso vale per distribuzioni settoriali come <a
                         href="https://clearlinux.org/" title="Clear Linux
-                        Project" target="_blank">Clear Linux</a> di Intel.
+                        Project" target="_blank" rel="nofollow noopener">Clear Linux</a> di Intel.
                     Inoltre il modulo SSD dell'edizione Windows non è
                     spezzettato in più partizioni, quindi si può ridimensionare
                     per facilitare il Dual Boot senza pensieri. Dell vende XPS
@@ -881,7 +840,7 @@
             <div class="col-md-8 col-md-push-2 no-padding-left"> 
                     <aside class="yt-iscriviti">
                                         <span class="atail-multitext-text">ACQUISTA SU AMAZON E SUPPORTAMI</span>
-                                        <a href="https://amzn.to/2Vo4lm3" rel="nofollow" target="_blank" title="Aiutami a migliorare il podcast e il sito">
+                                        <a href="https://amzn.to/2Vo4lm3" rel="nofollow noopener" target="_blank" title="Aiutami a migliorare il podcast e il sito">
                                             <img data-src="https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_75,f_auto/v1562766484/amazon.png" alt="Supporta Riccardo.im" class="cld-responsive lazyload" />
                                         </a>
                     </aside>
@@ -1010,5 +969,4 @@ const cl = cloudinary.Cloudinary.new({ cloud_name: 'rim' })
 cl.responsive()
 </script>
 <script src='{{.Site.BaseURL}}js/lightbox.js' async ></script>
-<script async src="https://apis.google.com/js/platform.js"></script>
 {{ partial "footer-review.html" . }}
