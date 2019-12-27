@@ -50,11 +50,11 @@
                         <div class="col-md-2"></div>
                     </div>
                     <ol id="menu-menu-1" class="nav-list">
-                        <li class="menu-item col-xs-2 {{ .Params.libri }}">
-                            <a href="{{.Site.BaseURL}}libri/" title="I libri consigliati da Riccardo Palombo"><span>Libreria</span></a>
-                        </li>
                         <li class="menu-item col-xs-2 {{ if or ( .Params.articoli ) }} current-menu-item {{ end }}">
                             <a href="{{.Site.BaseURL}}articoli/" title="Le recensioni e gli articoli di Riccardo Palombo"><span>Recensioni</span></a>
+                        </li>
+                        <li class="menu-item col-xs-2 {{ .Params.libri }}">
+                            <a href="{{.Site.BaseURL}}libri/" title="I libri consigliati da Riccardo Palombo"><span>Libreria</span></a>
                         </li>
                         <li class="menu-item col-xs-2 {{ .Params.podcast }}">
                             <a href="{{.Site.BaseURL}}podcast/" title="Il Mordente Podcast: tutte le puntate"><span>Podcast</span></a>
