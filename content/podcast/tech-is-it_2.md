@@ -1,19 +1,17 @@
  ---
 title: "Scuola di recensioni: Andrea Galeazzi (versione integrale)"
-date: 2020-01-06T07:00:20+02:00
+date: 2020-01-07T06:30:20+02:00
 numero: "2"
 slug: "scuola-recensioni-andrea-galeazzi"
 description: "La seconda puntata del podcast Tech.is.it è la versione estesa di Scuola di recensioni. Ospite: Andrea Galeazzi. Autore: Riccardo Palombo"
 featured_image: "v1578342754/Podcast/scuola-di-recensioni-andrea-galeazzi.jpg"
 podcast: current-menu-item
 techisit: 1
-draft: true
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/21410669" data-resource="episode_id=21410669" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F15020a5c63f8a4414fee525deddaee85.jpg">Listen to "02 | Scuola di recensioni: Andrea Galeazzi (edizione integrale)" on Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/21410669" data-resource="episode_id=21410669" data-width="100%" data-height="350px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F15020a5c63f8a4414fee525deddaee85.jpg">Listen to "02 | Scuola di recensioni: Andrea Galeazzi (edizione integrale)" on Spreaker.</a>
 
-La seconda puntata di Tech.is.it è l'edizione integrale di "**Scuola di recensioni: Andrea Galeazzi**", ovvero l'incontro pubblicato su YouTube il 31 dicembre scorso. Questo podcast è lungo il doppio e contiene sia le parti tagliate sia i discorsi che hanno anticipato e seguito il montaggio. Consiglio di guardare prima il video e poi ascoltare il podcast, perché il filmato è più vicino alla mia idea originale e perché porta meglio il mio messaggio. Arriva prima. Stranisce come ho voluto stranire. Questo audio è un approfondimento. È un dietro le quinte dovuto visti tutti i messaggi e gli apprezzamenti arrivati.
-
+La seconda puntata di Tech.is.it è l'edizione integrale di "**Scuola di recensioni: Andrea Galeazzi**", ovvero l'incontro pubblicato su YouTube il 31 dicembre scorso. Questo podcast è lungo il doppio e contiene sia le parti tagliate sia i discorsi che hanno anticipato e seguito il montaggio. Consiglio di guardare prima il video e poi ascoltare il podcast, perché il filmato è più vicino alla mia idea originale e perché porta meglio il mio messaggio. Arriva prima. Stranisce come ho voluto stranire. Questo audio è un approfondimento. È un dietro le quinte, dovuto, dopo tutti i messaggi e gli apprezzamenti arrivati.
 
 <figure>
                     <a
@@ -28,7 +26,7 @@ La seconda puntata di Tech.is.it è l'edizione integrale di "**Scuola di recensi
                     </figcaption>
 </figure>
 
-Tech.is.it è ancora uno spazio da definire ma credo che si possa considerare un momento adatto a chiacchierate così. L'idea è alternare approfondimenti molto tecnici (sto lavorando da giorni alla messa a punto della mia nuova workstation Ryzen, e ho molte cose da raccontare) a confronti come quello della [puntata con Maurizio Natali](/podcast/tech-is-it-macbook-pro-16 "Alla ricerca del MacBook perduto"). E se verrà fuori qualcosa di utile anche dai video "Scuola di recensioni", non ci penserò due volte a proporli ancora come _long-form_. Dopotutto, stiamo sempre parlando di tecnologia.
+Tech.is.it è ancora uno spazio da definire ma credo che si possa considerare un momento adatto a chiacchierate così. L'idea è alternare approfondimenti molto tecnici (sto lavorando da giorni alla messa a punto della mia nuova workstation Ryzen, e ho molte cose da raccontare) a confronti come quello della [puntata con Maurizio Natali](/podcast/tech-is-it-macbook-pro-16 "Alla ricerca del MacBook perduto"). E se verrà fuori qualcosa di utile anche dai video "Scuola di recensioni", non ci penserò due volte a proporli ancora come _long-form_. Dopotutto, stiamo ancora parlando di tecnologia.
 
 #### ISCRIVITI!
 
