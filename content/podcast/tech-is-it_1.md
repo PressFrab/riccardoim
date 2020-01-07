@@ -17,7 +17,7 @@ Nella prima puntata di Tech.is.it torno sul MacBook Pro 16. Nella recensione pub
 
 ### Iscriviti
 
-Il nuovo podcast è disponibile sulla piattaforma di ascolto preferita. Mentre scrivo, manca all'appello Google Podcast perché è sempre la più lenta ad attivarsi. Presto sarà possibile sfruttare la skill per Alexa e la Action per Assistant de Il Mordente per riprodurre anche i contenuti di tech.is.it.
+Il nuovo podcast è disponibile sulla piattaforma di ascolto preferita. Mentre scrivo, manca all'appello Google Podcast perché è sempre il più lento ad attivarsi. Presto sarà possibile sfruttare la skill per Alexa e la Action per Assistant de Il Mordente per riprodurre anche i contenuti di tech.is.it.
 
 - Ascolta su <a href="https://podcasts.apple.com/it/podcast/tech-is-it/id1492275528" target="_blank" rel="nofollow noopener" title="Ascolta Tech.is.it su Apple Podcast">Apple Podcast</a>.
 - Ascolta su <a href="https://open.spotify.com/show/0YsuYqJ8tY7E6PyDfNLOVQ" title="Ascolta Tech.is.it su Spotify" target="_blank" rel="nofollow noopener">Spotify</a>.

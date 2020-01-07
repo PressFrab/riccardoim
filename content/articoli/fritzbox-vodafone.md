@@ -22,7 +22,7 @@ Fatto sta che ieri ho staccato la **Vodafone Station** e ho montato i nuovi FRIT
 <figure>
                     <a
                         href="https://res.cloudinary.com/rim3/image/upload/q_75,w_1000/v1570276258/Articoli/vodafone-fritzbox-configurazione.png"
-                        data-alt="Configurazione FritzBox linea ADSL Vodafone" target="_blank" data-title="Configurazione FritzBox linea ADSL Vodafone." title="Configurazione FritzBox su linea ADSL Vodafone">
+                        data-alt="Configurazione FritzBox linea ADSL Vodafone" target="_blank" rel="nofollow noopener" data-title="Configurazione FritzBox linea ADSL Vodafone." title="Configurazione FritzBox su linea ADSL Vodafone">
                         <img
                             data-src="https://res.cloudinary.com/rim3/image/upload/w_auto,c_scale,q_75,f_auto/v1570276258/Articoli/vodafone-fritzbox-configurazione.png" alt="Configurazione FritzBox linea ADSL Vodafone" class="cld-responsive lazyload">
                     </a>
@@ -48,7 +48,7 @@ Adesso la linea Internet dovrebbe essere attiva. Potete cliccare su "Sistema" > 
 <figure>
                     <a
                         href="https://res.cloudinary.com/rim3/image/upload/q_75,w_1000/v1570276258/Articoli/vodafone-fritzbox-configurazione-fonia.png" target="_blank" 
-                        data-alt="Configurazione FritzBox linea voce Vodafone" data-title="Configurazione FritzBox linea voce Vodafone." title="Configurazione FritzBox su linea voce Vodafone">
+                        data-alt="Configurazione FritzBox linea voce Vodafone" rel="nofollow noopener" data-title="Configurazione FritzBox linea voce Vodafone." title="Configurazione FritzBox su linea voce Vodafone">
                         <img
                             data-src="https://res.cloudinary.com/rim3/image/upload/w_auto,c_scale,q_75,f_auto/v1570276258/Articoli/vodafone-fritzbox-configurazione-fonia.png" alt="Configurazione FritzBox linea voce Vodafone" class="cld-responsive lazyload">
                     </a>
