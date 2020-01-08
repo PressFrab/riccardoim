@@ -16,7 +16,7 @@ ga('set', 'anonymizeIp', true);
 
 <script>
 		window.addEventListener('load', () =>{
-			quicklink({
+			quicklink.listen({
   ignores: [
     (uri, elem) => elem.hasAttribute('noprefetch')
   ]
