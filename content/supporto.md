@@ -1,9 +1,8 @@
 ---
-title: "Supportami"
-date: 2020-01-07T12:41:00+02:00
+title: "Sostieni i miei lavori"
+date: 2020-01-09T12:41:00+02:00
 description: "Supportami su Patreon. Come aiutare lo sviluppo e finanziare i progetti di Riccardo Palombo."
 supporto: current-menu-item
-draft: true
 ---
 
 <div class="main-scroll">
@@ -26,12 +25,12 @@ draft: true
             </div>
 <div class="row-col-12">
             <div class="col-md-8 col-md-push-2 no-padding-left">
-            <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Ho appena messo online la prima pagina Patreon della mia vita. Ora dovrei inserire una descrizione convincente per invogliarvi a supportare economicamente i miei lavori ma in realtà non c'è un vero motivo. Posso trovare dei pretesti (non c'è pubblicità nel sito, non c'è pubblicità invasiva nei podcast) ma tanto cambia poco.</p>
+            <p>Ho appena messo online la prima pagina Patreon della mia vita. Ora dovrei inserire una descrizione convincente per invogliarvi a supportare economicamente i miei lavori ma in realtà non c'è un vero motivo. Posso trovare dei pretesti (non c'è pubblicità nel sito, non c'è pubblicità invasiva nei podcast) ma tanto cambia poco.</p>
 </div>
         </div>
 <figure>
                     <a
-                        href="https://www.patreon.com/preview/929833a7c007488f85e261c467c535ca"
+                        href="https://www.patreon.com/riccardopalombo"
                         target="_blank" rel="nofollow noopener" title="Vai alla pagina Patreon di Riccardo Palombo">
                         <img
                             src="/img/articoli/patreon-riccardo-palombo.jpg" alt="Sostieni Riccardo su Patreon" class="lazyload">
@@ -55,7 +54,7 @@ draft: true
                         href="https://www.youtube.com/playlist?list=PLa8TIOOoI_my47Hlehyeb3mZpMQKhhNwK" rel="nofollow noopener" target="_blank" title="Scuola di recensioni su YouTube">Scuola di recensioni</a> richiede delle spese crude che vanno al di là del mio compenso. I viaggi in treno, gli hotel, le ore che devo pagare all'operatore e quel minimo di rimborso spese che gli devo garantire.</p>
 <br><br>
 <a
-                        href="https://www.patreon.com/preview/929833a7c007488f85e261c467c535ca"
+                        href="https://www.patreon.com/riccardopalombo"
                         target="_blank" rel="nofollow noopener" title="Vai alla pagina Patreon di Riccardo Palombo"><img
                             src="/img/patreon-riccardopalombo.png" alt="Become a Patreon" class="lazyload"></a>  
 </div>
