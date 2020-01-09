@@ -3,7 +3,6 @@ title: "Sostieni i miei lavori"
 date: 2020-01-09T12:41:00+02:00
 description: "Supportami su Patreon. Come aiutare lo sviluppo e finanziare i progetti di Riccardo Palombo."
 supporto: current-menu-item
-draft: true
 ---
 
 <div class="main-scroll">
