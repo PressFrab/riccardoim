@@ -59,7 +59,11 @@
                         <li class="menu-item col-xs-2 {{ .Params.podcast }}">
                             <a href="{{.Site.BaseURL}}podcast/" title="Il Mordente e Tech.is.it: le puntate dei podcast"><span>Podcast</span></a>
                         </li>
+                        {{ if .IsHome }}
+                        <li class="menu-item col-xs-2 current-menu-item">
+                        {{else}}
                         <li class="menu-item col-xs-2 {{ .Params.supporter }}">
+                            {{end}}
                             <a href="{{.Site.BaseURL}}supporter/" title="Diventa Supporter!"><span>Supporter</span></a>
                         </li>
                     </ol>
