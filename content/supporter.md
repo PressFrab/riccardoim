@@ -2,7 +2,8 @@
 title: "Sostieni i miei lavori"
 date: 2020-01-09T12:41:00+02:00
 description: "Supportami su Patreon. Come aiutare lo sviluppo e finanziare i progetti di Riccardo Palombo."
-supporto: current-menu-item
+supporter: current-menu-item
+
 ---
 
 <div class="main-scroll">
@@ -51,7 +52,7 @@ supporto: current-menu-item
         <p>È poi c'è il terzo livello: <strong>Sponsor</strong>. Qui vi garantite una rarissima audiocassetta con gli episodi preferiti de Il Mordente o di Tech.is.it, firmata e assemblata dal sottoscritto, più gli adesivi dei due podcast. Il problema, magari, sarà trovare un vecchio stereo o uno walkman per ascoltarla! Le audiocassette non saranno disponibili per molto tempo perché ho intenzione di cambiare il gadget incluso nel piano Sponsor più volte durante l'anno. Quindi arriveranno altri oggetti e ci saranno altre idee.    
         </p>
         <p>*: in realtà la nuova serie di video <a
-                        href="https://www.youtube.com/playlist?list=PLa8TIOOoI_my47Hlehyeb3mZpMQKhhNwK" rel="nofollow noopener" target="_blank" title="Scuola di recensioni su YouTube">Scuola di recensioni</a> richiede delle spese crude che vanno al di là del mio compenso. I viaggi in treno, gli hotel, le ore che devo pagare all'operatore e quel minimo di rimborso spese che gli devo garantire.</p>
+                        href="https://www.youtube.com/playlist?list=PLa8TIOOoI_my47Hlehyeb3mZpMQKhhNwK" rel="nofollow noopener" target="_blank" title="Scuola di recensioni su YouTube">Scuola di recensioni</a> richiede delle spese vive che vanno al di là del mio compenso. I viaggi in treno, gli hotel, le ore che devo pagare all'operatore e quel minimo di rimborso spese che gli devo garantire.</p>
 <br><br>
 <a
                         href="https://www.patreon.com/riccardopalombo"
