@@ -46,7 +46,7 @@ supporter: current-menu-item
         <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Potete aiutarmi a concretizzare i miei lavori scegliendo uno dei tre livelli. A chi sceglie di aderire al piano che con in uno slancio di genio ho chiamato <strong>Fan</strong>, garantisco l'accesso anticipato alle puntate dei podcast. Il più delle volte sono pronte la sera prima quindi perché lasciarle lì? Con il secondo livello diventate <strong>Supporter</strong>, ed aggiungete all'accesso podcast un numero di telefono dedicato ai Patreon per comunicare con me via Whatsapp o Telegram; è il numero diverso dal solito che usiamo su Il Mordente, una cosa riservata che avrà priorità più alta. Inoltre, al momento della chiusura di una puntata Scuola di recensioni, inserirò il nome dei Supporter nei titoli di coda del video.     
         <br><br></p>
  </div>
-        <figure><img src="/img/articoli/audiocassetta-mordente.jpg" alt="Audiocassetta Il Mordente su Patreon" class="lazyload"></figure>
+        <figure><img src="/img/articoli/podcassette.jpg" alt="Audiocassetta Il Mordente su Patreon" class="lazyload"></figure>
 
 <div class="col-md-8 col-md-push-2 no-padding-left">
         <p>È poi c'è il terzo livello: <strong>Sponsor</strong>. Qui vi garantite una rarissima audiocassetta con gli episodi preferiti de Il Mordente o di Tech.is.it, firmata e assemblata dal sottoscritto, più gli adesivi dei due podcast. Il problema, magari, sarà trovare un vecchio stereo o uno walkman per ascoltarla! Le audiocassette non saranno disponibili per molto tempo perché ho intenzione di cambiare il gadget incluso nel piano Sponsor più volte durante l'anno. Quindi arriveranno altri oggetti e ci saranno altre idee.    
@@ -59,9 +59,8 @@ supporter: current-menu-item
                         target="_blank" rel="nofollow noopener" title="Vai alla pagina Patreon di Riccardo Palombo"><img
                             src="/img/patreon-riccardopalombo.png" alt="Become a Patreon" class="lazyload"></a>  
 </div>
-
 </div>
-      
+    
 </div> <!-- main-scroll -->
 <div class="grid-bg row">
             <div class="col-md-2"></div>
