@@ -48,7 +48,7 @@ supporter: current-menu-item
  </div>
         <figure><img src="/img/articoli/podcassette.jpg" alt="Audiocassetta Il Mordente su Patreon" class="lazyload"></figure>
 
-<div class="col-md-8 col-md-push-2 no-padding-left">
+<div class="col-md-8 col-md-push-2 no-padding">
         <p>È poi c'è il terzo livello: <strong>Sponsor</strong>. Qui vi garantite una rarissima audiocassetta con gli episodi preferiti de Il Mordente o di Tech.is.it, firmata e assemblata dal sottoscritto, più gli adesivi dei due podcast. Il problema, magari, sarà trovare un vecchio stereo o uno walkman per ascoltarla! Le audiocassette non saranno disponibili per molto tempo perché ho intenzione di cambiare il gadget incluso nel piano Sponsor più volte durante l'anno. Quindi arriveranno altri oggetti e ci saranno altre idee.    
         </p>
         <p>*: in realtà la nuova serie di video <a
@@ -60,7 +60,25 @@ supporter: current-menu-item
                             src="/img/patreon-riccardopalombo.png" alt="Become a Patreon" class="lazyload"></a>  
 </div>
 </div>
-    
+      
+<div class="row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+            <h3>Altri modi</h3>
+            <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> A chi preferisce supportare il mio lavoro in modi diversi, segnalo le donazioni PayPal (singole, mensili o lifetime!) e i soliti link di affiliazione di Amazon. Per Amazon basta cliccare sul banner sotto e poi concludere gli acquisti come al solito. Con questo metodo non ci sono spese aggiuntive per chi compra, mentre io ricevo una piccola percentuale del totale (da 1% a 5% a seconda del prodotto).</p>
+ </div>
+</div>
+      <section class="row-col-12">
+            <div class="col-md-4 col-md-push-2 no-padding-left col-sm-6">
+                <a href="https://amzn.to/2Vo4lm3" rel="nofollow noopener" target="_blank" title="Parti da qui">
+                    <img src="/img/amazon-small.png" alt="Supporta Riccardo.im su Amazon" class="lazyload" />
+                </a>
+            </div>
+            <div class="col-md-4 col-md-push-2 no-padding-right col-sm-6">
+            <a href="https://paypal.me/RiccardoPP" rel="nofollow noopener" target="_blank" title="Supportami su PayPal">
+                                <img src="/img/paypal-small.png" alt="PayPal" class="lazyload" />
+            </div>
+    </section>
+
 </div> <!-- main-scroll -->
 <div class="grid-bg row">
             <div class="col-md-2"></div>
