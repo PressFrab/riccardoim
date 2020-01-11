@@ -64,7 +64,7 @@ supporter: current-menu-item
 <div class="row-col-12">
             <div class="col-md-8 col-md-push-2 no-padding-left">
             <h3>Altri modi</h3>
-            <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> A chi preferisce supportare il mio lavoro in modi diversi, segnalo le donazioni PayPal (singole, mensili o lifetime!) e i soliti link di affiliazione di Amazon. Per Amazon basta cliccare sul banner sotto e poi concludere gli acquisti come al solito. Con questo metodo non ci sono spese aggiuntive per chi compra, mentre io ricevo una piccola percentuale del totale (da 1% a 5% a seconda del prodotto).</p>
+            <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> A chi preferisce supportare il mio lavoro in modi diversi, segnalo le donazioni PayPal (singole, mensili o lifetime!) e i soliti link di affiliazione di Amazon. Per Amazon basta cliccare sul banner sotto e poi concludere gli acquisti come al solito. Con questo metodo non ci sono spese aggiuntive per chi compra, mentre io ricevo una piccola parte del totale (da 1% a 5% a seconda della categoria di prodotto).</p>
  </div>
 </div>
       <section class="row-col-12">
