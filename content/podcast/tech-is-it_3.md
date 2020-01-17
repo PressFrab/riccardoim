@@ -1,13 +1,12 @@
 ---
 title: "AMD vs Intel per i notebook del 2020"
-date: 2020-01-16T06:30:20+02:00
+date: 2020-01-17T05:30:20+02:00
 numero: "3"
 slug: "amd-vs-intel-notebook-2020"
 description: "Nella terza puntata del podcast Tech.is.it si parla di AMD, di Intel e del futuro di laptop e notebook. Ryzen 4000 e Tiger Lake, GPU Radeon e schermi flessibili, TDP e previsioni dopo CES 2020. Ospite: Paolo Corsini. Autore: Riccardo Palombo"
 featured_image: "v1579193223/Podcast/amd-ryzen-4000.jpg"
 podcast: current-menu-item
 techisit: 1
-draft: true
 ---
 
 <a class="spreaker-player" href="https://www.spreaker.com/e/vJ8vVzEbajz" data-resource="episode_key=vJ8vVzEbajz" data-width="100%" data-height="350px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F15020a5c63f8a4414fee525deddaee85.jpg">Ascolta "03 | AMD vs Intel nei notebook del 2020 (feat. Paolo Corsini)" su Spreaker.</a>
