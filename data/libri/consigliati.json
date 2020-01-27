@@ -4,20 +4,10 @@
     "autore": "Carl Gustav Jung",
     "link": "https://amzn.to/35Ck6WM"
   },
-  "2": {
-    "titolo": "Il signore degli anelli",
-    "autore": "John R. R. Tolkien",
-    "link": "https://amzn.to/2ZnxJWV"
-  },
   "3": {
     "titolo": "Considera l'aragosta",
     "autore": "David Foster Wallace",
     "link": "https://amzn.to/2Fy51es"
-  },
-  "4": {
-    "titolo": "Una cosa alla volta. Le regole dell'attenzione",
-    "autore": "P. Legrenzi e C. Umiltà",
-    "link": "https://amzn.to/2Dpd0tk"
   },
   "5": {
     "titolo": "In acque profonde. Meditazione e creatività",
@@ -28,5 +18,15 @@
     "titolo": "Sette tesi sulla magia della radio",
     "autore": "Massimo Cirri",
     "link": "https://amzn.to/2tuTfzb"
+  },
+  "7": {
+    "titolo": "Troppe puttane! Troppo canottaggio! Da Balzac a Proust, consigli ai giovani scrittori dai maestri della letteratura francese.",
+    "autore": "F. D'Angelo",
+    "link": "https://amzn.to/2Fy51es"
+  },
+  "8": {
+    "titolo": "Nulla di ordinario. Su Wislawa Szymborska",
+    "autore": "Michal Rusinek",
+    "link": "https://amzn.to/3aARiBL"
   }
 }

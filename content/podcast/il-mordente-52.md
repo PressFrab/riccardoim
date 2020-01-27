@@ -4,7 +4,7 @@ date: 2020-01-27T06:15:20+02:00
 numero: "52"
 slug: "il-mordente-52"
 description: "Puntata 52 del podcast Il Mordente. Argomenti: Blockchain Week Rome 2020, Svelte JS, Linux, Libri, Carlo Jung, Dylan Dog. Autore: Riccardo Palombo."
-featured_image: "v1562766604/Podcast/podcast_il-mordente-31.jpg"
+featured_image: "v1580113492/Podcast/il-mordente-52.jpg"
 podcast: current-menu-item
 
 ---
@@ -20,6 +20,8 @@ Buon ascolto e buon inizio settimana. Ricordo che, al di là del numero di telef
 ### Citati:
 <ul>
 <li><a href="https://www.blockchainweekrome.com/" target="_blank" rel="nofollow noopener" title="Vedi i corsi Blockchain Week Rome 2020">Blockchain Week Rome 2020</a>: sconto del 15% con il codice "RICCARDO".</li>
+<li>Tutti gli <a href="https://amzn.to/3ahFEvm" target="_blank" rel="nofollow noopener" title="Vedi gli Adelphi al -25%">Adelphi al -25%</a> fino al 15 febbraio.</li>
+
 <li><a href="https://amzn.to/2Fy51es" target="_blank" rel="nofollow noopener" title="Vedi il libro Troppe puttane! Troppo canottaggio! Da Balzac a Proust, consigli ai giovani scrittori dai maestri della letteratura francese.">Troppe puttane! Troppo canottaggio!</a> di F. D'Angelo.</li>
 <li><a href="https://amzn.to/3aARiBL" target="_blank" rel="nofollow noopener" title="Vedi il libro Nulla di ordinario">Nulla di ordinario. Su Wislawa Szymborska</a>, di Michal Rusinek.</li>
 <li><a href="https://amzn.to/35Ck6WM" target="_blank" rel="nofollow noopener" title="Vedi il libro L'uomo e i suoi singoli">L'uomo e i suoi simboli</a>, di Carl Gustav Jung.</li>
