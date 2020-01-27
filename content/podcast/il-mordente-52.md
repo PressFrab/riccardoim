@@ -3,7 +3,7 @@ title: "Libri, blockchain, crack, Linux, Svelte JS e DYD666"
 date: 2020-01-27T06:15:20+02:00
 numero: "52"
 slug: "il-mordente-52"
-description: "Puntata 52 del podcast Il Mordente. Argomenti: Blockchain Week Rome 2020, Svelte JS, Linux, Libri, Jung, Dylan Dog. Autore: Riccardo Palombo."
+description: "Puntata 52 del podcast Il Mordente. Argomenti: Blockchain Week Rome 2020, Svelte JS, Linux, Libri, Carlo Jung, Dylan Dog. Autore: Riccardo Palombo."
 featured_image: "v1562766604/Podcast/podcast_il-mordente-31.jpg"
 podcast: current-menu-item
 
