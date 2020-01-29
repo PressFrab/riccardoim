@@ -6,7 +6,7 @@ articoli: current-menu-item
 slug: "scuola-di-recensioni-pezzali"
 immagine_testa: appunti-riccardo-palombo.png
 description: "La seconda puntata di Scuola di recensioni è dedicata a Roberto Pezzali. Dalla redazione di DDay.it a Milano, Roberto mi spiega i suoi metodi di lavoro. Ecco il video."
-categoria: "2"
+categoria: "3"
 ---
 
 **Roberto Pezzali** è il protagonista della seconda puntata di scuola di recensioni. Dalla redazione di DDay.it a Milano, Roberto mi spiega i suoi metodi di lavoro, come cerca di migliorare la sua formazione, quali strumenti usa, perché è così difficile dare all'utente dei numeri esatti durante una recensione. Dalla nostra chiacchierata esce questa verità: sono gli ingegneri a fare i prodotti, non le persone del marketing. Buona visione.

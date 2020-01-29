@@ -6,7 +6,7 @@ articoli: current-menu-item
 slug: "scuola-di-recensioni-galeazzi"
 immagine_testa: appunti-riccardo-palombo.png
 description: "La prima puntata di Scuola di recensioni è dedicata ad Andrea Galeazzi. Dal suo studio di Corso Como a Milano, Andrea mi parla dei suoi metodi di lavoro e di come riesce ad essere tanto produttivo. Ecco il video."
-categoria: "2"
+categoria: "3"
 ---
 
 **Andrea Galeazzi** è il protagonista della prima puntata di "Scuola di recensioni". Dal suo studio di Corso Como a Milano, Andrea mi parla dei suoi metodi di lavoro e di come riesce ad essere tanto produttivo. Vediamo gli strumenti usati per le sue recensioni, quali parametri considera per valutare un prodotto e come si fa aiutare dai collaboratori per portare avanti il sito, gli eventi, il canale YouTube. Infine: che rapporto ha con la sua community? 
