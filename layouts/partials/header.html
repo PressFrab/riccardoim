@@ -51,7 +51,7 @@
                     </div>
                     <ol id="menu-menu-1" class="nav-list">
                         <li class="menu-item col-xs-2 {{ if or ( .Params.articoli ) }} current-menu-item {{ end }}">
-                            <a href="{{.Site.BaseURL}}articoli/" title="Le recensioni e gli articoli di Riccardo Palombo"><span>Recensioni</span></a>
+                            <a href="{{.Site.BaseURL}}articoli/" title="Le recensioni e gli articoli di Riccardo Palombo"><span>Articoli</span></a>
                         </li>
                         <li class="menu-item col-xs-2 {{ .Params.libri }}">
                             <a href="{{.Site.BaseURL}}libri/" title="I libri consigliati da Riccardo Palombo"><span>Libreria</span></a>
@@ -59,13 +59,8 @@
                         <li class="menu-item col-xs-2 {{ .Params.podcast }}">
                             <a href="{{.Site.BaseURL}}podcast/" title="Il Mordente e Tech.is.it: le puntate dei podcast"><span>Podcast</span></a>
                         </li>
-                        {{ if .IsHome }}
-                        <li class="menu-item col-xs-2">
-                            <a href="{{.Site.BaseURL}}supporter/" title="Diventa Supporter!"><span style="color: #ff3644">Supporter</span></a>
-                        {{else}}
-                        <li class="menu-item col-xs-2 {{ .Params.supporter }}">
-                            <a href="{{.Site.BaseURL}}supporter/" title="Diventa Supporter!"><span>Supporter</span></a>
-                        {{end}}
+                        <li class="menu-item col-xs-2 {{ .Params.contatti }}">
+                            <a href="{{.Site.BaseURL}}contatti/" title="Contatta Riccardo Palombo"><span>Contatti</span></a>
                         </li>
                     </ol>
                 </nav>
