@@ -1,6 +1,6 @@
 ---
 title: "Workstation Ryzen e Linux"
-date: "2020-01-29T12:30:06+02:00"
+date: "2020-02-06T10:30:06+02:00"
 recensioni: current-menu-item
 slug: "room-tour-2020-ryzen-linux"
 immagine_testa: "https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1576658968/recensioni/benq-pd2720u-recensione.png"
