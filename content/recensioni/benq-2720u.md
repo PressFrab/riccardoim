@@ -4,7 +4,7 @@ date: "2019-12-18T12:30:06+02:00"
 recensioni: current-menu-item
 slug: "room-tour-2020"
 immagine_testa: "https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1576658968/recensioni/benq-pd2720u-recensione.png"
-description: "Room Tour 2020 di Riccardo Palombo. Dalla postazione per lavorare in piedi al monitor BenQ PD2720U, ideale per la grafica."
+description: "Room Tour 2020 di Riccardo Palombo. Dalla postazione per lavorare in piedi al monitor BenQ PD2720U, ideale per la grafica e montaggio video."
 categoria: "1"
 rating: "5"
 brand: "Riccardo Palombo"
