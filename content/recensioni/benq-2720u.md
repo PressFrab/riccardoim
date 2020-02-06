@@ -1,5 +1,5 @@
 ---
-title: "Room Tour 2020"
+title: "BenQ PD2720U e Standing Desk"
 date: "2019-12-18T12:30:06+02:00"
 recensioni: current-menu-item
 slug: "room-tour-2020"
@@ -25,7 +25,6 @@ Sono soddisfatto del risultato. Quando la mattina mi metto lì a lavorare sento 
 SCHEDA TECNICA
 
 Schermo27 pollici / 3840 x 2160 px / Anti-riflesso PannelloIPS / 60 Hz / 10-bit / 1000:1 / 5ms GtG CoperturaDCI-P3 96% / sRGB 100% / AdobeRGB 100% RegolazioniInclinazione 5-20° / Altezza +-15 cm / Rotazione +- 30° / Pivot Connettività2x Thunderbolt 3 (PD 15W e 65W) / 2 HDMI 2.0 / DP .14 / 2 USB 3.1 Downstream / USB 3.1 Upstream / mini-USB / Jack 3.5 mm AudioAltoparlanti integrati 2x 2 watt DimensioniSenza base: 444 x 614 x 186 mm / 8.3 kg AltroVESA 100 / Controller OSD esterno Hotkey Puck G2 / Filtro luce blu / PiP / PbP / KVM ConfezioneCavo Thunderbolt 3 / 2x cavi HDMI 2.0 / Cavo alimentazione / CD-ROM
-
 
 BenQ PD2720U
 
