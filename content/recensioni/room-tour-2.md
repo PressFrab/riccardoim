@@ -10,7 +10,7 @@ rating: "5"
 brand: "Riccardo Palombo"
 jquery: "1"
 layout: room-tour-2020-1
-video: https://www.youtube.com/embed/06q_7R4BQyo
+video: https://www.youtube.com/embed/IvPkHi2fOPA
 sommario: "Ho rinnovato il PC con"
 typed1: "^3000 la CPU Ryzen 3900X."
 typed2: "una Radeon 5700 XT."
