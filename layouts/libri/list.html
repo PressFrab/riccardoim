@@ -38,7 +38,7 @@
                         {{ range .Site.Data.libri.consigliati }}
                         <li{{ if .must }} class="must" {{ end }}><a href="{{ .link }}"
                                 title="Vedi il libro {{ .titolo }} di {{ .autore }}" target="_blank"
-                                rel="nofollow noopener">{{ .titolo | truncate 35 "..."}}</a> di {{ .autore }}</li>
+                                rel="nofollow noopener">{{ .titolo }}</a>, di {{ .autore }}</li>
                             {{end}}
                     </ul>
                 </div>

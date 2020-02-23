@@ -1,32 +1,27 @@
 {
   "1": {
-    "titolo": "L'uomo e i suoi simboli",
-    "autore": "Carl Gustav Jung",
-    "link": "https://amzn.to/35Ck6WM"
-  },
-  "3": {
-    "titolo": "Considera l'aragosta",
-    "autore": "David Foster Wallace",
-    "link": "https://amzn.to/2Fy51es"
-  },
-  "5": {
     "titolo": "In acque profonde. Meditazione e creatività",
     "autore": "David Lynch",
     "link": "https://amzn.to/37ostY0"
   },
-  "6": {
+  "2": {
     "titolo": "Sette tesi sulla magia della radio",
     "autore": "Massimo Cirri",
     "link": "https://amzn.to/2tuTfzb"
   },
-  "7": {
-    "titolo": "Troppe puttane! Troppo canottaggio! Da Balzac a Proust, consigli ai giovani scrittori dai maestri della letteratura francese.",
-    "autore": "F. D'Angelo",
-    "link": "https://amzn.to/31iTk5q"
-  },
-  "8": {
+  "4": {
     "titolo": "Nulla di ordinario. Su Wislawa Szymborska",
     "autore": "Michal Rusinek",
     "link": "https://amzn.to/3aARiBL"
+  },
+  "5": {
+    "titolo": "Don Chisciotte della Mancia",
+    "autore": "Miguel de Cervantes",
+    "link": "https://amzn.to/2VcP7PG"
+  },
+  "6": {
+    "titolo": "Vita e opere di Cartesio",
+    "autore": "Eugenio Garin",
+    "link": "https://amzn.to/2HPbEKA"
   }
 }
