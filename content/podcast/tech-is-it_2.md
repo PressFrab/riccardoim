@@ -1,4 +1,4 @@
- ---
+---
 title: "Scuola di recensioni: Andrea Galeazzi (versione integrale)"
 date: 2020-01-07T06:30:20+02:00
 numero: "2"
