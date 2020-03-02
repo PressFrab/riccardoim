@@ -1,6 +1,6 @@
 ---
 title: "Scuola di recensioni: Emanuele Cisotti (versione integrale)"
-date: 2020-03-01T06:00:20+02:00
+date: 2020-03-02T06:00:20+02:00
 numero: "5"
 slug: "scuola-di-recensioni-cisotti-integrale"
 description: "La quinta puntata di Tech.is.it è la versione integrale di Scuola di recensioni con ospite Emanuele Cisotti. Autore: Riccardo Palombo"
