@@ -15,7 +15,7 @@ Nella prima puntata di Tech.is.it torno sul MacBook Pro 16. Nella recensione pub
 
 [Tech.is.it](/podcast/il-mordente-49/ "Vi presento tech.is.it") è ancora un esperimento. L'idea è portare in audio, quando è necessario e quando va di farlo, i ragionamenti che hanno portato alle opinioni espresse in una video recensione o in un testo. Oppure parlare di strumenti e di tecnologie passate da queste parti e non ancora analizzate. Ma non è tutto: presto usciranno dei video YouTube nominati allo stesso modo dove i protagonisti non saranno i prodotti. Il primo episodio sarà online entro la fine del 2019.
 
-### Iscriviti
+### ISCRIVITI
 
 Il nuovo podcast è disponibile sulla piattaforma di ascolto preferita. Mentre scrivo, manca all'appello Google Podcast perché è sempre il più lento ad attivarsi. Presto sarà possibile sfruttare la skill per Alexa e la Action per Assistant de Il Mordente per riprodurre anche i contenuti di tech.is.it.
 

@@ -15,13 +15,6 @@ Nella quarta puntata di Tech.is.it mi confronto con **Giorgio Taverniti** (giorg
 
 Ho incontrato Giorgio al [Social Media Strategies 2019](/podcast/il-mordente-48/ "Cosa ho detto a Rimini") dello scorso novembre, ma è stata una presenza costante di tutti questi anni. Il suo GTForum ha consigliato soluzioni e trovato risposte a milioni di utenti, me compreso, e gli eventi organizzati attraverso il [Search On Media Group](https://www.searchon.it/ "Vai al sito di Search On Media Group") hanno formato migliaia di professionisti. Io e Giorgio, soprattutto, condividiamo lo stesso pensiero: la crescita personale è alla base di ogni miglioramento professionale. Buon ascolto.
 
-#### ISCRIVITI!
+#### SCEGLI TU
 
 Il nuovo podcast è disponibile sulla piattaforma di ascolto preferita, anche dalla skill e dalla action per Amazon Alexa e Google Assistant de Il Mordente. 
-
-- Ascolta su <a href="https://podcasts.apple.com/it/podcast/tech-is-it/id1492275528" target="_blank" rel="nofollow noopener" title="Ascolta Tech.is.it su Apple Podcast">Apple Podcast</a>.
-- Ascolta su <a href="https://open.spotify.com/show/0YsuYqJ8tY7E6PyDfNLOVQ" title="Ascolta Tech.is.it su Spotify" target="_blank" rel="nofollow noopener">Spotify</a>.
-- Ascolta su <a href="https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDE3NjE2OC9lcGlzb2Rlcy9mZWVk" title="Ascolta Tech.is.it su Google Podcast" target="_blank" rel="nofollow noopener">Google Podcast</a>.
-- Ascolta su <a href="https://www.spreaker.com/show/tech-is-it" title="Ascolta Tech.is.it su Spreaker" target="_blank" rel="nofollow noopener">Spreaker</a>.
-- Oppure usa il link al <a href="https://www.spreaker.com/show/4176168/episodes/feed" title="RSS Tech.is.it" target="_blank" rel="nofollow noopener">feed RSS</a>.
-</ol>

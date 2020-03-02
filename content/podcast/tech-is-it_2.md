@@ -28,12 +28,6 @@ La seconda puntata di Tech.is.it è l'edizione integrale di "**Scuola di recensi
 
 Tech.is.it è ancora uno spazio da definire ma credo che si possa considerare un momento adatto a chiacchierate così. L'idea è alternare approfondimenti molto tecnici (sto lavorando da giorni alla messa a punto della mia nuova workstation Ryzen, e ho molte cose da raccontare) a confronti come quello della [puntata con Maurizio Natali](/podcast/tech-is-it-macbook-pro-16 "Alla ricerca del MacBook perduto"). E se verrà fuori qualcosa di utile anche dai video "Scuola di recensioni", non ci penserò due volte a proporli ancora come _long-form_. Dopotutto, stiamo ancora parlando di tecnologia.
 
-#### ISCRIVITI!
+#### SCEGLI TU
 
 Il nuovo podcast è disponibile sulla piattaforma di ascolto preferita, anche dalla skill e dalla action per Amazon Alexa e Google Assistant de Il Mordente. Nella lista che trovate a seguire manca Google Podcast perché è sempre il più lento ad attivarsi.
-
-- Ascolta su <a href="https://podcasts.apple.com/it/podcast/tech-is-it/id1492275528" target="_blank" rel="nofollow noopener" title="Ascolta Tech.is.it su Apple Podcast">Apple Podcast</a>.
-- Ascolta su <a href="https://open.spotify.com/show/0YsuYqJ8tY7E6PyDfNLOVQ" title="Ascolta Tech.is.it su Spotify" target="_blank" rel="nofollow noopener">Spotify</a>.
-- Ascolta su <a href="https://www.spreaker.com/show/tech-is-it" title="Ascolta Tech.is.it su Spreaker" target="_blank" rel="nofollow noopener">Spreaker</a>.
-- Oppure usa il link al <a href="https://www.spreaker.com/show/4176168/episodes/feed" title="RSS Tech.is.it" target="_blank" rel="nofollow noopener">feed RSS</a>.
-</ol>

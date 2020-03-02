@@ -13,15 +13,21 @@ techisit: 1
 
 La quinta puntata di Tech.is.it è l'edizione integrale di [Scuola di recensioni: Emanuele Cisotti](/articoli/scuola-di-recensioni-cisotti/ "Guarda il video: Scuola di recensioni con Emanuele Cisotti"), ovvero l'incontro pubblicato su YouTube qualche giorno fa. Questo podcast è molto più lungo e discorsivo del video, e contiene sia le parti tagliate sia i discorsi che hanno anticipato e seguito il montaggio. Consiglio, come al solito, di guardare prima il video e poi ascoltare il podcast perché il filmato è più vicino alla mia idea originale. Si può vedere come un riassunto, un estratto, ragionato e rielaborato a partire dai sessanta minuti di chiacchiere registrate quella mattina a Firenze.
 
+<figure>
+                    <a
+                        href="https://youtu.be/9-MtjNv9Gec" rel="nofollow noopener" target="_blank" title="Vai al video: Scuola di recensioni EP0: Emanuele Cisotti">
+                        <img
+                            data-src="https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_75,f_auto/v1583138457/Podcast/scuola-di-recensioni-emanuele-cisotti-video.jpg" alt="Scuola di recensioni: Emanuele Cisotti" class="cld-responsive lazyload">
+                    </a>
+                    <figcaption>
+                        <span class="description-title">
+                            <span>FIG. 1.</span> Clicca sull'immagine e guarda il video su YouTube.
+                        </span>
+                    </figcaption>
+</figure>
+
 La redazione di Androidworld, Smartworld e Mobileworld mi ha lasciato una sensazione di intesa e di lavoro in gruppo rara, credo unica tra le aziende di pari impatto. Tra qualche settimana raccoglierò tutte queste impressioni in una puntata che chiuderà la prima stagione di Scuola di recensioni.
 
-#### ISCRIVITI!
+#### SCEGLI TU
 
-Il nuovo podcast è disponibile sulla piattaforma di ascolto preferita, anche dalla skill e dalla action per Amazon Alexa e Google Assistant de Il Mordente. 
-
-- Ascolta su <a href="https://podcasts.apple.com/it/podcast/tech-is-it/id1492275528" target="_blank" rel="nofollow noopener" title="Ascolta Tech.is.it su Apple Podcast">Apple Podcast</a>.
-- Ascolta su <a href="https://open.spotify.com/show/0YsuYqJ8tY7E6PyDfNLOVQ" title="Ascolta Tech.is.it su Spotify" target="_blank" rel="nofollow noopener">Spotify</a>.
-- Ascolta su <a href="https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDE3NjE2OC9lcGlzb2Rlcy9mZWVk" title="Ascolta Tech.is.it su Google Podcast" target="_blank" rel="nofollow noopener">Google Podcast</a>.
-- Ascolta su <a href="https://www.spreaker.com/show/tech-is-it" title="Ascolta Tech.is.it su Spreaker" target="_blank" rel="nofollow noopener">Spreaker</a>.
-- Oppure usa il link al <a href="https://www.spreaker.com/show/4176168/episodes/feed" title="RSS Tech.is.it" target="_blank" rel="nofollow noopener">feed RSS</a>.
-</ol>
+Il nuovo podcast è disponibile sulla piattaforma di ascolto preferita, anche dalla skill e dalla action per Amazon Alexa e Google Assistant de Il Mordente.
