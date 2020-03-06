@@ -4,7 +4,7 @@ date: 2020-03-06T11:21:35+02:00
 articoli: current-menu-item
 slug: "suunto-7"
 immagine_testa: https://res.cloudinary.com/rp1/image/upload/w_auto,c_scale,q_auto,f_auto/v1583170541/Suunto/suunto-7.jpg
-description: "La video recensione a Suunto 7 di Riccardo Palombo."
+description: "La video recensione a Suunto 7 di Riccardo Palombo. È uno smartwatch con Wear OS e funzionalità sportive. Analisi dei dati e confronto con Garmin, Apple e Polar."
 categoria: "1"
 rating: "2.5"
 brand: "Suunto Oy"
