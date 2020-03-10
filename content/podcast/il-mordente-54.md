@@ -1,6 +1,6 @@
 ---
 title: "Come attrezzare una palestra a casa"
-date: 2020-03-10T05:00:20+02:00
+date: 2020-03-10T05:50:20+02:00
 numero: "54 - PARTE 1"
 slug: "il-mordente-54"
 description: "Consigli su come attrezzare una palestra e fare attività fisica a casa ai tempi del coronavirus. Prima parte della puntata 54 del podcast Il Mordente. Autore: Riccardo Palombo."
