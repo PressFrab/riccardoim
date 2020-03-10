@@ -4,7 +4,7 @@ date: 2020-03-10T05:50:20+02:00
 numero: "54 - PARTE 1"
 slug: "il-mordente-54"
 description: "Consigli su come attrezzare una palestra e fare attività fisica a casa ai tempi del coronavirus. Prima parte della puntata 54 del podcast Il Mordente. Autore: Riccardo Palombo."
-featured_image: "v1577130672/Podcast/il-mordente-podcast.jpg"
+featured_image: "v1583833291/Podcast/il-mordente-54.jpg"
 podcast: current-menu-item
 ---
 
@@ -14,14 +14,14 @@ Ho diviso **Il Mordente 54** a metà. In questa prima parte, ecco una serie di c
 
 Nella seconda parte di questa puntata torneremo sulle cose di sempre: informatica (ho comprato un netbook!), libri, progetti futuri. Intanto, come al solito, potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089** oppure usare il modulo contatti per scrivere una e-mail. Usate i vocali ma non esagerate con la lunghezza: andate al punto.
 
-### Libri
+#### Libri
 <ul>
 <li><a href="https://amzn.to/34rh9bF" target="_blank" rel="nofollow noopener" title="Vedi il libro Ready to Run: Unlocking Your Potential to Run Naturally">Ready to Run</a>, di Kelly Starrett.</li>
 <li><a class="text-info" href="https://amzn.to/2UIjsT8" target="_blank" rel="nofollow noopener" title="Vedi il libro Running Anatomy">Running Anatomy</a>, di Joe Puleo e Patrick Milroy.</li>
 <li><a class="text-info" href="https://amzn.to/334aYuB" target="_blank" rel="nofollow noopener" title="Vedi il libro Fitball Workout: The Easy Way To A Toned, Flexible Body">Fitball Workout</a>, di Jan Endacott.</li>
 </ul>
 
-### Attrezzi
+#### Attrezzi
 <ul>
 <li>Una <a href="https://amzn.to/39FkFC5" target="_blank" rel="nofollow noopener" title="Vedi su Amazon">fitness ball</a> da 65 cm.</li>
 <li>Le <a href="https://amzn.to/2TTjeJK" target="_blank" rel="nofollow noopener" title="Vedi su Amazon">palline per massaggi</a>: liscia, doppia e riccio.</li>
