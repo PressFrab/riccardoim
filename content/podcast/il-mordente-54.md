@@ -15,7 +15,7 @@ Ho diviso **Il Mordente 54** a metà. In questa prima parte, ecco una serie di c
 Nella seconda parte di questa puntata torneremo sulle cose di sempre: informatica (ho comprato un netbook!), libri, progetti futuri. Intanto, come al solito, potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089** oppure usare il modulo contatti per scrivere una e-mail. Usate i vocali ma non esagerate con la lunghezza: andate al punto.
 
 <aside class="yt-iscriviti">
-                    <span class="atail-multitext-text">REPARTO FITNES SU AMAZON</span>
+                    <span class="atail-multitext-text">REPARTO FITNESS SU AMAZON</span>
                     <a href="https://amzn.to/33b9DSH" rel="nofollow noopener" target="_blank"
                         title="Aiutami a migliorare il podcast e il sito">
                         <img data-src="https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_75,f_auto/v1562766484/amazon.png"
