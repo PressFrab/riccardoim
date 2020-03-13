@@ -1,5 +1,5 @@
 ---
-title: "Riparto da voi."
+title: "Riparto da voi"
 date: 2020-01-10T06:50:20+02:00
 numero: "51"
 slug: "il-mordente-51"
