@@ -1,5 +1,5 @@
 ---
-title: "Oggi passeremo la serata insieme."
+title: "Oggi passeremo la serata insieme"
 date: 2020-02-17T09:00:20+02:00
 numero: "53"
 slug: "il-mordente-53"
