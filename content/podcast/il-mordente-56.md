@@ -1,23 +1,27 @@
 ---
-title: "Mordente 56"
+title: "Abbiamo un problema software"
 date: 2020-03-13T11:00:20+02:00
-numero: "55"
+numero: "56"
 slug: "il-mordente-56"
-description: "La ricerca di una stabilità emotiva ai tempi del Coronavirus. Puntata 55 del podcast Il Mordente, registrato da Riccardo Palombo."
+description: "Netbook, coronavirus, i libri di James Hillman e l'accordatura a 432 Hertz nella puntata 56 del podcast Il Mordente. Registrato da Riccardo Palombo."
 featured_image: "v1562766602/Podcast/podcast_il-mordente-15.jpg"
 podcast: current-menu-item
 draft: true
 ---
 
-<a class="spreaker-player" rel="nofollow noopener" href="https://www.spreaker.com/episode/23784807" data-resource="episode_id=23784807" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Ma forse è solo una cosa mia." su Spreaker.</a>
+<a class="spreaker-player" rel="nofollow noopener" href="https://www.spreaker.com/episode/23718116" data-resource="episode_id=23718116" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "56 | Abbiamo un problema software." su Spreaker.</a>
 
-Sette minuti appena per ragionare su come questa atmosfera di tregua riesca a darmi tranquillità. Non è emotiva ma più di pensiero. Non è il sentirsi giustificati a non produrre, quanto lo scoprire una reazione imprevista ad un contesto diverso. Una reazione piacevole. È così anche per voi? Se vi va, mandate un vocale al 351 8516089 su Telegram o Whatsapp. Grazie (e ciao).
+Seconda parte del podcast iniziato tre episodi fa e, nel mentre, spezzato dai [ragionamenti a voce alta](/podcast/il-mordente-55/ "Ma forse è solo una cosa mia.") sul Coronavirus. Ne **Il Mordente 56** vi parlo dei miei progetti con il netbook Atom che vorrei usare per scrivere (e basta), del perché il libro sulle regole dell'attenzione si è meritato un quarta opportunità; del perché ho deciso di mandare indietro un testo troppo difficile; del perché non è più tempo di provare "cose" senza il supporto delle aziende. Il riferimento a Dell XPS 13 9300 è solo dovuto al momento, ma è una logica che vale per ogni prodotto. C'è dell'altro: abbiamo un problema con la complessità del software moderno? È possibile che la tastiera di un iPad Pro sia migliore di quella grande e grossa di un notebook? (sì, ma il motivo non è scontato). Le teorie sull'accordature a 432 Hz sono solo cavolate?
+
+_N.B. Questa puntata è stata registrata lunedì 9 marzo, prima degli ultimi sviluppi. La precisazione serve a giustificare i giri al mercatino di cui parlo ad inizio podcast._
 
 Intanto, come al solito, potete inviare messaggi vocali su Telegram o Whatsapp al numero **351 8516089**, oppure usare il modulo contatti per scrivere una e-mail. Le puntate de "Il Mordente" sono disponibili anche su <a target="_blank" rel="nofollow noopener" title="Canale Youtube Riccardo Palombo" href="https://www.youtube.com/riccardopalombo">Youtube</a>.
 
 ### Citati:
 <ul>
-<li><a href="https://amzn.to/31iTk5q" target="_blank" rel="nofollow noopener" title="Vedi il libro Troppe puttane! Troppo canottaggio! Da Balzac a Proust, consigli ai giovani scrittori dai maestri della letteratura francese.">Troppe puttane! Troppo canottaggio!</a> di F. D'Angelo.</li>
-<li>Il <a href="https://www.facebook.com/1416032665295819/posts/2618933938339013/" target="_blank" rel="nofollow noopener" title="Vedi il video di Massimiliano Mariani.">video sull'anatomia del piede</a> di Massimiliano Mariani.</li>
-<li>Il metronomo meccanico <a href="https://amzn.to/2UZMyjF" target="_blank" rel="nofollow noopener" title="Vedi il metronomo Wittner TakTell Piccolo.">Wittner Taktell Picolo</a> su Amazon.</li>
+<li><a href="https://amzn.to/3cE6or5" target="_blank" rel="nofollow noopener" title="Vedi il libro Immagini che ci guardano. Teoria dell'atto iconico.">Immagini che ci guardano. Teoria dell'atto iconico</a>, di Horst Bredekamp.</li>
+<li><a href="https://amzn.to/2ICCS7H" target="_blank" rel="nofollow noopener" title="Vedi il libro Il codice dell'anima. Carattere, vocazione, destino.">Il codice dell'anima. Carattere, vocazione, destino</a>, di James Hillman.</li>
+<li><a href="https://amzn.to/39SuOeN" target="_blank" rel="nofollow noopener" title="Vedi il libro 432 hertz. La rivoluzione musicale.">432 hertz. La rivoluzione musicale</a>, di Riccardo Tuis.</li>
 </ul>
+
+
