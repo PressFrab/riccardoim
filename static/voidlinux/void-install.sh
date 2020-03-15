@@ -25,7 +25,7 @@ sleep 3s
 clear
 echo "Installing packages..."
 sleep 3s
-	sudo xbps-install -Sy terminus-font nano micro powertop wordgrinder git lm_sensors acpi vsv vpm cpupower htop lf 
+	sudo xbps-install -Sy terminus-font nano micro powertop wordgrinder git lm_sensors acpi vsv vpm cpupower htop lf NetworkManager 
 
 clear
 echo "Importing files from server..."
@@ -45,13 +45,15 @@ sleep 3s
 #	sudo sed -i "s/--noclear/--noclear\ --skip-login\ --login-options=$USER/g" /etc/sv/agetty-tty1/conf
 
 	sudo rm -f /var/service/agetty-tty{3,4,5,6}
-	sudo ln -s /etc/sv/sshd/ /var/service/
+	sudo rm -fr /var/service/dhcpcd
+    sudo ln -s /etc/sv/sshd/ /var/service/
 	sudo ln -s /etc/sv/PowerSave /var/service/
-
+    sudo ln -s /etc/sv/NetworkManager /var/service
+    sudo ln -s /etc/sv/dbus /var/service
+    sudo gpasswd -a $USER network
 	sudo mkdir /etc/sysctl.d/
 	echo 'vm.swappiness=10' | sudo tee /etc/sysctl.d/99-swappiness.conf
 
 clear
-#printf "If LightDM was installed, run \"sudo ln -s /etc/sv/lightdm /var/service/\" after reboot.\n"
 read -p "Done! Press ENTER to reboot."
 	sudo shutdown -r now
