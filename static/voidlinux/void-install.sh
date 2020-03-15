@@ -31,8 +31,8 @@ clear
 echo "Importing files from server..."
 sleep 3s
  	cd /tmp/
-	wget https://riccardo.im/voidlinux/void-files.tar.gz
-	tar -xzvf void-files.tar.gz
+	wget https://riccardo.im/voidlinux/void-files.tar.xz
+	tar Jxvf void-files.tar.xz
 	chmod +x void-files/etc/sv/PowerSave/run
 	sudo \cp -r void-files/etc/. /etc
 	\cp -r void-files/.bashrc ~/
