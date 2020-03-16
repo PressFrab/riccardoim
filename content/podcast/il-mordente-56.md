@@ -1,12 +1,11 @@
 ---
 title: "Abbiamo un problema software"
-date: 2020-03-13T11:00:20+02:00
+date: 2020-03-16T05:40:40+02:00
 numero: "56"
 slug: "il-mordente-56"
-description: "Netbook, coronavirus, i libri di James Hillman e l'accordatura a 432 Hertz nella puntata 56 del podcast Il Mordente. Registrato da Riccardo Palombo."
-featured_image: "v1562766602/Podcast/podcast_il-mordente-15.jpg"
+description: "Netbook, software, coronavirus, i libri di James Hillman e l'accordatura a 432 Hertz nella puntata 56 del podcast Il Mordente. Registrato da Riccardo Palombo."
+featured_image: "v1577130672/Podcast/il-mordente-podcast.jpg"
 podcast: current-menu-item
-draft: true
 ---
 
 <a class="spreaker-player" rel="nofollow noopener" href="https://www.spreaker.com/episode/23718116" data-resource="episode_id=23718116" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "56 | Abbiamo un problema software." su Spreaker.</a>
@@ -22,6 +21,7 @@ Intanto, come al solito, potete inviare messaggi vocali su Telegram o Whatsapp a
 <li><a href="https://amzn.to/3cE6or5" target="_blank" rel="nofollow noopener" title="Vedi il libro Immagini che ci guardano. Teoria dell'atto iconico.">Immagini che ci guardano. Teoria dell'atto iconico</a>, di Horst Bredekamp.</li>
 <li><a href="https://amzn.to/2ICCS7H" target="_blank" rel="nofollow noopener" title="Vedi il libro Il codice dell'anima. Carattere, vocazione, destino.">Il codice dell'anima. Carattere, vocazione, destino</a>, di James Hillman.</li>
 <li><a href="https://amzn.to/39SuOeN" target="_blank" rel="nofollow noopener" title="Vedi il libro 432 hertz. La rivoluzione musicale.">432 hertz. La rivoluzione musicale</a>, di Riccardo Tuis.</li>
+<li><a href="https://amzn.to/2tuTfzb" target="_blank" rel="nofollow noopener" title="Vedi il libro Sette tesi sulla magia della radio">Sette tesi sulla magia della radio</a>, di Massimo Cirri.</li>
 </ul>
 
 
