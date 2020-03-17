@@ -1,0 +1,452 @@
+{{ partial "header.html" . }}
+<link rel='stylesheet' href='{{.Site.BaseURL}}css/lightbox.css' type='text/css' media='all' />
+<main>
+    <article class="main-scroll">
+        <div class="row" style="margin-bottom: 0">
+            <div class="col-md-1"></div>
+            <div class="col-md-8 no-padding-left col-sm-8">
+                <div class="promo-box recensioni">
+                    <div class="small-title">
+                        {{ partial "share.html" . }}
+                    </div>
+                    <h1>RealForce R2 Limited Edition</h1>
+                    <p>Switch Topre, barra in PBT e tecnologia APC. What else?</p>
+                </div>
+            </div>
+            <div class="col-md-2 no-padding-right col-sm-4">
+                <div class="atail-multitext inizio">
+                    <span class="atail-multitext-title">RECENSIONE</span>
+                    <span class="atail-multitext-text">Brand <span>{{.Params.brand}}</span></span>
+                    <span class="atail-multitext-text">Online da<span>
+                            {{ .Date.Day }} {{ index $.Site.Data.mesi (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                        </span></span>
+                    <span class="atail-multitext-text">Discussione
+                        <span><a href="#disqus_thread" title="Leggi i commenti">Leggi i commenti</a></span>
+                    </span>
+                </div>
+            </div>
+
+            <div class="col-md-2"></div>
+        </div>
+
+        <!-- VIDEO FULL -->
+
+        <div class="videoWrapper embed-responsive embed-responsive-4by3" data-yt-url="{{.Params.video}}">
+
+            <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1584460752/RealForce-R2/realforce-r2-recensione.jpg"
+                alt="Video Recensione {{ .Title }}" class="cld-responsive lazyload play-youtube-video">
+        </div>
+
+        <!-- FINE VIDEO -->
+
+        <!-- SCHEDA TECNICA -->
+        <div class="single-project row-col-12">
+            <div class="col-md-2"></div>
+
+            <div class="col-md-8 no-padding-left" style="margin-bottom:80px">
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> La scheda tecnica della <strong>RealForce R2 Limited Edition</strong> di
+                    PFU, importata in Europa ed Italia da fine 2019, parla da sola e chiarisce ogni aspetto. È costosa,
+                    anzi lussuosa, ma è unica. Si recensisce da sé perché chi non la conosce e chi non ha interesse
+                    verso questi dispositivi non la prenderà in considerazione. Punto. A chi si coccola per averla sulla
+                    scrivania, e sta cercando una scusa per giustificare i <a href="https://amzn.to/2xJaled" rel="nofollow noopener" target="_blank" title="È uno sproposito, lo so, ma la vita è fatta di finezze.">299 euro</a> necessari, confermo tutto quel che
+                    si scrive e si discute nell'infosfera: è da avere - o, almeno, da provare sul serio. Di consequenza
+                    questa recensione non cercherà di convincervi ma di dare quelle informazioni utili a chi sente,
+                    in lontananza, quel tock tock smorzato degli switch Topre e a chi si sogna, perché capita di farlo,
+                    quella resa lì.</p>
+            </div>
+
+            <section class="col-md-4 col-md-push-2 no-padding-left">
+                <div class="atail-multitext">
+                    <h2 class="atail-multitext-title">SCHEDA TECNICA</h2>
+                    <span class="atail-multitext-text">Switch<span>Topre da 45 grammi</span></span>
+                    <span class="atail-multitext-text">Illuminazione<span>No (non predisposta per LED)</span></span>
+                    <span class="atail-multitext-text">Layout<span>TKL o Full Size / ANSI-US / 87 o 108
+                            tasti</span></span>
+                    <span class="atail-multitext-text">Keycaps e Spacebar<span>PBT / Dye-Sub / Profilo Step
+                            Sculpture</span></span>
+                    <span class="atail-multitext-text">Connettività<span>USB-A 2.0 / Cavo fisso a 3 uscite</span></span>
+                    <span class="atail-multitext-text">Funzioni<span>Full NKRO / APC: regolazione del punto di
+                            attuazione tra 1.5, 2.2 e 3 mm (individuale)</span></span>
+                    <span class="atail-multitext-text">Programmabile<span>Forse (software non ancora
+                            disponibile)</span></span>
+                    <span class="atail-multitext-text">Batteria<span>1800 mAh / 120 ore stimate</span></span>
+                    <span class="atail-multitext-text">Telaio<span>142 x 369 o 455 x 30 mm / 1100 o 1400
+                            grammi</span></span>
+                    <span class="atail-multitext-text">Confezione<span>Estrattore / Keycaps / Mascherine insonorizzanti
+                            in spugna da 2 e 3 mm.</span></span>
+                    <span class="atail-multitext-text">Prezzo di vendita<span>Circa 299 euro</span></span>
+
+                </div>
+            </section>
+
+            <!-- FINE SCHEDA TECNICA -->
+
+            <!-- SCHEDA IMG -->
+
+            <div class="col-md-4 col-md-push-2 no-padding-right">
+                <figure class="no-margin">
+                    <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1584438909/RealForce-R2/realforce-r2-scheda-tecnica.png"
+                        data-lightbox="scheda" data-alt="{{ .Title }}"
+                        data-title="RealForce R2 PFU Limited Edition in variante Ten Key Less."
+                        title="Scheda tecnica {{ .Title }}">
+                        <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1584438909/RealForce-R2/realforce-r2-scheda-tecnica.png"
+                            alt="Scheda tecnica {{ .Title }}" class="cld-responsive lazyload">
+                    </a>
+                    <figcaption>
+                        <span class="description-title" style="padding-left:0">
+                            <span>FIG. 1.</span> Clicca per ingrandire.
+                        </span>
+                        <p>
+                            Le RealForce sono costruite e certificate in Giappone.
+                        </p>
+                    </figcaption>
+                </figure>
+
+                <!-- FINE SCHEDA IMG -->
+            </div>
+        </div>
+        <section class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <h2>Switch e APC</h2>
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Io mi trovo bene con gli switch Topre. L'ho scritto ai tempi
+                    della recensione ad <a href="https://www.hdblog.it/2018/01/27/happy-hacking-keyboard-pro-recensione/" rel="nofollow noopener" target="_blank" title="Vedi prezzo Realforce R2 Limited Edition su Amazon">Happy Hacking Keyboard 2</a> e l'ho confermato diverse volte qua e là. Ma la vecchia
+                    RealForce 87u, il modello con forme meno rigide di questa, più cicciotte e più ingombranti, non mi aveva
+                    convinto; quell'edizione usava switch del peso diverso a seconda della posizione dei tasti (più
+                    morbidi, da 30 grammi, sui tasti da premere con il mignolo e più duri, da 45 grammi, sui tasti
+                    centrali) per una resa finale straniante. Meno affaticante, forse, ma inusuale. La PFU Limited
+                    Edition venduta in Europa, al contrario, usa <strong>switch Topre da 45 grammi</strong> su tutto il
+                    layout, ed è prodotta in modo da rendere più silenzioso il loro suono. In Giappone sono vendute
+                    varianti con tutti 30 e tutti 55 grammi.<br><br></p>
+                    
+                <figure class="no-margin">
+                    <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1584460204/RealForce-R2/realforce-apc.jpg"
+                        data-lightbox="scheda" data-alt="{{ .Title }}"
+                        data-title="RealForce R2 PFU Limited Edition: software per regolazione APC."
+                        title="Scheda tecnica {{ .Title }}">
+                        <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1584460204/RealForce-R2/realforce-apc.jpg"
+                            alt="Software per regolazione APC di {{ .Title }}" class="cld-responsive lazyload">
+                    </a>
+                    <figcaption>
+                        <span class="description-title" style="padding-left:0">
+                            <span>FIG. 2.</span> Clicca per ingrandire.
+                        </span>
+                        <p>
+                            Il software per la regolazione APC e gli switch Topre.
+                        </p>
+                    </figcaption>
+                </figure>
+         
+                <p>
+                    C'è dell'altro: il sistema APC (Actuation Point Changer). Serve a <mark>cambiare il punto
+                    di attuazione</mark> tra 1.5, 2.2 e 3 mm. Si può fare a livello globale con una combinazione di tasti (la
+                    tastiera ci avverte con LED colorati di, in sequenza, blu, verde e rosso) oppure per ogni singolo
+                    tasto dal software per Windows (e solo per Windows, purtroppo). Con APC si riesce ad attivare il tasto con una
+                    pressione più lieve o più profonda. Quindi nei giochi, per dire, posso preferire un tasto più
+                    reattivo (1.5 mm) mentre nella scrittura prolungata un tasto meno sensibile (3 mm). Questo cambia
+                    anche il tempo di risposta e il lag tra la pressione e la ricezione sul sistema
+                    operativo; l'impostazione 1.5 mm ha il lag minore. È roba di millisecondi quindi serve un dito allenato per avvertire la differenza,
+                    ma io preferisco la regolazione a 1.5 mm perché ho una certa preferenza, da sempre, verso switch
+                    leggeri, fluidi e molto sensibili.
+                    <br><br></p>
+            </div>
+            <!-- IMG GRANDE -->
+            <figure>
+                <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1584435948/RealForce-R2/realforce-r2-PFU-limited-edition_3_topre.jpg"
+                    data-lightbox="grafico" data-title="RealForce R2 Limited Edition: switch Topre.">
+                    <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1584435948/RealForce-R2/realforce-r2-PFU-limited-edition_3_topre.jpg"
+                        alt="RealForce R2 Limited Edition: switch Topre" class="lazyload cld-responsive"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 2.</span> RealForce R2 Limited Edition: switch Topre.</span>
+                </figcaption>
+            </figure>
+            <!-- FINE IMG GRANDE -->
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <p>
+                    A voler trovarmi mettere nelle dita di un utente interessato quanto me, ma più versatile nelle
+                    intenzioni d'uso, posso scrivere che <strong>anca un sistema per programmare la tastiera</strong>, open-source
+                    tipo GMK o proprietario che sia, così come un cavo separato dal telaio anziché fisso
+                    (chi spende 300 euro per una RealForce R2 ha probabilmente un cavo da 40 euro da abbinare, e non
+                    solo per gusto estetico ma probabilmente funzionale al suo setup) e delle legende più chiare nella versione nero carbone (è estrema al punto da essere sconsigliata: a quel punto, meglio dei keycaps senza
+                    scritte, blank).
+                </p>
+                <p>
+                    In tutto il resto, dalla costruzione interna alla fabbricazione dei keycaps, dalla loro porosità
+                    alla <strong>barra in PBT</strong>, dal suono sordo al rimbalzo degli switch. Ho trovato comodo il tastierino numerico in
+                    seconda battuta della versione TKL, e l'inclinazione dei piedini. Il profilo <strong>Step Sculpture</strong>
+                    (conviene guardare le foto per capire come è fatto) asseconda la scrittura e trattiene i
+                    polpastrelli appena si appoggiano sui tasti anche senza poggiapolsi. Il bordo frontale della
+                    RealForce R2, quello che abbiamo davanti mentre scriviamo, è più basso del solito e questo fa
+                    raggiungere meglio i tasti. Io continuo ad usarla con un poggiapolsi in legno, ma attenzione perché
+                    le dimensioni del telaio sono appena più grandi di una TKL - e sono convinto che quel mezzo
+                    centimetro sarà la pena di tanti perfezionisti dell'home-setup. Ma tant'è; conviene iniziare a
+                    costruire poggiapolsi in casa, visto il prezzo di quelli di qualità.</p>
+            </div>
+        </section>
+
+        <!-- GALLERIA CINQUE -->
+
+        <div class="row tris">
+
+            <figure>
+                <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1584435948/RealForce-R2/realforce-r2-PFU-limited-edition_6.jpg"
+                    data-lightbox="grafico" data-title="RealForce R2 PFU Limited Edition: layout US della TKL.">
+                    <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1584435948/RealForce-R2/realforce-r2-PFU-limited-edition_6.jpg"
+                        alt="RealForce R2 PFU Limited Edition: layout US della TKL"
+                        class="cld-responsive lazyload"></a>
+                <figcaption>
+                    <span class="description-title">
+                        <span>FIG. 3.</span> RealForce R2 PFU Limited Edition: layout US della TKL.</span>
+                </figcaption>
+            </figure>
+
+
+            <div class="col-md-2 col-sm-6">
+                <div>
+                    <figure>
+                        <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1584435951/RealForce-R2/realforce-r2-pfu-limited-edition_7.jpg"
+                            data-lightbox="grafico" data-title="RealForce R2 PFU Limited Edition: vista posteriore.">
+                            <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1584435951/RealForce-R2/realforce-r2-pfu-limited-edition_7.jpg"
+                                alt="RealForce R2 PFU Limited Edition: vista posteriore." class="cld-responsive lazyload"></a>
+                        <figcaption>
+                            <span class="description-title">
+                                <span>FIG. 4.</span> RealForce R2 PFU Limited Edition: vista posteriore. Piedini, uscita a tre
+                                vie e sigillo di garanzia.</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+
+            <div class="col-md-2 col-sm-6">
+                <div>
+                    <figure>
+                        <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1584435947/RealForce-R2/realforce-r2-PFU-limited-edition_5.jpg"
+                            data-lightbox="grafico" data-title="RealForce R2 PFU Limited Edition: scheda e controller.">
+                            <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1584435947/RealForce-R2/realforce-r2-PFU-limited-edition_5.jpg"
+                                alt="RealForce R2 PFU Limited Edition: scheda e controller." class="cld-responsive
+                        lazyload"></a>
+                        <figcaption>
+                            <span class="description-title">
+                                <span>FIG. 5.</span> RealForce R2 PFU Limited Edition: scheda e controller.</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-6">
+                <div>
+                    <figure>
+                        <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1584435947/RealForce-R2/realforce-r2-PFU-limited-edition_1.jpg"
+                            data-lightbox="grafico"
+                            data-alt="RealForce R2 PFU Limited Edition: switch Topre silenziati.">
+                            <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1584435947/RealForce-R2/realforce-r2-PFU-limited-edition_1.jpg"
+                                alt="RealForce R2 PFU Limited Edition: switch Topre silenziati"
+                                class="cld-responsive lazyload"></a>
+                        <figcaption>
+                            <span class="description-title">
+                                <span>FIG. 6.</span> RealForce R2 PFU Limited Edition: switch Topre silenziati.</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-6">
+                <div>
+                    <figure>
+                        <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1584435948/RealForce-R2/realforce-r2-pfu-limited-edition_4.jpg"
+                            data-lightbox="grafico"
+                            data-title="RealForce R2 PFU Limited Edition: keycaps in PBT con sublimazione a caldo">
+                            <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1584435948/RealForce-R2/realforce-r2-pfu-limited-edition_4.jpg"
+                                alt="RealForce R2 PFU Limited Edition: RealForce R2 PFU Limited Edition: keycaps in PBT con sublimazione a caldo."
+                                class="cld-responsive lazyload"></a>
+                        <figcaption>
+                            <span class="description-title">
+                                <span>FIG. 7.</span> RealForce R2 PFU Limited Edition: keycaps in PBT con sublimazione a
+                                caldo.</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+
+
+            <div class="col-md-2 col-sm-6">
+                <div>
+                    <figure>
+                        <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1584435952/RealForce-R2/realforce-r2-PFU-limited-edition_8_profilo.jpg"
+                            data-lightbox="grafico" data-title="RealForce R2 PFU Limited Edition: profilo dei keycaps.">
+                            <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1584435952/RealForce-R2/realforce-r2-PFU-limited-edition_8_profilo.jpg"
+                                alt="RealForce R2 PFU Limited Edition: profilo dei keycaps."
+                                class="lazyload cld-responsive"></a>
+                        <figcaption>
+                            <span class="description-title">
+                                <span>FIG. 8.</span> RealForce R2 PFU Limited Edition: profilo Step Sculpture dei
+                                keycaps.</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+
+            <div class="col-md-2 col-sm-6">
+                <div>
+                    <figure>
+                        <a href="https://res.cloudinary.com/rim7/image/upload/q_75,w_1000/v1584435944/RealForce-R2/realforce-r2-pfu-limited-edition_2.jpg"
+                            data-lightbox="grafico"
+                            data-title="RealForce R2 PFU Limited Edition: vista frontale steam switch Topre">
+                            <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1584435944/RealForce-R2/realforce-r2-pfu-limited-edition_2.jpg"
+                                alt="RealForce R2 PFU Limited Edition: vista frontale steam switch Topre."
+                                class="cld-responsive lazyload"></a>
+                        <figcaption>
+                            <span class="description-title">
+                                <span>FIG. 9.</span> RealForce R2 PFU Limited Edition: vista frontale degli steam viola.</span>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        </div>
+
+        <!-- FINE GALLERIA CINQUE -->
+
+        <section class="single-project row-col-12">
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <h2>Conclusioni</h2>
+                <p><s>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</s> Chiudo come ho iniziato. Non sarò io a consigliarvi di
+                    spendere 300 euro per una tastiera; a chi è già interessato dico di provarla, perché è unica e
+                    perché è proprio come la si descrive. Agli altri consiglio di valutare modelli più economici e meno
+                    settoriali (ho in arrivo una <a href="https://it.gearbest.com/sale/IQUNIX-F96/?lkid=78749661" rel="nofollow noopener"
+                    target="_blank" title="Vedi prezzi iQunix F96 su Amazon">iQunix F96 Sky City</a>, forse una perfetta via di mezzo) e di evitare
+                    cinesate sotto i 100 euro (come le MagicForce, certe Akko, tutti i modelli da gaming di marca, le Keycron, e
+                    potrei continuare; meglio puntare sull'usato o sulle Durgod se proprio non si vuole restare sui
+                    soliti Varmilo, Leopold, Flico eccetera eccetera) così come le tastiere non meccaniche di Apple, di
+                    Logitech, di Satechi. Spendere in una tastiera di qualità è un investivento per la vita, al pari di
+                    un monitor o della GPU, e più del processore, della RAM e del disco. Una tastiera come la RealForce
+                    R2 vi porta alla pensione - se nel mentre il COVID-19 non risolve alla base il problema.
+                </p>
+            </div>
+
+
+            <div class="col-md-8 col-md-push-2 no-padding-left">
+                <aside class="yt-iscriviti">
+                    <span class="atail-multitext-text">REALFORCE R2 SU AMAZON</span>
+                    <a href="https://amzn.to/2xJaled" rel="nofollow noopener"
+                        target="_blank" title="Vedi prezzi RealForce R2 su Amazon">
+                        <img data-src="https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_75,f_auto/v1562766484/amazon.png"
+                            alt="Supporta Riccardo.im" class="cld-responsive lazyload" style="max-width: 711px" />
+                    </a>
+                </aside>
+                <!-- VIDEO FULL -->
+                <div class="videoWrapper embed-responsive embed-responsive-4by3" data-yt-url="{{.Params.video}}">
+
+                    <img data-src="https://res.cloudinary.com/rim7/image/upload/w_auto,c_scale,q_75,f_auto/v1584460752/RealForce-R2/realforce-r2-recensione.jpg"
+                        alt="Video Recensione {{ .Title }}" class="cld-responsive lazyload play-youtube-video">
+                </div>
+                <!-- FINE VIDEO -->
+            </div>
+        </section>
+        <!-- PREV-NEXT -->
+        <div class="row-col-12">
+
+            <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
+                <div class="single-project-prev atail-project-nav">
+                    {{if .PrevInSection}}
+                    <a href="{{.PrevInSection.Permalink}}" class="single-project-link-arrow"
+                        title="Recensione precedente">
+                        <span class="single-project-arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="57.143px"
+                                height="34.454px" viewBox="0 0 57.143 34.454" enable-background="new 0 0 57.143 34.454"
+                                xml:space="preserve">
+                                <g>
+                                    <g>
+                                        <polygon fill="" points="51.908,17.599 46.891,13.1
+                                    46.891,17.094 6.904,17.094
+                                    6.904,18.094 46.891,18.094
+                                    46.891,22.099">
+                                        </polygon>
+                                    </g>
+                                </g>
+                            </svg>
+                        </span>
+                        <span>Precedente</span>
+                    </a>
+
+                    <a href="{{.PrevInSection.Permalink}}" class="single-project-info"
+                        title="Recensione {{.PrevInSection.Title}}">
+                        <div class="atail-project-image">
+                            <img data-src="{{.PrevInSection.Params.immagine_testa}}"
+                                alt="Recensione {{.PrevInSection.Title}}" class="cld-responsive lazyload" />
+                        </div>
+                        <h4>{{.PrevInSection.Title}}</h4>
+                    </a>
+                    {{end}}
+                </div>
+            </div>
+
+            <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
+                <div class="single-project-next atail-project-nav">
+                    {{if .NextInSection}}
+                    <a href="{{.NextInSection.Permalink}}" class="single-project-link-arrow"
+                        title="Prossima recensione">
+                        <span>Prossima</span>
+                        <span class="single-project-arrow">
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="57.143px"
+                                height="34.454px" viewBox="0 0 57.143 34.454" enable-background="new 0 0 57.143 34.454"
+                                xml:space="preserve">
+                                <g>
+                                    <g>
+                                        <polygon fill="" points="51.908,17.599 46.891,13.1
+                                    46.891,17.094 6.904,17.094
+                                    6.904,18.094 46.891,18.094
+                                    46.891,22.099">
+                                        </polygon>
+                                    </g>
+                                </g>
+                            </svg>
+                        </span>
+                    </a>
+
+                    <a href="{{.NextInSection.Permalink}}" class="single-project-info"
+                        title="Recensione {{.NextInSection.Title}}">
+                        <div class="atail-project-image">
+                            <img data-src="{{.NextInSection.Params.immagine_testa}}"
+                                alt="Recensione {{.NextInSection.Title}}" class="cld-responsive lazyload" />
+                        </div>
+                        <h4>{{.NextInSection.Title}}</h4>
+                    </a>
+                    {{end}}
+                </div>
+            </div>
+
+        </div>
+        <!-- FINE PREV-NEXT -->
+
+        <!-- DISQUS -->
+
+        <div class="single-project row-col-12 atail-post-comments-wrapper" style="margin-bottom: 0; border-right:0">
+            <div class="col-md-2"></div>
+            <aside class="col-md-8 no-padding-left">
+                {{ partial "disqus-comments.html" . }}
+            </aside>
+        </div>
+
+        <!-- FINE DISQUS -->
+        <!-- FINE PAGINA -->
+    </article>
+    <!-- main-scroll -->
+</main> <!-- main -->
+{{ partial "aside.html" . }}
+</div> <!-- atail -->
+
+<script src='{{.Site.BaseURL}}js/cloudinary-core-shrinkwrap.js'></script>
+<script src="{{.Site.BaseURL}}js/lazysizes.min.js" async></script>
+<script src="{{.Site.BaseURL}}js/typed.min.js"></script>
+<script>
+    var typed = new Typed('#typed', {
+        strings: ["{{.Params.typed1}}", "{{.Params.typed2}}", "{{.Params.typed3}}", "{{.Params.typed4}}"],
+        backSpeed: 40,
+        typeSpeed: 60,
+        loop: false
+    });
+</script>
+<script>
+    const cl = cloudinary.Cloudinary.new({ cloud_name: 'rim7' })
+    cl.responsive()
+</script>
+<script src='{{.Site.BaseURL}}js/lightbox.js' async></script>
+{{ partial "footer-review.html" . }}
