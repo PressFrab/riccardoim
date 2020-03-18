@@ -1,6 +1,6 @@
 ---
 title: "RealForce R2 Limited Edition"
-date: "2020-03-17T09:20:31+02:00"
+date: "2020-03-18T11:35:31+02:00"
 recensioni: current-menu-item
 slug: "realforce-r2-pfu-limited-edition"
 immagine_testa: "https://res.cloudinary.com/rim/image/upload/w_auto,c_scale,q_auto,f_auto/v1584461207/recensioni/realforce-r2-limited-edition.png"
@@ -12,14 +12,9 @@ jquery: "1"
 layout: fwc/realforce-r2
 video: https://www.youtube.com/embed/g9qaPZ-rtWA
 sommario: "In prova la meccanica da 68 tasti"
-typed1: "^1000con switch Cherry."
-typed2: "con Bluetooth."
-typed3: "economica."
-typed4: "con layout 65%."
-draft: true
 ---
 
- La scheda tecnica della RealForce R2 Limited Edition di PFU, importata in Europa ed Italia da fine 2019, parla da sola e chiarisce ogni aspetto. È costosa, anzi lussuosa, ma è unica. Si recensisce da sé perché chi non la conosce e chi non ha interesse verso questi dispositivi non la prenderà in considerazione. Punto. A chi si coccola per averla sulla scrivania, e sta cercando una scusa per giustificare i 299 euro necessari, confermo tutto quel che si scrive e si discute nell'infosfera: è da avere - o, almeno, da provare sul serio. Di consequenza questa recensione non cercherà di convincervi ma di dare quelle informazioni utili a chi sente, in lontananza, quel tock tock smorzato degli switch Topre e a chi si sogna, perché capita di farlo, quella resa lì.
+ La scheda tecnica della RealForce R2 Limited Edition di PFU - importata in Europa ed Italia da fine 2019 - parla da sola e chiarisce ogni aspetto. È costosa, anzi lussuosa, ma è unica. Si recensisce da sé perché chi non la conosce e chi non ha interesse verso questi dispositivi non la prenderà in considerazione. Punto. A chi si coccola per averla sulla scrivania, e sta cercando una scusa per giustificare i 299 euro necessari, confermo tutto quel che si scrive e si discute nell'infosfera: è da avere - o, almeno, da provare sul serio. Di consequenza questa recensione non cercherà di convincervi ma di dare quelle informazioni utili a chi sente, in lontananza, quel tock tock smorzato degli switch Topre e a chi si sogna, perché capita di farlo, quella resa lì.
 
 SCHEDA TECNICA
 
