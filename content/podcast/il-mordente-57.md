@@ -1,10 +1,10 @@
 ---
-title: "Schiacciate i ciclisti"
+title: "Schiacciate qualcuno"
 date: 2020-03-20T15:20:40+02:00
 numero: "57"
 slug: "il-mordente-57"
 description: "Correre ai tempi del coronavirus, la necessità di odiare, il qualunquismo comune, e la mia varicella. Puntata 57 del podcast Il Mordente. Registrato da Riccardo Palombo."
-featured_image: "v1577130672/Podcast/il-mordente-podcast.jpg"
+featured_image: "v1584716029/Podcast/il-mordente-57.jpg"
 podcast: current-menu-item
 ---
 <a class="spreaker-player" rel="nofollow noopener" href="https://www.spreaker.com/episode/24096160" data-resource="episode_id=24096160" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "57 | Schiacciate i ciclisti (o i runner, a vostro piacere)." su Spreaker.</a>
