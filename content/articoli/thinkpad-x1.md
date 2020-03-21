@@ -19,6 +19,17 @@ Nel video vi spiego il mio setup Linux su un **ThinkPad X1 Carbon di 3° generaz
 
 Anche in questo caso i file .dots, i dotfiles, necessari ad ottenere un ambiente identico al mio, sono disponibili in esclusiva per gli utenti Patreon. E grazie ancora per il vostro supporto!
 
+<figure>
+                    <a
+                        href="/img/articoli/thinkpad-x1-carbon-linux.jpg" target="_blank" title="Vedi immagine grande di ThinkPad X1 e Linux.">
+                        <img
+                            src="/img/articoli/thinkpad-x1-carbon-linux.jpg" alt="ThinkPad X1 e Linux"></a>
+                    <figcaption>
+                        <span class="description-title" style="padding-left:0">
+                            <span>FIG. 1.</span> Una schermata con VSCode e Firefox.
+                        </span>
+                    </figcaption>
+</figure>
 <a href="https://www.patreon.com/riccardopalombo" target="_blank" rel="nofollow noopener" title="Vai alla mia pagina Patreon">
 <figure><img src="/img/patreon-riccardopalombo.png" alt="Become a Patreon" class="lazyload"></figure>
-</a>  
+</a>
