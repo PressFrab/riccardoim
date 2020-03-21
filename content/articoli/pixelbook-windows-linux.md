@@ -5,7 +5,7 @@ date: 2020-02-12T11:40:40+02:00
 articoli: current-menu-item
 slug: "pixelbook-windows-linux"
 immagine_testa: appunti-riccardo-palombo.png
-description: "La seconda puntata di Scuola di recensioni è dedicata a Roberto Pezzali. Dalla redazione di DDay.it a Milano, Roberto mi spiega i suoi metodi di lavoro. Ecco il video."
+description: "Come installare Windows 10 e Linux in Dual Boot su Google Pixelbook. La guida completa di dotfiles, video e schermate."
 categoria: "3"
 ---
 
@@ -15,7 +15,7 @@ categoria: "3"
 
 Seguono alcuni appunti sull'installazione di Windows 10 e Linux (Ubuntu, perché il kernel già patchato è quello di GalliumOS, una distro specifica per Chromebook basata su Ubuntu) su Google Pixelbook. Il portatile di Google vive una buona fase perché costa poco (il prezzo consigliato è <a href="http://rover.ebay.com/rover/1/724-53478-19255-0/1?ff3=4&pub=5574905075&toolid=10001&campid=5338615928&customid=&mpre=https%3A%2F%2Fwww.ebay.it%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dm570.l1313%26_nkw%3Dpixelbook%26_sacat%3D0" target="_blank" rel="nofollow noopener" title="Pixelbook su ebay">300-450 euro sui mercatini</a>) in rapporto ad una costruzione da top di gamma abbinata ad un hardware di qualità: lo schermo supera i 450 nits, c'è il digitalizzatore per Windows Ink, ha una tastiera stabile e retroilluminata, un modulo NVMe Samsung, un design fanless. Su Chrome OS, vola. L'unico vincolo è la batteria da 41 Wh per un'autonomia compresa tra le 4 e le 6 ore; ma di contro c'è la ricarica rapida via USB-C e nessun consumo in standby. Lo ripeto: lui, su Chrome OS, vola. Sono un utente Chrome OS di prima era e vi consiglio di rivalutarlo se lo avete abbandonato anni fa. Ma anche con altri sistemi operativi non se la cava male.
 
-Suggerisco di guardare il video per farsi un'idea del risultato finale prima di proseguire con la lettura. Ricordo che i file .dots del setup che vedrete, così come quelli della [workstation Ryzen](http://localhost:1313/recensioni/ryzen-linux-pc-setup/ "Come lavoro, parte 2") con Arch + Gnome-i3, sono disponibili in esclusiva su Patreon. E grazie ancora per il vostro supporto!
+Suggerisco di guardare il video per farsi un'idea del risultato finale prima di proseguire con la lettura. Ricordo che i file .dots del setup che vedrete, così come quelli della [workstation Ryzen](/recensioni/ryzen-linux-pc-setup/ "Come lavoro, parte 2") con Arch + Gnome-i3, sono disponibili in esclusiva su Patreon. E grazie ancora per il vostro supporto!
 
 <a
                         href="https://www.patreon.com/riccardopalombo"
